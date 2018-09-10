@@ -1,0 +1,48 @@
+hit 1.png -> 280
+hit 31.png -> 304
+hit 6.png -> 308
+hit 14.png -> 285
+hit 23.png -> 295
+hit 10.png -> 281
+hit 22.png -> 294
+hit 27.png -> 299
+icon 5.png -> 321
+hit 2.png -> 291
+hit 0.png -> 279
+hit 18.png -> 289
+HIT317_3.png -> 315
+icon 1.png -> 317
+hit 7.png -> 309
+hit 32.png -> 305
+SPLAT_3.png -> 325
+hit 11.png -> 282
+hit 24.png -> 296
+SPLAT_0.png -> 322
+HIT317_2.png -> 314
+hit 15.png -> 286
+hit 3.png -> 302
+hit 28.png -> 300
+hit 19.png -> 290
+icon 2.png -> 318
+hit 25.png -> 297
+icon 3.png -> 319
+hit 12.png -> 283
+hit 20.png -> 292
+HIT317_0.png -> 312
+hit 8.png -> 310
+SPLAT_2.png -> 324
+block.png -> 278
+SPLAT_1.png -> 323
+hit 16.png -> 287
+hit 4.png -> 306
+hit 29.png -> 301
+HIT317_1.png -> 313
+hit 13.png -> 284
+hit 5.png -> 307
+hit 21.png -> 293
+hit 26.png -> 298
+hit 9.png -> 311
+icon 0.png -> 316
+hit 17.png -> 288
+hit 30.png -> 303
+icon 4.png -> 320

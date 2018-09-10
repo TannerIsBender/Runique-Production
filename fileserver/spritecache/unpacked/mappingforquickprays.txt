@@ -1,0 +1,6 @@
+sprite 1.png -> 456
+sprite 2.png -> 457
+sprite 0.png -> 455
+sprite 4.png -> 459
+sprite 3.PNG -> 458
+sprite 5.png -> 460

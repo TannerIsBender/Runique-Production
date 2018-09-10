@@ -1,0 +1,10 @@
+archives=>0
+model=>1
+anim=>2
+midi=>3
+map=>4
+textures=>5
+model_extended=>6
+osrs_models=>7
+osrs_maps=>8
+osrs_anims=>9

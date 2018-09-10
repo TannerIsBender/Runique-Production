@@ -1,0 +1,10 @@
+code=>0
+title=>1
+config=>2
+interface=>3
+media=>4
+versionlist=>5
+textures=>6
+wordenc=>7
+sounds=>8
+spritecache=>9

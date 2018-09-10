@@ -1,0 +1,15 @@
+317chat.png -> 388
+charbg 1.png -> 389
+HpFull.png -> 394
+icon.png -> 395
+LoadingBarEmpty.png -> 396
+chatBoxBar.png -> 391
+LoadingBarFull.png -> 397
+HpEmpty.png -> 393
+Player 0.png -> 398
+Resizeh.png -> 400
+SPRITE 3.PNG -> 402
+chatBox.png -> 390
+SPRITE 1.png -> 401
+chatBoxO.png -> 392
+Resize.png -> 399
