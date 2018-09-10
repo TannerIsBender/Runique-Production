@@ -1,0 +1,79 @@
+2015-06-04 04:20:52.270: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+
+2015-06-04 04:22:09.670: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+
+2015-06-04 04:22:55.864: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+
+2015-06-04 04:26:59.469: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+
+2015-06-04 04:51:11.501: [[idontcare4u, loveisfak3; 64.130.153.37, 00-25-64-01-B6-56]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-04 04:51:48.665: [[idontcare4u, loveisfak3; 64.130.153.37, 00-25-64-01-B6-56]]:
+My Item[0]: Coins [995, 6000000]
+Other Item[0]: Coins [995, 6000000]
+
+
+
+2015-06-04 04:52:22.267: [[idontcare4u, loveisfak3; 64.130.153.37, 00-25-64-01-B6-56]]:
+My Item[0]: Coins [995, 6990000]
+Other Item[0]: Coins [995, 7000000]
+
+
+
+2015-06-04 04:52:43.901: [[idontcare4u, loveisfak3; 64.130.153.37, 00-25-64-01-B6-56]]:
+My Item[0]: Coins [995, 6990000]
+Other Item[0]: Coins [995, 7000000]
+
+
+
+2015-06-04 04:53:15.066: [[idontcare4u, loveisfak3; 64.130.153.37, 00-25-64-01-B6-56]]:
+My Item[0]: Coins [995, 6990000]
+Other Item[0]: Coins [995, 7000000]
+
+
+
+2015-06-04 08:40:01.454: [[Women Beard, sharky123; 178.7.192.92, D0-50-99-58-BE-B3]]:
+My Item[0]: Coins [995, 368863]
+Other Item[0]: Coins [995, 368000]
+
+
+
+2015-06-04 08:41:48.275: [[0ne Gambler, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 4500000]
+Other Item[0]: Coins [995, 4500000]
+
+
+
+2015-06-04 08:44:06.266: [[0ne Gambler, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 7500000]
+Other Item[0]: Coins [995, 7500000]
+
+
+
+2015-06-04 23:25:27.266: [[Rune Jesus, yami1234; 162.212.224.77, 28-E3-47-C5-6B-A2]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 1000000]
+Other Item[1]: Saradomin sword [11731, 1]
+
+
+

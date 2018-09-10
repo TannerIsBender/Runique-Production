@@ -1,0 +1,39 @@
+2015-06-05 11:11:50.625: [[38 Unholy, password; 94.76.47.149, 48-D2-24-10-68-5E]]:
+My Item[0]: Armadyl helmet [11719, 1]
+My Item[1]: Karil's top [4737, 2]
+My Item[2]: Faithful shield [18747, 1]
+My Item[3]: Bonecrusher [18337, 1]
+My Item[5]: Karil's skirt [4739, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-05 11:13:49.417: [[38 Unholy, password; 94.76.47.149, 48-D2-24-10-68-5E]]:
+My Item[0]: Bonecrusher [18337, 1]
+My Item[1]: Yellow dye [1766, 1]
+My Item[2]: Green dye [1772, 2]
+My Item[3]: Blue dye [1768, 1]
+My Item[4]: Karil's skirt [4739, 1]
+My Item[5]: Infinity hat [6919, 1]
+My Item[6]: Infinity gloves [6923, 1]
+My Item[7]: Dragon chainbody [3141, 1]
+My Item[8]: Infinity boots [6921, 2]
+My Item[9]: White unicorn mask [19276, 1]
+Other Item[0]: Karil's top [4737, 2]
+Other Item[1]: Karil's skirt [4739, 1]
+Other Item[2]: Bonecrusher [18337, 1]
+Other Item[3]: Faithful shield [18747, 1]
+
+
+
+2015-06-05 11:30:06.222: [[38 Unholy, password; 94.76.47.149, 48-D2-24-10-68-5E]]:
+My Item[1]: Tome of frost [18346, 1]
+My Item[2]: Tome of frost [18346, 1]
+My Item[3]: Coins [995, 2011992]
+Other Item[0]: Coins [995, 3000000]
+Other Item[1]: Yellow dye [1765, 1]
+Other Item[2]: Blue dye [1767, 1]
+Other Item[3]: Corrupt dragon sq shield [13965, 1]
+
+
+

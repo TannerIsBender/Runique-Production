@@ -1,0 +1,274 @@
+2015-05-06 13:30:24.491: [Failfish]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-06 13:31:14.300: [Failfish]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-07 12:28:27.400: [Lvls]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-08 05:20:43.179: [Big Booty]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-08 05:24:32.382: [N 9 N E]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-08 05:33:13.186: [Big Booty]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Coins [995, 260000000]
+Item[10]: Amulet of ranging [15126, 1]
+
+
+
+2015-05-11 14:28:51.822: [[Ginnerb, torenamai6; 92.8.3.33, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-14 16:47:18.017: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-15 09:40:57.237: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10089545]
+
+
+
+2015-05-16 14:31:16.200: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-16 14:31:56.384: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-17 10:24:57.313: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Dharok's platelegs [4722, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-17 14:43:07.721: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Rune scimitar [1334, 4]
+
+
+
+2015-05-17 14:44:04.737: [[Rozza123, whitephat; 94.8.162.44, 10-08-B1-B4-A2-27]]:
+My Item[0]: Rune scimitar [1334, 4]
+
+
+
+2015-05-17 14:44:35.339: [[Rozza123, whitephat; 94.8.162.44, 10-08-B1-B4-A2-27]]:
+My Item[0]: Rune scimitar [1334, 4]
+
+
+
+2015-05-18 09:27:06.870: [[Rozza123, whitephat; 90.195.73.176, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-19 11:17:56.848: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Dark bow [15704, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-23 09:46:31.532: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-24 13:14:28.595: [[Justproptt, eusei10; 93.102.236.82, 00-17-31-86-F9-36]]:
+My Item[0]: Coins [995, 1500000]
+Other Item[0]: Coins [995, 1500000]
+
+
+
+2015-05-24 14:15:35.867: [[Warrydarry, 13kitty13; 88.89.25.210, A0-A8-CD-9D-D8-C5]]:
+
+
+
+2015-05-26 09:28:10.417: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-05-26 09:30:49.434: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Bandos godsword [11696, 1]
+
+
+
+2015-05-28 10:21:00.741: [[G Master, november; 203.59.16.37, 78-E4-00-03-18-72]]:
+My Item[0]: Bandos godsword [11696, 1]
+Other Item[0]: Bandos godsword [11697, 1]
+
+
+
+2015-05-29 06:53:39.923: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Dark bow [11235, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-29 06:54:07.524: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Dark bow [11235, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-29 06:55:31.516: [[Not Katie, lillyrose1262011; 188.29.118.80, None]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-29 12:08:41.989: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Meat pie [2328, 10]
+
+
+
+2015-06-02 05:29:59.405: [[Simberj, taraska7; 115.70.238.46, DC-85-DE-61-13-7A]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-06-02 12:37:13.542: [[Rozzab123, zxcvbnm; 176.249.8.22, 10-08-B1-B4-A2-27]]:
+My Item[0]: Dark bow [11236, 1]
+Other Item[4]: Coins [995, 16000000]
+
+
+
+2015-06-03 12:37:37.413: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Morrigan's leather body [13870, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Ragefire boots [21793, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+Other Item[2]: Saradomin's tear [8027, 1]
+Other Item[3]: Vesta's spear [13905, 1]
+Other Item[4]: Armadyl hilt [11702, 1]
+Other Item[5]: Godsword shard 2 [11712, 1]
+Other Item[6]: Zuriel's staff [13867, 1]
+Other Item[7]: Infinity hat [15602, 1]
+Other Item[9]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-06-03 12:42:00.823: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Abyssal vine whip [21372, 1]
+Other Item[0]: Ragefire boots [21793, 1]
+Other Item[1]: Armadyl hilt [11702, 1]
+Other Item[2]: Vesta's spear [13905, 1]
+Other Item[3]: Zuriel's staff [13867, 1]
+Other Item[4]: Godsword shard 2 [11712, 1]
+
+
+
+2015-06-03 12:45:02.013: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Ragefire boots [21793, 1]
+Other Item[1]: Infinity hat [15602, 1]
+Other Item[3]: Armadyl hilt [11702, 1]
+
+
+
+2015-06-03 12:47:56.024: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Infinity hat [15602, 1]
+My Item[1]: Korasi's sword [19780, 1]
+My Item[2]: Ragefire boots [21793, 1]
+Other Item[0]: Morrigan's leather body [13870, 1]
+Other Item[1]: Morrigan's leather chaps [13873, 1]
+Other Item[2]: Abyssal vine whip [21372, 1]
+
+
+
+2015-06-03 12:48:45.813: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Ragefire boots [21793, 1]
+My Item[1]: Korasi's sword [19780, 1]
+My Item[2]: Infinity hat [15602, 1]
+Other Item[0]: Abyssal vine whip [21372, 1]
+Other Item[1]: Morrigan's leather chaps [13873, 1]
+Other Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-06-03 12:50:39.223: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-03 13:00:24.239: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dark bow [11235, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-03 13:03:41.639: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dark bow [11235, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-03 14:23:58.524: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 1000001]
+
+
+
+2015-06-03 14:25:09.924: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+Other Item[0]: Coins [995, 2000001]
+
+
+
+2015-06-03 14:25:44.123: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 3000001]
+
+
+
+2015-06-04 08:00:39.240: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Vesta's spear [13905, 1]
+Other Item[0]: Dark bow [15704, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-06 13:13:02.037: [[Rozzab123, zxcvbnm; 94.14.138.145, 10-08-B1-B4-A2-27]]:
+My Item[0]: Faithful shield [18747, 1]
+My Item[1]: Faithful shield [18747, 1]
+My Item[2]: Faithful shield [18747, 1]
+My Item[3]: Faithful shield [18747, 1]
+My Item[4]: Faithful shield [18747, 1]
+My Item[5]: Faithful shield [18747, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 15:20:18.344: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dark bow [15704, 1]
+
+
+

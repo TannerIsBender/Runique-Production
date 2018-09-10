@@ -1,0 +1,23 @@
+2015-04-12 19:21:26.118: [Accel]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 19:26:42.319: [Accel]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-12 19:35:36.912: [Odds]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-12 19:37:24.316: [Odds]:
+Item[0]: Coins [995, 41582538]
+Item[1]: Amulet of fury [6585, 1]
+
+
+

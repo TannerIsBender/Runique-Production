@@ -1,0 +1,69 @@
+2015-04-15 18:28:12.929: [Darkdestroyr]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 18:29:11.132: [Darkdestroyr]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 18:31:08.134: [Darkdestroyr]:
+Item[0]: Coins [995, 10235169]
+
+
+
+2015-04-15 18:38:44.731: [Darkdestroyr]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-15 18:39:59.736: [Darkdestroyr]:
+Item[0]: Coins [995, 26000000]
+
+
+
+2015-04-15 18:43:00.339: [Darkdestroyr]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-15 18:45:36.337: [Darkdestroyr]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-15 19:21:23.761: [St3alth Skil]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 20:13:37.600: [Nostalgia]:
+Item[0]: Coins [995, 27000000]
+
+
+
+2015-04-15 20:36:40.019: [St3alth Skil]:
+
+
+
+2015-04-15 20:54:22.016: [The Tyler]:
+Item[0]: Morrigan's coif [13876, 1]
+
+
+
+2015-04-15 20:55:10.016: [The Tyler]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Morrigan's coif [13876, 1]
+
+
+
+2015-04-15 22:00:04.055: [Darkdestroyr]:
+Item[0]: Corrupt statius's platebody [13909, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt statius's platelegs [13914, 1]
+Item[3]: Flameburst defender [17273, 1]
+Item[4]: Corrupt statius's warhammer [13927, 1]
+
+
+

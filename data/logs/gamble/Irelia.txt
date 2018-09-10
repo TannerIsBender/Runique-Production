@@ -1,0 +1,86 @@
+2015-04-17 14:16:02.681: [Ermac]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-07 15:00:05.291: [Aleexk3]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-17 09:48:54.300: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Steadfast boots [21787, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-17 09:53:20.106: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-22 11:10:05.879: [[L2iron Man, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Steadfast boots [21788, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Staff of light [22206, 1]
+
+
+
+2015-05-22 11:10:49.670: [[L2iron Man, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Steadfast boots [21788, 2]
+Other Item[0]: Steadfast boots [21788, 1]
+Other Item[1]: Full slayer helmet [15492, 1]
+Other Item[2]: Staff of light [22206, 1]
+
+
+
+2015-05-22 12:59:48.561: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Armadyl godsword [11695, 1]
+My Item[1]: Zamorak godsword [11701, 1]
+Other Item[0]: Farseer kiteshield [18363, 1]
+Other Item[1]: Zamorakian spear [11716, 1]
+Other Item[2]: Dharok's platebody [4721, 1]
+
+
+
+2015-05-22 13:01:16.164: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Zamorak godsword [11701, 1]
+My Item[2]: Dark bow [15704, 1]
+My Item[3]: Staff of light [22210, 1]
+Other Item[0]: Zamorak godsword [11701, 1]
+Other Item[1]: Dharok's platebody [4721, 1]
+Other Item[2]: Zamorakian spear [11716, 1]
+
+
+
+2015-05-22 13:04:52.764: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Armadyl godsword [11695, 1]
+Other Item[0]: Steadfast boots [21788, 1]
+Other Item[1]: Armadyl godsword [11695, 1]
+
+
+
+2015-06-01 12:41:28.621: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Coins [995, 40000000]
+Other Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-01 12:57:29.216: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-06-01 13:00:45.416: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Chaotic crossbow [18357, 1]
+My Item[3]: Chaotic maul [18353, 1]
+My Item[4]: Coins [995, 350000000]
+
+
+

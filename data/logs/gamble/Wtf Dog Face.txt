@@ -1,0 +1,32 @@
+2015-06-03 06:56:16.170: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-03 06:57:29.343: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 01:08:48.808: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 7999545]
+Other Item[0]: Coins [995, 8000000]
+
+
+
+2015-06-04 01:10:44.607: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Armadyl helmet [11718, 1]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Armadyl chainskirt [11722, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 10:41:26.070: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+

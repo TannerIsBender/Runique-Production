@@ -1,0 +1,527 @@
+2015-05-19 10:13:08.801: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+
+
+
+2015-05-19 10:22:55.001: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 88000000]
+Other Item[0]: Coins [995, 88000000]
+
+
+
+2015-05-19 10:24:40.021: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-19 10:26:59.211: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-19 10:29:02.811: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-19 10:40:37.619: [[Mr M, seviper141; 92.238.36.132, 9C-B7-0D-6F-E6-34]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-19 10:56:23.817: [[Rozza123, whitephat; 90.195.73.176, 74-E5-43-BC-2B-14]]:
+My Item[0]: Saradomin godsword [11699, 1]
+My Item[1]: Dragon platebody [14479, 1]
+Other Item[0]: Abyssal vine whip [21373, 1]
+
+
+
+2015-05-19 11:01:18.433: [[Rozza123, whitephat; 90.195.73.176, 74-E5-43-BC-2B-14]]:
+My Item[0]: Fighter torso [10551, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin godsword [11699, 1]
+
+
+
+2015-05-19 11:08:37.048: [[Rozza123, whitephat; 90.195.73.176, 74-E5-43-BC-2B-14]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Infinity hat [6918, 1]
+My Item[2]: Karil's top [4736, 1]
+My Item[3]: Teacher wand [6912, 1]
+My Item[4]: Infinity gloves [6922, 1]
+My Item[5]: Infinity boots [6920, 1]
+My Item[6]: Armadyl helmet [11718, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Infinity bottoms [6924, 1]
+My Item[9]: Flameburst defender [17273, 1]
+My Item[10]: Karil's coif [4732, 1]
+Other Item[0]: Coins [995, 90000000]
+
+
+
+2015-05-19 11:10:22.637: [[Freddie007, Freddie007; 84.196.241.167, 78-31-C1-EA-53-7F]]:
+My Item[0]: Coins [995, 90000000]
+Other Item[0]: Coins [995, 90000000]
+
+
+
+2015-05-19 11:11:10.048: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Infinity gloves [6922, 1]
+My Item[1]: Infinity boots [6920, 1]
+My Item[2]: Infinity bottoms [6924, 1]
+My Item[3]: Infinity hat [6918, 1]
+Other Item[0]: Tooth half of a key [985, 1]
+Other Item[1]: Tooth half of a key [985, 1]
+Other Item[2]: Tooth half of a key [985, 1]
+Other Item[3]: Tooth half of a key [985, 1]
+Other Item[4]: Tooth half of a key [985, 1]
+
+
+
+2015-05-19 11:19:46.048: [[Freddie007, Freddie007; 84.196.241.167, 78-31-C1-EA-53-7F]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-19 12:59:40.125: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-19 13:00:44.926: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-19 13:42:53.953: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Dragon boots [11732, 1]
+My Item[1]: Dragon full helm [11335, 1]
+My Item[2]: Dragon boots [11732, 1]
+My Item[3]: Dragonfire shield [11283, 1]
+My Item[4]: Amulet of fury [6585, 1]
+My Item[5]: Full slayer helmet [15492, 1]
+My Item[6]: Abyssal vine whip [21373, 1]
+My Item[7]: Dragon chainbody [3140, 1]
+My Item[8]: Dragon platelegs [4087, 1]
+Other Item[0]: Coins [995, 80000000]
+Other Item[1]: Bandos chestplate [11724, 1]
+Other Item[2]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-20 18:07:44.499: [[Rude, wallfloor537953; 184.3.114.217, 88-53-2E-00-C0-BC]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-05-20 18:10:27.701: [[Rude, wallfloor537953; 184.3.114.217, 88-53-2E-00-C0-BC]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-20 18:12:16.294: [[Rude, wallfloor537953; 184.3.114.217, 88-53-2E-00-C0-BC]]:
+My Item[0]: Coins [995, 7962061]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin sword [11730, 1]
+Other Item[0]: Coins [995, 27940415]
+
+
+
+2015-05-20 18:16:57.717: [[Shane, shaneshane; 216.172.142.41, 78-E4-00-0A-3A-42]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-20 18:20:34.317: [[Shane, shaneshane; 216.172.142.41, 78-E4-00-0A-3A-42]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Coins [995, 30000000]
+Other Item[0]: Blue boater [7325, 1]
+Other Item[1]: Verac's flail [4755, 1]
+Other Item[2]: Farseer kiteshield [18363, 1]
+Other Item[3]: Dragon pickaxe [15259, 1]
+Other Item[4]: Saradomin sword [11730, 1]
+Other Item[5]: Black cavalier [2643, 1]
+Other Item[6]: Verac's brassard [4757, 1]
+Other Item[7]: Briefcase [12335, 1]
+Other Item[8]: Zamorak halo [18746, 1]
+Other Item[9]: Faithful shield [18747, 1]
+Other Item[10]: Dragon full helm ornament kit (sp) [19354, 1]
+Other Item[11]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Other Item[12]: Holy elixir [13754, 1]
+
+
+
+2015-05-20 18:25:19.917: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Black cavalier [2643, 1]
+My Item[3]: Faithful shield [18747, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+Other Item[2]: Dragon bones [537, 50]
+Other Item[3]: Faithful shield [18747, 1]
+
+
+
+2015-05-20 18:26:13.295: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Faithful shield [18747, 1]
+My Item[3]: Black cavalier [2643, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+Other Item[2]: Dragon bones [537, 50]
+Other Item[3]: Faithful shield [18747, 1]
+
+
+
+2015-05-20 18:32:09.717: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+My Item[3]: Saradomin's tear [8027, 1]
+My Item[4]: Zamorak halo [18746, 1]
+My Item[5]: Briefcase [12335, 1]
+My Item[6]: Verac's flail [4755, 1]
+My Item[7]: Verac's brassard [4757, 1]
+My Item[8]: Faithful shield [18747, 1]
+My Item[9]: Faithful shield [18747, 1]
+My Item[10]: Blue boater [7325, 1]
+My Item[11]: Dragon bones [537, 50]
+My Item[12]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+My Item[13]: Dragon full helm ornament kit (sp) [19354, 1]
+My Item[14]: Holy elixir [13754, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Adamant platebody (t) [2599, 1]
+Other Item[2]: Tzrek-jad [21512, 1]
+Other Item[3]: Zamorak platebody [2653, 1]
+Other Item[4]: Saradomin godsword [11698, 1]
+Other Item[5]: Saradomin's tear [8027, 1]
+Other Item[6]: Dragon platebody [14479, 1]
+
+
+
+2015-05-20 18:33:27.102: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+My Item[3]: Saradomin's tear [8027, 1]
+My Item[4]: Zamorak halo [18746, 1]
+My Item[5]: Briefcase [12335, 1]
+My Item[6]: Verac's flail [4755, 1]
+My Item[7]: Blue boater [7325, 1]
+My Item[8]: Faithful shield [18747, 1]
+My Item[9]: Faithful shield [18747, 1]
+My Item[10]: Verac's brassard [4757, 1]
+My Item[11]: Dragon bones [537, 50]
+My Item[12]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+My Item[13]: Dragon full helm ornament kit (sp) [19354, 1]
+My Item[14]: Holy elixir [13754, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+Other Item[2]: Dragon platebody [14479, 1]
+Other Item[3]: Tzrek-jad [21512, 1]
+Other Item[4]: Zamorak platebody [2653, 1]
+Other Item[5]: Adamant platebody (t) [2599, 1]
+Other Item[6]: Steadfast boots [21787, 1]
+
+
+
+2015-05-20 18:34:49.319: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+My Item[3]: Saradomin's tear [8027, 1]
+My Item[4]: Zamorak halo [18746, 1]
+My Item[5]: Briefcase [12335, 1]
+My Item[6]: Verac's flail [4755, 1]
+My Item[7]: Verac's brassard [4757, 1]
+My Item[8]: Faithful shield [18747, 1]
+My Item[9]: Faithful shield [18747, 1]
+My Item[10]: Blue boater [7325, 1]
+My Item[11]: Dragon bones [537, 50]
+My Item[12]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+My Item[13]: Dragon full helm ornament kit (sp) [19354, 1]
+My Item[14]: Holy elixir [13754, 1]
+Other Item[0]: Zamorak platebody [2653, 1]
+Other Item[1]: Adamant platebody (t) [2599, 1]
+Other Item[2]: Steadfast boots [21787, 1]
+Other Item[3]: Dragon platebody [14479, 1]
+Other Item[4]: Tzrek-jad [21512, 1]
+Other Item[5]: Saradomin's tear [8027, 1]
+Other Item[6]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-20 18:45:57.133: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-21 06:00:18.286: [[Dim, smithy4life; 58.175.64.49, 00-22-B0-56-8B-96]]:
+My Item[0]: Farseer kiteshield [18363, 1]
+Other Item[0]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-05-21 08:00:59.797: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-21 08:35:51.424: [[Aleexk3, meghanxx; 125.236.177.46, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Dragon pickaxe [15259, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Dragon bones [537, 100]
+Other Item[2]: White robin hood hat [20952, 1]
+
+
+
+2015-05-21 08:36:27.413: [[Aleexk3, meghanxx; 125.236.177.46, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Dragon pickaxe [15259, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Dragon bones [537, 100]
+Other Item[2]: White robin hood hat [20952, 1]
+
+
+
+2015-05-21 08:39:01.014: [[Aleexk3, meghanxx; 125.236.177.46, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Farseer kiteshield [18363, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: White robin hood hat [20952, 1]
+Other Item[2]: Dragon bones [537, 100]
+
+
+
+2015-05-21 08:59:10.646: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Farseer kiteshield [18363, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+Other Item[0]: Zamorakian spear [11717, 1]
+Other Item[1]: Morrigan's leather body [13871, 1]
+Other Item[2]: Morrigan's leather chaps [13874, 2]
+Other Item[3]: Statius's warhammer [13903, 2]
+
+
+
+2015-05-21 09:00:23.247: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[1]: Berserker ring [6738, 1]
+My Item[2]: Statius's warhammer [13903, 1]
+My Item[3]: Vesta's spear [13906, 1]
+My Item[4]: Corrupt statius's platebody [13909, 1]
+Other Item[0]: Farseer kiteshield [18363, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+Other Item[2]: Saradomin sword [11730, 1]
+
+
+
+2015-05-21 09:03:35.248: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[1]: Dragon full helm ornament kit (sp) [19354, 1]
+My Item[2]: Bandos boots [11728, 1]
+Other Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-05-21 09:04:56.845: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Black cavalier [2643, 1]
+Other Item[0]: Zamorakian spear [11716, 1]
+Other Item[1]: Dragon full helm ornament kit (sp) [19354, 1]
+Other Item[2]: Bandos boots [11728, 1]
+
+
+
+2015-05-21 09:34:28.070: [[G Master, november; 58.7.168.215, 78-E4-00-03-18-72]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+My Item[3]: Steadfast boots [21787, 1]
+My Item[4]: White robin hood hat [20952, 1]
+My Item[5]: Farseer kiteshield [18363, 1]
+My Item[6]: Zamorakian spear [11716, 1]
+My Item[7]: Black cavalier [2643, 1]
+My Item[8]: Holy elixir [13754, 1]
+My Item[9]: Berserker ring [6738, 1]
+My Item[10]: Bandos boots [11728, 1]
+My Item[11]: Vesta's spear [13906, 1]
+My Item[12]: Dragon full helm ornament kit (sp) [19354, 1]
+My Item[13]: Briefcase [12335, 1]
+My Item[14]: Dragon platelegs/skirt ornament kit (sp) [19357, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-21 12:26:46.222: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Coins [995, 4000000]
+
+
+
+2015-05-21 12:28:52.822: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 10000000]
+Other Item[1]: Tooth half of a key [985, 1]
+Other Item[2]: Tooth half of a key [985, 1]
+Other Item[3]: Tooth half of a key [985, 1]
+Other Item[4]: Tooth half of a key [985, 1]
+Other Item[5]: Tooth half of a key [985, 1]
+Other Item[6]: Tooth half of a key [985, 1]
+
+
+
+2015-05-21 12:30:37.202: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 30000000]
+Other Item[1]: Tooth half of a key [985, 1]
+Other Item[2]: Tooth half of a key [985, 1]
+Other Item[3]: Tooth half of a key [985, 1]
+Other Item[4]: Tooth half of a key [985, 1]
+Other Item[5]: Tooth half of a key [985, 1]
+Other Item[6]: Tooth half of a key [985, 1]
+
+
+
+2015-05-21 16:25:50.002: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: White robin hood hat [20952, 1]
+Other Item[0]: Dark bow [11235, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-21 16:26:18.201: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: White robin hood hat [20952, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Dark bow [11235, 1]
+
+
+
+2015-05-21 16:42:36.824: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 48819090]
+Other Item[0]: Coins [995, 48000000]
+
+
+
+2015-05-21 16:46:49.432: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Abyssal vine whip [21372, 1]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-21 16:47:51.207: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 96000000]
+Other Item[0]: Coins [995, 96000000]
+
+
+
+2015-05-21 17:03:28.427: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Korasi's sword [19780, 1]
+My Item[2]: Dragon platebody [14479, 1]
+My Item[3]: Full slayer helmet [15492, 1]
+My Item[4]: Arcane stream necklace [18335, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Saradomin sword [11731, 2]
+Other Item[3]: Armadyl helmet [11719, 1]
+Other Item[4]: Dark bow [11236, 4]
+Other Item[5]: Zamorakian spear [11717, 2]
+Other Item[6]: Saradomin godsword [11699, 1]
+
+
+
+2015-05-21 17:11:13.420: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-05-21 17:16:30.225: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-05-21 17:19:31.416: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Vote Ticket [13256, 1]
+Other Item[1]: Coins [995, 20000000]
+
+
+
+2015-05-21 17:20:20.632: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Vote Ticket [13256, 1]
+Other Item[1]: Coins [995, 20000000]
+Other Item[2]: Scroll of augury [18344, 1]
+
+
+
+2015-05-21 17:22:00.247: [[Rozza123, whitephat; 90.196.151.195, 10-08-B1-B4-A2-27]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-05-21 17:26:57.846: [[Rozza123, whitephat; 90.196.151.195, 10-08-B1-B4-A2-27]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-05-21 17:29:41.046: [[Rozza123, whitephat; 90.196.151.195, 10-08-B1-B4-A2-27]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Dragon boots [11732, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+
+
+
+2015-05-21 17:33:47.048: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Korasi's sword [19780, 1]
+My Item[2]: Saradomin sword [11730, 1]
+My Item[3]: Saradomin sword [11730, 1]
+My Item[4]: Scroll of augury [18344, 1]
+My Item[5]: Dragon boots [11732, 1]
+My Item[6]: Saradomin sword [11730, 1]
+My Item[7]: Abyssal whip [4151, 1]
+My Item[8]: Anti-poison totem [18340, 1]
+My Item[9]: Dragon platelegs [4087, 1]
+Other Item[0]: Third-age full helmet [10350, 1]
+
+
+
+2015-05-21 17:40:28.445: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Tooth half of a key [985, 1]
+My Item[3]: Tooth half of a key [985, 1]
+My Item[4]: Tooth half of a key [985, 1]
+My Item[5]: Tooth half of a key [985, 1]
+My Item[6]: Tooth half of a key [985, 1]
+My Item[7]: Tooth half of a key [985, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-21 17:44:59.048: [[Rozza123, whitephat; 90.196.151.195, 10-08-B1-B4-A2-27]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+

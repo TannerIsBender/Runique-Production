@@ -1,0 +1,16 @@
+2015-04-17 14:44:34.494: [Zusezuse]:
+Item[0]: Mithril seeds [299, 1]
+
+
+
+2015-04-17 14:45:38.097: [Zusezuse]:
+Item[0]: Mithril seeds [299, 1]
+Item[1]: Coins [995, 1]
+
+
+
+2015-04-17 14:46:15.296: [Zusezuse]:
+Item[0]: Mithril seeds [299, 1]
+
+
+

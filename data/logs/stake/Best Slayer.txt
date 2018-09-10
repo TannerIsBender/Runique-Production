@@ -1,0 +1,168 @@
+2015-04-06 09:08:23.968: [Narosere]:
+Item[0]: Coins [995, 20204833]
+Item[1]: Dragon boots [11733, 1]
+
+
+
+2015-04-06 09:09:44.375: [Narosere]:
+Item[0]: Coins [995, 28204833]
+
+
+
+2015-04-06 09:13:19.175: [Narosere]:
+Item[0]: Corrupt vesta's longsword [13924, 1]
+Item[1]: Corrupt statius's platelegs [13915, 1]
+Item[2]: Corrupt statius's platebody [13909, 1]
+
+
+
+2015-04-06 09:15:44.392: [Narosere]:
+Item[3]: Dragon boots [11733, 2]
+Item[6]: Abyssal whip [4151, 1]
+
+
+
+2015-04-06 09:16:40.792: [Narosere]:
+Item[0]: Coins [995, 28204833]
+Item[1]: Dragon boots [11733, 2]
+Item[2]: Warrior ring [6736, 1]
+
+
+
+2015-04-06 09:19:57.592: [Narosere]:
+Item[0]: Coins [995, 28204833]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Dragonfire shield [11283, 1]
+Item[3]: Amulet of fury [6586, 1]
+Item[4]: Dragon boots [11733, 2]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: Corrupt morrigan's leather body [13945, 1]
+Item[7]: Morrigan's leather chaps [13874, 1]
+Item[8]: Warrior ring [6736, 1]
+
+
+
+2015-04-06 09:26:59.394: [Jonathan]:
+
+
+
+2015-04-06 09:27:47.394: [Jonathan]:
+
+
+
+2015-04-06 09:30:24.006: [Jonathan]:
+Item[0]: Coins [995, 3500000]
+
+
+
+2015-04-06 09:45:26.391: [Narosere]:
+Item[0]: Corrupt morrigan's leather body [13945, 1]
+Item[1]: Morrigan's leather chaps [13874, 1]
+Item[2]: Dragon boots [11733, 1]
+Item[3]: Zamorak halo [18746, 1]
+
+
+
+2015-04-06 09:46:19.206: [Narosere]:
+Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-04-06 09:48:36.007: [Narosere]:
+Item[0]: Corrupt vesta's longsword [13924, 1]
+Item[1]: Corrupt statius's platelegs [13915, 1]
+Item[2]: Corrupt morrigan's leather body [13945, 1]
+Item[3]: Amulet of fury [6586, 1]
+Item[4]: Dragon boots [11733, 2]
+Item[5]: Corrupt statius's platebody [13909, 1]
+Item[6]: Morrigan's leather chaps [13874, 1]
+Item[7]: Abyssal whip [4151, 1]
+Item[8]: Dragonfire shield [11283, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Dragon boots [11732, 1]
+Item[11]: Dragon bones [537, 150]
+Item[12]: Saradomin halo [18745, 1]
+Item[13]: Guthix halo [18744, 1]
+Item[14]: Zamorak halo [18746, 1]
+
+
+
+2015-04-06 10:20:10.829: [Minixes]:
+Item[1]: Coins [995, 250000]
+
+
+
+2015-04-06 10:20:49.822: [Minixes]:
+
+
+
+2015-04-06 10:30:04.822: [Merchendise]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Corrupt vesta's plateskirt [13918, 1]
+Item[2]: Corrupt vesta's longsword [13924, 2]
+Item[3]: Corrupt vesta's chainbody [13912, 1]
+Item[4]: Amulet of fury [6586, 1]
+Item[5]: Dragon boots [11733, 1]
+Item[6]: Corrupt morrigan's leather body [13945, 1]
+Item[7]: Saradomin halo [18745, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Dragonfire shield [11283, 1]
+Item[10]: Dragon bones [537, 150]
+Item[11]: Zamorak halo [18746, 1]
+Item[12]: Abyssal whip [4152, 1]
+Item[13]: Guthix halo [18744, 1]
+Item[14]: Morrigan's leather chaps [13874, 1]
+Item[15]: Coins [995, 100250000]
+
+
+
+2015-04-06 10:43:19.244: [Ruler]:
+Item[0]: Guthix halo [18744, 1]
+Item[1]: Corrupt morrigan's leather body [13944, 1]
+Item[2]: Zamorak halo [18746, 1]
+Item[3]: Bonecrusher [18337, 1]
+Item[4]: Saradomin halo [18745, 1]
+Item[5]: Corrupt vesta's longsword [13924, 2]
+Item[6]: Coins [995, 6704833]
+
+
+
+2015-04-06 10:49:49.844: [Jonathan]:
+Item[0]: Corrupt vesta's longsword [13924, 2]
+
+
+
+2015-04-12 08:53:39.527: [Fleshlight]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 08:54:28.742: [Fleshlight]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 08:55:13.730: [Fleshlight]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 08:55:53.343: [Fleshlight]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-12 08:56:36.527: [Fleshlight]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-12 08:57:13.127: [Fleshlight]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-14 09:01:57.479: [Micky G]:
+
+
+

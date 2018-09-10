@@ -1,0 +1,93 @@
+Common Rewards
+	Emerald x60
+	Sapphire x80
+	Ruby x40
+	Dragonstone x10
+	Golden hammer x1
+	Manta ray x250
+	Magic logs x50
+	Magic pyre logs x25
+	Coins x100000
+	Dragon med helm x2
+	Cannonball x50
+	Dragon dagger (p++) x1
+	Big bones x30
+	Gold leaf x1
+Uncommon Rewards
+	Gold leaf x3
+	Onyx x1
+	Blue tricorn hat x1
+	Green tricorn hat x1
+	Red tricorn hat x1
+	Brown tricorn hat x1
+	Black tricorn hat x1
+	Purple tricorn hat x1
+	Grey tricorn hat x1
+	Shark x500
+	Top hat x1
+	Magic logs x100
+	Magic pyre logs x75
+	Cursed magic logs x75
+	Pink afro x1
+	Death rune x1000
+	Blood rune x1000
+	Shark's tooth x1
+	Wolf mask x1
+	White unicorn mask x1
+	Cat mask x1
+	Infinity gloves x1
+	Infinity boots x1
+	Ringmaster hat x1
+	Armadyl rune x5
+	Coins x250000
+	Coins x500000
+	Yellow dye x1
+	Blue dye x1
+	Green dye x1
+	Overload (4) x5
+	Corrupt dragon scimitar x2
+	Dragon scimitar x10
+	Dragon spear x2
+	Dragon halberd x2
+	Cannonball x100
+	Dragon dagger (p++) x2
+	Dragon bones x20
+Rare Rewards
+	Death rune x5000
+	Blood rune x5000
+	Saradomin sword x1
+	Corrupt statius's warhammer x1
+	C. morrigan's throwing axe x5
+	Morrigan's throwing axe x5
+	Anger sword x1
+	Dragon boots x1
+	Berserker ring x1
+	Seers' ring x1
+	Warrior ring x1
+	Dragon platelegs x1
+	Fury shark x1
+	Tiger shark x1
+	Armadyl rune x10
+	Rune defender x1
+	Coins x1000000
+	Zamorakian spear x1
+	Frost dragon bones x15
+	Ourg bones x15
+Very rare Rewards
+	Rainbow afro x1
+	Korasi's sword x1
+	Corrupt vesta's longsword x1
+	C. morrigan's throwing axe x15
+	Morrigan's throwing axe x15
+	Dragon chainbody x1
+	Fury shark x3
+	Tiger shark x1
+	Armadyl rune x30
+	Dragon defender x1
+	Coins x5000000
+	Gilded platebody x1
+	Gilded platelegs x1
+	Gilded plateskirt x1
+	Gilded full helm x1
+	Gilded kiteshield x1
+	Staff of the dead x1

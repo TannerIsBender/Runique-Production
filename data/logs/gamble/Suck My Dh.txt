@@ -1,0 +1,182 @@
+2015-05-12 21:36:46.088: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-12 21:41:29.900: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-12 21:44:45.522: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-12 21:47:56.897: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-12 21:49:42.500: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-12 21:51:30.499: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-12 21:58:02.916: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-13 00:37:07.237: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-13 00:39:46.238: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-13 00:43:53.437: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-13 00:50:13.837: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 12:53:05.169: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-13 13:03:53.153: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Morrigan's leather body [13870, 1]
+
+
+
+2015-05-13 13:14:50.762: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-13 13:16:27.963: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-13 13:33:22.588: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-13 13:34:18.988: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Coins [995, 50000000]
+
+
+
+2015-05-13 13:35:53.200: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Morrigan's leather body [13870, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-13 13:37:08.188: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Morrigan's leather body [13870, 1]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-13 13:42:01.588: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 93000000]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon sq shield [1187, 1]
+My Item[3]: Dragon platelegs [4087, 1]
+Other Item[0]: Coins [995, 110000000]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-05-13 13:43:31.000: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-13 13:47:45.376: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-13 13:55:20.784: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Zuriel's staff [13867, 1]
+
+
+
+2015-05-13 13:56:29.184: [[Knee Socks, kakarotas; 78.62.250.143, E0-69-95-57-2D-9A]]:
+My Item[0]: Coins [995, 130000000]
+Other Item[0]: Coins [995, 80000000]
+Other Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-13 14:04:11.187: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 14:06:20.784: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-13 14:08:06.391: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Steadfast boots [21787, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-13 14:10:10.591: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 100000000]
+Other Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-13 14:11:03.995: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragonfire shield [11283, 1]
+My Item[3]: Coins [995, 23000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+

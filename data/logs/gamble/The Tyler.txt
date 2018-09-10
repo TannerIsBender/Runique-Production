@@ -1,0 +1,175 @@
+2015-04-15 20:52:07.020: [Odds]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-15 20:52:58.616: [Odds]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-15 20:53:38.831: [Odds]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-15 20:57:32.235: [2kk2]:
+Item[0]: Coins [995, 23000000]
+
+
+
+2015-04-15 20:58:06.423: [2kk2]:
+Item[0]: Coins [995, 23000000]
+
+
+
+2015-04-15 21:00:47.821: [Slayer64p]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-15 21:03:57.420: [2kk2]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-15 21:26:00.444: [Nostalgia]:
+Item[0]: Coins [995, 173069671]
+Item[1]: Holy elixir [13754, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-15 21:32:31.047: [Aurora]:
+Item[0]: Flameburst defender [17273, 1]
+Item[1]: Flameburst defender [17273, 1]
+Item[2]: Tome of frost [18346, 1]
+
+
+
+2015-04-15 21:33:02.244: [Aurora]:
+Item[0]: Flameburst defender [17273, 1]
+Item[1]: Flameburst defender [17273, 1]
+Item[2]: Tome of frost [18346, 1]
+
+
+
+2015-04-15 21:33:25.625: [Aurora]:
+Item[0]: Tome of frost [18346, 1]
+Item[1]: Flameburst defender [17273, 1]
+Item[2]: Flameburst defender [17273, 1]
+
+
+
+2015-04-15 21:34:11.241: [Aurora]:
+Item[0]: Dragon boots [11733, 1]
+Item[1]: Tome of frost [18346, 1]
+Item[2]: Flameburst defender [17273, 1]
+Item[3]: Flameburst defender [17273, 1]
+
+
+
+2015-04-15 21:34:35.844: [Aurora]:
+Item[0]: Dragon boots [11733, 1]
+Item[1]: Tome of frost [18346, 1]
+Item[2]: Flameburst defender [17273, 1]
+Item[3]: Flameburst defender [17273, 1]
+
+
+
+2015-04-15 21:35:00.447: [Aurora]:
+Item[0]: Dragon boots [11733, 1]
+Item[1]: Tome of frost [18346, 1]
+Item[2]: Flameburst defender [17273, 1]
+Item[3]: Flameburst defender [17273, 1]
+
+
+
+2015-04-15 21:35:28.047: [Aurora]:
+Item[0]: Flameburst defender [17273, 1]
+Item[1]: Tome of frost [18346, 1]
+Item[2]: Flameburst defender [17273, 1]
+Item[3]: Dragon boots [11733, 1]
+
+
+
+2015-04-15 21:42:52.042: [Nostalgia]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Amulet of fury (or) [19335, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-15 21:43:31.047: [Nostalgia]:
+Item[0]: Abyssal vine whip [21372, 1]
+
+
+
+2015-04-27 19:08:43.315: [Bad Pker]:
+Item[0]: Zamorak godsword [11700, 1]
+Item[1]: Coins [995, 38265500]
+
+
+
+2015-04-27 19:14:07.334: [Ziptie]:
+Item[0]: Coins [995, 38265500]
+
+
+
+2015-04-27 19:16:33.733: [I Like Gold]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-27 19:17:06.126: [I Like Gold]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-27 19:17:37.926: [I Like Gold]:
+Item[0]: Coins [995, 5002305]
+
+
+
+2015-04-27 20:04:00.749: [Melody]:
+Item[0]: Coins [995, 10002305]
+Item[1]: Zamorak godsword [11700, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-27 20:04:39.749: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Coins [995, 40002305]
+Item[2]: Zamorak godsword [11700, 1]
+
+
+
+2015-04-28 14:27:35.634: [Kabooyah]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-28 14:28:02.017: [Kabooyah]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-28 14:29:03.233: [Kabooyah]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-28 14:29:44.616: [Kabooyah]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-28 14:30:09.216: [Kabooyah]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+

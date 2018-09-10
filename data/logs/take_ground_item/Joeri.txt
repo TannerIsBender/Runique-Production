@@ -1,0 +1,5 @@
+Item Telegrabbed: Big bones [532, 1 - [2839, 5304, 2]] - 2015-04-16 12:55:59.801
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5361, 2]] - 2015-04-16 12:59:29.214
+Item Telegrabbed: Big bones [532, 1 - [2864, 5353, 2]] - 2015-04-16 13:00:01.593
+Item Telegrabbed: Coins [995, 20966 - [2864, 5353, 2]] - 2015-04-16 13:00:10.614
+Item Telegrabbed: Ourg bones [14793, 1 - [2864, 5361, 2]] - 2015-04-16 13:03:54.416

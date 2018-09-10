@@ -1,0 +1,5 @@
+Item Taken: Adamant hatchet [1357, 1 - position=[3090, 3234, 0]] - 2015-03-24 08:21:53.695
+Item Taken: Rune hatchet [1359, 1 - position=[2721, 3464, 0]] - 2015-03-24 08:29:45.311
+Item Taken: Rune hatchet [1359, 1 - position=[2721, 3464, 0]] - 2015-03-24 10:55:58.595
+Item Taken: Rune hatchet [1359, 1 - position=[2721, 3464, 0]] - 2015-03-24 11:03:36.996
+Item Taken: Rune hatchet [1359, 1 - position=[3183, 3231, 0]] - 2015-03-24 11:48:20.822

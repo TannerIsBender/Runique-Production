@@ -1,0 +1,27 @@
+2015-04-15 15:41:38.020: [Gero]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 15:42:59.020: [Gero]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-15 15:45:34.442: [Gero]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-15 20:33:34.631: [Odds]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Vesta's spear [13905, 1]
+Item[2]: Morrigan's coif [13876, 1]
+
+
+
+2015-04-16 16:43:13.147: [Pascaladium]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+

@@ -1,0 +1,187 @@
+2015-04-15 03:45:05.194: [Chappy]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-15 03:57:32.800: [Ganja Green]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 03:59:56.218: [Ganja Green]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-15 04:00:52.616: [Ganja Green]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 11:57:31.893: [Yazoo]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-15 12:07:19.293: [Chappy]:
+Item[0]: Abyssal whip [4152, 2]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-16 00:14:53.322: [Gibby]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-04-16 00:18:06.547: [Gibby]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-16 00:21:29.325: [Goog]:
+Item[0]: Dragon sq shield [1187, 1]
+Item[1]: Golden mining top [20791, 1]
+Item[2]: Golden mining gloves [20787, 1]
+Item[3]: Gilded totem [750, 1]
+Item[4]: Golden mining boots [20788, 1]
+
+
+
+2015-04-16 00:21:56.947: [Goog]:
+Item[0]: Dragon sq shield [1187, 1]
+Item[1]: Golden mining boots [20788, 1]
+Item[2]: Gilded totem [750, 1]
+Item[3]: Golden mining gloves [20787, 1]
+Item[4]: Golden mining top [20791, 1]
+
+
+
+2015-04-16 11:27:01.547: [Nostalgia]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Coins [995, 30000000]
+
+
+
+2015-04-16 11:34:54.941: [Nostalgia]:
+Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-04-16 11:35:48.932: [Nostalgia]:
+Item[0]: Third-age druidic robe [19320, 1]
+
+
+
+2015-04-16 11:37:03.347: [Nostalgia]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-16 11:37:53.742: [Nostalgia]:
+Item[0]: Third-age druidic robe [19320, 1]
+Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-04-16 11:38:29.147: [Nostalgia]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Third-age druidic robe [19320, 1]
+
+
+
+2015-04-17 08:50:09.059: [Finnus]:
+Item[0]: Coins [995, 99000000]
+
+
+
+2015-04-17 08:53:11.465: [Finnus]:
+Item[0]: Glaiven boots [21790, 1]
+Item[1]: Coins [995, 105000000]
+
+
+
+2015-04-17 09:43:46.328: [Aurora]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Coins [995, 129000000]
+
+
+
+2015-04-17 09:45:27.128: [Aurora]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Coins [995, 130000000]
+
+
+
+2015-04-20 10:25:54.770: [Pluto]:
+Item[0]: Coins [995, 1200000]
+
+
+
+2015-04-20 10:29:04.970: [Nazijewbake]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-22 11:30:18.734: [Pascaladium]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-25 14:32:17.176: [Lisa000012]:
+Item[0]: Coins [995, 43416145]
+Item[1]: Dragon pickaxe [15259, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-25 14:34:23.776: [Lisa000012]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+Item[2]: Armadyl helmet [11719, 1]
+Item[3]: Armadyl chestplate [11721, 1]
+Item[4]: Godsword shard 1 [11711, 4]
+Item[5]: Armadyl hilt [11703, 1]
+Item[6]: Onyx [6574, 1]
+Item[7]: Dragon boots [11732, 1]
+Item[8]: Dragon pickaxe [15259, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Coins [995, 43416145]
+Item[11]: Zamorak halo [18746, 1]
+Item[12]: Zamorak halo [18746, 1]
+Item[13]: Zamorak halo [18746, 1]
+Item[14]: Zamorak halo [18746, 1]
+Item[15]: Zamorak halo [18746, 1]
+
+
+
+2015-04-25 14:35:07.576: [Lisa000012]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+Item[2]: Armadyl helmet [11719, 1]
+Item[3]: Armadyl chestplate [11721, 1]
+Item[4]: Godsword shard 1 [11711, 4]
+Item[5]: Armadyl hilt [11703, 1]
+Item[6]: Onyx [6574, 1]
+Item[7]: Dragon boots [11732, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Coins [995, 43416145]
+Item[10]: Zamorak halo [18746, 1]
+Item[11]: Zamorak halo [18746, 1]
+Item[12]: Zamorak halo [18746, 1]
+Item[13]: Zamorak halo [18746, 1]
+Item[14]: Zamorak halo [18746, 1]
+
+
+

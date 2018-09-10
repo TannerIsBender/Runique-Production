@@ -1,0 +1,25 @@
+2015-04-16 12:33:08.194: [Papa Mouliq]:
+Item[0]: Mystery box [18768, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Steadfast boots [21788, 1]
+Item[3]: Corrupt statius's full helm [13921, 1]
+Item[4]: Statius's warhammer [13903, 2]
+Item[5]: Novite plateskirt [16648, 1]
+Item[6]: Dharok's platebody [4721, 1]
+Item[7]: Amulet of zealots [19892, 1]
+Item[8]: Strength amulet (t) [10736, 1]
+Item[9]: Infinity boots [6921, 1]
+Item[10]: Amulet of glory (t) [10719, 1]
+Item[11]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 12:34:59.168: [Papa Mouliq]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Ring of wealth [2572, 1]
+Item[2]: Abyssal whip [4151, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Coins [995, 26780503]
+
+
+

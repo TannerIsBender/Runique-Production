@@ -1,0 +1,16 @@
+2015-04-03 17:51:27.958: [Warped201]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-03 17:53:36.357: [Warped201]:
+Item[0]: Vesta's spear [13905, 1]
+
+
+
+2015-04-03 17:55:50.779: [Warped201]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+Item[1]: Coins [995, 7000011]
+
+
+

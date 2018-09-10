@@ -1,0 +1,240 @@
+2015-05-03 17:42:37.215: [Davetherave]:
+
+
+
+2015-05-03 17:47:49.235: [Rdando]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Bandos chestplate [11724, 1]
+Item[2]: Bandos tassets [11726, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Steadfast boots [21787, 1]
+
+
+
+2015-05-03 18:00:53.415: [Davetherave]:
+Item[0]: Coins [995, 47132987]
+
+
+
+2015-05-03 18:04:26.440: [Melee Cyrus]:
+Item[0]: Coins [995, 137132987]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Abyssal whip [4151, 1]
+Item[3]: Abyssal whip [4151, 1]
+Item[4]: Verac's brassard [4757, 1]
+Item[5]: Dharok's platebody [4720, 1]
+Item[6]: Amulet of fury [6585, 1]
+
+
+
+2015-05-03 18:40:41.461: [Rdando]:
+
+
+
+2015-05-03 18:42:28.268: [Porno Swag]:
+
+
+
+2015-05-03 18:45:51.668: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-03 18:47:09.669: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:47:47.468: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:48:51.068: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:50:15.068: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-03 18:51:01.868: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:52:31.267: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-03 18:53:01.890: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-03 18:53:48.699: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-03 18:56:46.899: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:57:27.700: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:58:09.099: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 18:59:07.299: [Porno Swag]:
+Item[0]: Coins [995, 2000000000]
+
+
+
+2015-05-03 19:02:57.099: [Billionare]:
+Item[0]: Coins [995, 450000000]
+
+
+
+2015-05-03 19:16:48.092: [Rdando]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 19:24:33.089: [Leggopvp]:
+
+
+
+2015-05-03 19:25:44.492: [Leggopvp]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-03 19:28:37.299: [Leggopvp]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-03 19:33:56.515: [Leggopvp]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 19:36:49.914: [Rdando]:
+Item[0]: Coins [995, 240000000]
+
+
+
+2015-05-03 19:37:19.915: [Rdando]:
+Item[0]: Coins [995, 240000000]
+
+
+
+2015-05-03 19:53:43.347: [Leggopvp]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 06:47:18.937: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 07:11:11.157: [Simberj]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-04 07:36:28.568: [Elite Pvm]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[3]: Armadyl godsword [11694, 1]
+Item[4]: Coins [995, 100000000]
+
+
+
+2015-05-04 07:38:50.800: [Elite Pvm]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+Item[4]: Armadyl hilt [11702, 1]
+Item[5]: Godsword shard 1 [11710, 1]
+
+
+
+2015-05-04 07:42:07.587: [Elite Pvm]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-04 07:46:07.000: [Elite Pvm]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 16:06:53.000: [Big Booty]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 16:07:37.991: [Big Booty]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 16:11:48.200: [Big Booty]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 16:13:33.191: [Rozza123]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-04 16:15:14.000: [Big Booty]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 16:18:24.800: [Big Booty]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 16:26:53.000: [Cl0ud 9]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-04 16:41:09.214: [Iron Gangsta]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 16:57:09.822: [Rozza123]:
+Item[0]: Store credits (12.500 credits) [13257, 1]
+
+
+
+2015-05-04 16:57:42.822: [Rozza123]:
+Item[0]: Store credits (12.500 credits) [13257, 1]
+
+
+
+2015-05-04 17:02:02.622: [Melody]:
+Item[0]: Coins [995, 600000000]
+
+
+

@@ -1,0 +1,229 @@
+2015-04-03 16:43:03.944: [Noko3456]:
+Item[0]: Dragon bones [537, 50]
+
+
+
+2015-04-12 03:23:46.641: [Solid]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 03:24:41.845: [Solid]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-12 03:25:58.043: [Solid]:
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 03:27:44.845: [Solid]:
+Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-04-12 03:28:44.243: [Solid]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Korasi's sword [19780, 1]
+Item[5]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-12 03:31:31.043: [Solid]:
+Item[0]: Glaiven boots [21790, 1]
+Item[1]: Zuriel's robe top [13858, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Divine sigil [13748, 1]
+Item[4]: Corrupt statius's warhammer [13926, 1]
+Item[5]: Glaiven boots [21790, 1]
+Item[6]: Korasi's sword [19780, 1]
+
+
+
+2015-04-12 03:33:55.042: [Solid]:
+Item[0]: Divine sigil [13748, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 03:35:21.443: [Solid]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-12 03:36:23.842: [Solid]:
+Item[0]: Coins [995, 68828917]
+
+
+
+2015-04-12 03:38:12.442: [Solid]:
+Item[0]: Coins [995, 68828917]
+
+
+
+2015-04-12 03:40:14.843: [Solid]:
+Item[1]: Zuriel's robe top [13858, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Korasi's sword [19780, 1]
+Item[5]: Saradomin coif [10390, 1]
+
+
+
+2015-04-12 03:41:25.644: [Solid]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+Item[3]: Korasi's sword [19780, 1]
+Item[4]: Zuriel's robe top [13858, 1]
+
+
+
+2015-04-12 03:44:43.660: [Solid]:
+Item[0]: Divine sigil [13748, 1]
+Item[1]: Corrupt statius's full helm [13920, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Korasi's sword [19780, 1]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: Zuriel's robe top [13858, 1]
+
+
+
+2015-04-12 06:09:17.227: [Ermac]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 07:20:35.273: [Victor]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-12 07:22:26.281: [Victor]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-12 18:47:50.092: [Evoty]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-12 18:50:09.896: [2kk2]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-12 18:52:54.296: [2kk2]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-13 00:16:52.564: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:18:39.381: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:19:37.580: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:20:17.158: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:21:14.780: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:22:00.381: [Skillsuckv2]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-13 00:22:50.180: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:23:37.580: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:24:23.180: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-13 00:25:29.781: [Odds]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-13 00:26:39.981: [Odds]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-13 04:25:26.327: [Pk4alivin]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-13 04:26:38.916: [Pk4alivin]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-13 04:32:14.918: [Pk4alivin]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-13 04:33:10.727: [Pk4alivin]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-13 04:34:16.719: [Pk4alivin]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-13 04:35:20.327: [Pk4alivin]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-13 04:39:38.327: [Fleshlight]:
+Item[0]: Coins [995, 80000000]
+Item[1]: Dark bow [15701, 1]
+
+
+
+2015-04-13 04:49:27.537: [Pk4alivin]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon spear [1249, 1]
+
+
+

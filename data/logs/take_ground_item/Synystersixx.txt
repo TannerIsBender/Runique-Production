@@ -1,0 +1,13 @@
+Item Taken: Iron ore [440, 1 - position=[3300, 3310, 0]] - 2015-03-24 18:57:57.695
+Item Taken: Bones [526, 1 - position=[2671, 3714, 0]] - 2015-03-24 19:18:42.164
+Item Taken: Bones [526, 1 - position=[2671, 3714, 0]] - 2015-03-24 19:18:43.296
+Item Taken: Bones [526, 1 - position=[2671, 3714, 0]] - 2015-03-24 19:18:45.764
+Item Taken: Bones [526, 1 - position=[2670, 3714, 0]] - 2015-03-24 19:19:09.697
+Item Taken: Bones [526, 1 - position=[2670, 3715, 0]] - 2015-03-24 19:19:27.096
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2671, 3715, 0]] - 2015-03-24 19:21:22.980
+Item Taken: Coins [995, 121872 - position=[2666, 3714, 0]] - 2015-03-24 19:23:09.097
+Item Taken: Coins [995, 272584 - position=[2667, 3714, 0]] - 2015-03-24 19:24:07.897
+Item Taken: Irit seed [5297, 1 - position=[2666, 3714, 0]] - 2015-03-24 19:27:34.927
+Item Taken: Gold charm [12158, 5 - position=[2666, 3714, 0]] - 2015-03-24 19:27:36.698
+Item Taken: Bones [526, 1 - position=[2666, 3714, 0]] - 2015-03-24 19:27:37.897
+Item Taken: Bones [526, 1 - position=[2666, 3714, 0]] - 2015-03-24 19:27:38.528

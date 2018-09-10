@@ -1,0 +1,338 @@
+2015-04-01 18:48:56.278: [Gang Member]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-01 18:51:03.480: [Gang Member]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Spirit shield [13734, 1]
+Item[2]: Dragon full helm [11335, 1]
+Item[3]: Warrior ring [6735, 1]
+Item[4]: Morrigan's leather chaps [13873, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Coins [995, 10000000]
+
+
+
+2015-04-01 18:51:59.280: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-01 18:53:26.294: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Warrior ring [6735, 1]
+Item[2]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-02 23:36:44.111: [April Fools]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-02 23:38:11.718: [April Fools]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-02 23:38:53.711: [April Fools]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-02 23:39:47.718: [April Fools]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-02 23:44:30.326: [Try Hardz]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 13:37:06.819: [Tonka]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 13:37:57.203: [Tonka]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 13:39:07.411: [Tonka]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 13:39:41.019: [Tonka]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 13:40:33.819: [Tonka]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 19:22:36.418: [Evoty]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-03 19:25:35.858: [Evoty]:
+Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-04-03 19:28:47.827: [Noko3456]:
+Item[0]: Coins [995, 13000020]
+Item[1]: Dragon boots [11733, 1]
+
+
+
+2015-04-03 19:29:59.258: [Noko3456]:
+Item[0]: Dragon boots [11733, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-03 19:31:14.845: [Noko3456]:
+Item[0]: Coins [995, 26000020]
+
+
+
+2015-04-03 19:32:15.445: [Noko3456]:
+Item[0]: Coins [995, 26000000]
+
+
+
+2015-04-03 19:33:20.220: [Noko3456]:
+Item[0]: Dragon med helm [1149, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon chainbody [3140, 1]
+Item[3]: Dragon boots [11733, 1]
+
+
+
+2015-04-03 19:34:28.045: [Noko3456]:
+Item[0]: Coins [995, 26000000]
+
+
+
+2015-04-03 19:35:49.624: [Noko3456]:
+Item[0]: Coins [995, 52000000]
+
+
+
+2015-04-03 19:36:32.844: [Noko3456]:
+Item[0]: Coins [995, 26000000]
+
+
+
+2015-04-03 19:37:43.058: [Noko3456]:
+Item[0]: Coins [995, 52000000]
+
+
+
+2015-04-03 19:38:37.658: [Noko3456]:
+Item[0]: Coins [995, 78000000]
+
+
+
+2015-04-03 19:39:38.858: [Noko3456]:
+Item[0]: Coins [995, 156000000]
+
+
+
+2015-04-04 14:37:29.927: [Zeb]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-04 14:40:14.942: [Precisely]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-04 14:41:54.534: [Precisely]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-04 14:43:10.744: [Precisely]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-04 14:44:14.944: [Precisely]:
+Item[0]: Coins [995, 90000000]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-04-04 14:45:01.758: [Precisely]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-04 14:46:34.758: [Precisely]:
+Item[0]: Berserker ring [6737, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Abyssal whip [15442, 1]
+Item[3]: Korasi's sword [19780, 1]
+
+
+
+2015-04-04 14:47:58.133: [Precisely]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-04 14:54:36.548: [Precisely]:
+
+
+
+2015-04-04 15:18:02.358: [Zeb]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-04 15:19:55.782: [Zeb]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-04 15:21:23.964: [Zeb]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 69000000]
+
+
+
+2015-04-04 15:24:47.380: [Zeb]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-04 15:26:31.768: [Zeb]:
+Item[0]: Coins [995, 138000000]
+
+
+
+2015-04-04 15:28:16.780: [Zeb]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[3]: Korasi's sword [19780, 1]
+
+
+
+2015-04-05 15:17:43.128: [Pvm Giggles]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-06 10:30:04.822: [Best Slayer]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-07 10:43:41.042: [Marma]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-07 10:45:03.242: [Marma]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Abyssal whip [4151, 1]
+
+
+
+2015-04-07 10:46:06.844: [Marma]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-07 11:05:26.675: [Marma]:
+Item[0]: Yellow robin hood hat [20950, 1]
+Item[1]: Red robin hood hat [20949, 1]
+
+
+
+2015-04-07 11:06:55.467: [Marma]:
+Item[3]: Corrupt vesta's spear [13929, 1]
+Item[8]: Berserker ring [6737, 1]
+
+
+
+2015-04-07 11:08:12.876: [Marma]:
+Item[0]: Yellow robin hood hat [20950, 1]
+
+
+
+2015-04-07 11:08:51.860: [Marma]:
+Item[0]: Berserker ring [6737, 1]
+Item[1]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-07 11:10:11.667: [Marma]:
+Item[0]: Yellow robin hood hat [20950, 1]
+Item[1]: Berserker ring [6737, 1]
+
+
+
+2015-04-07 11:11:01.475: [Marma]:
+Item[0]: Yellow robin hood hat [20950, 1]
+Item[1]: Red robin hood hat [20949, 1]
+
+
+
+2015-04-07 14:39:57.997: [Marma]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Coins [995, 53000000]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+Item[4]: Corrupt zuriel's robe top [13932, 1]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: Dragon full helm [11335, 1]
+Item[7]: Dark bow [15702, 1]
+Item[8]: Abyssal whip [4151, 1]
+Item[9]: Amulet of fury [6585, 1]
+Item[10]: Ranger boots [2577, 1]
+
+
+
+2015-04-10 13:53:42.676: [Kn0gen]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 13:55:35.468: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Dragon pickaxe [15259, 1]
+Item[2]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-04-10 14:01:04.260: [Kn0gen]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[3]: Korasi's sword [19780, 1]
+
+
+

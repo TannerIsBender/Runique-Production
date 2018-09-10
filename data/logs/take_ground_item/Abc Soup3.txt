@@ -1,0 +1,9 @@
+Item Taken: Saradomin's tear [8027, 1 - position=[3088, 3490, 0]] - 2015-03-23 08:18:39.786
+Item Taken: Gold charm [12158, 1 - position=[2674, 3715, 0]] - 2015-03-23 08:33:43.987
+Item Taken: Green charm [12159, 1 - position=[2673, 3715, 0]] - 2015-03-23 08:35:07.994
+Item Taken: Grimy dwarf weed [218, 3 - position=[2675, 3715, 0]] - 2015-03-23 08:35:15.787
+Item Taken: Crimson charm [12160, 1 - position=[2686, 3723, 0]] - 2015-03-23 08:37:16.994
+Item Taken: Gold charm [12158, 2 - position=[2686, 3723, 0]] - 2015-03-23 08:37:17.586
+Item Taken: Torstol seed [5304, 1 - position=[2686, 3723, 0]] - 2015-03-23 08:37:19.393
+Item Taken: Green charm [12159, 2 - position=[2686, 3723, 0]] - 2015-03-23 08:37:20.593
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2686, 3723, 0]] - 2015-03-23 08:37:51.187

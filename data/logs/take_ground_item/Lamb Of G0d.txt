@@ -1,0 +1,7 @@
+Item Taken: Spirit larupia pouch [12785, 5 - position=[3096, 3498, 0]] - 2015-03-24 20:09:46.380
+Item Taken: Cadantine seed [5301, 3 - position=[3096, 3498, 0]] - 2015-03-24 20:09:48.126
+Item Taken: Burnt monkfish [7949, 27 - position=[3096, 3498, 0]] - 2015-03-24 20:09:48.765
+Item Taken: Burnt lobster [382, 14 - position=[3096, 3498, 0]] - 2015-03-24 20:09:49.377
+Item Taken: Burnt swordfish [376, 11 - position=[3096, 3498, 0]] - 2015-03-24 20:09:49.927
+Item Taken: Bronze pickaxe [1266, 1 - position=[3096, 3498, 0]] - 2015-03-24 20:09:50.564
+Item Taken: Burnt shrimp [7955, 1 - position=[3096, 3498, 0]] - 2015-03-24 20:09:51.122

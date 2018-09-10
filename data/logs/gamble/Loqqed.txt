@@ -1,0 +1,45 @@
+2015-06-05 22:12:56.539: [[Gildhartz, wawa00; 121.54.54.239, 00-1E-10-1F-A1-F5]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-05 22:17:23.541: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Dragon boots [11733, 3]
+Other Item[0]: Dragon full helm [11335, 1]
+Other Item[1]: Coins [995, 106479]
+
+
+
+2015-06-05 22:18:12.743: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Dragon boots [11733, 3]
+Other Item[1]: Coins [995, 106479]
+
+
+
+2015-06-05 22:18:58.939: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15106479]
+
+
+
+2015-06-05 22:21:06.142: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Dragon boots [11733, 3]
+Other Item[1]: Coins [995, 106479]
+
+
+
+2015-06-05 22:21:33.139: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Dragon boots [11733, 3]
+Other Item[1]: Coins [995, 106479]
+
+
+
+2015-06-05 22:22:46.938: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+Other Item[0]: Coins [995, 160]
+
+
+

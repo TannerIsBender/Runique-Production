@@ -1,0 +1,590 @@
+2015-04-16 00:32:13.143: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 02:03:37.206: [Brockinator]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-16 02:06:35.416: [Untouchedtea]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-16 02:08:57.014: [Miss K]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 02:09:43.801: [Noli Ftw]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-16 02:11:39.016: [Noli Ftw]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 02:13:33.616: [Noli Ftw]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 02:14:21.013: [Noli Ftw]:
+Item[0]: Coins [995, 11000000]
+
+
+
+2015-04-16 02:14:58.216: [Noli Ftw]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-16 02:15:40.803: [Noli Ftw]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-17 00:58:22.432: [Goog]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-17 02:19:23.094: [Fat Dope]:
+
+
+
+2015-04-18 01:34:52.293: [Deth]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:35:36.077: [Deth]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:37:45.066: [Deth]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:39:24.092: [Deth]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:40:27.076: [Deth]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:41:03.093: [Deth]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 02:20:08.490: [Dave]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-18 02:21:24.096: [Dave]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[4]: Amulet of fury [6585, 1]
+Item[5]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-18 02:23:37.916: [Dave]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Full slayer helmet [15492, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-18 02:24:34.312: [Dave]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Chaotic rapier [18349, 1]
+Item[5]: Steadfast boots [21787, 1]
+
+
+
+2015-04-19 01:33:51.655: [Baked Player]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-19 01:35:57.655: [Baked Player]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-19 21:25:29.926: [Arasta]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-19 21:25:58.724: [Arasta]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-19 21:27:36.527: [Arasta]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-19 21:36:20.946: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:36:50.326: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 03:40:29.503: [Oi]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 01:51:34.881: [Banklootz]:
+Item[0]: Ragefire boots [21794, 1]
+Item[1]: Armadyl godsword [11695, 1]
+
+
+
+2015-04-23 01:54:48.052: [Simberj]:
+Item[0]: Coins [995, 427000]
+
+
+
+2015-04-23 02:35:58.281: [Melee Cyrus]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-23 02:36:36.677: [Melee Cyrus]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Ragefire boots [21793, 1]
+
+
+
+2015-04-24 01:57:05.034: [Simberj]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-24 01:57:53.637: [Simberj]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-24 01:58:45.849: [Simberj]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-24 02:02:57.234: [Simberj]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-24 02:03:36.249: [Simberj]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-24 02:04:09.238: [Simberj]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-24 02:05:17.649: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-24 02:05:48.239: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-24 02:06:29.640: [Simberj]:
+Item[0]: Coins [995, 34000000]
+
+
+
+2015-04-24 02:07:19.440: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 02:07:49.433: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 02:08:49.450: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-24 02:09:41.049: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-24 02:10:19.443: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-24 02:10:51.249: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-24 02:11:45.849: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 02:12:25.433: [Simberj]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-24 02:15:39.247: [Simberj]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-24 02:16:24.233: [Simberj]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-25 20:19:50.965: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-25 20:38:37.201: [Noli Ftw]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-26 18:24:44.576: [Bumblebee]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 01:21:35.827: [Brazy]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 01:23:02.826: [Brazy]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-28 00:37:53.115: [Brazy]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-28 00:47:59.133: [Melee Cyrus]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 03:40:44.225: [Brazy]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-29 02:04:55.225: [Ziptie]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-29 02:05:34.249: [Ziptie]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-29 02:07:27.633: [Simberj]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-29 15:37:36.880: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Arcane spirit shield [13738, 1]
+Item[5]: Dragonfire shield [11283, 1]
+Item[6]: Arcane stream necklace [18335, 1]
+Item[7]: Glaiven boots [21790, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Ragefire boots [21793, 1]
+
+
+
+2015-04-29 15:38:16.477: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Arcane spirit shield [13738, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Glaiven boots [21790, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Ragefire boots [21793, 1]
+Item[8]: Arcane stream necklace [18335, 1]
+
+
+
+2015-04-29 15:39:35.077: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+
+
+
+2015-04-29 15:40:15.274: [Melee Cyrus]:
+Item[1]: Santa hat [1050, 1]
+
+
+
+2015-04-29 15:40:42.281: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+
+
+
+2015-04-29 15:41:04.480: [Melee Cyrus]:
+Item[0]: Santa hat [1050, 1]
+
+
+
+2015-04-29 15:43:37.481: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Divine spirit shield [13740, 1]
+Item[5]: Arcane spirit shield [13738, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Ragefire boots [21793, 1]
+Item[8]: Glaiven boots [21790, 1]
+
+
+
+2015-04-29 15:45:05.677: [Melee Cyrus]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Zuriel's robe top [13858, 1]
+Item[2]: Zuriel's robe bottom [13861, 1]
+Item[3]: Staff of light [22210, 1]
+Item[4]: Dragonfire shield [11283, 1]
+Item[5]: Zuriel's hood [13864, 1]
+Item[6]: Morrigan's coif [13876, 1]
+Item[7]: Corrupt statius's full helm [13920, 1]
+Item[8]: Amulet of ranging [15126, 1]
+Item[9]: Morrigan's leather chaps [13873, 1]
+Item[10]: Morrigan's leather body [13870, 1]
+Item[11]: Full slayer helmet [15492, 1]
+Item[12]: Arcane stream necklace [18335, 1]
+
+
+
+2015-04-30 17:29:55.362: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+
+
+
+2015-04-30 17:30:58.361: [Melee Cyrus]:
+Item[0]: Coins [995, 852516353]
+Item[1]: Torva platebody [20139, 1]
+
+
+
+2015-04-30 17:32:28.961: [Melee Cyrus]:
+Item[0]: Torva platebody [20139, 1]
+Item[1]: Coins [995, 852516353]
+
+
+
+2015-04-30 17:34:34.368: [Halee]:
+Item[0]: Torva platebody [20139, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-04-30 17:36:44.584: [Halee]:
+Item[0]: Torva platebody [20139, 1]
+Item[1]: Coins [995, 347000000]
+
+
+
+2015-04-30 17:39:00.762: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+
+
+
+2015-04-30 17:42:25.384: [Billionare]:
+Item[0]: Santa hat [1050, 1]
+Item[1]: Sled [4084, 1]
+Item[2]: Sled [4084, 1]
+
+
+
+2015-05-09 23:33:21.422: [Crazycody]:
+Item[0]: Ferocious ring (5) [15398, 1]
+Item[1]: Abyssal vine whip [21372, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Dark bow [11235, 1]
+
+
+
+2015-05-22 16:35:45.725: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Abyssal vine whip [21372, 1]
+My Item[2]: Coins [995, 50000000]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-22 16:58:51.148: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Coins [995, 70000000]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Coins [995, 70010288]
+
+
+
+2015-05-22 17:04:34.963: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-05-22 17:22:49.979: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Abyssal vine whip [21372, 1]
+Other Item[2]: Abyssal vine whip [21372, 1]
+
+
+
+2015-05-23 03:43:52.247: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Coins [995, 65000000]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Armadyl chestplate [11720, 1]
+My Item[3]: Abyssal whip [4151, 1]
+My Item[4]: Abyssal whip [4151, 1]
+My Item[5]: Armadyl helmet [11718, 1]
+My Item[6]: Armadyl chestplate [11720, 1]
+My Item[7]: Abyssal whip [4151, 1]
+My Item[8]: Godsword shard 3 [11714, 1]
+My Item[9]: Robin hood hat [2581, 1]
+Other Item[0]: Third-age full helmet [10350, 1]
+Other Item[1]: Saradomin hilt [11706, 1]
+Other Item[2]: Saradomin halo [18745, 1]
+
+
+
+2015-05-23 03:52:54.664: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-23 04:03:02.470: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 85000000]
+Other Item[0]: Coins [995, 85000090]
+
+
+
+2015-05-23 13:51:51.533: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 481132132]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Divine spirit shield [13740, 1]
+My Item[3]: Corrupt vesta's chainbody [13911, 1]
+My Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-25 17:54:44.363: [[Gm Shawn, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-25 18:03:35.363: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-25 18:04:46.764: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 36102085]
+Other Item[0]: Coins [995, 36000000]
+
+
+
+2015-05-25 18:08:22.164: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Armadyl helmet [11718, 1]
+My Item[2]: Armadyl chainskirt [11722, 1]
+My Item[3]: Corrupt vesta's plateskirt [13917, 1]
+My Item[4]: Amulet of ranging [15126, 1]
+My Item[5]: Armadyl chestplate [11720, 1]
+My Item[6]: Corrupt vesta's chainbody [13911, 1]
+My Item[7]: Chaotic maul [18353, 1]
+My Item[8]: Chaotic maul [18353, 1]
+Other Item[0]: Third-age full helmet [10350, 1]
+Other Item[1]: Third-age full helmet [10350, 1]
+Other Item[2]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-25 18:09:04.195: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Armadyl chainskirt [11722, 1]
+My Item[2]: Corrupt vesta's plateskirt [13917, 1]
+My Item[3]: Chaotic maul [18353, 1]
+My Item[4]: Corrupt vesta's chainbody [13911, 1]
+My Item[5]: Armadyl chestplate [11720, 1]
+My Item[6]: Armadyl helmet [11718, 1]
+My Item[7]: Amulet of ranging [15126, 1]
+My Item[8]: Chaotic maul [18353, 1]
+Other Item[0]: Third-age full helmet [10350, 1]
+Other Item[1]: Third-age full helmet [10350, 1]
+Other Item[2]: Spectral spirit shield [13744, 1]
+
+
+

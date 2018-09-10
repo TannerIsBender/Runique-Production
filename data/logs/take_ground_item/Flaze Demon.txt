@@ -1,0 +1,13 @@
+Item Taken: Bones [526, 1 - position=[2675, 3711, 0]] - 2015-03-25 13:33:41.780
+Item Taken: Casket [405, 1 - position=[2677, 3714, 0]] - 2015-03-25 13:40:59.795
+Item Taken: Coins [995, 176581 - position=[2677, 3714, 0]] - 2015-03-25 13:41:00.995
+Item Taken: Coins [995, 34545 - position=[2672, 3708, 0]] - 2015-03-25 14:10:46.598
+Item Taken: Battlefield cape [21406, 1 - position=[2670, 3713, 0]] - 2015-03-25 14:15:56.797
+Item Taken: Manta ray [392, 250 - position=[2670, 3713, 0]] - 2015-03-25 14:16:02.227
+Item Taken: Coins [995, 133705 - position=[2668, 3717, 0]] - 2015-03-25 14:54:22.027
+Item Taken: Coins [995, 94492 - position=[2671, 3714, 0]] - 2015-03-25 14:57:46.058
+Item Taken: Gold charm [12158, 1 - position=[2671, 3714, 0]] - 2015-03-25 14:57:52.658
+Item Taken: Gold charm [12158, 3 - position=[2673, 3714, 0]] - 2015-03-25 14:57:55.045
+Item Taken: Gold charm [12158, 4 - position=[2671, 3714, 0]] - 2015-03-25 14:59:09.458
+Item Taken: Gold charm [12158, 2 - position=[2668, 3717, 0]] - 2015-03-25 14:59:12.458
+Item Taken: Coins [995, 106260 - position=[2671, 3714, 0]] - 2015-03-25 15:01:41.858

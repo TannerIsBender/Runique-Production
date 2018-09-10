@@ -1,0 +1,213 @@
+2015-04-30 22:53:55.631: [Troy]:
+Item[0]: Coins [995, 200000]
+
+
+
+2015-04-30 22:58:43.031: [Troy]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-30 23:24:51.462: [Melee Cyrus]:
+Item[0]: Coins [995, 370000000]
+
+
+
+2015-05-01 19:24:00.806: [Yocky123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-01 19:25:41.615: [Yocky123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-02 19:09:22.562: [Us3rn4me]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-02 19:27:11.746: [Yocky123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 13:24:43.025: [Bamf Katie]:
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-03 13:26:28.622: [Bamf Katie]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-03 13:27:42.419: [Bamf Katie]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-03 13:29:58.615: [Bamf Katie]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-03 13:32:19.021: [Bamf Katie]:
+Item[0]: Coins [995, 44000000]
+
+
+
+2015-05-03 13:43:56.840: [Ch33sek1ng]:
+Item[0]: Coins [995, 250000000]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-03 14:07:02.241: [Bamf Katie]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-03 16:08:47.944: [Melee Cyrus]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 20:08:31.590: [Troy]:
+Item[0]: Pernix body [20151, 1]
+Item[1]: Eagle-eye kiteshield [18361, 1]
+Item[2]: Pernix chaps [20155, 1]
+Item[3]: Amulet of ranging [15126, 1]
+Item[4]: Pernix cowl [20147, 1]
+Item[5]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-04 21:24:01.644: [Psychronic]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-04 21:45:49.669: [Darkdestroyr]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-04 21:55:06.483: [Melee Cyrus]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-05-07 17:36:11.429: [Bamf Katie]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-07 18:10:03.033: [Nostalgia]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-09 12:44:23.900: [My99capes]:
+Item[0]: Virtus mask [20159, 1]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Virtus robe legs [20167, 1]
+
+
+
+2015-05-09 13:08:29.347: [Rozza123]:
+Item[0]: Pernix body [20151, 1]
+Item[1]: Eagle-eye kiteshield [18361, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Pernix cowl [20147, 1]
+Item[4]: Pernix chaps [20155, 1]
+
+
+
+2015-06-06 15:02:56.139: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 110000000]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-06 15:31:28.539: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 1000000]
+
+
+
+2015-06-06 15:33:51.362: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Bandos godsword [11696, 1]
+
+
+
+2015-06-06 15:45:03.364: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Coins [995, 20000000]
+Other Item[1]: Dragon boots [11732, 1]
+Other Item[2]: Staff of light [22208, 1]
+
+
+
+2015-06-06 15:46:00.365: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Ragefire boots [21793, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+Other Item[1]: Staff of light [22208, 1]
+
+
+
+2015-06-06 15:46:35.169: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Ragefire boots [21793, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+Other Item[1]: Staff of light [22208, 1]
+
+
+
+2015-06-06 15:48:30.970: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Marmaros plateskirt [16651, 1]
+Other Item[0]: Novite platelegs [16669, 1]
+
+
+
+2015-06-06 15:55:44.785: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Novite platelegs [16669, 1]
+My Item[1]: Marmaros plateskirt [16651, 1]
+My Item[2]: Ragefire boots [21793, 1]
+My Item[3]: Coins [995, 20000000]
+Other Item[0]: Novite full helm [16691, 1]
+Other Item[1]: Novite full helm [16691, 1]
+Other Item[2]: Novite chainbody [16713, 1]
+
+
+
+2015-06-06 16:11:44.789: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Torva full helm [20135, 1]
+Other Item[0]: Torva full helm [20135, 1]
+
+
+
+2015-06-06 16:19:51.401: [[Dominatefear, Chairtvtree3; 24.60.146.165, 00-0E-8E-18-4A-CE]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Saradomin sword [11730, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-06 16:20:47.796: [[Dominatefear, Chairtvtree3; 24.60.146.165, 00-0E-8E-18-4A-CE]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+
+
+
+2015-06-06 16:48:17.238: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Staff of the dead [11791, 1]
+My Item[1]: Green h'ween mask [1053, 1]
+Other Item[0]: Staff of the dead [11791, 1]
+Other Item[1]: Blue h'ween mask [1055, 1]
+
+
+

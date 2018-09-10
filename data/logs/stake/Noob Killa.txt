@@ -1,0 +1,20 @@
+2015-04-08 00:04:40.329: [Red Basket]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 00:05:42.737: [Red Basket]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-08 00:07:06.136: [Red Basket]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-08 00:08:29.529: [Red Basket]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+

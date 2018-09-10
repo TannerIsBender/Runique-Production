@@ -1,0 +1,45 @@
+2015-04-17 16:50:11.181: [Iron Ph]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-17 16:53:04.576: [Rk Mirrage]:
+Item[0]: Coins [995, 3100000]
+
+
+
+2015-04-17 17:42:49.596: [Rk Mirrage]:
+Item[0]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-17 17:53:47.794: [Rk Mirrage]:
+Item[0]: Zamorakian spear [11717, 2]
+
+
+
+2015-04-17 17:54:21.394: [Rk Mirrage]:
+Item[0]: Zamorakian spear [11717, 2]
+
+
+
+2015-04-17 17:56:45.428: [Rk Mirrage]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 17:57:15.994: [Rk Mirrage]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 17:57:45.428: [Rk Mirrage]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 17:58:44.194: [Rk Mirrage]:
+Item[0]: Coins [995, 28000000]
+
+
+

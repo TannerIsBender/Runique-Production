@@ -1,0 +1,43 @@
+2015-04-02 01:41:44.518: [Noko Pk]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-04-02 01:42:38.527: [Noko Pk]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-03 00:54:00.964: [Tonka]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Spectral sigil [13752, 1]
+
+
+
+2015-04-03 00:54:58.558: [Tonka]:
+Item[0]: Dragon full helm [11335, 1]
+
+
+
+2015-04-06 03:40:15.962: [Gang Member]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-06 03:43:11.193: [Gang Member]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Coins [995, 400000000]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+Item[4]: Vesta's longsword [13899, 1]
+Item[5]: Pernix cowl [20147, 1]
+
+
+
+2015-04-06 03:44:49.565: [Gang Member]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+

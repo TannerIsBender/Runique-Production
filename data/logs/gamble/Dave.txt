@@ -1,0 +1,504 @@
+2015-04-16 19:15:50.444: [Simberj]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-16 19:29:25.244: [Ironmansam]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-16 19:34:09.045: [Simberj]:
+
+
+
+2015-04-16 19:36:08.431: [Simberj]:
+
+
+
+2015-04-16 19:52:42.678: [Simberj]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 19:56:46.869: [Thug Life]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 20:01:57.678: [Simberj]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 20:39:29.493: [Drackys Bank]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 20:41:19.894: [Drackys Bank]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 20:46:02.469: [Drackys Bank]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Coins [995, 10000000]
+
+
+
+2015-04-16 22:05:52.932: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-16 22:09:42.144: [Melody]:
+
+
+
+2015-04-16 22:12:04.947: [Simberj]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-16 22:13:38.547: [Simberj]:
+
+
+
+2015-04-16 22:14:54.744: [Simberj]:
+
+
+
+2015-04-16 22:16:42.722: [Simberj]:
+
+
+
+2015-04-16 22:50:56.569: [Simberj]:
+
+
+
+2015-04-16 22:51:36.778: [Simberj]:
+
+
+
+2015-04-16 22:52:13.378: [Simberj]:
+
+
+
+2015-04-16 23:12:49.372: [Simberj]:
+
+
+
+2015-04-16 23:14:00.169: [Untouchedtea]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-17 00:09:54.231: [Brazy]:
+
+
+
+2015-04-17 00:10:44.617: [Brazy]:
+
+
+
+2015-04-17 00:11:20.031: [Brazy]:
+
+
+
+2015-04-17 00:20:25.431: [Brazy]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 00:37:25.421: [Brazy]:
+
+
+
+2015-04-17 00:54:56.643: [Brazy]:
+
+
+
+2015-04-17 00:59:00.243: [Brazy]:
+
+
+
+2015-04-17 01:01:15.243: [Brazy]:
+
+
+
+2015-04-17 01:09:39.247: [Brazy]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-17 01:10:38.643: [Brazy]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-17 01:12:32.047: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 01:15:11.634: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 01:16:05.031: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 01:17:31.437: [Simberj]:
+Item[0]: Staff of light [22212, 1]
+
+
+
+2015-04-17 01:32:29.078: [St3alth Skil]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-17 01:35:03.878: [Aleexk3]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 01:38:41.646: [Aleexk3]:
+Item[0]: Staff of light [22212, 1]
+
+
+
+2015-04-17 01:42:15.863: [Noli Ftw]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 01:42:56.662: [Noli Ftw]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 01:44:50.663: [Fat Dope]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-17 01:47:27.847: [Fat Dope]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-17 01:50:10.478: [Fat Dope]:
+
+
+
+2015-04-17 02:04:27.259: [Aleexk3]:
+Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-04-17 02:05:15.878: [Aleexk3]:
+Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-04-17 02:06:03.268: [Aleexk3]:
+Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-04-17 02:07:03.878: [Aleexk3]:
+Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-04-17 02:48:42.444: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 03:53:05.277: [Goog]:
+Item[0]: Dharok's platelegs [4722, 1]
+Item[1]: Saradomin sword [11730, 1]
+
+
+
+2015-04-17 03:53:45.478: [Goog]:
+Item[0]: Saradomin sword [11730, 1]
+Item[1]: Dharok's platelegs [4722, 1]
+Item[2]: Coins [995, 15000000]
+
+
+
+2015-04-17 03:57:11.882: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 03:59:59.881: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 04:00:58.688: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 04:01:24.479: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 04:04:28.687: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 04:04:58.681: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 04:05:22.697: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 04:05:47.882: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 04:06:25.080: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 04:06:54.480: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 11:40:03.181: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-17 11:40:47.597: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-18 02:22:36.096: [Star]:
+Item[0]: Coins [995, 700000000]
+
+
+
+2015-04-18 02:32:33.727: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 02:35:03.727: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 02:36:00.727: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 02:36:58.300: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 02:37:53.518: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 02:38:46.917: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-19 21:19:44.339: [Mvgxzero]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:20:25.124: [Mvgxzero]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:24:39.539: [Mvgxzero]:
+Item[0]: Golden mining gloves [20787, 1]
+Item[1]: Golden mining boots [20788, 1]
+
+
+
+2015-04-19 21:25:58.124: [Mvgxzero]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-19 21:33:32.329: [Star]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-19 21:34:25.723: [Star]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-19 21:35:07.126: [Star]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-19 21:35:39.526: [Star]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:38:01.142: [Star]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:38:32.926: [Star]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:40:47.318: [Untouchedtea]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-19 21:41:29.912: [Untouchedtea]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:30:49.410: [Spec You Out]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:32:13.401: [Spec You Out]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:32:57.809: [Spec You Out]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-12 21:27:47.876: [[Bumblebee, naldinho999; 200.161.157.32, C8-9C-DC-CF-5E-A4]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-26 22:15:13.448: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-26 22:16:16.439: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Divine spirit shield [13740, 1]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-26 22:18:53.648: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Bandos chestplate [11724, 1]
+My Item[1]: Bandos tassets [11726, 1]
+My Item[3]: Abyssal whip [15441, 1]
+My Item[4]: Amulet of fury [6585, 1]
+My Item[5]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 275000000]
+
+
+
+2015-05-26 22:22:42.226: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-26 22:23:45.237: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-26 22:24:38.037: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Vesta's chainbody [13887, 1]
+My Item[2]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-26 22:25:58.437: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-26 22:27:05.632: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+
+
+
+2015-05-26 22:32:12.848: [[Goblin Guard, Adamdapure15; 86.168.112.9, 94-39-E5-B5-C8-57]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Corrupt dragon sq shield [13964, 1]
+Other Item[1]: Corrupt dragon platelegs [13970, 1]
+Other Item[2]: Corrupt dragon plateskirt [13967, 1]
+Other Item[3]: White beret [2637, 1]
+Other Item[4]: White beret [2637, 1]
+Other Item[5]: Infinity gloves [6922, 1]
+Other Item[6]: Infinity hat [6918, 1]
+Other Item[7]: Frost dragon mask [19293, 1]
+
+
+
+2015-05-26 22:32:48.263: [[Goblin Guard, Adamdapure15; 86.168.112.9, 94-39-E5-B5-C8-57]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Frost dragon mask [19293, 1]
+Other Item[1]: Infinity hat [6918, 1]
+Other Item[2]: Infinity gloves [6922, 1]
+Other Item[3]: White beret [2637, 1]
+Other Item[4]: White beret [2637, 1]
+Other Item[5]: Corrupt dragon sq shield [13964, 1]
+Other Item[6]: Corrupt dragon platelegs [13970, 1]
+Other Item[7]: Corrupt dragon plateskirt [13967, 1]
+
+
+
+2015-05-26 22:34:17.063: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Abyssal whip [15441, 1]
+My Item[2]: Dragonfire shield [11283, 1]
+My Item[3]: Bandos tassets [11726, 1]
+My Item[4]: Dragon boots [11732, 1]
+My Item[5]: Bandos chestplate [11724, 1]
+
+
+

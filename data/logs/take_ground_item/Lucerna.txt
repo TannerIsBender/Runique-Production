@@ -1,0 +1,2 @@
+Item Taken: Blue charm [12163, 1 - position=[2677, 3714, 0]] - 2015-03-25 09:24:29.021
+Item Taken: Green charm [12159, 1 - position=[2677, 3714, 0]] - 2015-03-25 09:24:29.627

@@ -1,0 +1,21 @@
+2015-05-09 14:18:51.587: [Rozza123]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-17 06:48:58.962: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-17 06:52:35.569: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Godsword shard 1 [11710, 1]
+My Item[1]: Coins [995, 100000000]
+My Item[2]: Full slayer helmet [15492, 1]
+My Item[3]: Abyssal vine whip [21373, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+Other Item[1]: Coins [995, 120000000]
+
+
+

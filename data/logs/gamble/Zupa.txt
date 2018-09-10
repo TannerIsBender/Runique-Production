@@ -1,0 +1,25 @@
+2015-05-12 22:24:19.745: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-12 22:32:37.737: [[Fanv, townhall1; 98.221.109.239, 64-80-99-39-8C-10]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-13 01:35:57.076: [[I Katie I, lillyrose9; 94.196.252.154, None]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Arcane spirit shield [13738, 1]
+
+
+
+2015-05-13 01:40:24.685: [[I Katie I, lillyrose9; 94.196.252.154, None]]:
+My Item[0]: Coins [995, 480000000]
+Other Item[0]: Arcane spirit shield [13738, 1]
+Other Item[1]: Elysian spirit shield [13742, 1]
+
+
+

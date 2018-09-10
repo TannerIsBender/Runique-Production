@@ -1,0 +1,517 @@
+2015-05-06 13:27:37.684: [Coldott]:
+Item[0]: Dark bow [15701, 1]
+
+
+
+2015-05-06 13:42:01.684: [Iron Jacob]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Anger battleaxe [7807, 1]
+Item[2]: Zamorak godsword [11700, 1]
+Item[3]: Bandos godsword [11696, 1]
+Item[4]: Coins [995, 9000000]
+
+
+
+2015-05-06 15:34:52.175: [Coldott]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-06 15:37:07.790: [Crimson Bear]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-06 15:37:52.821: [Crimson Bear]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-06 15:38:50.384: [Crimson Bear]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-06 15:39:26.422: [Crimson Bear]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-06 15:41:56.384: [Rozza123]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-06 15:42:44.391: [Rozza123]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-06 15:43:29.390: [Rozza123]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-06 15:45:56.399: [Coldott]:
+Item[0]: Coins [995, 82247607]
+
+
+
+2015-05-06 16:28:30.022: [Davetherave]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 16:33:58.221: [Davetherave]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 16:36:17.422: [Davetherave]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-05-06 17:07:07.263: [Rozza123]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-06 17:07:37.269: [Rozza123]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-06 17:08:03.662: [Rozza123]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Bandos godsword [11696, 1]
+
+
+
+2015-05-06 17:08:27.662: [Rozza123]:
+Item[0]: Godsword shard 2 [11712, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-06 17:18:27.063: [Rozza123]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-06 17:19:39.668: [Rozza123]:
+Item[0]: Zuriel's staff [13867, 1]
+Item[1]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-06 17:59:54.122: [Billionare]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-06 18:02:00.691: [Freddie007]:
+Item[0]: Red elegant legs [10406, 1]
+Item[1]: Gnome scarf [9470, 1]
+Item[2]: A powdered wig [10392, 1]
+Item[3]: Red elegant shirt [10404, 1]
+
+
+
+2015-05-06 18:02:48.091: [Freddie007]:
+Item[0]: A powdered wig [10392, 1]
+Item[1]: Red elegant shirt [10404, 1]
+Item[2]: Red elegant legs [10406, 1]
+Item[3]: Gnome scarf [9470, 1]
+
+
+
+2015-05-06 18:04:04.300: [Freddie007]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Bandos godsword [11696, 1]
+Item[2]: Red elegant shirt [10404, 1]
+
+
+
+2015-05-06 18:04:04.321: [Freddie007]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Bandos godsword [11696, 1]
+Item[2]: Red elegant shirt [10404, 1]
+
+
+
+2015-05-06 18:05:34.321: [Billionare]:
+Item[0]: Gnome scarf [9470, 1]
+
+
+
+2015-05-06 18:06:04.313: [Billionare]:
+Item[0]: Gnome scarf [9470, 1]
+
+
+
+2015-05-06 18:06:04.317: [Billionare]:
+Item[0]: Gnome scarf [9470, 1]
+
+
+
+2015-05-06 18:07:38.522: [Billionare]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-06 18:08:50.518: [Us3rn4me]:
+Item[0]: Gnome scarf [9470, 1]
+
+
+
+2015-05-07 03:07:20.322: [Rozza123]:
+Item[0]: Coins [995, 19999566]
+
+
+
+2015-05-07 03:10:08.322: [Rozza123]:
+Item[0]: Obsidian cape [6568, 1]
+
+
+
+2015-05-07 03:10:33.522: [Rozza123]:
+Item[0]: Mole skin [7418, 1]
+Item[1]: Obsidian cape [6568, 1]
+
+
+
+2015-05-07 03:10:34.120: [Rozza123]:
+Item[0]: Mole skin [7418, 1]
+Item[1]: Obsidian cape [6568, 1]
+
+
+
+2015-05-07 03:11:03.528: [Rozza123]:
+Item[0]: Obsidian cape [6568, 1]
+Item[1]: Mole skin [7418, 1]
+Item[2]: Mole skin [7418, 1]
+Item[3]: Dragon dagger [1215, 1]
+
+
+
+2015-05-07 03:11:25.722: [Rozza123]:
+Item[0]: Dragon dagger [1215, 1]
+Item[1]: Obsidian cape [6568, 1]
+Item[2]: Mole skin [7418, 1]
+Item[3]: Mole skin [7418, 1]
+
+
+
+2015-05-07 03:11:49.722: [Rozza123]:
+Item[0]: Mole skin [7418, 1]
+Item[1]: Dragon dagger [1215, 1]
+Item[2]: Obsidian cape [6568, 1]
+Item[3]: Mole skin [7418, 1]
+
+
+
+2015-05-07 03:12:14.322: [Rozza123]:
+Item[0]: Mole skin [7418, 1]
+Item[1]: Mole skin [7418, 1]
+Item[2]: Dragon dagger [1215, 1]
+Item[3]: Obsidian cape [6568, 1]
+
+
+
+2015-05-07 03:13:36.530: [Rozza123]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Ranger boots [2577, 1]
+
+
+
+2015-05-10 03:50:14.061: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 03:50:56.041: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 08:45:01.668: [Max]:
+Item[0]: Dragon chainbody [3140, 1]
+Item[1]: Flameburst defender [17273, 1]
+Item[2]: Tome of frost [18346, 1]
+Item[3]: Scroll of augury [18344, 1]
+Item[4]: Faithful shield [18747, 1]
+Item[5]: Tome of frost [18346, 1]
+Item[6]: Fury shark [20429, 1]
+Item[7]: Bat mask [13111, 1]
+Item[8]: Anti-poison totem [18340, 1]
+Item[9]: Top hat [13101, 1]
+Item[10]: Infinity hat [6918, 1]
+Item[11]: Dragon plateskirt [4585, 1]
+Item[12]: Brown tricorn hat [8962, 1]
+Item[13]: Penguin mask [13109, 1]
+Item[14]: Water rune [555, 100000]
+Item[15]: Penguin mask [13109, 1]
+Item[16]: New crystal bow [4212, 1]
+Item[17]: Book of war [19613, 1]
+
+
+
+2015-05-10 09:05:55.108: [Justpropt]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:06:59.906: [Justpropt]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:11:44.903: [Justpropt]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:12:47.900: [Justpropt]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:19:50.291: [Justpropt]:
+Item[0]: Splitbark body [3387, 1]
+Item[1]: Splitbark legs [3389, 1]
+Item[2]: Dragon platelegs (or) [19338, 1]
+Item[3]: Splitbark helm [3385, 1]
+Item[4]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:20:55.106: [Justpropt]:
+Item[0]: Hand cannon shot [15243, 812]
+
+
+
+2015-05-10 09:31:03.507: [Justpropt]:
+Item[0]: Dragon spear [1249, 1]
+Item[1]: Amulet of glory (3) [1710, 1]
+Item[2]: Raw swordfish [371, 1]
+Item[3]: Raw swordfish [371, 1]
+Item[4]: Raw swordfish [371, 1]
+Item[5]: Golden feather [2950, 1]
+Item[6]: Ruby ring [1641, 1]
+Item[7]: Sapphire ring [1637, 1]
+Item[8]: Sapphire ring [1637, 1]
+Item[9]: Diamond ring [1643, 1]
+Item[10]: Blue charm [12163, 1]
+Item[11]: Burnt bones [529, 36]
+Item[12]: Law rune [563, 24]
+Item[13]: Magic shortbow [861, 1]
+Item[14]: Anti-dragon shield [1540, 1]
+Item[15]: Snakeskin boots [6328, 1]
+Item[16]: Sapphire lantern [4700, 1]
+Item[17]: Sapphire lantern [4700, 1]
+Item[18]: Blue beret [2633, 1]
+Item[19]: Blue beret [2633, 1]
+Item[20]: Black d'hide body [2503, 1]
+
+
+
+2015-05-10 09:31:42.500: [Justpropt]:
+Item[0]: Black d'hide body [2503, 1]
+Item[1]: Blue beret [2633, 1]
+Item[2]: Snakeskin boots [6328, 1]
+Item[3]: Sapphire lantern [4700, 1]
+Item[4]: Sapphire lantern [4700, 1]
+Item[5]: Blue beret [2633, 1]
+Item[6]: Anti-dragon shield [1540, 1]
+Item[7]: Black d'hide chaps [2497, 1]
+Item[8]: Black d'hide vambraces [2491, 1]
+Item[9]: Magic shortbow [861, 1]
+Item[10]: Blue charm [12163, 1]
+Item[11]: Sapphire ring [1637, 1]
+Item[12]: Sapphire ring [1637, 1]
+Item[13]: Diamond ring [1643, 1]
+Item[14]: Diamond ring [1643, 1]
+Item[15]: Ruby ring [1641, 1]
+Item[16]: Raw swordfish [371, 1]
+Item[17]: Raw swordfish [371, 1]
+Item[18]: Dragon spear [1249, 1]
+Item[19]: Amulet of glory (3) [1710, 1]
+Item[20]: Raw swordfish [371, 1]
+
+
+
+2015-05-10 09:32:51.526: [Justpropt]:
+Item[0]: Water rune [555, 50000]
+Item[1]: Pike [351, 1]
+Item[2]: Burnt bones [529, 36]
+Item[3]: Law rune [563, 24]
+Item[4]: Tinderbox [590, 1]
+Item[5]: Bronze hatchet [1351, 1]
+Item[6]: Rune pickaxe [1275, 1]
+Item[7]: Cabbage seed [5324, 1]
+
+
+
+2015-05-10 09:36:16.725: [Justpropt]:
+Item[0]: Bonecrusher [18337, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-05-10 11:09:26.422: [T Cape]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:09:48.592: [T Cape]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:11:27.021: [T Cape]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 11:12:50.385: [Kuto]:
+Item[0]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-05-10 11:13:35.421: [Kuto]:
+Item[0]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-05-10 11:14:52.199: [Kuto]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:15:36.622: [Kuto]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:16:27.613: [Kuto]:
+Item[0]: Coins [995, 27000000]
+
+
+
+2015-05-10 11:17:17.399: [Kuto]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-05-10 11:17:56.999: [Kuto]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-05-10 11:22:08.416: [Crazycody]:
+Item[1]: Coins [995, 44000000]
+
+
+
+2015-05-10 11:22:40.822: [Crazycody]:
+Item[0]: Coins [995, 88000000]
+
+
+
+2015-05-10 16:36:21.869: [My99capes]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-10 16:36:54.863: [My99capes]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-10 16:38:56.661: [My99capes]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 16:39:27.869: [My99capes]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-10 16:40:21.270: [My99capes]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-13 05:04:36.826: [[Pyro Zach, Hannahday1; 174.131.40.182, 7A-79-19-1B-81-EE]]:
+My Item[0]: Coins [995, 10000566]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-13 05:06:35.637: [[Pyro Zach, Hannahday1; 174.131.40.182, 7A-79-19-1B-81-EE]]:
+My Item[0]: Black ibis body [21532, 1]
+My Item[1]: Black dragon mask [19290, 1]
+My Item[2]: Black ibis legs [21533, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-13 05:07:25.438: [[Pyro Zach, Hannahday1; 174.131.40.182, 7A-79-19-1B-81-EE]]:
+My Item[0]: Black dragon mask [19290, 1]
+My Item[1]: Black ibis legs [21533, 1]
+My Item[2]: Black ibis body [21532, 1]
+Other Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-13 05:18:46.439: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-13 05:18:47.036: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-17 07:01:06.168: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-17 07:02:00.769: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Arcane spirit shield [13738, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-17 07:02:54.169: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Steadfast boots [21788, 1]
+My Item[1]: Tzrek-jad [21512, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-05-17 07:04:39.769: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Golden mining trousers [20790, 1]
+My Item[1]: Golden mining boots [20788, 1]
+My Item[2]: Golden mining gloves [20787, 1]
+My Item[3]: Golden mining helmet [20789, 1]
+My Item[4]: Golden mining top [20791, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-17 07:15:40.389: [[1hit 1down, natasha1290; 101.166.195.165, 0C-84-DC-C9-B9-8D]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+Other Item[1]: Arcane spirit shield [13738, 1]
+Other Item[2]: Vesta's plateskirt [13893, 1]
+Other Item[3]: Corrupt vesta's plateskirt [13917, 1]
+
+
+

@@ -1,0 +1,109 @@
+2015-06-04 17:40:58.188: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Coins [995, 100000000]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+Other Item[3]: Abyssal whip [4151, 1]
+Other Item[4]: Abyssal whip [4151, 1]
+Other Item[5]: Abyssal whip [15444, 1]
+Other Item[6]: Abyssal whip [15444, 1]
+
+
+
+2015-06-04 17:46:35.387: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Dharok's greataxe [4718, 1]
+Other Item[1]: Dharok's platebody [4720, 1]
+Other Item[2]: Dragon hatchet [6739, 1]
+Other Item[3]: Dragon pickaxe [15259, 1]
+Other Item[4]: Full slayer helmet [15492, 1]
+Other Item[5]: Berserker ring [6737, 1]
+Other Item[6]: Fighter torso [10551, 1]
+
+
+
+2015-06-04 17:48:05.401: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 55116608]
+Other Item[0]: Coins [995, 55000000]
+
+
+
+2015-06-04 17:48:59.401: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Coins [995, 135116608]
+Other Item[1]: Dharok's platebody [4720, 1]
+Other Item[2]: Full slayer helmet [15492, 1]
+Other Item[3]: Berserker ring [6737, 1]
+Other Item[4]: Fighter torso [10551, 1]
+Other Item[5]: Dharok's greataxe [4718, 1]
+Other Item[6]: Dragon hatchet [6739, 1]
+Other Item[7]: Dragon pickaxe [15259, 1]
+
+
+
+2015-06-04 17:49:44.393: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15442, 1]
+My Item[3]: Abyssal whip [4151, 1]
+My Item[4]: Abyssal whip [4151, 1]
+My Item[5]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 90000000]
+
+
+
+2015-06-04 17:50:40.791: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15442, 1]
+My Item[3]: Abyssal whip [15442, 1]
+My Item[4]: Abyssal whip [4151, 1]
+My Item[5]: Abyssal whip [4151, 1]
+My Item[6]: Coins [995, 90000000]
+Other Item[0]: Coins [995, 45116608]
+Other Item[1]: Dragon hatchet [6739, 1]
+Other Item[2]: Dragon pickaxe [15259, 1]
+Other Item[3]: Full slayer helmet [15492, 1]
+Other Item[4]: Berserker ring [6737, 1]
+Other Item[5]: Fighter torso [10551, 1]
+Other Item[6]: Dharok's platebody [4720, 1]
+Other Item[7]: Dharok's greataxe [4718, 1]
+
+
+
+2015-06-04 17:51:31.806: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 22000000]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-06-04 17:52:08.391: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Coins [995, 22000000]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 17:53:12.591: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Vesta's plateskirt [13893, 1]
+My Item[1]: Abyssal whip [15441, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Abyssal whip [15444, 1]
+Other Item[2]: Coins [995, 100000000]
+
+
+
+2015-06-04 17:53:52.801: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Abyssal whip [15441, 1]
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Abyssal whip [15444, 1]
+Other Item[2]: Coins [995, 100000000]
+
+
+

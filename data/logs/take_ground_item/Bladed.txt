@@ -1,0 +1,8 @@
+Item Telegrabbed: Amulet of fury (or) [19335, 1 - [2514, 9446, 0]] - 2015-04-29 05:45:51.180
+Item Telegrabbed: Corrupt vesta's chainbody [13911, 1 - [2514, 9446, 0]] - 2015-04-29 05:45:55.366
+Item Telegrabbed: Corrupt vesta's plateskirt [13917, 1 - [2514, 9446, 0]] - 2015-04-29 05:46:00.166
+Item Telegrabbed: Gloves [7462, 1 - [2514, 9446, 0]] - 2015-04-29 05:46:04.980
+Item Telegrabbed: Berserker ring (i) [15220, 1 - [2514, 9446, 0]] - 2015-04-29 05:46:10.366
+Item Telegrabbed: TokHaar-Kal [20036, 1 - [2514, 9446, 0]] - 2015-04-29 05:46:15.165
+Item Telegrabbed: Tome of frost [18346, 1 - [2514, 9446, 0]] - 2015-04-29 05:46:19.996
+Item Telegrabbed: Golden hammer [20084, 1 - [2514, 9446, 0]] - 2015-04-29 05:46:24.766

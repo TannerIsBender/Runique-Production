@@ -1,0 +1,65 @@
+2015-05-09 16:15:57.089: [Nostalgia]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-09 16:16:28.289: [Nostalgia]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-09 16:16:57.090: [Nostalgia]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-09 16:18:21.688: [Nostalgia]:
+Item[0]: Armadyl crossbow [11785, 1]
+Item[1]: Virtus robe legs [20167, 1]
+Item[2]: Virtus robe top [20163, 1]
+Item[3]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-09 16:27:12.690: [Nostalgia]:
+Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-05-09 16:27:48.690: [Nostalgia]:
+Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-05-30 13:48:16.789: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-30 13:49:02.395: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-30 13:49:38.370: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-30 13:50:52.201: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-30 13:52:38.395: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+

@@ -1,0 +1,29 @@
+Item Telegrabbed: TokHaar-Kal [20036, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:25.136
+Item Telegrabbed: Verac's plateskirt 0 [4998, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:31.138
+Item Telegrabbed: Dragon dagger (p++) [5698, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:34.737
+Item Telegrabbed: Gloves [7462, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:40.139
+Item Telegrabbed: Scroll [6758, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:44.939
+Item Telegrabbed: Karil's top 0 [4944, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:50.340
+Item Telegrabbed: Overload (3) [15333, 1 - [2870, 5363, 2]] - 2015-06-08 03:34:54.540
+Item Telegrabbed: Dragon boots [11732, 1 - [2870, 5363, 2]] - 2015-06-08 03:35:01.139
+Item Telegrabbed: Overload (2) [15334, 1 - [2870, 5363, 2]] - 2015-06-08 03:35:05.323
+Item Telegrabbed: Saradomin brew (4) [6685, 1 - [2870, 5363, 2]] - 2015-06-08 03:35:13.135
+Item Telegrabbed: Saradomin brew (4) [6685, 1 - [2870, 5363, 2]] - 2015-06-08 03:35:18.523
+Item Telegrabbed: Saradomin brew (4) [6685, 1 - [2870, 5363, 2]] - 2015-06-08 03:35:25.139
+Item Telegrabbed: Saradomin brew (4) [6685, 1 - [2870, 5363, 2]] - 2015-06-08 03:35:29.323
+Item Telegrabbed: Helm of neitiznot [10828, 1 - [2870, 5360, 2]] - 2015-06-08 03:35:34.138
+Item Telegrabbed: Hammer [2347, 1 - [2870, 5360, 2]] - 2015-06-08 03:35:41.936
+Item Telegrabbed: Dragon dagger [1215, 1 - [2870, 5360, 2]] - 2015-06-08 03:35:47.341
+Item Telegrabbed: Rune platebody [1127, 1 - [2870, 5360, 2]] - 2015-06-08 03:35:51.532
+Item Telegrabbed: Overload (3) [15333, 1 - [2870, 5360, 2]] - 2015-06-08 03:35:55.723
+Item Telegrabbed: Amulet of glory (4) [1712, 1 - [2870, 5360, 2]] - 2015-06-08 03:35:59.923
+Item Telegrabbed: Saradomin brew (4) [6685, 1 - [2870, 5363, 2]] - 2015-06-08 03:36:04.137
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:08.938
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:12.536
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:16.737
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:22.739
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:26.923
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:31.137
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:35.335
+Item Telegrabbed: Super restore (3) [3026, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:40.737
+Item Telegrabbed: Saradomin brew (3) [6687, 1 - [2870, 5360, 2]] - 2015-06-08 03:36:47.338

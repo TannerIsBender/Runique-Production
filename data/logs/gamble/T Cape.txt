@@ -1,0 +1,236 @@
+2015-04-12 19:03:44.094: [Immortal Sin]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-12 19:05:53.717: [Immortal Sin]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 19:07:12.311: [Immortal Sin]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-13 18:10:48.700: [Nostalgia]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-04-17 13:48:09.850: [Zarox]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-17 13:49:13.443: [Zarox]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-04-17 13:50:02.634: [Zarox]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-17 15:30:22.528: [Ermac]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-17 15:31:01.520: [Ermac]:
+Item[0]: Virtus robe top [20163, 1]
+
+
+
+2015-04-23 17:10:19.233: [Aurora]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-23 17:14:35.403: [Aurora]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-23 17:17:01.815: [Simberj]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-05-10 11:08:42.021: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:10:19.200: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:10:54.621: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 11:12:00.000: [Quuel]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-29 21:29:51.416: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-29 21:34:56.817: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Dharok's helm [4716, 1]
+My Item[1]: Dharok's platelegs [4722, 1]
+My Item[2]: Dharok's greataxe [4718, 1]
+My Item[3]: Dharok's platebody [4720, 1]
+My Item[4]: Dragonfire shield [11283, 1]
+My Item[5]: Armadyl godsword [11694, 1]
+My Item[6]: Dragon claws [14484, 1]
+My Item[7]: Dragon hatchet [6739, 1]
+My Item[8]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 350000000]
+
+
+
+2015-05-29 21:36:29.211: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-31 08:45:04.471: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Coins [995, 80000000]
+My Item[1]: Golden mining top [20791, 1]
+My Item[2]: Golden mining trousers [20790, 1]
+My Item[3]: Golden mining helmet [20789, 1]
+My Item[4]: Golden mining gloves [20787, 1]
+My Item[5]: Golden mining boots [20788, 1]
+My Item[6]: Dragon boots [11732, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Dragon boots [11732, 1]
+My Item[9]: Dragon boots [11732, 1]
+My Item[10]: Dragon boots [11732, 1]
+My Item[11]: Saradomin hilt [11706, 1]
+My Item[12]: Amulet of fury [6585, 1]
+My Item[13]: Staff of light [22210, 1]
+My Item[14]: Pantaloons [10396, 1]
+My Item[15]: Tzrek-jad [21512, 1]
+My Item[16]: Saradomin hilt [11706, 1]
+My Item[17]: Korasi's sword [19780, 1]
+My Item[18]: Full slayer helmet [15492, 1]
+My Item[19]: Vote Ticket [13256, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Dragon claws [14484, 1]
+
+
+
+2015-05-31 08:46:38.695: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Staff of light [22210, 1]
+My Item[3]: Korasi's sword [19780, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-31 08:46:53.671: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Korasi's sword [19780, 1]
+My Item[2]: Staff of light [22210, 1]
+My Item[3]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-31 08:47:08.064: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Staff of light [22210, 1]
+My Item[3]: Korasi's sword [19780, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-31 08:47:33.864: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Chaotic longsword [18351, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:47:50.672: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Chaotic longsword [18351, 1]
+My Item[2]: Chaotic maul [18353, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:48:11.695: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic longsword [18351, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:49:06.875: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-01 16:27:22.200: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic longsword [18351, 1]
+My Item[3]: Dragon claws [14484, 1]
+My Item[4]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-03 19:37:57.542: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-03 19:38:55.739: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-03 19:40:17.337: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 13:40:29.176: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-04 13:40:54.985: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+

@@ -1,0 +1,14 @@
+2015-04-02 01:54:54.144: [Noko Pk]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-02 22:06:47.657: [Raped]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Dragon platebody (or) [19337, 1]
+Item[2]: Dragon full helm [11335, 1]
+Item[3]: Dragon square shield (or) [19340, 1]
+Item[4]: Dragon platelegs [4087, 1]
+
+
+

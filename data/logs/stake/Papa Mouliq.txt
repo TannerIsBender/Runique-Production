@@ -1,0 +1,181 @@
+2015-04-16 11:58:36.379: [Raxxu]:
+
+
+
+2015-04-16 12:22:38.792: [Anciency]:
+
+
+
+2015-04-16 12:33:08.194: [Mike Hunt]:
+
+
+
+2015-04-16 12:34:59.168: [Mike Hunt]:
+
+
+
+2015-04-16 12:56:43.000: [Shoxie]:
+
+
+
+2015-04-16 14:37:03.447: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-16 14:37:48.478: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:38:41.878: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:39:12.447: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:39:44.878: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:40:26.878: [Kn0gen]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+Item[1]: Corrupt statius's full helm [13920, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-16 14:41:13.652: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:43:13.066: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:44:17.266: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-16 14:44:59.279: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Corrupt statius's full helm [13920, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-16 14:47:05.267: [Kn0gen]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-16 14:47:55.667: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:50:04.666: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 16:15:07.700: [Zarox]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-16 16:22:48.516: [Zarox]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-16 16:23:49.111: [Zarox]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-16 16:24:45.516: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 16:26:19.717: [Zarox]:
+Item[0]: Coins [995, 150000000]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 16:27:17.315: [Zarox]:
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-16 16:28:21.547: [Zarox]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-16 16:30:17.919: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 16:46:55.747: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Coins [995, 50000000]
+
+
+
+2015-04-16 16:49:59.341: [Zarox]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-16 16:53:26.947: [Zarox]:
+Item[0]: Coins [995, 350000000]
+
+
+
+2015-04-16 16:55:12.532: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 17:02:17.342: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Corrupt vesta's plateskirt [13917, 1]
+
+
+

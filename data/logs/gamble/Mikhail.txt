@@ -1,0 +1,185 @@
+2015-06-05 14:25:07.569: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 6000000]
+Other Item[0]: Coins [995, 6000000]
+
+
+
+2015-06-05 14:53:59.201: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 10000000]
+Other Item[1]: Amulet of fury [6585, 1]
+Other Item[2]: Gnome goggles [9472, 1]
+Other Item[4]: Tokkul [6529, 18250]
+
+
+
+2015-06-05 15:02:19.001: [[Calsta, coventry; 86.140.19.16, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 15:02:53.807: [[Calsta, coventry; 86.140.19.16, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 15:10:56.200: [[Calsta, coventry; 86.140.19.16, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 50250000]
+
+
+
+2015-06-05 15:15:55.623: [[Zobothehobo, qball134; 173.19.56.16, 80-56-F2-3B-CC-17]]:
+My Item[0]: Armadyl chestplate [11720, 1]
+My Item[1]: Armadyl helmet [11718, 1]
+My Item[2]: Amulet of fury [6585, 1]
+My Item[3]: Amulet of fury [6585, 1]
+Other Item[0]: Armadyl chainskirt [11722, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-05 15:18:22.033: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-05 15:19:05.819: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-05 15:29:49.023: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Abyssal whip [15441, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-06-05 15:35:31.023: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Corrupt vesta's longsword [13923, 1]
+My Item[1]: Yellow robin hood hat [20950, 1]
+Other Item[0]: Draconic visage [11286, 1]
+
+
+
+2015-06-05 15:36:18.423: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Full slayer helmet [15492, 1]
+My Item[1]: Abyssal whip [15441, 1]
+My Item[2]: Tokkul [6529, 18250]
+Other Item[0]: Draconic visage [11286, 1]
+
+
+
+2015-06-05 18:19:23.370: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-05 18:20:04.747: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-05 18:20:45.532: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-05 18:21:22.150: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-05 18:21:57.539: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-05 18:24:37.135: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-05 18:26:29.965: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-06-05 18:34:52.768: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 12000000]
+Other Item[0]: Coins [995, 12245381]
+
+
+
+2015-06-06 14:57:29.139: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 15:03:31.540: [[Zoomkill, death123296; 184.146.181.51, 20-E5-2A-44-DB-5B]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Coins [995, 110000000]
+
+
+
+2015-06-06 15:10:41.139: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 7000000]
+Other Item[0]: Coins [995, 7000000]
+
+
+
+2015-06-06 15:11:33.924: [[Officerspank, idqiydew; 162.237.213.224, 3C-77-E6-36-26-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 15:12:14.743: [[Officerspank, idqiydew; 162.237.213.224, 3C-77-E6-36-26-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 15:15:42.932: [[Pur3 Str0ng2, 2301794; 24.122.172.135, 2C-B0-5D-66-84-40]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Dragon bones [537, 92]
+
+
+
+2015-06-06 15:18:18.943: [[Pur3 Str0ng2, 2301794; 24.122.172.135, 2C-B0-5D-66-84-40]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-06 15:19:02.738: [[Akuma, spider0; 107.107.57.83, A0-88-69-81-18-F2]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Tooth half of a key [985, 1]
+Other Item[2]: Coins [995, 3000000]
+
+
+
+2015-06-06 15:30:26.750: [[Pur3 Str0ng2, 2301794; 24.122.172.135, 2C-B0-5D-66-84-40]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Staff of light [22208, 1]
+
+
+

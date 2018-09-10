@@ -1,0 +1,167 @@
+2015-06-02 18:58:15.020: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Zamorak halo [18746, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-02 18:59:37.251: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-02 19:20:05.436: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Zamorak halo [18746, 1]
+Other Item[0]: Karil's top [4737, 1]
+Other Item[1]: Tooth half of a key [986, 2]
+Other Item[2]: Saradomin halo [18745, 1]
+Other Item[3]: Zamorak halo [18746, 1]
+Other Item[4]: Corrupt dragon sq shield [13964, 1]
+Other Item[5]: Blue boater [7325, 1]
+Other Item[6]: Anger battleaxe [7807, 1]
+Other Item[7]: Bonecrusher [18337, 1]
+
+
+
+2015-06-02 19:20:25.832: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Blue boater [7325, 1]
+My Item[1]: Corrupt dragon sq shield [13964, 1]
+My Item[2]: Anger battleaxe [7807, 1]
+Other Item[0]: Ranger boots [2577, 1]
+Other Item[1]: Ragefire boots [21794, 1]
+
+
+
+2015-06-04 18:09:47.396: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Dragon bones [537, 17]
+Other Item[0]: Coins [995, 2536900]
+
+
+
+2015-06-04 18:44:25.239: [[Evoty, skaterboy; 207.161.253.127, 00-17-31-E0-57-2F]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 18:48:22.841: [[Evoty, skaterboy; 207.161.253.127, 00-17-31-E0-57-2F]]:
+My Item[0]: Dragon bones [537, 224]
+My Item[1]: Coins [995, 3922358]
+Other Item[0]: Coins [995, 38000000]
+
+
+
+2015-06-04 18:49:07.839: [[Evoty, skaterboy; 207.161.253.127, 00-17-31-E0-57-2F]]:
+My Item[0]: Coins [995, 3922358]
+My Item[1]: Dragon bones [537, 224]
+Other Item[0]: Coins [995, 38000000]
+
+
+
+2015-06-05 08:58:17.523: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Vote Ticket [13256, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-05 09:22:33.139: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 40000000]
+Other Item[1]: Black cavalier [2643, 1]
+
+
+
+2015-06-05 17:52:35.938: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Black cavalier [2643, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-05 18:07:29.354: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Black cavalier [2643, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-06-05 18:07:56.338: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Black cavalier [2643, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-06-05 18:14:41.954: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 54999545]
+Other Item[0]: Coins [995, 45800000]
+Other Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-06-05 20:30:23.469: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 31000000]
+Other Item[0]: Armadyl chainskirt [11722, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Armadyl chestplate [11720, 1]
+
+
+
+2015-06-06 06:14:07.723: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 66699545]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-06-06 06:16:10.723: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 3800000]
+Other Item[0]: Coins [995, 3809194]
+
+
+
+2015-06-06 07:54:16.201: [[War Chief, 11651231165123; 99.120.14.127, D0-DF-9A-47-D0-A1]]:
+My Item[0]: Armadyl chainskirt [11722, 1]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+Other Item[0]: Vesta's spear [13906, 1]
+Other Item[1]: Abyssal whip [15444, 1]
+Other Item[2]: Abyssal whip [15444, 1]
+Other Item[3]: Zamorakian spear [11716, 1]
+Other Item[4]: Amulet of fury [6586, 1]
+
+
+
+2015-06-06 07:54:44.991: [[War Chief, 11651231165123; 99.120.14.127, D0-DF-9A-47-D0-A1]]:
+My Item[0]: Armadyl chainskirt [11722, 1]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [15444, 1]
+Other Item[2]: Vesta's spear [13906, 1]
+Other Item[3]: Amulet of fury [6586, 1]
+Other Item[4]: Zamorakian spear [11716, 1]
+
+
+
+2015-06-06 07:57:19.801: [[Gildhartz, wawa00; 121.54.54.238, 00-1E-10-1F-85-9F]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 07:59:43.791: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 47399545]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15444, 1]
+My Item[3]: Vesta's spear [13905, 1]
+My Item[4]: Zamorakian spear [11716, 1]
+Other Item[0]: Armadyl chestplate [11720, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Armadyl chainskirt [11722, 1]
+Other Item[3]: Dragon full helm [11335, 1]
+Other Item[4]: Yellow robin hood hat [20950, 1]
+Other Item[5]: Amulet of fury [6585, 1]
+Other Item[6]: Amulet of fury [6585, 1]
+
+
+

@@ -1,0 +1,86 @@
+2015-06-05 02:37:28.023: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+
+
+
+2015-06-05 02:50:52.023: [[Wowzer, azana123; 101.98.231.37, 38-63-BB-98-94-37]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-05 11:30:00.841: [[Gildhartz, wawa00; 121.54.54.239, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-05 11:34:35.641: [[Gildhartz, wawa00; 121.54.54.239, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-05 11:35:53.037: [[38 Unholy, password; 94.76.47.149, 48-D2-24-10-68-5E]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-06-05 11:39:01.433: [[38 Unholy, password; 94.76.47.149, 48-D2-24-10-68-5E]]:
+My Item[0]: Zamorak godsword [11700, 1]
+My Item[1]: Godsword shard 2 [11712, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[1]: Coins [995, 15000000]
+
+
+
+2015-06-05 15:18:31.022: [[Trips, girard87; 96.52.42.28, 28-E3-47-AB-B2-FE]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 15:32:05.221: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 15:34:02.822: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Armadyl chestplate [11720, 1]
+My Item[1]: Armadyl helmet [11718, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [15441, 1]
+Other Item[2]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 15:38:20.223: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Abyssal whip [15441, 1]
+Other Item[0]: Abyssal whip [15441, 1]
+
+
+
+2015-06-05 16:02:55.648: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-05 16:31:15.469: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-06-05 16:32:53.262: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 400000000]
+My Item[1]: Chaotic crossbow [18357, 1]
+Other Item[0]: Coins [995, 600000000]
+
+
+

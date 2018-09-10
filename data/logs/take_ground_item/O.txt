@@ -1,0 +1,2 @@
+Item Taken: Bronze pickaxe [1265, 1 - position=[3287, 3366, 0]] - 2015-03-24 12:52:26.870
+Item Taken: Bronze platebody [1117, 1 - position=[3105, 3501, 0]] - 2015-03-24 15:05:46.145

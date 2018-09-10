@@ -1,0 +1,504 @@
+2015-04-13 16:42:48.632: [Prada]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-14 22:15:47.531: [Knock Knock]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-14 22:17:33.718: [Knock Knock]:
+Item[0]: Coins [995, 55000545]
+
+
+
+2015-04-14 22:18:21.131: [Knock Knock]:
+Item[0]: Coins [995, 55000001]
+
+
+
+2015-04-15 19:18:14.760: [Odds]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 19:18:57.962: [Odds]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-15 20:56:45.431: [The Tyler]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 20:58:43.619: [The Tyler]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-15 20:59:11.221: [The Tyler]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-16 09:13:23.078: [Aurora]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 11:40:54.942: [Nostalgia]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-16 11:41:59.749: [Nostalgia]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-16 17:57:44.392: [Untouchedtea]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 18:38:59.994: [Pascaladium]:
+Item[0]: Spectral sigil [13752, 1]
+
+
+
+2015-04-16 18:55:00.619: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 18:55:33.020: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:00:03.600: [Thug Life]:
+Item[0]: Coins [995, 36000000]
+
+
+
+2015-04-16 19:10:12.621: [Ironmansam]:
+Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-16 19:12:24.613: [St3alth Skil]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 19:32:23.443: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:36:51.025: [Shpongle]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 19:37:37.247: [Shpongle]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 19:38:28.244: [Shpongle]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 19:39:03.643: [Shpongle]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 19:39:45.644: [Shpongle]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 19:41:29.428: [Shpongle]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 19:42:06.043: [Shpongle]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Golden mining trousers [20790, 1]
+Item[3]: Coins [995, 10000000]
+
+
+
+2015-04-16 20:07:06.679: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 20:11:41.469: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 20:14:14.447: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 20:14:53.469: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 20:15:34.868: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 20:18:37.279: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 20:19:09.069: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 20:19:58.269: [Simberj]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-16 20:26:33.678: [Goog]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 20:27:12.669: [Goog]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 20:27:48.069: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-16 20:34:58.863: [Colton]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 20:37:12.679: [Colton]:
+Item[0]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-16 20:41:48.692: [Colton]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-16 20:44:07.894: [Colton]:
+Item[0]: Coins [995, 110000000]
+
+
+
+2015-04-16 20:44:55.293: [Colton]:
+Item[0]: Coins [995, 110000000]
+
+
+
+2015-04-16 20:51:13.900: [Colton]:
+Item[0]: Coins [995, 150000045]
+
+
+
+2015-04-16 20:52:00.700: [Colton]:
+Item[0]: Coins [995, 150000045]
+
+
+
+2015-04-16 21:46:41.512: [Melody]:
+Item[0]: Coins [995, 41000000]
+
+
+
+2015-04-16 21:48:30.722: [Melody]:
+Item[0]: Coins [995, 75000000]
+Item[1]: Dragon pickaxe [15259, 1]
+
+
+
+2015-04-20 20:24:30.551: [Melody]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-21 22:36:52.110: [Lexar]:
+Item[0]: Coins [995, 4750000]
+
+
+
+2015-04-21 23:21:38.925: [Pixel Flexin]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-21 23:22:28.134: [Pixel Flexin]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-21 23:24:05.350: [Forbidden]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-21 23:24:30.556: [Forbidden]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-21 23:28:01.752: [Strawhat]:
+Item[0]: Coins [995, 20000000]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-04-22 14:37:03.849: [Pascaladium]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-22 17:22:35.750: [C R I M]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 17:23:04.550: [C R I M]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-22 17:23:29.750: [C R I M]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-22 17:25:26.149: [Nostalgia]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-22 17:27:43.534: [Nostalgia]:
+Item[0]: Coins [995, 160000000]
+
+
+
+2015-04-25 03:55:20.370: [Kabooyah]:
+Item[0]: Coins [995, 140000000]
+
+
+
+2015-04-25 05:07:49.218: [Kabooyah]:
+Item[0]: Coins [995, 62000000]
+
+
+
+2015-04-25 05:10:34.218: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-25 07:13:03.101: [Ch33sek1ng]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-25 07:33:28.926: [Oi]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-25 09:29:46.412: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Coins [995, 50000000]
+
+
+
+2015-04-25 09:49:48.212: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:50:19.413: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:50:54.803: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:51:32.612: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:52:08.612: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:52:58.414: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:53:38.603: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:54:57.802: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:55:35.002: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-25 09:57:51.802: [Oi]:
+Item[0]: Coins [995, 195000000]
+
+
+
+2015-04-25 09:58:21.802: [Oi]:
+Item[0]: Coins [995, 195000000]
+
+
+
+2015-04-25 10:09:00.196: [Nostalgia]:
+Item[0]: Pernix cowl [20147, 1]
+Item[1]: Pernix body [20151, 1]
+Item[2]: Pernix chaps [20155, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Elysian spirit shield [13742, 1]
+Item[5]: Coins [995, 500000000]
+Item[6]: Glaiven boots [21790, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Chaotic crossbow [18357, 1]
+Item[9]: Morrigan's leather body [13870, 1]
+Item[11]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-25 10:11:45.234: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 10:12:19.426: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 10:41:07.433: [Oi]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-04-25 10:41:35.033: [Oi]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-04-25 10:46:45.233: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 10:47:19.433: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 10:52:38.628: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-25 10:56:12.249: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 10:56:12.824: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 10:58:35.031: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 11:01:40.451: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-25 11:08:11.649: [Simberj]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-25 11:09:23.049: [Simberj]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-25 11:24:09.264: [Simberj]:
+Item[0]: Coins [995, 220000000]
+
+
+
+2015-04-25 11:27:32.049: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Pernix body [20151, 1]
+Item[3]: Pernix chaps [20155, 1]
+Item[4]: Elysian spirit shield [13742, 1]
+Item[5]: Divine spirit shield [13740, 1]
+Item[6]: Glaiven boots [21790, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Chaotic rapier [18349, 1]
+Item[9]: Chaotic crossbow [18357, 1]
+Item[10]: Coins [995, 220000000]
+
+
+

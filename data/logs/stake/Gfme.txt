@@ -1,0 +1,28 @@
+2015-04-15 18:21:47.721: [Noko3456]:
+Item[0]: Coins [995, 9867368]
+
+
+
+2015-04-15 18:23:00.932: [Chaozios]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 18:24:18.931: [Noko3456]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-15 18:25:03.331: [Chaozios]:
+Item[0]: Coins [995, 12000000]
+Item[1]: Golden mining top [20791, 1]
+Item[2]: Golden mining helmet [20789, 1]
+
+
+
+2015-04-15 18:26:30.312: [Noko3456]:
+Item[0]: Coins [995, 2000000]
+Item[1]: Golden mining helmet [20789, 1]
+
+
+

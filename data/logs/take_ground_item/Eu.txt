@@ -1,0 +1,4 @@
+Item Telegrabbed: Cowhide [1739, 1 - [3256, 3269, 0]] - 2015-04-09 00:02:19.792
+Item Telegrabbed: Slayer's staff [4170, 1 - [3256, 3271, 0]] - 2015-04-09 00:02:42.593
+Item Telegrabbed: Slayer's staff [4170, 1 - [3256, 3270, 0]] - 2015-04-09 00:05:07.191
+Item Telegrabbed: Cowhide [1739, 1 - [3256, 3269, 0]] - 2015-04-09 02:50:08.491

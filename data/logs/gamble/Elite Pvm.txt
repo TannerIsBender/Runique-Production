@@ -1,0 +1,305 @@
+2015-05-01 12:36:27.468: [Ziptie]:
+Item[0]: Third-age druidic cloak [19311, 1]
+
+
+
+2015-05-01 13:51:23.930: [Ch33sek1ng]:
+Item[0]: Dragon claws [14485, 1]
+
+
+
+2015-05-01 13:58:49.129: [Ziptie]:
+Item[0]: Staff of light [22210, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Dragon claws [14485, 1]
+
+
+
+2015-05-01 14:05:16.761: [Troy]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-01 14:07:29.962: [Davetherave]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-01 14:36:11.961: [Ziptie]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-05-02 05:28:09.068: [Simberj]:
+Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-02 05:28:49.262: [Simberj]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-02 05:29:48.079: [Simberj]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-03 04:33:22.213: [1hit 1down]:
+Item[0]: Third-age range coif [10334, 1]
+Item[1]: Third-age range top [10330, 1]
+Item[2]: Third-age vambraces [10336, 1]
+Item[3]: Third-age range legs [10332, 1]
+
+
+
+2015-05-03 04:34:31.800: [1hit 1down]:
+Item[0]: Third-age range top [10330, 1]
+Item[1]: Third-age vambraces [10336, 1]
+Item[2]: Third-age range legs [10332, 1]
+Item[3]: Third-age range coif [10334, 1]
+
+
+
+2015-05-03 04:35:13.812: [Ziptie]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-03 04:51:36.615: [Shoxie]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-04 07:35:12.969: [Desi]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 07:42:49.588: [Desi]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-04 08:02:08.190: [Toma]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 08:05:03.391: [Toma]:
+Item[0]: Armadyl crossbow [11786, 1]
+Item[1]: Armadyl hilt [11703, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-04 08:09:26.800: [Toma]:
+Item[0]: Divine spirit shield [13741, 1]
+
+
+
+2015-05-04 08:10:46.622: [Toma]:
+Item[0]: Chaotic maul [18353, 1]
+Item[2]: Divine spirit shield [13741, 1]
+
+
+
+2015-05-04 08:11:26.800: [Toma]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-04 08:13:55.600: [Toma]:
+Item[0]: Armadyl godsword [11695, 2]
+Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-04 08:43:01.021: [Toma]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-04 09:20:10.068: [Toma]:
+Item[0]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 09:20:33.463: [Toma]:
+Item[0]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 09:22:38.853: [Bamf Katie]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 09:27:01.669: [Bamf Katie]:
+Item[0]: Vesta's plateskirt [13894, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+
+
+
+2015-05-04 09:29:25.661: [Bamf Katie]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-04 09:29:59.261: [Bamf Katie]:
+Item[0]: Vesta's plateskirt [13894, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+
+
+
+2015-05-04 09:34:55.668: [Bamf Katie]:
+Item[1]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 09:36:56.855: [Bamf Katie]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 09:37:31.656: [Bamf Katie]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 13:38:48.647: [Toma]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-05 04:25:12.951: [Rozza123]:
+Item[0]: Third-age range legs [10332, 1]
+Item[1]: Third-age range top [10330, 1]
+Item[2]: Third-age vambraces [10336, 1]
+Item[3]: Third-age range coif [10334, 1]
+Item[4]: Virtus robe legs [20167, 1]
+Item[5]: Armadyl chestplate [11720, 1]
+Item[6]: Armadyl chestplate [11720, 1]
+Item[7]: Corrupt statius's platebody [13908, 1]
+Item[8]: Coins [995, 100000000]
+
+
+
+2015-05-05 04:33:43.553: [Simberj]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-05 04:39:51.953: [Mercy]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-05 04:40:41.162: [Rozza123]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-05 04:43:08.161: [Rozza123]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-05 04:46:26.153: [Simberj]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-05 04:51:22.562: [Rozza123]:
+Item[0]: Virtus robe legs [20167, 1]
+Item[1]: Coins [995, 350000000]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+Item[4]: Armadyl helmet [11718, 1]
+Item[5]: Corrupt statius's platebody [13908, 1]
+Item[6]: Bandos godsword [11696, 1]
+Item[7]: Zuriel's hood [13864, 1]
+Item[8]: Wolf mask [13115, 1]
+Item[9]: Abyssal whip [4151, 1]
+Item[10]: Zamorak halo [18746, 1]
+Item[11]: Vote Ticket [13256, 1]
+
+
+
+2015-05-05 05:21:18.984: [Mercy]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-05 07:22:16.700: [Mercy]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-05 07:23:22.688: [Mercy]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-05 07:24:49.690: [Mercy]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-05-05 08:53:07.153: [Bamf Katie]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-05-05 08:53:52.756: [Bamf Katie]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-05-05 08:54:26.369: [Bamf Katie]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-05 08:54:56.355: [Bamf Katie]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-05 08:56:12.553: [Bamf Katie]:
+Item[0]: Coins [995, 500000000]
+Item[1]: Elysian spirit shield [13743, 1]
+
+
+
+2015-05-05 08:56:58.153: [Bamf Katie]:
+Item[0]: Coins [995, 500000000]
+Item[1]: Elysian spirit shield [13743, 1]
+
+
+
+2015-05-05 09:33:46.806: [Bamf Katie]:
+Item[0]: Virtus robe legs [20167, 1]
+
+
+
+2015-05-05 09:34:46.800: [Bamf Katie]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-05 09:35:15.600: [Bamf Katie]:
+Item[0]: Coins [995, 250000000]
+
+
+

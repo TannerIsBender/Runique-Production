@@ -1,0 +1,383 @@
+2015-04-26 13:15:46.211: [Josh]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-03 09:32:42.246: [Coldott]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-05-03 09:50:32.647: [Coldott]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 09:26:29.869: [Toma]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-04 09:31:05.262: [Toma]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-05 08:32:42.537: [Toma]:
+Item[0]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 09:20:43.200: [Davetherave]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-05 09:23:07.777: [Davetherave]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-05 09:26:58.200: [Prem2good]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 09:27:25.184: [Prem2good]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 09:27:51.600: [Prem2good]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 09:29:43.173: [Prem2good]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 09:30:08.985: [Prem2good]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 09:33:24.022: [Elite Pvm]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-05 09:53:57.017: [Prem2good]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-05 09:58:50.400: [Oi]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-05-05 10:03:58.200: [Saber570]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Fighter torso [10551, 1]
+
+
+
+2015-05-05 10:31:51.622: [Saber570]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-07 13:44:57.436: [Noli Ftw]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Dragon claws [14484, 1]
+
+
+
+2015-05-07 18:19:13.237: [Zoomkill]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-05-07 18:20:35.444: [Slightlyop]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-05-07 18:26:37.853: [Digital]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-05-07 18:35:12.653: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+
+
+
+2015-05-07 18:37:39.662: [Digital]:
+Item[0]: Rubber chicken [4566, 1]
+Item[1]: Sea turtle [397, 1]
+Item[2]: Cup of tea [1978, 1]
+
+
+
+2015-05-07 18:43:03.658: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Sea turtle [397, 1]
+Item[2]: Rubber chicken [4566, 1]
+
+
+
+2015-05-07 18:46:28.861: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Sea turtle [397, 1]
+Item[2]: Rubber chicken [4566, 1]
+
+
+
+2015-05-07 18:49:48.664: [Digital]:
+Item[0]: Staff of fire [1388, 31]
+
+
+
+2015-05-07 18:51:53.468: [Slightlyop]:
+Item[0]: Staff of fire [1388, 31]
+
+
+
+2015-05-07 18:53:33.067: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Staff of fire [1388, 31]
+
+
+
+2015-05-07 18:55:12.078: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Staff of fire [1388, 31]
+
+
+
+2015-05-07 18:56:47.468: [Slightlyop]:
+Item[0]: Sea turtle [397, 1]
+Item[1]: Rubber chicken [4566, 1]
+Item[2]: Apprentice wand [6910, 1]
+Item[3]: Dragon claws [14484, 1]
+Item[4]: Corrupt vesta's chainbody [13911, 1]
+Item[5]: Cat mask [13113, 1]
+Item[6]: Fishbowl helmet [7534, 1]
+Item[7]: Staff of fire [1388, 31]
+
+
+
+2015-05-07 19:02:36.684: [Slightlyop]:
+Item[0]: Highwayman mask [2631, 1]
+Item[1]: Beret and mask [11282, 1]
+Item[2]: Marigolds [6010, 1]
+Item[3]: Rubber chicken [4566, 1]
+Item[4]: Sea turtle [397, 1]
+Item[5]: Lederhosen top [6180, 1]
+Item[6]: Cat mask [13113, 1]
+Item[7]: Mining helmet [5013, 1]
+Item[8]: Armadyl helmet [11718, 1]
+Item[9]: Armadyl chestplate [11720, 1]
+Item[10]: Apprentice wand [6910, 1]
+Item[11]: Staff of fire [1388, 31]
+
+
+
+2015-05-07 19:30:04.890: [Slightlyop]:
+Item[0]: Dragon claws [14485, 1]
+Item[1]: Corrupt vesta's chainbody [13912, 1]
+
+
+
+2015-05-07 19:33:43.900: [Bad Pker]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-08 14:38:41.221: [Failfish]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-08 14:59:35.238: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 15:02:12.439: [Aleexk3]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 15:34:57.453: [Aleexk3]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-08 15:35:33.463: [Aleexk3]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-08 15:48:44.865: [Aleexk3]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-08 15:58:20.273: [Nostalgia]:
+
+
+
+2015-05-08 16:24:16.122: [Nostalgia]:
+Item[0]: Coins [995, 144000000]
+
+
+
+2015-05-08 16:24:46.699: [Nostalgia]:
+Item[0]: Coins [995, 288000000]
+
+
+
+2015-05-08 16:25:43.099: [Nostalgia]:
+Item[0]: Coins [995, 576000000]
+
+
+
+2015-05-08 17:00:26.921: [Rozza123]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-08 17:47:21.222: [Rozza123]:
+Item[0]: Coins [995, 34000000]
+
+
+
+2015-05-08 17:56:34.438: [Yocky123]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-08 18:05:20.037: [Bumblebee]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-08 18:46:48.264: [Digital]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 18:48:39.865: [Digital]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 18:49:35.669: [Digital]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 18:53:21.266: [Digital]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 18:55:26.663: [Digital]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 18:56:50.075: [Digital]:
+
+
+
+2015-05-08 19:34:03.300: [Slightlyop]:
+Item[0]: Saradomin kiteshield [2667, 1]
+
+
+
+2015-05-08 19:45:34.522: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 19:46:19.517: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 19:47:08.122: [Digital]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-05-08 20:56:20.161: [Slightlyop]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Cup of tea [1978, 1]
+Item[2]: Cup of tea [1978, 1]
+
+
+
+2015-05-08 20:58:13.550: [Slightlyop]:
+Item[0]: Cup of tea [1978, 1]
+Item[1]: Cup of tea [1978, 1]
+Item[2]: Cup of tea [1978, 1]
+Item[3]: Apprentice wand [6910, 1]
+
+
+
+2015-05-08 21:04:12.963: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-08 21:07:00.400: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-08 21:12:40.600: [Nostalgia]:
+Item[0]: Coins [995, 123000000]
+
+
+
+2015-05-08 21:59:02.817: [Slightlyop]:
+Item[0]: Apprentice wand [6910, 1]
+Item[1]: Beginner wand [6908, 1]
+
+
+
+2015-05-08 21:59:41.217: [Slightlyop]:
+Item[0]: Vial [229, 1]
+Item[1]: Apprentice wand [6910, 1]
+Item[2]: Beginner wand [6908, 1]
+
+
+
+2015-05-08 22:00:22.015: [Slightlyop]:
+Item[0]: Vial [229, 1]
+Item[1]: Apprentice wand [6910, 1]
+Item[2]: Beginner wand [6908, 1]
+
+
+

@@ -1,0 +1,6 @@
+Item Taken: Nature rune [561, 3 - position=[3097, 3486, 0]] - 2015-03-23 11:51:13.803
+Item Taken: Adamant scimitar [1331, 1 - position=[3099, 3486, 0]] - 2015-03-23 11:59:17.398
+Item Taken: Adamant scimitar [1331, 1 - position=[3099, 3486, 0]] - 2015-03-23 12:00:45.616
+Item Taken: Adamant scimitar [1331, 1 - position=[3099, 3486, 0]] - 2015-03-23 12:00:48.618
+Item Taken: Adamant scimitar [1331, 1 - position=[3099, 3486, 0]] - 2015-03-23 12:00:51.017
+Item Taken: Adamant scimitar [1331, 1 - position=[3099, 3486, 0]] - 2015-03-23 12:00:53.417

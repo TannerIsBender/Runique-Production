@@ -1,0 +1,176 @@
+2015-06-04 20:55:14.538: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-82-A0]]:
+My Item[0]: Saradomin godsword [11698, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+
+
+
+2015-06-04 20:57:17.522: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-82-A0]]:
+My Item[0]: Fighter torso [10551, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-06-04 21:00:34.938: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-82-A0]]:
+My Item[0]: Saradomin godsword [11698, 1]
+Other Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-06-04 21:02:04.370: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-82-A0]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-06-04 21:06:01.946: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Armadyl helmet [11718, 1]
+My Item[1]: Armadyl helmet [11718, 1]
+Other Item[0]: Dark bow [11235, 1]
+Other Item[1]: Dark bow [11235, 1]
+Other Item[2]: Corrupt dragon chainbody [13958, 1]
+Other Item[3]: Corrupt dragon chainbody [13958, 1]
+Other Item[4]: Penguin mask [13109, 1]
+Other Item[5]: Corrupt dragon sq shield [13964, 1]
+Other Item[6]: Golden hammer [2949, 1]
+Other Item[7]: Infinity gloves [6922, 1]
+Other Item[8]: Rainbow afro [19747, 1]
+Other Item[9]: Scroll of rigour [18839, 1]
+Other Item[10]: Scroll of augury [18344, 1]
+Other Item[11]: Sheep mask [13107, 1]
+Other Item[12]: Coins [995, 5990000]
+
+
+
+2015-06-05 02:36:03.421: [[Zobothehobo, qball134; 173.19.56.16, 80-56-F2-3B-CC-17]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+Other Item[2]: Dharok's greataxe [4718, 1]
+
+
+
+2015-06-05 02:36:57.418: [[Zobothehobo, qball134; 173.19.56.16, 80-56-F2-3B-CC-17]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+Other Item[2]: Dharok's greataxe [4718, 1]
+
+
+
+2015-06-05 02:46:19.019: [[Wowzer, azana123; 101.98.231.37, 38-63-BB-98-94-37]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-05 02:47:05.820: [[Wowzer, azana123; 101.98.231.37, 38-63-BB-98-94-37]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-05 02:47:55.623: [[Wowzer, azana123; 101.98.231.37, 38-63-BB-98-94-37]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-05 02:49:17.822: [[Wowzer, azana123; 101.98.231.37, 38-63-BB-98-94-37]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Saradomin sword [11730, 1]
+My Item[2]: Saradomin sword [11730, 1]
+My Item[3]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-05 03:08:54.439: [[Duckpickle, guyleonchen2230; 101.191.53.170, 8C-A9-82-40-45-78]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 149000000]
+
+
+
+2015-06-05 03:12:03.423: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-05 03:13:37.021: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 110000000]
+Other Item[0]: Coins [995, 105000000]
+Other Item[1]: Warrior ring [6735, 1]
+
+
+
+2015-06-05 04:31:07.723: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 500000000]
+Other Item[0]: Coins [995, 500000000]
+
+
+
+2015-06-05 04:31:57.501: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 44000000]
+Other Item[0]: Coins [995, 44000000]
+
+
+
+2015-06-05 04:33:05.923: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 88000000]
+Other Item[0]: Coins [995, 88000000]
+
+
+
+2015-06-06 19:22:36.539: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 16000000]
+Other Item[0]: Coins [995, 16000000]
+
+
+
+2015-06-06 19:23:30.538: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 30990000]
+
+
+
+2015-06-06 19:24:34.739: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 30990000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-06 19:25:07.141: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-06 19:28:56.940: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Statius's platelegs [13890, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 19:30:34.138: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 60000000]
+My Item[1]: Saradomin sword [11730, 1]
+Other Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-06-06 19:36:13.740: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-06 19:39:31.753: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Gilded platelegs [3483, 1]
+Other Item[0]: Coins [995, 40000000]
+
+
+

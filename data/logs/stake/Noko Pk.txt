@@ -1,0 +1,210 @@
+2015-04-01 22:11:33.593: [Try Hardz]:
+Item[0]: Coins [995, 5000933]
+
+
+
+2015-04-01 22:15:10.193: [Try Hardz]:
+Item[0]: Coins [995, 8262000]
+
+
+
+2015-04-01 22:19:26.394: [Try Hardz]:
+Item[0]: Coins [995, 16262000]
+
+
+
+2015-04-01 23:29:11.458: [King Arthur]:
+Item[0]: Rune claws [3101, 1]
+Item[1]: Manta ray [392, 250]
+
+
+
+2015-04-01 23:30:16.258: [King Arthur]:
+Item[0]: Manta ray [392, 250]
+Item[1]: Rune claws [3101, 1]
+Item[2]: Gold bar [2357, 1]
+
+
+
+2015-04-01 23:30:59.458: [King Arthur]:
+
+
+
+2015-04-01 23:37:28.857: [King Arthur]:
+
+
+
+2015-04-01 23:38:54.648: [King Arthur]:
+
+
+
+2015-04-01 23:41:28.258: [King Arthur]:
+
+
+
+2015-04-02 00:53:35.495: [Devforums]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-02 00:55:40.881: [Devforums]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-02 00:57:03.680: [Devforums]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-02 01:03:00.086: [Ermac]:
+Item[0]: Coins [995, 10000994]
+
+
+
+2015-04-02 01:07:21.695: [Try Hardz]:
+Item[0]: Coins [995, 15000994]
+
+
+
+2015-04-02 01:10:22.927: [Try Hardz]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 01:13:20.496: [Try Hardz]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 01:16:51.719: [Try Hardz]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Bonecrusher [18337, 1]
+
+
+
+2015-04-02 01:21:03.718: [Try Hardz]:
+Item[0]: Coins [995, 35000987]
+Item[1]: Bonecrusher [18337, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Bonecrusher [18337, 1]
+
+
+
+2015-04-02 01:28:16.918: [Try Hardz]:
+Item[0]: Bonecrusher [18337, 1]
+Item[1]: Bonecrusher [18337, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Coins [995, 20000994]
+
+
+
+2015-04-02 01:29:49.327: [Try Hardz]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-02 01:31:27.722: [Try Hardz]:
+Item[0]: Zamorak platebody [2653, 1]
+Item[1]: Zamorak platelegs [2655, 1]
+
+
+
+2015-04-02 01:41:44.509: [Cod God]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-04-02 01:42:38.511: [Cod God]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-02 01:54:54.117: [Melee Cyris]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-02 17:46:35.526: [King Arthur]:
+
+
+
+2015-04-02 17:48:04.927: [King Arthur]:
+
+
+
+2015-04-02 17:49:01.895: [King Arthur]:
+
+
+
+2015-04-02 17:49:46.927: [King Arthur]:
+
+
+
+2015-04-02 17:51:43.926: [King Arthur]:
+
+
+
+2015-04-02 19:34:09.775: [Raped]:
+Item[0]: Coins [995, 5000005]
+
+
+
+2015-04-02 19:35:27.775: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Coins [995, 5000005]
+
+
+
+2015-04-02 21:08:56.011: [King Arthur]:
+
+
+
+2015-04-02 21:09:55.419: [King Arthur]:
+
+
+
+2015-04-02 21:12:09.218: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-02 21:13:11.618: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 21:14:19.413: [Raped]:
+Item[0]: Warrior ring [6735, 1]
+
+
+
+2015-04-02 21:15:02.611: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 21:15:49.411: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 21:19:31.419: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon chainbody [3140, 1]
+Item[2]: Warrior ring [6735, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Dragon boots [11732, 1]
+
+
+
+2015-04-03 01:27:38.164: [Tonka]:
+Item[0]: Zamorakian spear [11716, 1]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+

@@ -1,0 +1,483 @@
+2015-05-07 17:57:51.637: [Nostalgia]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-07 17:58:25.237: [Nostalgia]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-07 17:59:29.421: [Kuto]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-09 19:38:57.839: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-09 19:41:46.439: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 20:20:49.638: [Scizor]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-12 20:46:45.469: [[Melee Cyrus, dawson23; 38.114.82.101, 00-21-6B-D3-59-48]]:
+My Item[0]: Coins [995, 14000000]
+Other Item[0]: Coins [995, 14000000]
+
+
+
+2015-05-12 20:50:16.051: [[Aleexk3, meghanxx; 125.236.177.153, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-12 20:54:18.453: [[Aleexk3, meghanxx; 125.236.177.153, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 55000000]
+Other Item[0]: Coins [995, 55000000]
+
+
+
+2015-05-15 03:15:05.906: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-15 03:19:13.119: [[I Katie I, lillyrose1262011; 188.30.203.23, None]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-16 00:56:42.937: [[Aleexk3, meghanxx; 125.236.168.217, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-16 03:59:35.886: [[Aleexk3, meghanxx; 125.236.168.217, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-16 04:01:48.500: [[Aleexk3, meghanxx; 125.236.168.217, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-20 19:43:07.978: [[Dr Phill, D0peisfun; 99.27.36.88, 9C-B7-0D-77-35-F7]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-21 16:38:50.622: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-23 12:49:09.495: [[My99capes, haley2388; 104.160.49.73, 74-29-AF-96-F5-8F]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-23 16:41:03.679: [[Cyx, hello123; 50.105.146.214, 00-FF-F6-CE-49-4F]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-23 16:43:24.079: [[Amy, dragons1; 151.224.135.10, B8-EE-65-EF-AF-CD]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-23 20:53:05.074: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-24 15:37:08.347: [[L2iron Man, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-05-24 15:41:00.542: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-24 15:41:33.543: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-24 20:06:19.330: [[Beware, teddy2013; 86.0.49.249, 74-DE-2B-8B-6E-7C]]:
+My Item[0]: Coins [995, 180000000]
+
+
+
+2015-05-24 20:12:23.540: [[Beware, teddy2013; 86.0.49.249, 74-DE-2B-8B-6E-7C]]:
+My Item[0]: Coins [995, 180000000]
+
+
+
+2015-05-26 17:24:53.401: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-26 17:25:33.001: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 17:26:02.995: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 17:28:25.815: [[Goblin Queen, baker123; 176.24.116.31, A4-17-31-39-E7-36]]:
+My Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-26 17:29:34.216: [[Goblin Queen, baker123; 176.24.116.31, A4-17-31-39-E7-36]]:
+My Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-26 17:31:30.017: [[Goblin Queen, baker123; 176.24.116.31, A4-17-31-39-E7-36]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-05-26 17:50:36.048: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-26 17:54:13.840: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Armadyl godsword [11695, 2]
+My Item[1]: Vesta's plateskirt [13893, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+My Item[3]: Statius's full helm [13896, 1]
+My Item[4]: Amulet of fury (or) [19335, 1]
+My Item[5]: Chaotic staff [18355, 1]
+My Item[6]: Abyssal whip [15442, 1]
+My Item[7]: Steadfast boots [21787, 1]
+My Item[8]: Ragefire boots [21793, 1]
+
+
+
+2015-05-26 18:07:45.064: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Chaotic staff [18355, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 18:08:18.048: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Chaotic staff [18355, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 18:11:15.059: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Chaotic staff [18355, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-27 19:15:48.650: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+Other Item[1]: Chaotic staff [18355, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-27 19:17:46.841: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-27 19:19:06.640: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-27 19:20:07.841: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Spectral spirit shield [13745, 2]
+
+
+
+2015-05-27 19:22:07.841: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Chaotic staff [18355, 1]
+Other Item[0]: Spectral spirit shield [13745, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+Other Item[3]: Chaotic maul [18353, 1]
+
+
+
+2015-05-27 19:23:54.038: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Spectral spirit shield [13745, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Spectral spirit shield [13745, 1]
+
+
+
+2015-05-27 19:24:43.242: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 600000000]
+Other Item[0]: Chaotic crossbow [18357, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-05-27 19:25:15.648: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Third-age range legs [10332, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-27 19:26:40.842: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 77000000]
+My Item[1]: Ragefire boots [21793, 1]
+My Item[2]: Amulet of fury (or) [19335, 1]
+My Item[3]: Amulet of fury (or) [19335, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+Other Item[1]: Coins [995, 50000000]
+
+
+
+2015-05-27 20:12:57.695: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-27 20:13:45.690: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 100000000]
+My Item[1]: Spectral spirit shield [13745, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-27 20:14:21.694: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Spectral spirit shield [13745, 1]
+My Item[1]: Coins [995, 100000000]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-27 23:32:51.837: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-27 23:34:12.840: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-27 23:35:26.032: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-27 23:36:25.440: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-28 15:52:30.417: [[Rozzab123, zxcvbnm; 176.250.43.94, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 15:52:55.018: [[Rozzab123, zxcvbnm; 176.250.43.94, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 16:03:17.817: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's chainbody [13888, 2]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 16:03:42.417: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's plateskirt [13894, 2]
+Other Item[0]: Vesta's chainbody [13888, 2]
+
+
+
+2015-05-28 16:04:30.418: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Statius's full helm [13897, 1]
+My Item[1]: Abyssal vine whip [21371, 1]
+My Item[2]: Spectral spirit shield [13745, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 16:04:49.015: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Statius's full helm [13897, 1]
+My Item[1]: Spectral spirit shield [13745, 1]
+My Item[2]: Abyssal vine whip [21371, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 16:07:48.417: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic staff [18355, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Vesta's chainbody [13888, 2]
+Other Item[1]: Vesta's plateskirt [13894, 2]
+
+
+
+2015-05-28 18:37:47.337: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Chaotic staff [18355, 1]
+My Item[1]: Elysian spirit shield [13742, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-05-28 18:38:09.548: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Chaotic kiteshield [18359, 1]
+Other Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 18:40:16.137: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[1]: Chaotic kiteshield [18359, 1]
+My Item[2]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-28 18:40:52.738: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Vesta's chainbody [13888, 3]
+My Item[1]: Vesta's plateskirt [13894, 3]
+My Item[2]: Statius's full helm [13897, 2]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic kiteshield [18359, 1]
+Other Item[3]: Coins [995, 125000000]
+
+
+
+2015-05-28 18:41:40.748: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 900000000]
+My Item[1]: Chaotic kiteshield [18359, 1]
+Other Item[0]: Chaotic kiteshield [18359, 1]
+Other Item[1]: Chaotic staff [18355, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+Other Item[3]: Chaotic longsword [18351, 1]
+Other Item[4]: Vesta's plateskirt [13894, 1]
+Other Item[5]: Vesta's chainbody [13888, 1]
+Other Item[6]: Statius's full helm [13897, 1]
+
+
+
+2015-05-28 18:42:28.138: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Spectral spirit shield [13745, 1]
+My Item[1]: Steadfast boots [21788, 2]
+My Item[2]: Coins [995, 90000000]
+Other Item[0]: Chaotic kiteshield [18359, 1]
+Other Item[1]: Vesta's chainbody [13888, 1]
+Other Item[2]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-28 18:43:35.348: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Vesta's plateskirt [13894, 1]
+My Item[1]: Vesta's chainbody [13888, 1]
+
+
+
+2015-05-28 18:43:53.917: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+My Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-28 18:44:31.748: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Armadyl godsword [11695, 3]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Vesta's chainbody [13888, 1]
+My Item[3]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-28 18:45:11.948: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Spectral spirit shield [13745, 1]
+My Item[1]: Chaotic kiteshield [18359, 1]
+My Item[2]: Steadfast boots [21788, 2]
+My Item[3]: Coins [995, 90000000]
+
+
+
+2015-06-04 19:32:27.069: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Spectral spirit shield [13745, 1]
+Other Item[0]: Vesta's plateskirt [13893, 1]
+
+
+

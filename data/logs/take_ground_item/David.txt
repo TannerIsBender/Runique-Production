@@ -1,0 +1,4 @@
+Item Taken: Bones [526, 1 - position=[2687, 3724, 0]] - 2015-03-23 08:42:34.394
+Item Taken: Manta ray [392, 250 - position=[3089, 3499, 0]] - 2015-03-24 13:57:58.711
+Item Taken: Manta ray [392, 250 - position=[3089, 3499, 0]] - 2015-03-24 13:58:01.111
+Item Taken: Manta ray [392, 250 - position=[3088, 3493, 0]] - 2015-03-24 13:59:20.911

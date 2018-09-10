@@ -1,0 +1,584 @@
+2015-04-19 21:09:58.703: [The J]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Abyssal whip [15441, 1]
+
+
+
+2015-04-19 21:13:38.325: [The J]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Bandos boots [11728, 1]
+
+
+
+2015-04-19 21:18:14.327: [The J]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Abyssal whip [15444, 1]
+Item[2]: Dark bow [15704, 1]
+Item[4]: Bandos boots [11728, 1]
+
+
+
+2015-04-19 21:25:46.124: [The J]:
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-19 21:28:52.728: [The J]:
+Item[0]: Virtus robe top [20163, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-19 21:32:13.739: [Pvm Giggles]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-19 21:33:21.539: [Pvm Giggles]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-19 21:33:53.924: [Pvm Giggles]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-19 21:37:42.526: [Pvm Giggles]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-19 21:45:32.329: [Arasta]:
+
+
+
+2015-04-19 21:46:56.955: [Arasta]:
+Item[0]: Mithril seeds [299, 1]
+
+
+
+2015-04-19 21:48:26.950: [Arasta]:
+
+
+
+2015-04-19 21:58:58.122: [Untouchedtea]:
+Item[0]: Abyssal whip [15441, 1]
+
+
+
+2015-04-19 22:14:05.955: [Untouchedtea]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-19 22:16:05.952: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-19 22:16:37.751: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-20 16:14:10.614: [Pvm Giggles]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-20 16:17:12.999: [Coldott]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-20 16:18:26.800: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-20 16:19:43.002: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-20 16:21:13.600: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-20 16:27:48.401: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-20 16:28:46.001: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-20 16:29:19.630: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-20 16:30:42.400: [Untouchedtea]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-20 16:35:57.424: [Pvm Giggles]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-20 16:40:34.614: [Aurora]:
+Item[0]: Virtus robe top [20163, 1]
+
+
+
+2015-04-20 16:42:23.224: [Aurora]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-20 16:43:59.824: [Aurora]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-20 16:45:58.014: [Aurora]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-20 16:51:03.425: [Aurora]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-20 16:52:17.224: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-20 16:52:59.830: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-20 16:54:11.218: [Untouchedtea]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 16:56:34.626: [Untouchedtea]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-20 16:59:11.219: [Untouchedtea]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-20 17:04:22.025: [Simberj]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 17:05:02.830: [Simberj]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 17:05:51.425: [Simberj]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 17:07:31.026: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-20 17:13:29.814: [Miss K]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-20 17:20:11.825: [Pvm Giggles]:
+Item[0]: Coins [995, 42000001]
+
+
+
+2015-04-20 17:21:05.846: [Pvm Giggles]:
+Item[0]: Coins [995, 42000001]
+
+
+
+2015-04-20 17:22:49.661: [Nostalgia]:
+Item[0]: Coins [995, 358000000]
+
+
+
+2015-04-20 17:26:39.422: [Nostalgia]:
+Item[0]: Coins [995, 228000000]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[3]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-20 17:34:19.061: [Nostalgia]:
+Item[0]: Coins [995, 758149507]
+Item[1]: Torva full helm [20135, 1]
+
+
+
+2015-04-20 17:50:37.651: [Melee Cyrus]:
+
+
+
+2015-04-20 17:59:10.661: [Nostalgia]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-20 18:00:53.845: [Nostalgia]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-20 18:03:31.061: [Nostalgia]:
+Item[0]: Coins [995, 430697184]
+
+
+
+2015-04-20 18:11:23.252: [Nostalgia]:
+Item[0]: Coins [995, 1030697184]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[3]: Torva full helm [20135, 1]
+Item[4]: Chaotic maul [18353, 1]
+
+
+
+2015-04-20 18:14:11.860: [Drackys Bank]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Bandos godsword [11696, 1]
+Item[2]: Amulet of ranging [15126, 1]
+
+
+
+2015-04-20 18:15:53.283: [Nostalgia]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Spectral spirit shield [13744, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[3]: Vesta's spear [13905, 1]
+Item[4]: Chaotic staff [18355, 1]
+Item[5]: Bandos godsword [11696, 1]
+Item[6]: Vesta's plateskirt [13893, 1]
+Item[7]: Armadyl chestplate [11720, 1]
+Item[8]: Morrigan's leather body [13870, 1]
+Item[9]: Amulet of ranging [15126, 1]
+Item[11]: Zamorak godsword [11700, 1]
+Item[12]: Statius's full helm [13896, 1]
+
+
+
+2015-04-20 19:04:03.514: [Banklootz]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-20 19:07:27.483: [Strawhat]:
+Item[0]: Vesta's longsword [13899, 1]
+
+
+
+2015-04-21 13:53:47.477: [Aurora]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-21 16:18:45.275: [Oi]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Saradomin godsword [11698, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-21 16:21:41.087: [Oi]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-21 16:25:26.699: [Oi]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-21 16:28:20.690: [Oi]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Flameburst defender [17273, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[6]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-21 16:29:11.687: [Pascaladium]:
+Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 16:29:42.887: [Pascaladium]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 16:30:17.691: [Pascaladium]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 16:30:50.700: [Pascaladium]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 16:31:31.488: [Pascaladium]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 16:32:59.088: [Pascaladium]:
+Item[0]: Dark bow [15704, 1]
+Item[1]: Dark bow [11235, 1]
+
+
+
+2015-04-21 16:35:16.503: [Pascaladium]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 16:38:54.301: [Pascaladium]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 16:42:53.679: [Melee Cyrus]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Corrupt zuriel's staff [13941, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Dark bow [15704, 1]
+
+
+
+2015-04-21 16:43:26.687: [Melee Cyrus]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Corrupt zuriel's staff [13941, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Dark bow [15704, 1]
+
+
+
+2015-04-21 16:43:56.693: [Melee Cyrus]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Corrupt zuriel's staff [13941, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Dark bow [15704, 1]
+
+
+
+2015-04-21 16:44:33.909: [Melee Cyrus]:
+Item[0]: Dark bow [15704, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Corrupt zuriel's staff [13941, 1]
+Item[3]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-21 18:31:00.387: [Nostalgia]:
+Item[0]: Bathus chainbody [16715, 1]
+Item[1]: Bathus gauntlets [16275, 1]
+Item[2]: Bathus boots [16341, 1]
+Item[3]: Bathus full helm [16693, 1]
+Item[4]: Bathus plateskirt [16649, 1]
+
+
+
+2015-04-21 18:33:39.987: [Nostalgia]:
+Item[0]: Third-age range legs [10332, 1]
+Item[1]: Third-age range top [10330, 1]
+
+
+
+2015-04-21 18:34:44.747: [Nostalgia]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 18:51:42.375: [Nostalgia]:
+Item[0]: Third-age range top [10330, 1]
+Item[1]: Third-age range legs [10332, 1]
+
+
+
+2015-04-21 18:52:11.777: [Nostalgia]:
+Item[0]: Third-age range legs [10332, 1]
+Item[2]: Third-age range top [10330, 1]
+
+
+
+2015-04-21 21:15:18.471: [Pascaladium]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 21:15:53.865: [Pascaladium]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 21:16:44.263: [2kk2]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-21 21:17:29.876: [Micky G]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-21 21:18:31.675: [Micky G]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-21 21:19:12.463: [Micky G]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-21 21:20:38.868: [Melee Cyrus]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-21 21:21:21.467: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-21 21:22:56.874: [Pixel Flexin]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-21 21:25:56.282: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Staff of light [22208, 1]
+
+
+
+2015-04-21 21:29:55.075: [Pascaladium]:
+Item[0]: Coins [995, 195000000]
+
+
+
+2015-04-21 21:35:24.474: [Pascaladium]:
+Item[0]: Coins [995, 138000000]
+
+
+
+2015-04-21 21:38:02.872: [Melee Cyrus]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Karil's top [4736, 1]
+Item[3]: Saradomin godsword [11698, 1]
+Item[4]: Staff of light [22208, 1]
+Item[5]: Infinity boots [6920, 1]
+Item[6]: Infinity boots [6920, 1]
+Item[7]: Infinity hat [6918, 1]
+Item[8]: Steadfast boots [21787, 1]
+
+
+
+2015-04-21 21:38:58.674: [Melee Cyrus]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 21:43:50.887: [Melee Cyrus]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 21:44:43.663: [Melee Cyrus]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 21:45:16.074: [Melee Cyrus]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 21:59:14.888: [Aurora]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-21 22:00:28.091: [Aurora]:
+Item[0]: Coins [995, 296710124]
+
+
+
+2015-04-21 22:04:49.080: [Aurora]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Infinity hat [6918, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Steadfast boots [21787, 1]
+
+
+
+2015-04-21 22:49:40.125: [Pascaladium]:
+Item[0]: Coins [995, 60000001]
+
+
+
+2015-04-21 22:50:34.125: [Pascaladium]:
+Item[0]: Coins [995, 101695913]
+
+
+
+2015-04-22 18:40:49.583: [Pascaladium]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-22 18:41:17.212: [Pascaladium]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-22 18:41:40.000: [Pascaladium]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+

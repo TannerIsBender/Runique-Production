@@ -1,0 +1,18 @@
+2015-04-16 12:56:43.000: [Papa Mouliq]:
+Item[0]: Mystery box [18768, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Corrupt dragon sq shield [13964, 1]
+Item[9]: Dragon full helm [11335, 1]
+Item[10]: Corrupt dragon plateskirt [13967, 1]
+Item[11]: Black dragon mask [19290, 1]
+Item[12]: Coins [995, 41314724]
+Item[13]: Ring of wealth [2572, 1]
+
+
+

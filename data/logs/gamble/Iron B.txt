@@ -1,0 +1,300 @@
+2015-06-02 14:44:14.836: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Elysian spirit shield [13742, 1]
+Other Item[0]: Vesta's chainbody [13888, 2]
+Other Item[1]: Armadyl godsword [11695, 2]
+Other Item[2]: Zamorak godsword [11701, 5]
+Other Item[3]: Abyssal vine whip [21371, 1]
+Other Item[4]: Amulet of fury [6586, 2]
+Other Item[5]: Bandos godsword [11697, 1]
+Other Item[6]: Corrupt vesta's longsword [13924, 3]
+
+
+
+2015-06-02 14:45:35.852: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Elysian spirit shield [13742, 1]
+My Item[2]: Corrupt vesta's longsword [13924, 3]
+My Item[3]: Amulet of fury [6586, 2]
+My Item[4]: Abyssal vine whip [21371, 1]
+My Item[5]: Bandos godsword [11697, 1]
+My Item[6]: Armadyl godsword [11695, 1]
+My Item[7]: Zamorak godsword [11701, 5]
+My Item[8]: Vesta's chainbody [13888, 2]
+Other Item[0]: Divine spirit shield [13740, 1]
+Other Item[1]: Amulet of fury [6586, 5]
+Other Item[2]: Corrupt vesta's chainbody [13911, 1]
+Other Item[3]: Ahrim's robetop [4713, 1]
+Other Item[4]: Armadyl battlestaff [21777, 1]
+Other Item[5]: Third-age druidic robe [19320, 1]
+Other Item[6]: Ranger boots [2578, 1]
+Other Item[7]: Guthix halo [18744, 1]
+Other Item[8]: Saradomin sword [11731, 1]
+
+
+
+2015-06-02 14:48:57.437: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Corrupt vesta's chainbody [13911, 1]
+My Item[1]: Armadyl battlestaff [21777, 1]
+My Item[2]: Corrupt vesta's longsword [13924, 3]
+My Item[3]: Zamorak godsword [11701, 5]
+My Item[4]: Bandos godsword [11697, 1]
+My Item[5]: Abyssal vine whip [21371, 1]
+My Item[6]: Saradomin sword [11731, 1]
+My Item[7]: Ranger boots [2578, 1]
+My Item[8]: Guthix halo [18744, 1]
+My Item[9]: Ahrim's robetop [4713, 1]
+My Item[10]: Armadyl godsword [11695, 1]
+My Item[11]: Third-age druidic robe [19320, 1]
+Other Item[0]: Amulet of fury [6586, 7]
+Other Item[1]: Vesta's chainbody [13888, 2]
+Other Item[2]: Coins [995, 100000000]
+Other Item[3]: Steadfast boots [21788, 5]
+Other Item[4]: Dark bow [11236, 1]
+Other Item[5]: Dragon boots [11733, 1]
+Other Item[6]: Novite boots [16340, 1]
+Other Item[7]: Onyx [6574, 1]
+Other Item[8]: Corrupt dragon chainbody [13959, 1]
+Other Item[9]: Corrupt dragon med helm [13962, 1]
+Other Item[10]: Corrupt dragon platelegs [13971, 1]
+Other Item[11]: Corrupt dragon dagger [13977, 1]
+
+
+
+2015-06-02 14:56:57.425: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Ranger boots [2578, 1]
+My Item[1]: Coins [995, 60000000]
+Other Item[0]: Robin hood hat [2581, 1]
+Other Item[1]: Abyssal vine whip [21371, 1]
+
+
+
+2015-06-02 15:15:11.267: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Divine spirit shield [13740, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 15:17:12.468: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[2]: Chaotic crossbow [18357, 1]
+My Item[3]: Vesta's chainbody [13888, 2]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:18:35.867: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Vesta's chainbody [13888, 2]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:19:38.268: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Armadyl godsword [11695, 1]
+My Item[3]: Vesta's chainbody [13888, 2]
+Other Item[0]: Coins [995, 200000000]
+Other Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-02 15:20:21.467: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 15:36:31.691: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 15:52:52.688: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Vesta's chainbody [13888, 2]
+My Item[1]: Elysian spirit shield [13742, 1]
+My Item[2]: Divine spirit shield [13740, 1]
+Other Item[0]: Abyssal vine whip [21371, 1]
+Other Item[1]: Abyssal vine whip [21371, 1]
+Other Item[2]: Steadfast boots [21788, 2]
+
+
+
+2015-06-02 15:59:57.501: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Vesta's chainbody [13888, 2]
+My Item[1]: Vesta's plateskirt [13894, 2]
+My Item[2]: Armadyl godsword [11695, 2]
+My Item[3]: Abyssal vine whip [21371, 1]
+My Item[4]: Chaotic crossbow [18357, 1]
+My Item[5]: Steadfast boots [21788, 2]
+My Item[6]: Third-age druidic robe [19320, 1]
+Other Item[0]: Vesta's plateskirt [13894, 3]
+Other Item[1]: Steadfast boots [21788, 3]
+Other Item[2]: Vesta's chainbody [13888, 3]
+Other Item[3]: Abyssal vine whip [21371, 1]
+Other Item[4]: Coins [995, 150000000]
+
+
+
+2015-06-02 16:13:56.917: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's chainbody [13888, 2]
+Other Item[0]: Vesta's chainbody [13888, 2]
+
+
+
+2015-06-02 16:14:31.121: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's plateskirt [13894, 2]
+My Item[1]: Vesta's chainbody [13888, 2]
+Other Item[0]: Vesta's chainbody [13888, 4]
+
+
+
+2015-06-02 16:15:14.313: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's plateskirt [13894, 2]
+Other Item[0]: Vesta's chainbody [13888, 2]
+
+
+
+2015-06-02 16:15:36.517: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's plateskirt [13894, 2]
+Other Item[0]: Vesta's chainbody [13888, 2]
+
+
+
+2015-06-02 16:19:26.313: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Abyssal vine whip [21371, 1]
+My Item[1]: Abyssal vine whip [21371, 1]
+My Item[2]: Armadyl godsword [11695, 2]
+My Item[3]: Amulet of fury [6586, 7]
+My Item[4]: Steadfast boots [21788, 5]
+Other Item[0]: Vesta's chainbody [13888, 1]
+Other Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-02 16:19:57.514: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+Other Item[0]: Vesta's chainbody [13888, 1]
+
+
+
+2015-06-02 16:24:21.516: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 16:25:25.717: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 16:30:22.714: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Elysian spirit shield [13743, 1]
+My Item[1]: Divine spirit shield [13740, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+My Item[3]: Vesta's plateskirt [13893, 1]
+My Item[4]: Steadfast boots [21788, 5]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 16:37:25.114: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 16:45:00.538: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+
+
+
+2015-06-02 22:06:06.189: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Steadfast boots [21788, 5]
+My Item[1]: Vesta's chainbody [13888, 1]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-06-02 22:08:11.589: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Steadfast boots [21788, 5]
+My Item[1]: Vesta's chainbody [13888, 3]
+Other Item[0]: Coins [995, 500000000]
+
+
+
+2015-06-02 22:10:57.767: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Steadfast boots [21788, 5]
+My Item[1]: Vesta's chainbody [13888, 3]
+Other Item[0]: Coins [995, 500000000]
+
+
+
+2015-06-02 22:13:25.989: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+My Item[1]: Vesta's plateskirt [13894, 1]
+My Item[2]: Armadyl battlestaff [21777, 1]
+My Item[3]: Divine spirit shield [13740, 1]
+My Item[4]: Third-age druidic robe [19321, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Vesta's longsword [13899, 1]
+Other Item[2]: Armadyl godsword [11694, 1]
+Other Item[3]: Arcane stream necklace [18335, 1]
+Other Item[4]: Korasi's sword [19780, 1]
+
+
+
+2015-06-02 22:16:35.600: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Elysian spirit shield [13742, 1]
+My Item[3]: Coins [995, 25921575]
+Other Item[0]: Vesta's plateskirt [13893, 1]
+Other Item[1]: Vesta's chainbody [13887, 1]
+Other Item[2]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-02 22:17:38.590: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Coins [995, 25000000]
+My Item[2]: Vesta's plateskirt [13893, 1]
+My Item[3]: Vesta's chainbody [13887, 1]
+My Item[4]: Divine spirit shield [13740, 1]
+My Item[5]: Chaotic crossbow [18357, 1]
+My Item[6]: Elysian spirit shield [13742, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[2]: Vesta's chainbody [13887, 1]
+Other Item[3]: Third-age druidic robe [19321, 1]
+Other Item[4]: Abyssal vine whip [21371, 1]
+Other Item[5]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-02 22:18:59.589: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Abyssal vine whip [21371, 1]
+My Item[1]: Amulet of fury [6586, 5]
+My Item[2]: Statius's full helm [13896, 1]
+My Item[3]: Abyssal vine whip [21372, 1]
+Other Item[0]: Vesta's plateskirt [13893, 1]
+Other Item[1]: Vesta's chainbody [13887, 1]
+Other Item[2]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-02 22:20:31.986: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Abyssal vine whip [21371, 1]
+My Item[1]: Abyssal vine whip [21372, 1]
+My Item[2]: Armadyl battlestaff [21777, 1]
+My Item[3]: Amulet of fury [6586, 5]
+My Item[4]: Statius's full helm [13896, 1]
+My Item[5]: Vesta's chainbody [13887, 1]
+My Item[6]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Third-age druidic robe [19321, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[2]: Vesta's chainbody [13888, 1]
+Other Item[3]: Armadyl godsword [11694, 1]
+Other Item[4]: Vesta's longsword [13899, 1]
+
+
+

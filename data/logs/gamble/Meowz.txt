@@ -1,0 +1,19 @@
+2015-05-16 16:15:15.662: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-16 16:16:34.268: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 21000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-16 16:20:08.472: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Blue elegant shirt [10408, 1]
+My Item[1]: Blue elegant legs [10410, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+

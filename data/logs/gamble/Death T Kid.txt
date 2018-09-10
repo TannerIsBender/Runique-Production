@@ -1,0 +1,154 @@
+2015-04-23 23:43:03.149: [St3alth Skil]:
+Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-04-23 23:49:51.171: [St3alth Skil]:
+
+
+
+2015-04-23 23:56:15.780: [St3alth Skil]:
+
+
+
+2015-04-23 23:59:34.371: [St3alth Skil]:
+
+
+
+2015-04-24 00:01:08.580: [St3alth Skil]:
+
+
+
+2015-04-24 00:02:51.771: [St3alth Skil]:
+
+
+
+2015-04-24 00:11:43.980: [St3alth Skil]:
+
+
+
+2015-04-24 00:17:37.976: [St3alth Skil]:
+
+
+
+2015-05-02 00:37:24.431: [Gibby]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+
+
+
+2015-05-02 00:38:31.634: [Gibby]:
+Item[0]: Coins [995, 19850460]
+
+
+
+2015-05-20 19:16:56.551: [[Cl0ud 9, cashel08; 23.127.197.160, 00-1A-A0-76-7F-56]]:
+My Item[0]: Coins [995, 45000000]
+My Item[1]: Armadyl helmet [11718, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-22 20:12:15.900: [[L2iron Man, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Coins [995, 17000000]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-22 20:14:33.321: [[L2iron Man, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Saradomin halo [18745, 1]
+My Item[1]: Zamorak halo [18746, 1]
+My Item[2]: Guthix halo [18744, 1]
+My Item[3]: Saradomin halo [18745, 1]
+My Item[4]: Zamorak halo [18746, 1]
+Other Item[0]: Hand cannon [15241, 1]
+
+
+
+2015-05-25 01:44:27.402: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 40400000]
+Other Item[0]: Coins [995, 40400000]
+
+
+
+2015-05-25 01:44:51.401: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 40400001]
+Other Item[0]: Coins [995, 40400000]
+
+
+
+2015-06-04 21:39:15.169: [[My99capes, 53705haley2388; 206.74.247.218, 7A-79-19-16-0D-C7]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-04 21:39:59.569: [[My99capes, 53705haley2388; 206.74.247.218, 7A-79-19-16-0D-C7]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-04 21:40:31.368: [[My99capes, 53705haley2388; 206.74.247.218, 7A-79-19-16-0D-C7]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-04 21:46:38.601: [[Goblin Queen, baker123; 2.122.21.140, 08-00-27-00-54-FA]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Armadyl chestplate [11720, 1]
+Other Item[1]: Armadyl chainskirt [11722, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+Other Item[3]: Dragon boots [11732, 1]
+
+
+
+2015-06-04 21:48:37.987: [[Goblin Queen, baker123; 2.122.21.140, 08-00-27-00-54-FA]]:
+My Item[0]: Armadyl chestplate [11720, 1]
+My Item[2]: Korasi's sword [19780, 1]
+My Item[3]: Armadyl chainskirt [11722, 1]
+My Item[4]: Armadyl helmet [11718, 1]
+Other Item[0]: Farseer kiteshield [18363, 1]
+Other Item[1]: Fox mask [19272, 1]
+Other Item[2]: Faithful shield [18747, 1]
+
+
+
+2015-06-04 21:50:02.587: [[Goblin Queen, baker123; 2.122.21.140, 08-00-27-00-54-FA]]:
+My Item[0]: Godsword shard 2 [11712, 1]
+My Item[1]: Godsword shard 2 [11712, 1]
+My Item[2]: Godsword shard 2 [11712, 1]
+My Item[3]: Dark bow [15702, 1]
+My Item[4]: Bandos godsword [11696, 1]
+My Item[5]: Saradomin godsword [11698, 1]
+My Item[6]: Dragon boots [11732, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Faithful shield [18747, 1]
+Other Item[2]: Fox mask [19272, 1]
+
+
+
+2015-06-04 21:51:01.401: [[Goblin Queen, baker123; 2.122.21.140, 08-00-27-00-54-FA]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Bandos godsword [11696, 1]
+My Item[2]: Dark bow [15702, 1]
+My Item[3]: Dragon boots [11732, 1]
+My Item[4]: Godsword shard 2 [11712, 1]
+My Item[5]: Godsword shard 2 [11712, 1]
+My Item[6]: Godsword shard 2 [11712, 1]
+Other Item[0]: Fox mask [19272, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Faithful shield [18747, 1]
+
+
+
+2015-06-04 21:52:50.601: [[My99capes, 53705haley2388; 206.74.247.218, 7A-79-19-16-0D-C7]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+

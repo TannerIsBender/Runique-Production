@@ -1,0 +1,337 @@
+2015-04-17 19:53:01.078: [Pascaladium]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-17 19:59:25.081: [Pascaladium]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-17 20:06:49.681: [Pwrz]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 20:07:23.905: [Pwrz]:
+Item[0]: Coins [995, 13093998]
+
+
+
+2015-04-17 20:57:02.328: [Pvm Giggles]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 21:31:46.744: [Pascaladium]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 21:33:04.143: [Pascaladium]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 21:33:44.943: [Pascaladium]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 21:41:44.344: [Nostalgia]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 21:42:55.744: [Nostalgia]:
+
+
+
+2015-04-17 21:58:41.330: [Zinc]:
+Item[0]: Coins [995, 539000]
+
+
+
+2015-04-17 22:05:13.150: [Zinc]:
+Item[0]: Coins [995, 500000]
+
+
+
+2015-04-17 22:21:03.581: [Pascaladium]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 22:21:37.777: [Pascaladium]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 22:23:27.581: [Pascaladium]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 22:24:05.971: [Pascaladium]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 22:24:36.581: [Pascaladium]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 22:41:41.981: [Pascaladium]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-17 22:42:08.381: [Pascaladium]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-17 22:45:58.781: [Pascaladium]:
+
+
+
+2015-04-17 22:46:26.393: [Pascaladium]:
+
+
+
+2015-04-17 22:47:14.359: [Pascaladium]:
+
+
+
+2015-04-17 22:52:07.793: [Pascaladium]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 22:54:34.766: [Pascaladium]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 00:54:45.650: [Noko3456]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-18 01:30:40.266: [Ganja Green]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-18 01:36:13.265: [Star]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:36:47.493: [Star]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:37:16.281: [Star]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:38:16.893: [Star]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:38:43.265: [Star]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 01:39:58.893: [Star]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 23:05:54.271: [The J]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-18 23:10:19.487: [The J]:
+
+
+
+2015-04-18 23:11:40.487: [The J]:
+
+
+
+2015-04-18 23:15:00.271: [The J]:
+
+
+
+2015-04-18 23:15:41.671: [The J]:
+
+
+
+2015-04-19 01:34:45.649: [Baked Player]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-21 00:40:27.699: [The J]:
+
+
+
+2015-04-21 00:59:10.325: [Strawhat]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-21 21:56:41.271: [Aurora]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-21 22:04:02.884: [Aurora]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Berserker ring [6737, 1]
+Item[3]: Vesta's spear [13905, 1]
+Item[4]: Amulet of fury [6585, 1]
+Item[5]: Coins [995, 19990000]
+
+
+
+2015-04-21 22:09:05.288: [Iron Hydra]:
+Item[0]: Tooth half of a key [985, 1]
+Item[1]: Tooth half of a key [985, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Tooth half of a key [985, 1]
+Item[4]: Tooth half of a key [985, 1]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: C. morrigan's throwing axe [13957, 15]
+Item[7]: Infinity gloves [6922, 1]
+Item[8]: Tokkul [6529, 37313]
+
+
+
+2015-04-21 22:09:38.906: [Iron Hydra]:
+Item[0]: Tooth half of a key [985, 1]
+Item[1]: Tooth half of a key [985, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Tooth half of a key [985, 1]
+Item[4]: Tooth half of a key [985, 1]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: C. morrigan's throwing axe [13957, 15]
+Item[7]: Infinity gloves [6922, 1]
+Item[8]: Tokkul [6529, 37313]
+
+
+
+2015-04-24 16:56:48.180: [Oi]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-24 16:57:16.980: [Oi]:
+Item[0]: Coins [995, 38000000]
+
+
+
+2015-04-25 02:20:55.125: [Halee]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 02:25:40.117: [Melee Cyrus]:
+Item[0]: Coins [995, 26000000]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 02:26:37.722: [Melee Cyrus]:
+Item[0]: Coins [995, 26000000]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 02:32:25.718: [Melee Cyrus]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-25 21:22:34.218: [Kabooyah]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-25 21:23:24.634: [Kabooyah]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-25 21:24:01.218: [Kabooyah]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-25 21:28:13.833: [Kabooyah]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 21:31:54.026: [Brazy]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-28 15:18:36.248: [Kabooyah]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-04-28 15:30:14.649: [Kabooyah]:
+Item[0]: Coins [995, 165772987]
+
+
+
+2015-04-28 15:31:31.449: [Kabooyah]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-05-06 21:30:03.869: [Mercy]:
+Item[0]: Coins [995, 44961637]
+
+
+
+2015-05-19 03:01:10.563: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-19 03:01:39.945: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-19 03:03:27.964: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 03:03:56.747: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+

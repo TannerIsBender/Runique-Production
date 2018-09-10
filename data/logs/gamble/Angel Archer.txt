@@ -1,0 +1,424 @@
+2015-05-20 14:58:47.348: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[2]: Steadfast boots [21787, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-24 16:46:55.767: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Full slayer helmet [15492, 1]
+My Item[1]: Staff of light [22210, 1]
+My Item[2]: Saradomin sword [11730, 1]
+My Item[3]: Abyssal whip [4151, 1]
+My Item[4]: Rainbow afro [19747, 1]
+My Item[5]: Arcane stream necklace [18335, 1]
+My Item[6]: Studded chaps (g) [7366, 1]
+My Item[7]: Orange boater [10760, 1]
+My Item[8]: Zamorak halo [18746, 1]
+My Item[9]: Saradomin halo [18745, 1]
+My Item[10]: Guthix halo [18744, 1]
+Other Item[0]: Dark bow [11236, 1]
+Other Item[1]: Full slayer helmet [15492, 1]
+Other Item[2]: Coins [995, 10000000]
+Other Item[4]: Bandos godsword [11697, 2]
+Other Item[5]: Armadyl helmet [11719, 1]
+
+
+
+2015-05-24 16:49:20.395: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Armadyl godsword [11694, 1]
+Other Item[3]: Ragefire boots [21793, 1]
+
+
+
+2015-05-24 16:51:13.795: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-05-24 16:52:17.395: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-05-24 16:53:51.564: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Ragefire boots [21793, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-24 16:55:13.195: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-24 16:56:19.795: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-24 16:56:56.988: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Ragefire boots [21793, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-24 16:57:59.389: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Abyssal whip [4151, 1]
+My Item[2]: Abyssal whip [4151, 1]
+My Item[3]: Abyssal whip [4151, 1]
+My Item[4]: Steadfast boots [21787, 1]
+My Item[5]: Dragon claws [14484, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[2]: Coins [995, 77000000]
+Other Item[3]: Full slayer helmet [15492, 1]
+Other Item[4]: Abyssal whip [4151, 1]
+Other Item[5]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-24 16:58:43.172: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Abyssal whip [4151, 1]
+My Item[2]: Abyssal whip [4151, 1]
+My Item[3]: Abyssal whip [4151, 1]
+My Item[4]: Steadfast boots [21787, 1]
+My Item[5]: Dragon claws [14484, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Coins [995, 77000000]
+
+
+
+2015-05-24 17:03:37.795: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-24 17:07:11.995: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Dark bow [11236, 1]
+Other Item[0]: Armadyl chainskirt [11722, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-24 17:08:10.194: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Bandos godsword [11697, 2]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chainskirt [11722, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+Other Item[3]: Steadfast boots [21787, 1]
+Other Item[4]: Dark bow [11236, 1]
+
+
+
+2015-05-24 17:09:37.193: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-05-24 17:11:19.794: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Steadfast boots [21787, 1]
+My Item[2]: Steadfast boots [21787, 1]
+My Item[3]: Amulet of fury [6585, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Armadyl chainskirt [11722, 1]
+Other Item[3]: Abyssal whip [4151, 1]
+Other Item[4]: Abyssal whip [4151, 1]
+Other Item[5]: Abyssal whip [4151, 1]
+
+
+
+2015-05-24 17:16:00.595: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Dragon claws [14484, 1]
+Other Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-24 17:19:07.201: [[Cl0ud 9, cashel08; 23.127.197.160, BC-85-56-0F-C8-73]]:
+My Item[0]: Ragefire boots [21793, 1]
+Other Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-05-24 17:25:28.813: [[Cl0ud 9, cashel08; 23.127.197.160, BC-85-56-0F-C8-73]]:
+My Item[0]: Armadyl godsword [11695, 1]
+Other Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-05-24 17:26:33.614: [[Cl0ud 9, cashel08; 23.127.197.160, BC-85-56-0F-C8-73]]:
+My Item[0]: Armadyl godsword [11695, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-24 17:27:35.402: [[Cl0ud 9, cashel08; 23.127.197.160, BC-85-56-0F-C8-73]]:
+My Item[0]: Coins [995, 125000000]
+My Item[1]: Steadfast boots [21788, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+My Item[3]: Abyssal whip [4152, 4]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Farseer kiteshield [18363, 1]
+Other Item[2]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-24 17:29:24.017: [[Cl0ud 9, cashel08; 23.127.197.160, BC-85-56-0F-C8-73]]:
+My Item[0]: Farseer kiteshield [18363, 1]
+My Item[1]: Abyssal whip [4152, 1]
+Other Item[0]: Armadyl chainskirt [11722, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-24 17:34:37.818: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dark bow [11236, 1]
+My Item[1]: Godsword shard 2 [11712, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-24 17:35:00.017: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dark bow [11236, 1]
+My Item[1]: Godsword shard 2 [11712, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-24 17:37:49.217: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Full slayer helmet [15492, 1]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Farseer kiteshield [18363, 1]
+My Item[3]: Dark bow [11236, 1]
+My Item[4]: Godsword shard 2 [11712, 1]
+Other Item[0]: Bandos godsword [11697, 2]
+Other Item[1]: Statius's warhammer [13902, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+Other Item[3]: Armadyl helmet [11718, 1]
+Other Item[4]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-24 17:39:20.417: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Armadyl godsword [11695, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-24 17:43:58.217: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 125000000]
+My Item[1]: Armadyl godsword [11695, 1]
+My Item[2]: Abyssal whip [4152, 1]
+Other Item[0]: Armadyl godsword [11695, 1]
+Other Item[1]: Abyssal whip [4152, 1]
+Other Item[2]: Coins [995, 125000000]
+
+
+
+2015-05-24 17:45:07.817: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 355000000]
+Other Item[0]: Coins [995, 355000000]
+
+
+
+2015-05-24 17:46:18.617: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 135000000]
+Other Item[0]: Coins [995, 135000000]
+
+
+
+2015-05-24 17:49:59.415: [[Chief, scaryshit123; 92.232.67.78, 00-1E-2A-B1-99-84]]:
+My Item[0]: Abyssal whip [4152, 4]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+Other Item[2]: Korasi's sword [19780, 1]
+
+
+
+2015-05-24 17:50:46.809: [[Chief, scaryshit123; 92.232.67.78, 00-1E-2A-B1-99-84]]:
+My Item[0]: Armadyl godsword [11695, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+Other Item[2]: Korasi's sword [19780, 1]
+
+
+
+2015-05-24 17:51:30.615: [[Chief, scaryshit123; 92.232.67.78, 00-1E-2A-B1-99-84]]:
+My Item[0]: Armadyl godsword [11695, 1]
+My Item[1]: Abyssal whip [4152, 2]
+Other Item[0]: Armadyl godsword [11695, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+Other Item[2]: Abyssal whip [4151, 1]
+
+
+
+2015-05-24 17:54:24.048: [[Amy, dragons1; 151.224.135.10, B8-EE-65-EF-AF-CD]]:
+My Item[0]: Abyssal whip [4152, 2]
+My Item[1]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-24 17:55:00.017: [[Amy, dragons1; 151.224.135.10, B8-EE-65-EF-AF-CD]]:
+My Item[0]: Coins [995, 10000000]
+My Item[1]: Abyssal whip [4152, 2]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-24 17:55:23.448: [[Amy, dragons1; 151.224.135.10, B8-EE-65-EF-AF-CD]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-24 17:56:18.048: [[Amy, dragons1; 151.224.135.10, B8-EE-65-EF-AF-CD]]:
+My Item[0]: Abyssal whip [4152, 2]
+My Item[1]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-24 17:57:56.448: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-24 17:58:34.832: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Dragon claws [14484, 1]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Steadfast boots [21788, 1]
+
+
+
+2015-05-24 23:29:08.690: [[Cl0ud 9, cashel08; 23.127.197.160, BC-85-56-0F-C8-73]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Ahrim's robetop [4712, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-29 19:04:20.712: [[Gibby, 229026; 71.62.33.72, 48-D2-24-51-E8-5C]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 27500000]
+
+
+
+2015-05-29 19:08:02.113: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[1]: Coins [995, 70000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+Other Item[2]: Amulet of ranging [15126, 1]
+Other Item[3]: Saradomin sword [11730, 1]
+Other Item[4]: Saradomin sword [11730, 1]
+
+
+
+2015-05-29 19:11:29.715: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Amulet of ranging [15126, 1]
+Other Item[0]: Dharok's platebody [4720, 1]
+Other Item[1]: Dharok's platelegs 0 [4902, 1]
+Other Item[2]: Dharok's greataxe [4718, 1]
+Other Item[3]: Dharok's helm [4716, 1]
+
+
+
+2015-05-29 19:26:41.717: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-02 18:24:36.615: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Divine spirit shield [13741, 1]
+
+
+
+2015-06-02 18:25:21.589: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 9000000]
+Other Item[0]: Coins [995, 9000000]
+
+
+
+2015-06-02 18:26:40.820: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+
+
+
+2015-06-04 12:05:25.540: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Armadyl godsword [11695, 1]
+Other Item[0]: Steadfast boots [21788, 1]
+Other Item[1]: Morrigan's leather body [13870, 1]
+Other Item[2]: Morrigan's leather chaps [13873, 1]
+Other Item[3]: Korasi's sword [19780, 1]
+Other Item[4]: Bandos chestplate [11724, 1]
+Other Item[5]: Ragefire boots [21794, 1]
+Other Item[6]: Korasi's sword [19780, 1]
+Other Item[7]: Dragon claws [14484, 1]
+
+
+
+2015-06-04 23:17:36.269: [[Sorry, howareyou?; 76.181.175.179, 30-10-B3-C2-62-ED]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-04 23:18:37.465: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-04 23:21:23.670: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Coins [995, 85000000]
+My Item[1]: Abyssal whip [15442, 1]
+Other Item[0]: Amulet of fury [6586, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Bandos godsword [11696, 1]
+Other Item[3]: Saradomin godsword [11698, 1]
+
+
+
+2015-06-04 23:21:59.658: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Coins [995, 85000000]
+My Item[1]: Abyssal whip [15442, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+Other Item[1]: Bandos godsword [11696, 1]
+Other Item[2]: Amulet of fury [6586, 1]
+Other Item[3]: Armadyl helmet [11718, 1]
+
+
+

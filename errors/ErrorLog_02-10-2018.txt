@@ -1,0 +1,8 @@
+Mar 10, 2018 10:29:27 AM org.niobe.GameServer main
+INFO: Launching Niobe, please be pavvtient while configurations are being loaded... [4 cores]
+Mar 10, 2018 10:29:44 AM org.niobe.world.content.clan.ClanChatManager init
+INFO: Directory for clan files does NOT exist!
+Mar 10, 2018 10:31:49 AM org.niobe.GameServer main
+INFO: Port 43597 has been bound.
+Mar 10, 2018 1:19:54 PM org.niobe.GameServer main
+INFO: Launching Niobe, please be pavvtient while configurations are being loaded... [4 cores]

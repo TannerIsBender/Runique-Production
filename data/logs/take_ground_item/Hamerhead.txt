@@ -1,0 +1,8 @@
+Item Taken: Coins [995, 238368 - position=[2673, 3729, 0]] - 2015-03-23 22:05:44.327
+Item Taken: Bronze dart [806, 20 - position=[2684, 3727, 0]] - 2015-03-23 22:10:26.323
+Item Taken: Coins [995, 296556 - position=[2680, 3730, 0]] - 2015-03-23 22:19:14.345
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2681, 3731, 0]] - 2015-03-23 22:30:01.145
+Item Taken: Coins [995, 233621 - position=[2681, 3729, 0]] - 2015-03-23 22:31:44.344
+Item Taken: Toadflax seed [5296, 2 - position=[2682, 3731, 0]] - 2015-03-23 22:31:48.545
+Item Taken: Grimy cadantine [216, 3 - position=[2682, 3731, 0]] - 2015-03-23 22:31:49.744
+Item Taken: Coins [995, 15955 - position=[2680, 3731, 0]] - 2015-03-23 22:38:11.946

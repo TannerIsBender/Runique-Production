@@ -1,0 +1,8 @@
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2676, 3717, 0]] - 2015-03-24 21:59:50.596
+Item Taken: Coins [995, 217924 - position=[2676, 3716, 0]] - 2015-03-24 22:00:18.195
+Item Taken: Coins [995, 380192 - position=[2669, 3715, 0]] - 2015-03-24 22:06:43.396
+Item Taken: Coins [995, 292649 - position=[2668, 3717, 0]] - 2015-03-24 22:07:45.811
+Item Taken: Coins [995, 255091 - position=[2666, 3714, 0]] - 2015-03-24 22:12:39.814
+Item Taken: Coins [995, 344278 - position=[2665, 3714, 0]] - 2015-03-24 22:14:27.233
+Item Taken: Coins [995, 84755 - position=[2669, 3716, 0]] - 2015-03-25 08:45:36.811
+Item Taken: Slayer's staff [4170, 1 - position=[3087, 3498, 0]] - 2015-03-25 09:04:35.020

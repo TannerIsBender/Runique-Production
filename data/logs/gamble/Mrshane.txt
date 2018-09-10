@@ -1,0 +1,36 @@
+2015-06-04 21:19:02.554: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Onyx amulet [6581, 1]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Dragon platebody ornament kit (sp) [19358, 1]
+My Item[3]: Dragon sq shield ornament kit (or) [19352, 1]
+My Item[4]: Dragon full helm ornament kit (or) [19346, 1]
+Other Item[0]: Scroll of augury [18344, 1]
+Other Item[1]: Scroll of rigour [18839, 1]
+Other Item[2]: Corrupt dragon chainbody [13958, 1]
+Other Item[3]: Corrupt dragon chainbody [13958, 1]
+Other Item[4]: Corrupt dragon sq shield [13964, 1]
+Other Item[5]: Infinity gloves [6922, 1]
+Other Item[6]: Penguin mask [13109, 1]
+Other Item[7]: Sheep mask [13107, 1]
+Other Item[8]: Rainbow afro [19747, 1]
+Other Item[9]: Golden hammer [2949, 1]
+
+
+
+2015-06-04 22:06:56.591: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+My Item[1]: Elysian spirit shield [13742, 1]
+My Item[2]: Karil's skirt [4738, 1]
+My Item[3]: Karil's top [4736, 1]
+My Item[4]: Dragon square shield (or) [19340, 1]
+My Item[5]: Arcane stream necklace [18335, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[2]: Vesta's chainbody [13887, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+Other Item[4]: Abyssal whip [15442, 1]
+Other Item[5]: Dark bow [15702, 1]
+Other Item[6]: Abyssal whip [15444, 1]
+
+
+

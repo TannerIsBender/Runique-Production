@@ -1,0 +1,197 @@
+2015-06-04 02:46:36.292: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-06-04 02:48:00.886: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-04 02:48:31.486: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-06-04 02:48:50.101: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-06-04 02:49:07.492: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-04 02:50:29.686: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic longsword [18351, 1]
+Other Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-06-04 02:51:20.686: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-04 03:32:23.115: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Divine spirit shield [13741, 1]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-04 03:33:09.323: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Divine spirit shield [13741, 1]
+Other Item[0]: Divine spirit shield [13741, 1]
+
+
+
+2015-06-04 03:34:23.114: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[0]: Vesta's chainbody [13888, 1]
+Other Item[1]: Vesta's plateskirt [13894, 1]
+Other Item[2]: Coins [995, 100000000]
+
+
+
+2015-06-04 03:34:51.315: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+My Item[1]: Vesta's plateskirt [13894, 1]
+My Item[2]: Coins [995, 100000000]
+Other Item[0]: Vesta's chainbody [13888, 1]
+Other Item[1]: Vesta's plateskirt [13894, 1]
+Other Item[2]: Coins [995, 100000000]
+
+
+
+2015-06-04 03:35:47.723: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+My Item[1]: Vesta's plateskirt [13894, 1]
+My Item[2]: Coins [995, 200000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-04 03:36:16.514: [[Not Katie, lillyrose1262011; 92.41.114.227, None]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+My Item[1]: Vesta's plateskirt [13894, 1]
+My Item[2]: Coins [995, 200000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-04 04:32:09.065: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-06-04 04:33:13.865: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 04:34:00.654: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 04:35:11.470: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 04:35:58.270: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-06-04 04:42:05.470: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 04:43:41.467: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 04:44:15.064: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-06-04 04:45:14.470: [[Not Katie, lillyrose1262011; 92.40.125.48, None]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-04 04:46:19.886: [[Not Katie, lillyrose1262011; 92.40.125.48, None]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Divine spirit shield [13740, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-04 05:00:33.089: [[G Master, november; 124.148.101.239, 78-E4-00-03-18-72]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 05:02:39.698: [[G Master, november; 124.148.101.239, 78-E4-00-03-18-72]]:
+My Item[0]: Divine spirit shield [13740, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-06-04 18:54:36.633: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+Other Item[3]: Chaotic maul [18353, 1]
+Other Item[4]: Chaotic maul [18353, 1]
+
+
+
+2015-06-04 18:55:08.430: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+Other Item[3]: Chaotic maul [18353, 1]
+Other Item[4]: Chaotic maul [18353, 1]
+
+
+
+2015-06-04 18:55:42.670: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+Other Item[3]: Chaotic maul [18353, 1]
+Other Item[4]: Chaotic maul [18353, 1]
+
+
+
+2015-06-05 07:21:51.039: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Dragon claws [14484, 1]
+
+
+

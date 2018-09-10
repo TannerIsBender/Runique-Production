@@ -1,0 +1,201 @@
+2015-05-08 01:35:29.200: [Star]:
+Item[0]: Coins [995, 143000000]
+
+
+
+2015-05-08 02:53:01.662: [I Like Gold]:
+Item[0]: Coins [995, 56000000]
+
+
+
+2015-05-08 04:09:19.116: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 04:09:47.322: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 04:12:20.906: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-08 04:14:31.738: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-08 04:14:55.121: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-09 17:11:30.706: [Scizor]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-10 03:59:29.062: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 04:00:24.862: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 04:00:54.869: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 04:01:41.061: [Simberj]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-10 04:02:14.668: [Simberj]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-10 15:47:32.016: [Rozza123]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 15:48:24.818: [Rozza123]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-05-10 15:50:43.417: [Davetherave]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-11 00:11:50.422: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-11 00:12:50.415: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-11 06:00:30.422: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-11 06:01:58.016: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 125000000]
+Other Item[0]: Coins [995, 125000000]
+
+
+
+2015-05-11 06:02:46.021: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-11 06:03:25.038: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-11 06:04:03.421: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-11 08:25:25.138: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-05-13 01:06:44.437: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-13 14:00:27.422: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Zuriel's staff [13867, 1]
+Other Item[0]: Zuriel's staff [13867, 1]
+
+
+
+2015-05-13 14:54:59.822: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[2]: Elysian spirit shield [13742, 1]
+My Item[3]: Spectral spirit shield [13744, 1]
+My Item[4]: Arcane spirit shield [13738, 1]
+Other Item[0]: Coins [995, 59000000]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-13 14:56:55.621: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-13 14:58:20.833: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[2]: Arcane spirit shield [13738, 1]
+My Item[3]: Spectral spirit shield [13744, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-18 01:30:57.333: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-18 01:31:31.534: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-18 22:44:27.148: [[Aleexk3, meghanxx; 125.236.178.70, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Vote Ticket [13256, 1]
+Other Item[0]: Vote Ticket [13256, 1]
+Other Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-05-23 19:52:18.233: [[Frisk, balintore23; 46.65.216.73, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-24 01:15:30.432: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-24 15:50:52.748: [[Get Wet Kids, altoids; 86.180.74.92, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000291]
+
+
+

@@ -1,0 +1,32 @@
+2015-06-03 00:34:32.120: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-06-06 01:11:21.859: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Amulet of fury [6586, 1]
+Other Item[1]: Amulet of fury [6586, 1]
+
+
+
+2015-06-06 01:15:51.901: [[Nostalgia, gurbaxsingh; 65.92.126.42, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+Other Item[0]: Elysian spirit shield [13742, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Coins [995, 25000000]
+
+
+
+2015-06-06 23:48:27.738: [[Monkey Josh, ab12abab12ab; 58.110.65.113, C0-F8-DA-4D-4F-69]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-06 23:49:09.741: [[Monkey Josh, ab12abab12ab; 58.110.65.113, C0-F8-DA-4D-4F-69]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+

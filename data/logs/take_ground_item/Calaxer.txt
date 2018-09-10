@@ -1,0 +1,50 @@
+Item Telegrabbed: Dragon claws [14484, 1 - [3422, 9963, 0]] - 2015-05-16 13:12:59.992
+Item Telegrabbed: Toktz-xil-ul [6522, 25 - [3415, 9953, 0]] - 2015-05-16 13:13:17.384
+Item Telegrabbed: Saradomin sword [11730, 1 - [3415, 9953, 0]] - 2015-05-16 13:14:17.385
+Item Telegrabbed: Manta ray [391, 1 - [3420, 9944, 0]] - 2015-05-16 13:15:27.575
+Item Telegrabbed: Armadyl godsword [11694, 1 - [3424, 9944, 0]] - 2015-05-16 13:15:41.384
+Item Telegrabbed: Saradomin sword [11730, 1 - [3429, 9953, 0]] - 2015-05-16 13:16:14.991
+Item Telegrabbed: Zaryte bow [20171, 1 - [3424, 9947, 0]] - 2015-05-16 13:17:20.985
+Item Telegrabbed: Toktz-xil-ul [6522, 25 - [3422, 9963, 0]] - 2015-05-16 13:27:43.175
+Item Telegrabbed: Saradomin sword [11730, 1 - [3415, 9949, 0]] - 2015-05-16 13:27:52.791
+Item Telegrabbed: New crystal bow [4212, 1 - [3420, 9944, 0]] - 2015-05-16 13:30:59.394
+Item Telegrabbed: Dragon dart (p++) [11234, 10 - [3429, 9953, 0]] - 2015-05-16 13:31:22.818
+Item Telegrabbed: Abyssal whip [4151, 1 - [3424, 9944, 0]] - 2015-05-16 13:31:55.786
+Item Telegrabbed: Saradomin sword [11730, 1 - [3434, 9951, 0]] - 2015-05-16 13:32:16.175
+Item Telegrabbed: Armadyl godsword [11694, 1 - [3415, 9953, 0]] - 2015-05-16 13:32:54.598
+Item Telegrabbed: Dragon 2h sword [7158, 1 - [3424, 9947, 0]] - 2015-05-16 13:33:23.416
+Item Telegrabbed: Zaryte bow [20171, 1 - [3434, 9951, 0]] - 2015-05-16 13:33:44.391
+Item Telegrabbed: Dragon dart (p++) [11234, 10 - [3420, 9947, 0]] - 2015-05-16 13:34:23.990
+Item Telegrabbed: Armadyl godsword [11694, 1 - [3429, 9953, 0]] - 2015-05-16 13:34:55.791
+Item Telegrabbed: Dragon claws [14484, 1 - [3434, 9951, 0]] - 2015-05-16 13:35:34.817
+Item Telegrabbed: Abyssal whip [4151, 1 - [3424, 9947, 0]] - 2015-05-16 13:39:49.225
+Item Telegrabbed: Dragon claws [14484, 1 - [3420, 9947, 0]] - 2015-05-16 13:40:24.023
+Item Telegrabbed: Chaotic maul (broken) [18354, 1 - [3420, 9947, 0]] - 2015-05-16 13:40:35.406
+Item Telegrabbed: Saradomin sword [11730, 1 - [3424, 9944, 0]] - 2015-05-16 13:41:21.021
+Item Telegrabbed: New crystal bow [4212, 1 - [3415, 9949, 0]] - 2015-05-16 13:41:38.414
+Item Telegrabbed: Chaotic longsword (broken) [18352, 1 - [3415, 9949, 0]] - 2015-05-16 13:42:26.422
+Item Telegrabbed: Chaotic longsword (broken) [18352, 1 - [3422, 9963, 0]] - 2015-05-16 13:43:46.206
+Item Telegrabbed: Zaryte bow [20171, 1 - [3422, 9963, 0]] - 2015-05-16 13:44:15.623
+Item Telegrabbed: Chaotic maul (broken) [18354, 1 - [3415, 9949, 0]] - 2015-05-16 13:44:48.606
+Item Telegrabbed: Saradomin sword [11730, 1 - [3424, 9944, 0]] - 2015-05-16 13:45:21.020
+Item Telegrabbed: Abyssal whip [4151, 1 - [3422, 9959, 0]] - 2015-05-16 13:48:43.822
+Item Telegrabbed: Chaotic longsword (broken) [18352, 1 - [3424, 9944, 0]] - 2015-05-16 13:49:30.606
+Item Telegrabbed: Dragon claws [14484, 1 - [3415, 9949, 0]] - 2015-05-16 13:50:18.026
+Item Telegrabbed: Chaotic longsword (broken) [18352, 1 - [3424, 9947, 0]] - 2015-05-16 13:50:54.006
+Item Telegrabbed: Saradomin sword [11730, 1 - [3415, 9949, 0]] - 2015-05-16 13:51:12.007
+Item Telegrabbed: Abyssal whip [4151, 1 - [3415, 9953, 0]] - 2015-05-16 13:51:23.406
+Item Telegrabbed: Zaryte bow [20171, 1 - [3422, 9959, 0]] - 2015-05-16 13:51:36.606
+Item Telegrabbed: Armadyl godsword [11694, 1 - [3429, 9949, 0]] - 2015-05-16 13:52:11.422
+Item Telegrabbed: New crystal bow [4212, 1 - [3420, 9944, 0]] - 2015-05-16 13:52:25.232
+Item Telegrabbed: Chaotic longsword (broken) [18352, 1 - [3420, 9947, 0]] - 2015-05-16 13:53:16.822
+Item Telegrabbed: New crystal bow [4212, 1 - [3415, 9953, 0]] - 2015-05-16 13:54:14.406
+Item Telegrabbed: Abyssal whip [4151, 1 - [3424, 9947, 0]] - 2015-05-16 13:58:11.430
+Item Telegrabbed: Dragon claws [14484, 1 - [3424, 9947, 0]] - 2015-05-16 13:58:14.430
+Item Telegrabbed: Zaryte bow [20171, 1 - [3415, 9953, 0]] - 2015-05-16 13:59:10.834
+Item Telegrabbed: Saradomin sword [11730, 1 - [3429, 9953, 0]] - 2015-05-16 14:00:12.021
+Item Telegrabbed: Chaotic maul (broken) [18354, 1 - [3420, 9944, 0]] - 2015-05-16 14:02:09.022
+Item Telegrabbed: Dragon claws [14484, 1 - [3420, 9944, 0]] - 2015-05-16 14:02:18.607
+Item Telegrabbed: Abyssal whip [4151, 1 - [3420, 9944, 0]] - 2015-05-16 14:06:48.026
+Item Telegrabbed: New crystal bow [4212, 1 - [3422, 9959, 0]] - 2015-05-16 14:07:46.224
+Item Telegrabbed: Dragon dart (p++) [11234, 10 - [3422, 9959, 0]] - 2015-05-16 14:07:51.634
+Item Telegrabbed: New crystal bow [4212, 1 - [3415, 9953, 0]] - 2015-05-16 14:08:36.027

@@ -1,0 +1,36 @@
+2015-06-04 12:47:55.570: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 12:49:48.365: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-04 12:52:30.966: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-04 12:53:53.163: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-04 13:01:17.170: [[Calsta, coventry; 86.174.209.86, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 13:02:54.368: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-57-D0]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Zamorak godsword [11700, 1]
+
+
+

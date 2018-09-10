@@ -1,0 +1,11 @@
+Item Taken: Coins [995, 94526 - position=[2686, 3720, 0]] - 2015-03-23 07:55:31.040
+Item Taken: Bones [526, 1 - position=[2686, 3720, 0]] - 2015-03-23 07:56:05.865
+Item Taken: Bones [526, 1 - position=[2686, 3722, 0]] - 2015-03-23 07:56:10.050
+Item Taken: Bones [526, 1 - position=[2686, 3719, 0]] - 2015-03-23 07:56:12.464
+Item Taken: Bones [526, 1 - position=[2686, 3720, 0]] - 2015-03-23 07:56:41.871
+Item Taken: Bones [526, 1 - position=[2685, 3720, 0]] - 2015-03-23 07:58:14.271
+Item Taken: Bones [526, 1 - position=[2685, 3720, 0]] - 2015-03-23 07:58:15.472
+Item Taken: Bones [526, 1 - position=[2685, 3719, 0]] - 2015-03-23 08:06:02.865
+Item Taken: Bones [526, 1 - position=[2686, 3720, 0]] - 2015-03-23 08:06:05.887
+Item Taken: Bones [526, 1 - position=[2686, 3720, 0]] - 2015-03-23 08:06:09.472
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2678, 3717, 0]] - 2015-03-23 08:14:55.081

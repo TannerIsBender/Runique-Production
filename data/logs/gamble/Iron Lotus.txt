@@ -1,0 +1,87 @@
+2015-05-02 11:50:33.607: [Shane]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-02 11:52:12.008: [Shane]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Coins [995, 40000000]
+
+
+
+2015-05-02 11:53:55.215: [Shane]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-02 11:56:49.804: [Shane]:
+Item[0]: Coins [995, 160000000]
+
+
+
+2015-05-02 12:01:08.400: [Shane]:
+Item[0]: Armadyl chestplate [11721, 4]
+
+
+
+2015-05-02 12:05:18.615: [Shane]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-02 12:06:32.415: [Shane]:
+Item[0]: Coins [995, 110000000]
+Item[1]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-02 12:08:44.432: [Shane]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Chaotic maul [18353, 1]
+Item[2]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-02 19:18:05.168: [Shiro]:
+
+
+
+2015-05-02 21:59:31.084: [Yocky123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 15:54:56.347: [Melee Cyrus]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Coins [995, 5000045]
+
+
+
+2015-05-03 22:17:07.438: [Kabooyah]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-03 22:25:21.231: [Kabooyah]:
+Item[0]: Coins [995, 17665015]
+
+
+
+2015-05-03 22:30:07.438: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11719, 1]
+
+
+
+2015-05-24 19:40:02.516: [[Beware, teddy2013; 86.0.49.249, 74-DE-2B-8B-6E-7C]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Coins [995, 4000000]
+
+
+
+2015-05-24 19:41:32.514: [[Beware, teddy2013; 86.0.49.249, 74-DE-2B-8B-6E-7C]]:
+My Item[0]: Coins [995, 8000000]
+Other Item[0]: Coins [995, 8000000]
+
+
+

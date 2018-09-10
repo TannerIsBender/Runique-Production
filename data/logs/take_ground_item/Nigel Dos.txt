@@ -1,0 +1,2 @@
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2671, 3714, 0]] - 2015-03-24 08:02:30.280
+Item Taken: Coins [995, 123146 - position=[2675, 3713, 0]] - 2015-03-24 08:02:51.896

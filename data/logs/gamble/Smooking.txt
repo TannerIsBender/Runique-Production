@@ -1,0 +1,18 @@
+2015-05-26 16:54:43.795: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 350000000]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-26 17:51:15.048: [[Not Katie, lillyrose1262011; 92.41.155.164, None]]:
+My Item[0]: Staff of light [22210, 1]
+Other Item[0]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-05-26 17:56:12.613: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 350000000]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+

@@ -1,0 +1,145 @@
+2015-04-12 17:37:13.443: [Melody]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 15:39:25.520: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 15:43:59.128: [Goog]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platelegs [4722, 1]
+Item[2]: Dharok's platebody [4720, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+
+
+
+2015-04-17 15:48:30.322: [Iron Ph]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platelegs [4722, 1]
+Item[2]: Dharok's platebody [4720, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+
+
+
+2015-04-19 20:48:04.702: [Loric]:
+Item[0]: Dragon pickaxe [15259, 1]
+Item[1]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-27 00:09:28.587: [Kabooyah]:
+Item[0]: Peach [6883, 1]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-27 00:15:21.976: [Kabooyah]:
+Item[0]: Peach [6883, 1]
+Item[1]: Peach [6883, 1]
+Item[2]: Peach [6883, 1]
+Item[3]: Peach [6883, 1]
+Item[4]: Peach [6883, 1]
+
+
+
+2015-05-09 18:39:30.175: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Dragon full helm [11335, 1]
+
+
+
+2015-05-13 17:43:14.969: [[Rozza123, whitephat; 176.252.242.25, 10-08-B1-B4-A2-27]]:
+My Item[0]: Anger battleaxe [7807, 1]
+Other Item[0]: Anger battleaxe [7807, 1]
+
+
+
+2015-05-13 18:05:54.600: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 57357434]
+My Item[1]: Chaotic longsword [18351, 1]
+My Item[2]: Steadfast boots [21787, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+Other Item[1]: Saradomin godsword [11698, 1]
+Other Item[2]: Bandos godsword [11696, 1]
+Other Item[3]: Steadfast boots [21787, 1]
+Other Item[4]: Armadyl helmet [11718, 1]
+Other Item[5]: Armadyl chestplate [11720, 1]
+Other Item[6]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-06-01 16:25:13.206: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Dragon full helm [11335, 1]
+Other Item[0]: Dharok's helm [4716, 1]
+
+
+
+2015-06-01 16:26:02.389: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Dragon full helm [11335, 1]
+
+
+
+2015-06-01 16:26:53.995: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Dragon full helm [11335, 1]
+Other Item[0]: Dharok's helm [4716, 1]
+
+
+
+2015-06-04 18:38:55.238: [[Rozzab123, zxcvbnm; 94.8.221.175, 10-08-B1-B4-A2-27]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Karil's top 0 [4945, 1]
+Other Item[1]: Dharok's helm 0 [4885, 1]
+Other Item[2]: Karil's skirt 0 [4951, 1]
+
+
+
+2015-06-04 18:41:03.638: [[Sousa, hercules987; 82.75.105.166, 64-66-B3-20-E6-45]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 18:42:31.823: [[Sousa, hercules987; 82.75.105.166, 64-66-B3-20-E6-45]]:
+My Item[0]: Coins [995, 25000025]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-04 18:45:24.638: [[Sousa, hercules987; 82.75.105.166, 64-66-B3-20-E6-45]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 22:52:39.253: [[My99capes, 53705haley2388; 206.74.247.218, 7A-79-19-16-0D-C7]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-04 22:58:21.839: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: C. morrigan's throwing axe [13957, 20]
+My Item[1]: Abyssal whip [4151, 1]
+My Item[2]: Coins [995, 50000000]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin sword [11731, 1]
+Other Item[2]: Saradomin sword [11730, 1]
+Other Item[3]: Dragon boots [11733, 1]
+Other Item[4]: Dragon hatchet [6739, 1]
+Other Item[5]: Godsword shard 2 [11713, 1]
+Other Item[6]: Abyssal whip [15442, 1]
+
+
+
+2015-06-05 14:36:39.370: [[U 8 To L8, boy10; 50.162.50.116, 00-24-21-D0-73-E4]]:
+My Item[0]: Gnome goggles [9472, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon hatchet [6739, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+

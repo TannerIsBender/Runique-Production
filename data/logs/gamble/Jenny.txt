@@ -1,0 +1,31 @@
+2015-04-13 15:17:21.592: [Dare]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-04-15 15:01:50.616: [Chappy]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Vesta's spear [13905, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-15 15:15:42.814: [St3alth Skil]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Hand cannon [15241, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Dark bow [15702, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Coins [995, 20000000]
+
+
+
+2015-04-15 19:08:21.947: [Chappy]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+

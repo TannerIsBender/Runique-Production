@@ -1,0 +1,81 @@
+2015-04-15 04:08:30.416: [Adam]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-16 15:18:04.093: [Zarox]:
+Item[0]: Coins [995, 50000046]
+
+
+
+2015-04-16 15:19:47.294: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-28 07:33:44.949: [Brazy]:
+
+
+
+2015-04-28 07:34:07.751: [Brazy]:
+
+
+
+2015-04-28 07:34:52.763: [Brazy]:
+
+
+
+2015-05-26 10:46:51.890: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 425000000]
+
+
+
+2015-05-26 10:48:00.301: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 425000000]
+
+
+
+2015-05-26 10:49:16.485: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 425000000]
+
+
+
+2015-05-26 10:51:36.901: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 11:00:47.101: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 1300000000]
+
+
+
+2015-05-26 11:01:27.317: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 1300000000]
+
+
+
+2015-05-26 11:06:59.701: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Third-age druidic cloak [19311, 1]
+My Item[1]: Divine spirit shield [13740, 1]
+My Item[2]: Armadyl godsword [11695, 3]
+My Item[3]: Coins [995, 490527424]
+
+
+
+2015-05-26 11:11:21.917: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Third-age druidic cloak [19311, 1]
+My Item[2]: Armadyl godsword [11695, 3]
+My Item[3]: Coins [995, 490527424]
+
+
+
+2015-05-26 11:11:45.917: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Third-age druidic cloak [19311, 1]
+My Item[2]: Armadyl godsword [11695, 3]
+My Item[3]: Coins [995, 490527424]
+
+
+

@@ -1,0 +1,2 @@
+Item Taken: Ring of devotion [20054, 1 - position=[3096, 3498, 0]] - 2015-03-23 21:03:45.495
+Item Taken: Coins [995, 1722600 - position=[3096, 3498, 0]] - 2015-03-23 21:05:03.495

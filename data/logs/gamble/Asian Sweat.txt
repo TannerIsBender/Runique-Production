@@ -1,0 +1,235 @@
+2015-06-01 09:06:05.051: [[Cocacola, farrow1997; 92.18.35.38, 08-60-6E-CA-82-30]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Coins [995, 4000000]
+
+
+
+2015-06-01 11:45:23.763: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Morrigan's leather chaps [13873, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-01 16:22:11.998: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 10600000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-02 10:46:07.452: [[Shqiptar, pakokosare; 46.99.42.5, 00-25-22-16-D8-A1]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-02 10:47:09.251: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-06-02 10:47:39.267: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-06-02 12:37:42.951: [[Cocacola, farrow1997; 92.18.35.38, 08-60-6E-CA-82-30]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-06-02 15:27:54.473: [[Cocacola, farrow1997; 92.18.35.38, 08-60-6E-CA-82-30]]:
+My Item[0]: Coins [995, 7000000]
+Other Item[0]: Coins [995, 7000000]
+
+
+
+2015-06-03 07:56:52.776: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-79-C9]]:
+My Item[0]: Armadyl helmet [11718, 1]
+My Item[1]: Armadyl helmet [11718, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-03 08:05:29.993: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Corrupt vesta's chainbody [13911, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-03 08:14:22.212: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Morrigan's leather body [13870, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Saradomin godsword [11698, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-03 08:14:55.212: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Morrigan's leather body [13870, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Saradomin godsword [11698, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-03 08:21:46.211: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Hand cannon [15241, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-03 08:23:36.007: [[Gildhartz, wawa00; 121.54.54.239, 00-1E-10-1F-82-A7]]:
+My Item[0]: Corrupt vesta's chainbody [13911, 1]
+My Item[1]: Hand cannon [15241, 1]
+Other Item[0]: Bandos godsword [11696, 1]
+Other Item[1]: Zamorak godsword [11700, 1]
+
+
+
+2015-06-03 17:06:23.819: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[5]: Armadyl helmet [11718, 1]
+My Item[7]: Morrigan's leather body [13870, 1]
+My Item[8]: Morrigan's leather chaps [13873, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-03 17:15:10.039: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Morrigan's leather body [13870, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-06-03 17:30:43.646: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-06-03 17:32:41.270: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-06-03 17:49:00.470: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 17:52:05.871: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Armadyl battlestaff [21777, 1]
+My Item[2]: Bandos godsword [11696, 1]
+My Item[3]: Saradomin godsword [11698, 1]
+My Item[4]: Zamorak godsword [11700, 1]
+Other Item[0]: Coins [995, 250000000]
+
+
+
+2015-06-03 17:53:20.867: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-03 18:12:49.702: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Dragon hatchet [6739, 1]
+My Item[2]: Zamorak godsword [11700, 1]
+My Item[3]: Saradomin godsword [11698, 1]
+My Item[4]: Bandos godsword [11696, 1]
+My Item[5]: Armadyl battlestaff [21777, 1]
+My Item[6]: Saradomin's tear [8027, 1]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-06-04 13:26:58.601: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Abyssal whip [15442, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 13:27:35.801: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Abyssal whip [15441, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 13:28:05.791: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Abyssal whip [15441, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 13:33:35.793: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-04 14:25:34.042: [[Cocacola, farrow1997; 2.100.237.64, 08-60-6E-CA-82-30]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-04 14:26:26.838: [[Cocacola, farrow1997; 2.100.237.64, 08-60-6E-CA-82-30]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-04 14:28:07.043: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 11000000]
+Other Item[0]: Coins [995, 11000000]
+
+
+
+2015-06-05 19:10:25.201: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Zamorak godsword [11700, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+Other Item[0]: Bandos godsword [11696, 1]
+Other Item[1]: Saradomin godsword [11698, 1]
+
+
+
+2015-06-05 19:13:16.801: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Godsword shard 2 [11712, 1]
+My Item[2]: Infinity boots [6920, 1]
+My Item[3]: Golden mining gloves [20787, 1]
+My Item[4]: Armadyl helmet [11718, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Bandos godsword [11696, 1]
+
+
+
+2015-06-05 19:14:02.401: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Bandos godsword [11696, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+My Item[3]: Godsword shard 2 [11712, 1]
+My Item[4]: Armadyl helmet [11718, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+Other Item[1]: Bandos godsword [11696, 1]
+Other Item[2]: Zamorak godsword [11700, 1]
+
+
+

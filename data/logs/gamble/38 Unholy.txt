@@ -1,0 +1,209 @@
+2015-06-05 02:43:03.421: [[Wowzer, azana123; 101.98.231.37, 38-63-BB-98-94-37]]:
+My Item[0]: Coins [995, 4200000]
+Other Item[0]: Coins [995, 4200000]
+
+
+
+2015-06-05 03:02:05.823: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-05 03:04:45.438: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-05 03:06:52.640: [[Duckpickle, guyleonchen2230; 101.191.53.170, 8C-A9-82-40-45-78]]:
+My Item[0]: Coins [995, 17000000]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-06-05 03:07:54.439: [[Duckpickle, guyleonchen2230; 101.191.53.170, 8C-A9-82-40-45-78]]:
+My Item[0]: Coins [995, 34000000]
+Other Item[0]: Coins [995, 34000000]
+
+
+
+2015-06-05 11:02:18.223: [[Gildhartz, wawa00; 121.54.54.239, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-05 11:04:21.219: [[Gildhartz, wawa00; 121.54.54.239, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-05 11:12:33.819: [[Hell666, force; 184.61.46.108, C0-38-96-21-56-6B]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Armadyl helmet [11719, 1]
+Other Item[1]: Karil's top [4737, 2]
+Other Item[2]: Faithful shield [18747, 1]
+Other Item[3]: Bonecrusher [18337, 1]
+Other Item[4]: Karil's skirt [4739, 1]
+
+
+
+2015-06-05 11:14:33.216: [[Hell666, force; 184.61.46.108, C0-38-96-21-56-6B]]:
+My Item[0]: Karil's top [4737, 2]
+My Item[1]: Karil's skirt [4739, 1]
+My Item[2]: Bonecrusher [18337, 1]
+My Item[3]: Faithful shield [18747, 1]
+Other Item[0]: Bonecrusher [18337, 1]
+Other Item[1]: Yellow dye [1766, 1]
+Other Item[2]: Green dye [1772, 2]
+Other Item[3]: Blue dye [1768, 1]
+Other Item[4]: Dragon chainbody [3141, 1]
+Other Item[5]: Infinity gloves [6923, 1]
+Other Item[6]: Infinity hat [6919, 1]
+Other Item[7]: Karil's skirt [4739, 1]
+Other Item[8]: Infinity boots [6921, 2]
+Other Item[9]: Cat mask [13114, 1]
+
+
+
+2015-06-05 11:16:22.423: [[Hell666, force; 184.61.46.108, C0-38-96-21-56-6B]]:
+My Item[0]: Yellow dye [1766, 1]
+My Item[1]: Green dye [1772, 2]
+My Item[2]: Blue dye [1768, 1]
+My Item[3]: Dragon chainbody [3141, 1]
+My Item[4]: Infinity gloves [6923, 1]
+My Item[5]: Infinity hat [6919, 1]
+Other Item[0]: Fury shark [20429, 1]
+Other Item[1]: White unicorn mask [19276, 1]
+Other Item[2]: Cat mask [13114, 1]
+Other Item[3]: Bat mask [13112, 1]
+Other Item[4]: Red dragon mask [19288, 2]
+Other Item[5]: Penguin mask [13110, 1]
+Other Item[6]: Corrupt dragon chainbody [13959, 2]
+Other Item[7]: Corrupt dragon sq shield [13965, 1]
+Other Item[8]: Corrupt dragon med helm [13962, 1]
+
+
+
+2015-06-05 11:22:50.017: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-05 11:37:30.838: [[Zobothehobo, qball134; 173.19.56.16, 80-56-F2-3B-CC-17]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Coins [995, 40000000]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[2]: Ragefire boots [21793, 1]
+
+
+
+2015-06-05 12:01:48.854: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Chaotic kiteshield [18359, 1]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-05 12:02:53.654: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Zamorak godsword [11701, 2]
+My Item[1]: Godsword shard 2 [11713, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+Other Item[0]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-06-05 23:58:35.607: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Vote Ticket [13256, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:11:11.122: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Zamorak godsword [11700, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-06-06 02:23:42.939: [[Gildhartz, wawa00; 121.54.54.168, 00-1E-10-1F-82-A7]]:
+My Item[0]: Coins [995, 8000000]
+Other Item[0]: Coins [995, 8000000]
+
+
+
+2015-06-06 02:24:35.139: [[Gildhartz, wawa00; 121.54.54.168, 00-1E-10-1F-82-A7]]:
+My Item[0]: Coins [995, 16000000]
+Other Item[0]: Coins [995, 16000000]
+
+
+
+2015-06-06 02:31:26.739: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Coins [995, 4000000]
+
+
+
+2015-06-06 02:32:09.939: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Coins [995, 4000000]
+
+
+
+2015-06-06 02:32:51.940: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 2000000]
+Other Item[0]: Coins [995, 2000000]
+
+
+
+2015-06-06 02:37:29.723: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 6800000]
+Other Item[0]: Coins [995, 6800000]
+
+
+
+2015-06-06 02:41:00.338: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:43:59.133: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 3200000]
+Other Item[0]: Coins [995, 3200000]
+
+
+
+2015-06-06 02:46:03.339: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:46:40.569: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+Other Item[1]: Manta ray [391, 1]
+
+
+
+2015-06-06 02:47:20.170: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 06:58:49.169: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 07:00:05.369: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Archers' ring [6734, 1]
+My Item[1]: Amulet of fury [6586, 1]
+Other Item[0]: Coins [995, 25000000]
+
+
+

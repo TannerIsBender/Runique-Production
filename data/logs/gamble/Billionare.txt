@@ -1,0 +1,842 @@
+2015-04-22 18:30:54.400: [Pascaladium]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-22 18:32:28.580: [Pascaladium]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-22 18:36:29.803: [Iron Hydra]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-24 03:32:29.100: [Spec You Out]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 04:22:05.502: [Anonymous]:
+
+
+
+2015-04-30 17:40:21.781: [Star]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-30 17:40:54.183: [Star]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-30 17:41:22.981: [Star]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-30 17:41:52.983: [Star]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-30 17:45:34.384: [Halee]:
+Item[0]: Santa hat [1050, 1]
+Item[1]: Sled [4084, 1]
+
+
+
+2015-04-30 17:47:12.784: [Halee]:
+Item[0]: Sled [4084, 1]
+Item[1]: Coins [995, 1000000000]
+
+
+
+2015-04-30 17:49:22.382: [Halee]:
+Item[0]: Sled [4084, 1]
+Item[1]: Sled [4084, 1]
+Item[2]: Coins [995, 1000000000]
+
+
+
+2015-04-30 17:50:22.984: [Halee]:
+Item[0]: Coins [995, 1000000000]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-01 10:03:25.556: [Melee Cyrus]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-01 10:06:00.365: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-01 10:07:41.762: [Melee Cyrus]:
+Item[1]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-01 10:08:20.173: [Melee Cyrus]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-01 10:13:51.968: [Melee Cyrus]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-01 10:17:18.968: [Melee Cyrus]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-01 10:17:20.159: [Melee Cyrus]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-01 10:17:57.357: [Melee Cyrus]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-01 10:19:05.769: [Melee Cyrus]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-01 10:28:03.381: [Melee Cyrus]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-03 18:46:24.068: [Rdando]:
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 18:48:08.489: [Rdando]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-03 18:55:26.500: [Desi]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-03 19:01:43.290: [Desi]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 19:03:40.900: [Desi]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-03 19:04:30.700: [Desi]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-03 20:24:09.737: [Melee Cyrus]:
+Item[0]: Rune bar [2364, 2500]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-03 20:26:02.538: [Melee Cyrus]:
+Item[0]: Rune bar [2364, 2500]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Fighter torso [10551, 1]
+Item[5]: Helm of neitiznot [10828, 1]
+
+
+
+2015-05-03 20:29:16.331: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:31:15.133: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:32:07.933: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:32:47.547: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:36:07.362: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:36:51.162: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:36:51.737: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-03 20:38:03.762: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 20:38:49.946: [Melee Cyrus]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-03 21:01:17.570: [Davetherave]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-04 06:16:49.516: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-04 06:19:03.917: [Desi]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-04 17:14:09.237: [C R I M]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-04 17:14:34.437: [C R I M]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-04 17:15:41.038: [C R I M]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-05 02:15:50.638: [Noli Ftw]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-05 02:16:40.438: [Noli Ftw]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-05 02:17:54.248: [Noli Ftw]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-05 02:18:43.444: [Noli Ftw]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-05 02:23:34.450: [Noli Ftw]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-05 02:25:08.053: [Noli Ftw]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-05 02:33:32.053: [Noli Ftw]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-05 02:34:27.853: [Noli Ftw]:
+
+
+
+2015-05-05 18:44:52.037: [Darkdestroyr]:
+Item[0]: Coins [995, 55000000]
+
+
+
+2015-05-05 18:45:58.038: [Darkdestroyr]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-05 18:46:56.838: [Darkdestroyr]:
+Item[0]: Coins [995, 25000010]
+Item[1]: Dragon boots [11733, 1]
+
+
+
+2015-05-05 18:47:50.238: [Darkdestroyr]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-05-06 07:08:45.790: [N 9 N E]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 07:09:06.800: [N 9 N E]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 07:10:40.400: [N 9 N E]:
+Item[0]: Coins [995, 160853579]
+
+
+
+2015-05-06 07:22:30.221: [Failfish]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 07:23:06.222: [Failfish]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 17:06:22.853: [Cl0ud 9]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-06 17:09:49.857: [Cl0ud 9]:
+Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-06 17:10:26.464: [Cl0ud 9]:
+Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-06 18:00:30.118: [Quuel]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-06 18:03:13.907: [Us3rn4me]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-06 18:06:36.116: [Quuel]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-06 18:07:12.722: [Quuel]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-06 18:14:30.717: [Us3rn4me]:
+Item[0]: Coins [995, 28000000]
+
+
+
+2015-05-07 18:13:16.845: [Bad Pker]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-07 18:21:21.050: [Nostalgia]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-07 18:23:29.451: [Nostalgia]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-05-07 18:26:36.665: [Nostalgia]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Statius's platelegs [13890, 1]
+Item[2]: Coins [995, 100000000]
+
+
+
+2015-05-07 18:29:24.044: [Nostalgia]:
+Item[0]: Coins [995, 150000000]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Glaiven boots [21790, 1]
+Item[4]: Statius's platebody [13884, 1]
+Item[5]: Statius's platelegs [13890, 1]
+
+
+
+2015-05-07 18:31:40.262: [Davetherave]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-07 18:34:55.253: [Zoomkill]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-07 18:35:29.453: [Zoomkill]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-07 18:37:43.862: [Bad Pker]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-07 18:38:57.663: [Bad Pker]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Glaiven boots [21790, 1]
+
+
+
+2015-05-07 18:39:45.061: [Bad Pker]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Glaiven boots [21790, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-07 18:41:58.868: [Bad Pker]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Steadfast boots [21787, 1]
+
+
+
+2015-05-07 18:43:52.269: [Bad Pker]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Glaiven boots [21790, 1]
+
+
+
+2015-05-07 18:44:25.268: [Bad Pker]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Glaiven boots [21790, 1]
+
+
+
+2015-05-07 18:45:13.268: [Bad Pker]:
+Item[0]: Saradomin's tear [8027, 1]
+Item[1]: Spectral spirit shield [13744, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Glaiven boots [21790, 1]
+
+
+
+2015-05-07 19:02:03.669: [Davetherave]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-07 19:03:31.284: [Davetherave]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-07 19:03:31.284: [Davetherave]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-07 19:04:27.684: [Davetherave]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+
+
+
+2015-05-07 19:05:51.085: [Davetherave]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-07 19:07:10.875: [Davetherave]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-07 19:07:12.075: [Davetherave]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-07 19:13:24.684: [Davetherave]:
+
+
+
+2015-05-07 19:22:30.706: [Nostalgia]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Coins [995, 550000000]
+
+
+
+2015-05-07 19:27:09.690: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-07 19:27:32.491: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-07 19:32:52.906: [Nostalgia]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Statius's platelegs [13890, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Spectral spirit shield [13744, 1]
+Item[4]: Chaotic staff [18355, 1]
+Item[5]: Arcane spirit shield [13738, 1]
+Item[6]: Slayer helmet [13263, 1]
+Item[7]: Glaiven boots [21790, 1]
+
+
+
+2015-05-07 19:34:27.706: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-07 19:34:55.307: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-07 20:24:16.364: [Yocky123]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-07 20:37:19.958: [Nostalgia]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-07 20:37:51.769: [Nostalgia]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-07 20:41:15.169: [Nostalgia]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Statius's platebody [13884, 1]
+Item[4]: Glaiven boots [21790, 1]
+
+
+
+2015-05-07 20:41:55.361: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Steadfast boots [21787, 1]
+
+
+
+2015-05-07 20:44:51.153: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-07 20:46:25.953: [Nostalgia]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-05-08 02:14:48.425: [Big Booty]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Statius's platebody [13884, 1]
+
+
+
+2015-05-08 02:15:52.622: [Big Booty]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-08 02:17:23.837: [Big Booty]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-08 02:18:52.625: [Big Booty]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-08 02:19:55.017: [Big Booty]:
+Item[0]: Coins [995, 80000000]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-05-08 02:36:40.639: [Noli Ftw]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-08 02:40:17.839: [Noli Ftw]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-08 02:44:20.261: [Noli Ftw]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-08 02:46:02.238: [Big Booty]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-08 03:54:22.122: [Homer]:
+Item[0]: Coins [995, 550000000]
+
+
+
+2015-05-08 03:56:10.700: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-08 03:58:10.091: [Homer]:
+Item[0]: Torva full helm [20135, 1]
+Item[1]: Abyssal whip [15444, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Gilded kiteshield [3488, 1]
+Item[4]: Fighter torso [10551, 1]
+
+
+
+2015-05-08 03:58:40.717: [Homer]:
+Item[0]: Torva full helm [20135, 1]
+Item[1]: Abyssal whip [15444, 1]
+Item[2]: Fighter torso [10551, 1]
+Item[3]: Gilded kiteshield [3488, 1]
+Item[4]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-08 04:00:52.113: [Homer]:
+Item[0]: Abyssal vine whip [21371, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Statius's platebody [13884, 1]
+Item[4]: Coins [995, 50000000]
+
+
+
+2015-05-08 04:03:29.307: [Homer]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 40000000]
+
+
+
+2015-05-08 04:07:59.300: [Homer]:
+Item[0]: Slayer helmet [13263, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+Item[4]: Abyssal whip [15444, 1]
+
+
+
+2015-05-08 04:09:25.716: [Homer]:
+Item[3]: Slayer helmet [13263, 1]
+Item[4]: Morrigan's leather chaps [13873, 1]
+Item[6]: Abyssal vine whip [21371, 1]
+Item[8]: Steadfast boots [21787, 1]
+
+
+
+2015-05-08 04:09:56.906: [Homer]:
+Item[0]: Abyssal whip [15444, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Fighter torso [10551, 1]
+Item[3]: Statius's warhammer [13902, 1]
+Item[4]: Gilded kiteshield [3488, 1]
+
+
+
+2015-05-08 04:10:25.706: [Homer]:
+Item[0]: Abyssal whip [15444, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Fighter torso [10551, 1]
+Item[3]: Statius's warhammer [13902, 1]
+Item[4]: Dragonfire shield [11283, 1]
+Item[5]: Slayer helmet [13263, 1]
+Item[6]: Gilded kiteshield [3488, 1]
+
+
+
+2015-05-08 04:11:09.538: [Homer]:
+Item[0]: Gilded kiteshield [3488, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Slayer helmet [13263, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Abyssal whip [15444, 1]
+
+
+
+2015-05-10 19:20:48.391: [Ginnerb]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-10 19:21:37.591: [Ginnerb]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-10 19:22:17.200: [Ginnerb]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-10 19:22:54.990: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:27:40.584: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:28:06.972: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:28:38.191: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:29:15.400: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:30:01.000: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:30:45.387: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:31:47.188: [Ginnerb]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 19:33:42.400: [Ginnerb]:
+Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-10 19:34:18.400: [Ginnerb]:
+Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-18 19:20:59.395: [[Frisk, balintore23; 46.65.161.29, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-18 19:21:42.595: [[Frisk, balintore23; 46.65.161.29, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20548977]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-18 19:26:06.601: [[Frisk, balintore23; 46.65.161.29, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-18 19:41:41.420: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-18 19:42:11.433: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+

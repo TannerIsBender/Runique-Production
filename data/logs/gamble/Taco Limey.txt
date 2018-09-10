@@ -1,0 +1,56 @@
+2015-04-16 08:55:16.461: [Miss K]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-16 08:56:52.447: [Miss K]:
+Item[0]: Dragon pickaxe [15259, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-16 08:58:42.250: [Miss K]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Dragon boots [11732, 1]
+Item[5]: Abyssal whip [15441, 1]
+Item[6]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-16 09:01:43.454: [Miss K]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Zamorakian spear [11716, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Abyssal whip [15441, 1]
+Item[6]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 09:10:45.868: [Aurora]:
+Item[0]: Torag's platelegs [4751, 1]
+Item[1]: Torag's platebody [4749, 1]
+Item[2]: Torag's platebody [4749, 1]
+
+
+
+2015-04-16 09:11:17.662: [Aurora]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Torag's platelegs [4751, 1]
+Item[2]: Torag's platebody [4749, 1]
+Item[3]: Torag's platebody [4749, 1]
+
+
+
+2015-04-16 10:03:44.700: [Aurora]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+

@@ -1,0 +1,333 @@
+2015-05-01 17:15:54.104: [Ziptie]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-01 17:16:36.707: [Ziptie]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-01 17:19:37.899: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 17:20:19.297: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 17:21:55.315: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 17:22:41.498: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 17:23:27.697: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 17:27:00.099: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 18:05:21.730: [Loric]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-02 07:53:57.784: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-02 11:51:07.808: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-02 11:54:42.615: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-02 11:55:19.804: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-02 11:55:57.609: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-02 11:57:27.615: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 4]
+
+
+
+2015-05-02 11:58:07.815: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 4]
+
+
+
+2015-05-02 11:58:57.005: [Iron Lotus]:
+Item[0]: Armadyl helmet [11719, 2]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl hilt [11703, 2]
+Item[3]: Coins [995, 30000000]
+
+
+
+2015-05-02 12:01:46.215: [Iron Lotus]:
+Item[0]: Saradomin godsword [11699, 1]
+Item[1]: Godsword shard 1 [11711, 1]
+Item[2]: Amulet of fury (or) [19335, 1]
+Item[3]: Glaiven boots [21791, 1]
+
+
+
+2015-05-02 12:03:08.405: [Iron Lotus]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-02 12:04:27.015: [Iron Lotus]:
+Item[0]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-02 12:16:09.615: [Ch33sek1ng]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-02 15:40:48.204: [Gibby]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-02 15:42:28.404: [Gibby]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-02 15:43:39.800: [Gibby]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-02 15:52:53.004: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-02 16:15:48.207: [Davetherave]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Spectral sigil [13753, 1]
+Item[2]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-02 16:37:54.831: [Nostalgia]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-02 16:38:24.831: [Nostalgia]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-02 16:39:42.818: [Nostalgia]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-02 16:40:35.631: [Nostalgia]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-02 16:41:02.633: [Nostalgia]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-03 12:49:12.999: [Saber570]:
+
+
+
+2015-05-03 12:50:44.199: [Saber570]:
+Item[0]: Coins [995, 5]
+
+
+
+2015-05-03 12:51:44.795: [Saber570]:
+
+
+
+2015-05-03 13:34:34.020: [Zoomkill]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:35:30.419: [Zoomkill]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:36:18.446: [Zoomkill]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:37:10.047: [Zoomkill]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-05-03 13:38:14.240: [Zoomkill]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-05-03 13:41:14.246: [Bamf Katie]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:41:16.646: [Bamf Katie]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:42:11.841: [Bamf Katie]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:44:41.240: [Bamf Katie]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:45:13.640: [Bamf Katie]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:47:32.239: [Bamf Katie]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 13:48:20.246: [Bamf Katie]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-03 13:50:41.240: [Bamf Katie]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 13:51:22.639: [Bamf Katie]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 13:52:16.039: [Zoomkill]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 13:55:58.041: [Zoomkill]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Virtus robe legs [20167, 1]
+Item[2]: Bandos tassets [11726, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Arcane spirit shield [13738, 1]
+Item[5]: Chaotic rapier [18349, 1]
+Item[6]: Coins [995, 450000000]
+
+
+
+2015-05-09 16:35:56.521: [Nostalgia]:
+Item[0]: Steadfast boots [21788, 4]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Dragon pickaxe [15259, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+Item[4]: Glaiven boots [21790, 1]
+Item[5]: Coins [995, 200000000]
+
+
+
+2015-05-09 16:39:17.500: [Nostalgia]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-09 16:40:49.900: [Nostalgia]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-20 14:38:29.916: [[Coldott, sweandypandy; 213.65.218.69, C8-F7-33-32-62-3E]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Dragon platelegs [4087, 1]
+
+
+
+2015-05-20 14:54:27.548: [[Lazy Tits, kakarotas; 78.62.250.143, E0-69-95-57-2D-9A]]:
+My Item[0]: Coins [995, 27000000]
+
+
+
+2015-05-20 18:02:28.895: [[Olafiron, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[1]: Zamorak godsword [11700, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+Other Item[3]: Armadyl chestplate [11720, 1]
+Other Item[4]: Verac's flail [4755, 1]
+Other Item[5]: Verac's brassard [4757, 1]
+Other Item[6]: Black cavalier [2643, 1]
+Other Item[7]: Rock-shell boots [6145, 1]
+Other Item[8]: Farseer kiteshield [18363, 1]
+Other Item[9]: Faithful shield [18747, 1]
+Other Item[10]: Zamorak halo [18746, 1]
+Other Item[11]: Blue boater [7325, 1]
+
+
+
+2015-05-20 18:14:51.733: [[Saber570, vascaino; 187.65.244.217, 94-39-E5-34-04-71]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+Other Item[2]: Dragon pickaxe [15259, 1]
+Other Item[3]: Briefcase [12335, 1]
+Other Item[4]: Dragon full helm ornament kit (sp) [19354, 1]
+Other Item[5]: Coins [995, 100000000]
+
+
+
+2015-05-20 18:18:03.721: [[Saber570, vascaino; 187.65.244.217, 94-39-E5-34-04-71]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-30 13:36:58.788: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+

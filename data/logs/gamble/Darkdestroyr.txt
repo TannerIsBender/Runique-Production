@@ -1,0 +1,492 @@
+2015-04-15 18:37:36.318: [Odds]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-15 18:48:54.341: [Odds]:
+Item[0]: Coins [995, 2483720]
+
+
+
+2015-04-15 18:50:10.542: [Odds]:
+Item[0]: Coins [995, 4966720]
+
+
+
+2015-04-15 21:30:02.847: [Aurora]:
+Item[0]: Coins [995, 1528897]
+
+
+
+2015-04-15 21:48:43.643: [Miss K]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 21:51:22.044: [Miss K]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 21:52:15.456: [Miss K]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 21:53:16.643: [Miss K]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 21:53:58.643: [Miss K]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 21:55:01.636: [Miss K]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 21:56:19.065: [Miss K]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 21:57:31.662: [Miss K]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-15 22:04:14.278: [Pothead Bamf]:
+Item[0]: Corrupt statius's platebody [13909, 1]
+
+
+
+2015-04-15 22:08:34.078: [Pothead Bamf]:
+Item[0]: Rocktail [15273, 100]
+
+
+
+2015-04-15 22:11:42.457: [Pothead Bamf]:
+Item[0]: Rocktail [15273, 100]
+
+
+
+2015-04-16 01:31:38.379: [Pothead Bamf]:
+Item[0]: Coins [995, 600306]
+Item[1]: Tokkul [6529, 1827]
+Item[2]: Grimy torstol [220, 306]
+Item[3]: Grimy ranarr [208, 800]
+
+
+
+2015-04-16 04:50:21.094: [Chappy]:
+Item[0]: Coins [995, 5161889]
+
+
+
+2015-04-16 18:56:12.616: [Drackys Bank]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-16 19:05:40.223: [Shpongle]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-16 19:13:20.447: [2kk2]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-17 00:46:26.043: [Dave]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 00:47:39.215: [Dave]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 00:53:10.431: [St3alth Skil]:
+Item[0]: Guthix stole [10472, 1]
+Item[1]: Mind gloves [20460, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Black ibis mask [21534, 1]
+Item[4]: Saradomin chaps [10388, 1]
+Item[5]: Strength amulet (t) [10736, 1]
+Item[6]: Scroll of augury [18344, 1]
+
+
+
+2015-04-17 01:13:18.231: [Aussiefreak1]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-17 01:14:52.442: [Aussiefreak1]:
+Item[0]: Scroll of augury [18344, 1]
+
+
+
+2015-04-17 01:15:48.247: [Aussiefreak1]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-17 01:16:55.431: [Aussiefreak1]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-30 02:38:02.633: [Melee Cyrus]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-30 02:39:00.224: [Melee Cyrus]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Tooth half of a key [985, 1]
+
+
+
+2015-04-30 02:42:00.834: [Melee Cyrus]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Tooth half of a key [985, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Vote Ticket [13256, 1]
+
+
+
+2015-04-30 02:43:41.033: [Melee Cyrus]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-30 02:44:39.223: [Melee Cyrus]:
+Item[0]: Coins [995, 32000000]
+
+
+
+2015-04-30 10:19:50.933: [Homer]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-30 10:20:34.713: [Homer]:
+Item[0]: Coins [995, 10100000]
+
+
+
+2015-04-30 10:38:43.702: [Ch33sek1ng]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-30 10:40:52.734: [Davetherave]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-30 12:28:49.776: [Troy]:
+Item[0]: Coins [995, 500000]
+
+
+
+2015-04-30 12:36:39.580: [Osku Pk]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-30 13:06:37.211: [Olleking]:
+Item[0]: Coins [995, 90000000]
+Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-04-30 13:09:01.212: [Olleking]:
+Item[0]: Coins [995, 85000000]
+
+
+
+2015-05-01 07:35:09.815: [Simberj]:
+Item[0]: Coins [995, 19449807]
+
+
+
+2015-05-01 07:43:18.831: [Simberj]:
+Item[0]: Saradomin robe top [10458, 1]
+Item[1]: Zamorak robe top [10460, 1]
+
+
+
+2015-05-01 13:52:45.530: [Elite Pvm]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-01 14:21:37.762: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 14:23:31.762: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 14:24:10.753: [Ziptie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-01 18:51:04.956: [Gibby]:
+Item[0]: Coins [995, 11000000]
+
+
+
+2015-05-01 19:00:16.368: [Shane]:
+
+
+
+2015-05-01 19:01:04.981: [Shane]:
+Item[0]: Corrupt zuriel's staff [13942, 1]
+
+
+
+2015-05-01 22:01:10.504: [Red Basket]:
+Item[0]: Coins [995, 1977608]
+Item[1]: Corrupt zuriel's staff [13941, 1]
+Item[2]: Crystal shield full [4225, 1]
+Item[3]: Karil's coif [4732, 1]
+Item[4]: Karil's coif [4732, 1]
+
+
+
+2015-05-03 10:24:19.488: [Ziptie]:
+Item[0]: Coins [995, 12102768]
+
+
+
+2015-05-03 10:28:35.688: [Ziptie]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+Item[1]: Saradomin sword [11730, 1]
+Item[2]: Novite chainbody [16713, 1]
+
+
+
+2015-05-03 15:44:28.708: [Forbidden]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 01:57:21.691: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 08:33:04.617: [Homer]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-04 08:35:22.015: [Homer]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-04 21:22:55.069: [Zoomkill]:
+Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-06 11:16:29.787: [Coldott]:
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-05-06 11:18:02.200: [Coldott]:
+Item[0]: Karil's coif [4732, 1]
+
+
+
+2015-05-07 14:58:52.722: [Keddeflopp]:
+Item[0]: Tooth half of a key [985, 1]
+Item[4]: Tooth half of a key [985, 1]
+Item[5]: Karil's coif [4732, 1]
+
+
+
+2015-05-07 15:00:36.522: [Keddeflopp]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Karil's coif [4732, 1]
+Item[2]: Saradomin sword [11730, 1]
+
+
+
+2015-05-11 23:46:33.669: [[Big Taco, cow12boy.; 98.20.68.189, 00-22-68-3A-80-80]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Vote Ticket [13256, 1]
+My Item[2]: Vote Ticket [13256, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-11 23:50:40.848: [[Tenshi, yomomma; 166.82.132.221, 7C-E9-D3-35-05-4F]]:
+My Item[0]: Coins [995, 900000]
+Other Item[0]: Coins [995, 899545]
+
+
+
+2015-05-12 00:35:01.322: [[Radical, Smack1down; 71.62.152.250, 68-94-23-8D-5C-45]]:
+My Item[0]: Coins [995, 42327825]
+Other Item[0]: Coins [995, 42000000]
+
+
+
+2015-05-12 12:44:44.468: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-12 14:10:07.937: [[Ginnerb, torenamai6; 88.107.146.142, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 30101513]
+Other Item[0]: Dragon boots [11732, 1]
+Other Item[1]: Warrior ring [6735, 1]
+Other Item[2]: Dragon boots [11732, 1]
+Other Item[3]: Golden mining boots [20788, 1]
+Other Item[4]: Golden mining helmet [20789, 1]
+Other Item[6]: Golden mining gloves [20787, 1]
+Other Item[9]: Golden mining top [20791, 1]
+
+
+
+2015-05-14 23:55:52.537: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: New crystal bow [4212, 1]
+My Item[1]: Bandos boots [11729, 1]
+My Item[2]: Vote Ticket [13256, 1]
+My Item[3]: Coins [995, 6766467]
+Other Item[0]: Faithful shield [18747, 1]
+Other Item[1]: Coins [995, 10000000]
+
+
+
+2015-05-14 23:59:08.758: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Faithful shield [18747, 1]
+My Item[1]: New crystal bow [4212, 1]
+My Item[2]: Vote Ticket [13256, 1]
+My Item[3]: Coins [995, 16766467]
+My Item[4]: Bandos boots [11729, 1]
+Other Item[0]: Coins [995, 42000000]
+
+
+
+2015-05-14 23:59:11.147: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Faithful shield [18747, 1]
+My Item[1]: New crystal bow [4212, 1]
+My Item[2]: Vote Ticket [13256, 1]
+My Item[3]: Coins [995, 16766467]
+My Item[4]: Bandos boots [11729, 1]
+Other Item[0]: Coins [995, 42000000]
+
+
+
+2015-05-15 00:01:50.749: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Raw rocktail [15271, 364]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-15 00:03:54.951: [[I Katie I, lillyrose9; 188.30.204.222, None]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-15 00:13:30.969: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Blue charm [12163, 393]
+My Item[1]: Gold charm [12158, 1055]
+My Item[2]: Green charm [12159, 398]
+My Item[3]: Crimson charm [12160, 158]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-15 00:14:27.359: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Green charm [12159, 398]
+My Item[1]: Crimson charm [12160, 158]
+My Item[2]: Blue charm [12163, 393]
+My Item[3]: Gold charm [12158, 1055]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-15 00:18:24.958: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Coins [995, 15000000]
+My Item[1]: Blue charm [12163, 393]
+My Item[2]: Crimson charm [12160, 158]
+My Item[3]: Gold charm [12158, 1055]
+My Item[4]: Green charm [12159, 398]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-15 00:57:52.000: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 5611000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-15 23:23:11.664: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Anti-poison totem [18340, 1]
+My Item[1]: Zamorak platelegs [2655, 1]
+My Item[2]: Zamorak cloak [10450, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-16 01:16:09.353: [[Aleexk3, meghanxx; 125.236.168.217, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 4015000]
+My Item[1]: Zamorak vambraces [10368, 1]
+My Item[2]: Guthix coif [10382, 1]
+My Item[3]: Saradomin coif [10390, 1]
+My Item[4]: Rune arrow (p++) [5627, 50]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-16 02:08:57.390: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Magic pyre logs [3449, 75]
+My Item[2]: Loop half of a key [988, 1]
+My Item[3]: Cannonball [2, 100]
+My Item[4]: Blue dye [1767, 1]
+My Item[5]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-16 02:13:12.382: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Abyssal whip [15442, 1]
+My Item[2]: Cannonball [2, 100]
+My Item[3]: Loop half of a key [988, 1]
+My Item[4]: Magic pyre logs [3449, 75]
+My Item[5]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-23 06:22:45.779: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Coins [995, 4728352]
+Other Item[0]: Coins [995, 4000000]
+
+
+

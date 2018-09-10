@@ -1,0 +1,205 @@
+2015-04-10 09:31:04.689: [Kn0gen]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-10 09:33:13.097: [Kn0gen]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-10 09:37:56.913: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 09:39:08.306: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 09:40:50.907: [Kn0gen]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-10 09:42:45.507: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 09:43:32.307: [Kn0gen]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-10 09:45:10.698: [Kn0gen]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-04-10 09:46:59.898: [Kn0gen]:
+Item[0]: Glaiven boots [21790, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Coins [995, 50000000]
+
+
+
+2015-04-10 09:47:57.529: [Kn0gen]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-10 09:49:26.291: [Kn0gen]:
+Item[1]: Coins [995, 100000000]
+
+
+
+2015-04-10 09:50:53.922: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-10 09:51:56.898: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 09:52:41.313: [Kn0gen]:
+Item[0]: Coins [995, 120000000]
+Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-04-11 16:07:30.376: [Zarox]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-11 19:45:10.097: [Zarox]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-11 19:46:17.907: [Zarox]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 19:47:53.898: [Zarox]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 19:49:04.729: [Zarox]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 19:53:22.091: [Noko3456]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 19:59:53.329: [Odds]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-11 20:00:59.298: [Odds]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-11 20:03:08.928: [Odds]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 20:04:15.524: [Odds]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 20:12:14.928: [Odds]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 20:13:19.723: [Odds]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-12 03:23:46.642: [Immortal Sin]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Coins [995, 35000000]
+
+
+
+2015-04-12 03:24:41.845: [Immortal Sin]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-12 03:25:58.039: [Immortal Sin]:
+Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-04-12 03:27:44.845: [Immortal Sin]:
+Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-04-12 03:28:44.243: [Immortal Sin]:
+Item[0]: Divine sigil [13748, 1]
+
+
+
+2015-04-12 03:31:31.043: [Immortal Sin]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 03:33:55.042: [Immortal Sin]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-12 03:35:21.443: [Immortal Sin]:
+Item[0]: Divine sigil [13748, 1]
+
+
+
+2015-04-12 03:36:23.842: [Immortal Sin]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-12 03:38:12.442: [Immortal Sin]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 03:40:14.842: [Immortal Sin]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-12 03:41:25.643: [Immortal Sin]:
+Item[0]: Divine sigil [13748, 1]
+
+
+
+2015-04-12 03:44:43.676: [Immortal Sin]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+

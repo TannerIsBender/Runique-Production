@@ -1,0 +1,273 @@
+2015-04-30 12:19:49.775: [Darkdestroyr]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-30 12:23:11.371: [Darkdestroyr]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-30 22:51:37.630: [Zoomkill]:
+Item[0]: Mole claw [7416, 1]
+Item[1]: Mole claw [7416, 1]
+Item[2]: Mole claw [7416, 1]
+Item[3]: Mole claw [7416, 1]
+Item[4]: Mole skin [7418, 1]
+Item[5]: Mole skin [7418, 1]
+Item[6]: Mole skin [7418, 1]
+Item[7]: Mole skin [7418, 1]
+
+
+
+2015-04-30 23:00:17.830: [Zoomkill]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-30 23:03:04.032: [Zoomkill]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-01 11:35:33.430: [Melee Cyrus]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-01 11:36:11.831: [Melee Cyrus]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-01 11:37:21.433: [Melee Cyrus]:
+Item[0]: Coins [995, 800000000]
+
+
+
+2015-05-01 13:45:13.130: [Ziptie]:
+Item[0]: Third-age range legs [10332, 1]
+Item[1]: Third-age vambraces [10336, 1]
+Item[2]: Third-age range top [10330, 1]
+Item[3]: Third-age range coif [10334, 1]
+
+
+
+2015-05-01 14:10:08.962: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Staff of light [22212, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Arcane stream necklace [18335, 1]
+Item[5]: Arcane stream necklace [18335, 1]
+Item[6]: Armadyl helmet [11718, 1]
+Item[7]: Bandos godsword [11696, 1]
+Item[8]: Abyssal whip [4151, 1]
+Item[9]: Armadyl helmet [11718, 1]
+Item[10]: Dark bow [15702, 1]
+Item[11]: Bandos boots [11728, 1]
+Item[12]: Ranger boots [2577, 1]
+
+
+
+2015-05-01 14:11:34.756: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Bandos godsword [11696, 1]
+Item[2]: Abyssal whip [4151, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Armadyl helmet [11718, 1]
+Item[5]: Ranger boots [2577, 1]
+Item[6]: Bandos boots [11728, 1]
+Item[7]: Amulet of fury [6585, 1]
+Item[8]: Dark bow [15702, 1]
+Item[9]: Corrupt statius's platebody [13908, 1]
+Item[10]: Staff of light [22212, 1]
+Item[11]: Dragonfire shield [11283, 1]
+Item[12]: Arcane stream necklace [18335, 1]
+Item[13]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-01 14:13:56.346: [Ziptie]:
+Item[0]: Arcane stream necklace [18335, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+Item[2]: Dragonfire shield [11283, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Dark bow [15702, 1]
+Item[5]: Corrupt statius's platebody [13908, 1]
+Item[6]: Staff of light [22212, 1]
+Item[7]: Bandos boots [11728, 1]
+Item[8]: Ranger boots [2577, 1]
+Item[9]: Armadyl helmet [11718, 1]
+Item[10]: Bandos godsword [11696, 1]
+Item[11]: Abyssal whip [4151, 1]
+Item[12]: Armadyl helmet [11718, 1]
+Item[13]: Chaotic longsword [18351, 1]
+Item[14]: Steadfast boots [21787, 1]
+Item[15]: Glaiven boots [21790, 1]
+Item[16]: Ragefire boots [21793, 1]
+Item[17]: Armadyl godsword [11694, 1]
+Item[18]: Vesta's chainbody [13887, 1]
+Item[19]: Coins [995, 150000000]
+
+
+
+2015-05-02 14:27:46.331: [Oi]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-02 14:28:30.131: [Oi]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-03 09:42:50.647: [Ziptie]:
+Item[0]: Vesta's longsword [13899, 1]
+
+
+
+2015-05-03 09:43:38.041: [Ziptie]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 13:46:55.049: [Zoomkill]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-03 14:04:25.640: [Davetherave]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-03 14:06:02.831: [Toma]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 14:10:41.854: [Toma]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 16:01:42.540: [Melee Cyrus]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-03 16:06:07.136: [Davetherave]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-04 07:00:24.939: [Desi]:
+Item[0]: Armadyl helmet [11719, 1]
+Item[1]: Armadyl chestplate [11721, 3]
+
+
+
+2015-05-04 13:12:19.837: [Whatsapp]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-04 13:13:40.237: [Whatsapp]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 13:15:52.838: [Whatsapp]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-04 15:39:58.369: [Big Booty]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-04 15:40:38.563: [Big Booty]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-04 15:43:00.769: [Big Booty]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-05-04 15:43:50.569: [Big Booty]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-05-04 19:06:27.339: [Zoomkill]:
+
+
+
+2015-05-04 20:09:18.400: [Zoomkill]:
+
+
+
+2015-05-04 20:10:15.989: [Zoomkill]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-04 20:10:59.193: [Zoomkill]:
+Item[0]: Coins [995, 2]
+
+
+
+2015-05-04 21:10:11.238: [Lustknabe]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 21:20:04.068: [Zoomkill]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 21:21:58.668: [Zoomkill]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 21:51:41.869: [Zoomkill]:
+
+
+
+2015-05-04 21:52:42.465: [Zoomkill]:
+
+
+
+2015-05-04 21:53:15.465: [Zoomkill]:
+
+
+
+2015-05-04 23:23:05.337: [Melee Cyrus]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-05 09:27:18.588: [Max]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Blue partyhat [1042, 1]
+
+
+
+2015-05-05 09:30:50.391: [Max]:
+Item[0]: Torva full helm [20135, 1]
+Item[1]: Torva platebody [20139, 1]
+Item[2]: Torva platelegs [20143, 1]
+
+
+

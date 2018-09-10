@@ -1,0 +1,70 @@
+2015-06-05 20:29:37.268: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+
+
+
+2015-06-05 20:32:57.669: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Karil's coif [4733, 2]
+My Item[1]: Coins [995, 7499545]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 00:02:40.423: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 12:36:27.216: [[Rozzab123, zxcvbnm; 94.14.138.145, 10-08-B1-B4-A2-27]]:
+My Item[0]: Vote Ticket [13256, 1]
+Other Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-06-06 12:38:05.601: [[Rozzab123, zxcvbnm; 94.14.138.145, 10-08-B1-B4-A2-27]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Vote Ticket [13256, 1]
+Other Item[0]: Vote Ticket [13256, 1]
+Other Item[1]: Coins [995, 10000000]
+
+
+
+2015-06-06 12:43:42.807: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-06 12:45:12.801: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-06 15:29:54.951: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Staff of light [22208, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 15:33:34.546: [[Gracyez07, oliver4500; 192.0.240.167, 4C-72-B9-DA-14-8C]]:
+My Item[0]: Armadyl helmet [11718, 1]
+My Item[1]: Scroll of rigour [18839, 1]
+My Item[2]: Bonecrusher [18337, 1]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-06-06 15:44:42.970: [[Gracyez07, oliver4500; 192.0.240.167, 4C-72-B9-DA-14-8C]]:
+My Item[0]: Coins [995, 46054092]
+My Item[1]: Tooth half of a key [986, 10]
+My Item[2]: Dragon boots [11732, 1]
+My Item[3]: Full slayer helmet [15492, 1]
+My Item[4]: Amulet of fury [6585, 1]
+My Item[5]: Dragonfire shield [11283, 1]
+My Item[6]: Armadyl godsword [11694, 1]
+My Item[7]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 300000000]
+
+
+

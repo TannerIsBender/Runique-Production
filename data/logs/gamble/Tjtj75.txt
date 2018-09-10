@@ -1,0 +1,87 @@
+2015-05-30 23:52:01.674: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dark bow [11235, 1]
+Other Item[1]: Faithful shield [18747, 1]
+Other Item[2]: Faithful shield [18747, 1]
+Other Item[3]: Abyssal whip [4151, 1]
+Other Item[4]: Abyssal whip [4151, 1]
+
+
+
+2015-05-30 23:55:33.465: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-30 23:59:34.664: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+Other Item[1]: Faithful shield [18747, 1]
+Other Item[2]: Faithful shield [18747, 1]
+Other Item[3]: Dark bow [11235, 1]
+
+
+
+2015-05-31 00:00:31.667: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-31 00:08:10.095: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-05-31 00:13:44.895: [[Saber570, vascaino; 187.65.244.217, 94-39-E5-34-04-71]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Faithful shield [18747, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-02 18:54:59.420: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Anger battleaxe [7807, 1]
+
+
+
+2015-06-02 23:55:09.261: [[Saber570, vascaino; 187.65.244.217, 94-39-E5-34-04-71]]:
+My Item[0]: Blue h'ween mask [1055, 1]
+Other Item[0]: Santa hat [1050, 1]
+
+
+
+2015-06-03 00:02:12.299: [[Saber570, vascaino; 187.65.244.217, 94-39-E5-34-04-71]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+My Item[3]: Chaotic longsword [18351, 1]
+My Item[4]: Vesta's plateskirt [13893, 1]
+My Item[5]: Ragefire boots [21793, 1]
+My Item[6]: Chaotic crossbow [18357, 1]
+My Item[7]: Statius's platebody [13884, 1]
+My Item[8]: Vesta's chainbody [13887, 1]
+My Item[9]: Ragefire boots [21793, 1]
+My Item[10]: Dragonfire shield [11283, 1]
+My Item[11]: Dragonfire shield [11283, 1]
+My Item[12]: Dragonfire shield [11283, 1]
+My Item[13]: Novite plateskirt [16647, 1]
+My Item[14]: Dragon full helm [11335, 1]
+My Item[15]: Steadfast boots [21787, 1]
+My Item[16]: Statius's full helm [13896, 1]
+My Item[17]: Statius's full helm [13896, 1]
+My Item[18]: Statius's platelegs [13890, 1]
+My Item[19]: Blue h'ween mask [1055, 1]
+My Item[20]: Torva platelegs [22319, 1]
+Other Item[0]: Santa hat [1050, 1]
+Other Item[1]: Yellow partyhat [1041, 1]
+Other Item[2]: Sled [4084, 1]
+
+
+

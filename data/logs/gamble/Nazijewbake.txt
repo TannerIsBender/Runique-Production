@@ -1,0 +1,90 @@
+2015-05-06 12:16:56.839: [Failfish]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Amulet of ranging [15126, 1]
+
+
+
+2015-05-07 11:12:03.914: [Rozza123]:
+Item[0]: Coins [995, 8465800]
+
+
+
+2015-05-07 11:12:46.515: [Rozza123]:
+Item[0]: Coins [995, 8465800]
+
+
+
+2015-05-12 19:40:43.022: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-12 19:43:02.800: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 140000000]
+Other Item[0]: Coins [995, 70000000]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-12 19:45:07.622: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-12 19:48:59.822: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-12 19:52:22.622: [[Nostalgia, gurbaxsingh; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-12 20:00:50.217: [[Nostalgia, gurbaxsingh; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Tooth half of a key [986, 37]
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+My Item[3]: Corrupt vesta's chainbody [13912, 1]
+My Item[4]: Arcane spirit shield [13739, 1]
+My Item[5]: Statius's platelegs [13891, 1]
+My Item[6]: Glaiven boots [21790, 1]
+My Item[7]: Chaotic crossbow [18357, 1]
+My Item[8]: Armadyl chestplate [11720, 1]
+My Item[9]: Armadyl chainskirt [11722, 1]
+My Item[10]: Blessed spirit shield [13737, 1]
+My Item[11]: Steadfast boots [21788, 1]
+My Item[12]: Statius's platebody [13885, 1]
+My Item[13]: Corrupt vesta's plateskirt [13918, 1]
+My Item[14]: Dragonfire shield [11283, 1]
+My Item[15]: Ragefire boots [21794, 1]
+My Item[16]: Corrupt statius's full helm [13921, 1]
+My Item[17]: Corrupt statius's warhammer [13926, 1]
+My Item[18]: Corrupt vesta's plateskirt [13917, 1]
+My Item[19]: Corrupt statius's warhammer [13926, 1]
+My Item[20]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Chaotic staff [18355, 1]
+Other Item[3]: Eagle-eye kiteshield [18361, 1]
+Other Item[4]: Saradomin's tear [8027, 1]
+Other Item[5]: Saradomin's tear [8027, 1]
+Other Item[6]: Saradomin godsword [11698, 1]
+Other Item[7]: Saradomin's tear [8027, 1]
+Other Item[8]: Gilded dragon pickaxe [20786, 1]
+
+
+
+2015-05-12 20:05:08.218: [[My99capes, haley2388; 207.144.76.248, 74-29-AF-96-F5-8F]]:
+My Item[0]: Coins [995, 13191000]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+

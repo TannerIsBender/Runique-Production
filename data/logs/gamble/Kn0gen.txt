@@ -1,0 +1,46 @@
+2015-04-16 14:07:02.844: [Goog]:
+Item[0]: Coins [995, 20288635]
+
+
+
+2015-04-16 14:07:40.041: [Goog]:
+Item[0]: Coins [995, 40288635]
+
+
+
+2015-04-16 14:08:10.047: [Goog]:
+Item[0]: Coins [995, 40288635]
+
+
+
+2015-04-16 14:14:10.047: [Zarox]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-16 14:19:35.231: [Iliblil]:
+Item[0]: Amulet of fury (or) [19335, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Abyssal whip [15444, 1]
+Item[3]: Corrupt vesta's longsword [13923, 1]
+Item[4]: Statius's warhammer [13902, 1]
+Item[5]: Amulet of fury [6585, 1]
+Item[6]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-16 14:21:43.643: [Iliblil]:
+Item[0]: Zamorak hilt [11708, 1]
+Item[1]: Zamorak hilt [11708, 1]
+
+
+
+2015-04-16 14:24:47.249: [Iliblil]:
+Item[0]: Zamorak halo [18746, 1]
+Item[1]: Zamorak halo [18746, 1]
+Item[2]: Guthix halo [18744, 1]
+Item[3]: Zamorak halo [18746, 1]
+Item[4]: Guthix halo [18744, 1]
+
+
+

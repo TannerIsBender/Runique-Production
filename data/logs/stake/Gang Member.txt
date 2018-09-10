@@ -1,0 +1,206 @@
+2015-04-01 16:27:32.793: [Tonka]:
+Item[7]: Dragon full helm [11335, 1]
+
+
+
+2015-04-01 16:28:21.394: [Tonka]:
+Item[0]: Dragon full helm [11335, 1]
+
+
+
+2015-04-01 16:29:50.195: [Tonka]:
+Item[3]: Dragon boots [11732, 1]
+
+
+
+2015-04-01 16:30:53.186: [Tonka]:
+Item[7]: Vote Ticket [13256, 1]
+
+
+
+2015-04-01 16:31:54.395: [Tonka]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-01 16:32:35.780: [Tonka]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-01 16:34:24.989: [Tonka]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Coins [995, 23950514]
+
+
+
+2015-04-01 16:36:27.393: [Tonka]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-01 16:37:22.593: [Tonka]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-01 17:33:53.258: [George]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-01 18:48:56.278: [Merchendise]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Coins [995, 40580000]
+Item[4]: Dragon full helm [11335, 1]
+Item[5]: Warrior ring [6735, 1]
+Item[6]: Spirit shield [13734, 1]
+
+
+
+2015-04-01 18:51:03.464: [Merchendise]:
+Item[0]: Chaotic kiteshield [18359, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon full helm [11335, 1]
+Item[4]: Dragon boots [11732, 1]
+
+
+
+2015-04-06 02:31:06.322: [Who]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-06 02:32:14.744: [Who]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-06 02:33:20.122: [Who]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-06 02:34:25.543: [Who]:
+Item[0]: Bonecrusher [18337, 1]
+Item[1]: Coins [995, 125330961]
+Item[2]: Anti-poison totem [18340, 1]
+
+
+
+2015-04-06 02:36:15.967: [Who]:
+Item[0]: Anti-poison totem [18340, 1]
+Item[1]: Bonecrusher [18337, 1]
+Item[2]: Coins [995, 75000000]
+
+
+
+2015-04-06 02:42:58.543: [Red Basket]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Anti-poison totem [18340, 1]
+
+
+
+2015-04-06 02:43:48.344: [Red Basket]:
+Item[0]: Coins [995, 75000000]
+Item[1]: Bonecrusher [18337, 1]
+
+
+
+2015-04-06 02:45:42.944: [Red Basket]:
+Item[0]: Bonecrusher [18337, 1]
+Item[1]: Anti-poison totem [18340, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Dragon boots [11732, 1]
+
+
+
+2015-04-06 03:10:12.367: [Chaozios]:
+Item[0]: Coins [995, 165000000]
+
+
+
+2015-04-06 03:37:06.406: [Cod Pk]:
+Item[0]: Zuriel's robe top [13858, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Bonecrusher [18337, 1]
+Item[3]: Dragon full helm (or) [19336, 1]
+Item[4]: Anti-poison totem [18340, 1]
+Item[5]: Corrupt vesta's spear [13929, 1]
+Item[6]: Corrupt statius's platebody [13908, 1]
+Item[7]: Dragon chainbody [3140, 1]
+Item[8]: Godsword shard 1 [11710, 1]
+Item[9]: Third-age mage hat [10342, 1]
+Item[10]: Dragon boots [11732, 1]
+Item[11]: Coins [995, 185000000]
+Item[12]: Amulet of fury [6585, 1]
+Item[13]: Armadyl chainskirt [11722, 1]
+Item[14]: Steadfast boots [21787, 1]
+Item[15]: Armadyl chestplate [11720, 1]
+Item[16]: Abyssal whip [15442, 1]
+Item[17]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-06 03:40:15.985: [Cod God]:
+Item[0]: Coins [995, 597002300]
+Item[1]: Zuriel's robe top [13858, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+Item[3]: Corrupt vesta's spear [13929, 1]
+Item[4]: Anti-poison totem [18340, 1]
+Item[5]: Dragon full helm (or) [19336, 1]
+Item[6]: Bonecrusher [18337, 1]
+Item[7]: Corrupt statius's platebody [13908, 1]
+Item[8]: Dragon chainbody [3140, 1]
+Item[9]: Dragon boots [11732, 1]
+Item[10]: Amulet of fury [6585, 1]
+Item[11]: Armadyl chainskirt [11722, 1]
+Item[12]: Godsword shard 1 [11710, 1]
+Item[13]: Third-age mage hat [10342, 1]
+Item[14]: Steadfast boots [21787, 1]
+Item[15]: Armadyl helmet [11718, 1]
+Item[16]: Abyssal whip [15442, 1]
+Item[17]: Armadyl chestplate [11720, 1]
+Item[18]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-06 03:43:11.177: [Cod God]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Coins [995, 597002300]
+
+
+
+2015-04-06 03:44:49.588: [Cod God]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Bonecrusher [18337, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Armadyl chestplate [11720, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Armadyl chainskirt [11722, 1]
+Item[7]: Godsword shard 1 [11710, 1]
+Item[8]: Corrupt statius's platebody [13908, 1]
+Item[9]: Corrupt vesta's spear [13929, 1]
+Item[10]: Anti-poison totem [18340, 1]
+Item[11]: Dragon chainbody [3140, 1]
+Item[12]: Dragon boots [11732, 1]
+Item[13]: Dragon full helm (or) [19336, 1]
+Item[14]: Third-age mage hat [10342, 1]
+Item[15]: Abyssal whip [15442, 1]
+Item[16]: Zuriel's robe top [13858, 1]
+
+
+

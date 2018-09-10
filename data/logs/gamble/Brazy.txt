@@ -1,0 +1,1612 @@
+2015-04-15 13:13:28.947: [L2pk]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 13:15:21.741: [L2pk]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 13:21:06.751: [I Am Tommy]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-15 13:24:12.147: [I Am Tommy]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-15 13:32:41.547: [L2skill]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 14:19:16.363: [Aurora]:
+Item[0]: Corrupt vesta's chainbody [13912, 1]
+
+
+
+2015-04-15 14:24:56.578: [Aurora]:
+Item[0]: Abyssal whip [4152, 2]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-15 14:26:59.592: [Aurora]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-17 00:13:29.019: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 00:17:22.431: [Simberj]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 00:23:18.847: [Dave]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 00:25:45.816: [Dave]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 00:31:33.247: [Dave]:
+
+
+
+2015-04-17 00:43:09.831: [Dave]:
+
+
+
+2015-04-17 00:45:04.431: [Goog]:
+Item[0]: Coins [995, 74000000]
+
+
+
+2015-04-17 00:48:06.231: [Goog]:
+Item[0]: Coins [995, 74000001]
+
+
+
+2015-04-17 00:52:33.842: [Dave]:
+
+
+
+2015-04-17 00:53:14.032: [Dave]:
+
+
+
+2015-04-17 01:03:08.644: [Dave]:
+
+
+
+2015-04-17 01:06:42.247: [Dave]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 01:07:38.645: [Dave]:
+Item[0]: Coins [995, 20090157]
+Item[1]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-17 01:08:49.444: [Dave]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Staff of light [22212, 1]
+
+
+
+2015-04-17 11:03:13.950: [Zarox]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-17 11:04:23.594: [Zarox]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-17 11:05:30.781: [Zarox]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-17 17:52:08.795: [Great Attila]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-24 04:52:54.349: [Ziptie]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-24 04:53:42.345: [Ziptie]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-24 04:54:38.733: [Simberj]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-24 04:56:06.933: [Simberj]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-24 04:57:16.531: [Simberj]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-24 06:09:02.811: [Spec You Out]:
+Item[0]: Coins [995, 70000000]
+Item[1]: Morrigan's coif [13876, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-24 06:09:45.402: [Spec You Out]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 06:21:13.580: [Spec You Out]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-24 23:55:05.226: [Halee]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-25 03:18:30.548: [Kabooyah]:
+Item[0]: Statius's full helm [13896, 1]
+
+
+
+2015-04-25 03:21:16.750: [Kabooyah]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-25 07:53:52.334: [2kk2]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 20:36:53.396: [Noli Ftw]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-25 20:41:05.996: [St3alth Skil]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-25 20:43:00.602: [Noli Ftw]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 20:59:36.012: [Kabooyah]:
+Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-25 21:31:19.226: [Deth]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 21:38:51.025: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 22:02:19.849: [Kabooyah]:
+Item[0]: Coins [995, 350000000]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-25 22:03:07.249: [Kabooyah]:
+Item[0]: Coins [995, 350000000]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-26 06:21:06.949: [Simberj]:
+
+
+
+2015-04-26 06:23:08.151: [Simberj]:
+
+
+
+2015-04-26 06:23:45.949: [Simberj]:
+
+
+
+2015-04-26 06:24:24.350: [Simberj]:
+
+
+
+2015-04-26 06:26:58.552: [Simberj]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-26 06:31:09.364: [Simberj]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-26 06:36:38.781: [Simberj]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Coins [995, 30000000]
+
+
+
+2015-04-26 06:45:18.980: [Oi]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-26 06:51:41.775: [Simberj]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-26 06:52:41.780: [Simberj]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-26 06:57:20.175: [Simberj]:
+Item[0]: Coins [995, 70000000]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-26 06:58:51.374: [Simberj]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-26 07:00:04.576: [Simberj]:
+Item[0]: Coins [995, 350000000]
+
+
+
+2015-04-26 07:12:21.965: [Homer]:
+Item[0]: Coins [995, 255000000]
+
+
+
+2015-04-26 09:58:05.277: [Kabooyah]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-04-26 10:00:41.280: [Kabooyah]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-26 10:04:10.080: [Kabooyah]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-04-26 10:07:55.696: [Kabooyah]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-26 10:36:46.703: [Lisa000012]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-26 10:43:17.916: [Lisa000012]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-04-26 10:59:28.734: [Coldott]:
+Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-26 11:00:13.733: [Coldott]:
+Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-26 11:02:32.317: [Shcherbakova]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-26 11:06:32.927: [I Fag I]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-26 11:11:54.523: [Shoxie]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-26 12:07:19.780: [Prada]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-26 12:10:41.950: [Prada]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-26 21:22:21.886: [Prada]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-26 21:22:51.871: [Prada]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 00:37:14.218: [Gibby]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-27 00:40:51.996: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 00:41:40.596: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 00:42:57.396: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-27 00:43:56.793: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-27 00:45:38.818: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-27 00:47:45.402: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-27 00:48:28.596: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-27 00:49:46.596: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-27 01:15:07.624: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 01:20:26.833: [Star]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 01:24:08.220: [Star]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-27 01:27:40.026: [Star]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 01:37:35.250: [Ziptie]:
+Item[0]: Coins [995, 200000001]
+
+
+
+2015-04-27 01:39:48.449: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 01:40:40.049: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 01:53:53.851: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 01:54:41.836: [Kabooyah]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Coins [995, 50000000]
+
+
+
+2015-04-27 01:56:52.638: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 01:58:17.252: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 02:03:00.441: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 02:06:13.049: [Kabooyah]:
+Item[0]: Coins [995, 150000000]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 02:06:55.644: [Kabooyah]:
+Item[0]: Coins [995, 150000000]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 02:07:47.880: [Kabooyah]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 02:09:01.649: [Kabooyah]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 02:12:02.249: [Kabooyah]:
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-27 02:30:14.865: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Coins [995, 150000000]
+
+
+
+2015-04-27 02:42:29.874: [Simberj]:
+
+
+
+2015-04-27 02:51:48.480: [Ziptie]:
+Item[0]: Coins [995, 270000000]
+
+
+
+2015-04-27 03:15:30.496: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 04:37:29.576: [Kabooyah]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Slayer helmet [13263, 1]
+
+
+
+2015-04-27 04:39:04.375: [Kabooyah]:
+
+
+
+2015-04-27 05:44:53.024: [Ziptie]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-27 06:18:41.643: [Ziptie]:
+Item[2]: Coins [995, 50000000]
+
+
+
+2015-04-27 07:52:06.902: [Mercy]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-27 08:01:00.287: [Ziptie]:
+Item[0]: Coins [995, 598721019]
+
+
+
+2015-04-27 08:02:40.512: [Ziptie]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-27 08:13:38.703: [Thug Life]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-27 09:09:24.336: [Homer]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 09:11:26.133: [Homer]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 09:14:17.739: [Homer]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-27 09:15:40.540: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:16:14.733: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:16:58.541: [Homer]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-27 09:18:28.549: [Homer]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-27 09:19:07.549: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:20:02.743: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:20:47.140: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:20:47.744: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:21:17.739: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:22:01.544: [Homer]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-27 09:23:49.549: [Homer]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 09:24:31.545: [Homer]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-27 09:25:06.342: [Homer]:
+Item[0]: Coins [995, 245000000]
+
+
+
+2015-04-27 09:25:42.349: [Homer]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-27 09:26:26.147: [Homer]:
+Item[0]: Coins [995, 190000000]
+
+
+
+2015-04-27 09:27:04.549: [Homer]:
+Item[0]: Coins [995, 350000000]
+
+
+
+2015-04-27 09:28:36.344: [Homer]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 09:30:20.148: [Homer]:
+Item[0]: Coins [995, 150000000]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 09:32:23.749: [Homer]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-04-27 10:06:02.164: [Thug Life]:
+Item[0]: Coins [995, 85000000]
+
+
+
+2015-04-27 10:07:22.564: [Thug Life]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-04-27 10:08:58.565: [Thug Life]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-27 10:19:36.980: [Thug Life]:
+Item[0]: Coins [995, 95000000]
+
+
+
+2015-04-27 10:21:24.987: [Thug Life]:
+Item[0]: Coins [995, 55000000]
+
+
+
+2015-04-27 10:50:09.418: [Thug Life]:
+Item[0]: Blue partyhat [1042, 1]
+Item[1]: Torva full helm [20135, 1]
+Item[2]: Divine spirit shield [13740, 1]
+Item[3]: Chaotic maul [18353, 1]
+Item[4]: Chaotic maul [18353, 1]
+Item[5]: Coins [995, 400000000]
+
+
+
+2015-04-27 11:02:52.024: [Aerial]:
+Item[0]: Coins [995, 370000000]
+
+
+
+2015-04-27 11:04:57.429: [Homer]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-27 11:05:32.224: [Homer]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-27 11:25:46.633: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:26:26.223: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:27:17.825: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:28:22.029: [Ziptie]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic maul [18353, 1]
+Item[2]: Coins [995, 50000000]
+
+
+
+2015-04-27 11:29:07.018: [Ziptie]:
+Item[0]: Coins [995, 50000000]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:30:22.017: [Ziptie]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Coins [995, 100000000]
+
+
+
+2015-04-27 11:31:02.818: [Ziptie]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:36:29.226: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:42:42.434: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:45:05.835: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:45:44.249: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-04-27 11:49:01.049: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Vesta's chainbody [13887, 1]
+Item[6]: Statius's full helm [13896, 1]
+Item[7]: Morrigan's leather body [13870, 1]
+Item[8]: Morrigan's leather chaps [13873, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Steadfast boots [21787, 1]
+
+
+
+2015-04-27 11:52:23.237: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Elysian spirit shield [13742, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Coins [995, 20000000]
+
+
+
+2015-04-27 12:00:58.650: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-27 12:02:25.644: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+Item[1]: Elysian spirit shield [13742, 1]
+Item[2]: Divine spirit shield [13740, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-27 12:05:46.647: [Ziptie]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Chaotic maul [18353, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 12:06:28.649: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-27 12:09:10.048: [Ziptie]:
+Item[0]: Sled [4084, 1]
+
+
+
+2015-04-27 12:10:14.249: [Ziptie]:
+Item[0]: Sled [4084, 1]
+Item[1]: Santa hat [1050, 1]
+
+
+
+2015-04-27 12:51:30.496: [Heh Heh]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 12:58:44.296: [Geordie Lad]:
+Item[0]: Coins [995, 400000000]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-27 13:00:08.899: [Heh Heh]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 13:00:09.512: [Heh Heh]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 22:30:16.418: [Bad Pker]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-27 22:31:00.834: [Bad Pker]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-27 22:31:36.227: [Bad Pker]:
+Item[0]: Coins [995, 230000000]
+
+
+
+2015-04-27 22:33:12.817: [Bad Pker]:
+Item[0]: Santa hat [1050, 1]
+
+
+
+2015-04-27 22:36:17.633: [Bad Pker]:
+Item[0]: Coins [995, 980000000]
+
+
+
+2015-04-27 22:36:49.418: [Bad Pker]:
+Item[0]: Coins [995, 980000000]
+
+
+
+2015-04-27 22:37:26.618: [Bad Pker]:
+Item[0]: Coins [995, 980000000]
+
+
+
+2015-04-27 22:38:07.427: [Bad Pker]:
+Item[0]: Coins [995, 980000000]
+
+
+
+2015-04-27 22:41:32.649: [Bad Pker]:
+Item[0]: Coins [995, 700000000]
+
+
+
+2015-04-27 22:43:08.624: [Bad Pker]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 22:43:47.034: [Bad Pker]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 22:44:20.633: [Bad Pker]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 22:45:43.426: [Bad Pker]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 22:47:12.826: [Bad Pker]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 22:47:52.433: [Bad Pker]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 22:53:18.229: [Bad Pker]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-27 22:53:53.049: [Bad Pker]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-27 22:54:30.830: [Bad Pker]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-27 22:55:47.031: [Bad Pker]:
+Item[0]: Coins [995, 800000000]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-28 00:34:54.311: [Just Do It]:
+Item[0]: Coins [995, 154000000]
+
+
+
+2015-04-28 00:37:09.315: [Star]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 00:38:20.715: [Star]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 00:39:21.318: [Star]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 00:40:13.518: [Star]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 00:41:09.913: [Melee Cyrus]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-28 00:41:53.118: [Melee Cyrus]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-28 00:44:45.312: [Just Do It]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-04-28 00:46:03.897: [Just Do It]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-04-28 00:47:23.718: [Strawhat]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 00:48:07.518: [Iron Cle]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 00:49:15.918: [Iron Cle]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-28 00:49:54.919: [Iron Cle]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-28 00:54:01.525: [Star]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 00:54:48.924: [Star]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 00:56:06.918: [Melee Cyrus]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 01:08:53.733: [Melee Cyrus]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 01:09:33.925: [Melee Cyrus]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 01:13:11.125: [Melee Cyrus]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 01:13:51.934: [Melee Cyrus]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 01:14:28.534: [Melee Cyrus]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 01:31:09.349: [Strawhat]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 01:37:44.733: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-28 01:39:06.338: [Goog]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-28 01:39:51.334: [Goog]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-28 01:40:17.149: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 01:41:06.340: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 01:41:39.349: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 01:44:33.349: [Goog]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 01:45:15.349: [Goog]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 01:45:42.949: [Goog]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 01:47:47.749: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 01:48:44.749: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 02:17:26.175: [Chandler]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 02:21:35.774: [Melee Cyrus]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 02:22:29.174: [Melee Cyrus]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-28 02:23:35.171: [Melee Cyrus]:
+Item[0]: Coins [995, 475000000]
+
+
+
+2015-04-28 02:24:47.171: [Melee Cyrus]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-28 02:26:00.380: [Melee Cyrus]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 02:28:57.981: [Melee Cyrus]:
+Item[0]: Coins [995, 900000000]
+
+
+
+2015-04-28 02:30:21.975: [Melee Cyrus]:
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-28 02:30:59.781: [Melee Cyrus]:
+Item[0]: Coins [995, 800000000]
+Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-04-28 02:31:22.580: [Melee Cyrus]:
+Item[0]: Coins [995, 800000000]
+Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-04-28 02:37:47.175: [Melee Cyrus]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Coins [995, 200000000]
+
+
+
+2015-04-28 03:36:44.833: [Star]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-28 03:37:57.433: [Star]:
+Item[1]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-28 03:39:13.033: [Star]:
+Item[0]: Santa hat [1050, 1]
+
+
+
+2015-04-28 03:41:17.226: [Star]:
+Item[0]: Santa hat [1050, 1]
+
+
+
+2015-04-28 03:44:01.633: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-28 03:44:47.223: [Melee Cyrus]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-28 03:48:21.423: [Melee Cyrus]:
+Item[0]: Third-age robe top [10338, 1]
+Item[1]: Third-age robe [10340, 1]
+
+
+
+2015-04-28 03:51:13.624: [C R I M]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-28 04:00:20.823: [Melee Cyrus]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Zaryte bow [20171, 1]
+
+
+
+2015-04-28 04:04:47.233: [C R I M]:
+Item[0]: Torva platebody [20139, 1]
+
+
+
+2015-04-28 07:14:18.545: [Aerial]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 07:18:45.547: [Aerial]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Coins [995, 100000000]
+Item[2]: Arcane spirit shield [13738, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic staff [18355, 1]
+
+
+
+2015-04-28 07:19:14.949: [Aerial]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-28 07:31:15.548: [Andy]:
+
+
+
+2015-04-28 07:32:25.758: [Andy]:
+
+
+
+2015-04-28 07:33:22.749: [Andy]:
+
+
+
+2015-04-28 07:36:58.764: [Andy]:
+
+
+
+2015-04-28 08:04:17.365: [I Like Gold]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-28 08:05:05.374: [I Like Gold]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-28 08:05:37.173: [I Like Gold]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-04-28 08:07:02.980: [I Like Gold]:
+Item[0]: Coins [995, 150000000]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-28 08:07:37.775: [I Like Gold]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Coins [995, 150000000]
+
+
+
+2015-04-28 08:08:51.565: [I Like Gold]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Statius's full helm [13896, 1]
+
+
+
+2015-04-28 12:17:22.924: [Nostalgia]:
+Item[0]: Pernix body [20151, 1]
+Item[1]: Pernix chaps [20155, 1]
+Item[2]: Pernix cowl [20147, 1]
+Item[3]: Coins [995, 290000000]
+Item[4]: Chaotic staff [18355, 1]
+Item[5]: Chaotic staff [18355, 1]
+Item[6]: Chaotic maul [18353, 1]
+Item[7]: Statius's full helm [13896, 1]
+
+
+
+2015-04-28 12:22:09.124: [Nostalgia]:
+Item[0]: Staff of the dead [11791, 1]
+
+
+
+2015-04-28 12:25:13.338: [Nostalgia]:
+Item[0]: Staff of the dead [11791, 1]
+Item[1]: Pernix body [20151, 1]
+Item[2]: Pernix cowl [20147, 1]
+Item[3]: Pernix chaps [20155, 1]
+Item[4]: Chaotic staff [18355, 1]
+Item[5]: Chaotic staff [18355, 1]
+Item[6]: Coins [995, 290000000]
+Item[7]: Chaotic maul [18353, 1]
+
+
+
+2015-05-04 11:45:58.753: [Toma]:
+Item[0]: Sled [4084, 1]
+Item[1]: Coins [995, 350000000]
+
+
+
+2015-05-04 11:49:25.753: [Toma]:
+
+
+
+2015-05-04 11:51:14.360: [Toma]:
+Item[0]: Arcane spirit shield [13738, 1]
+
+
+
+2015-05-04 11:51:42.555: [Toma]:
+Item[1]: Arcane spirit shield [13738, 1]
+
+
+
+2015-05-04 11:52:10.168: [Toma]:
+Item[0]: Arcane spirit shield [13738, 1]
+
+
+
+2015-05-04 11:54:00.558: [Toma]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 11:54:58.768: [Toma]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Arcane spirit shield [13738, 1]
+
+
+
+2015-05-06 04:56:45.087: [Lustknabe]:
+Item[0]: Virtus mask [20159, 1]
+Item[1]: Virtus robe legs [20167, 1]
+
+
+
+2015-05-10 10:36:52.168: [Kuto]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 23:54:31.184: [Radical]:
+Item[0]: Coins [995, 140000000]
+Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-05-10 23:55:15.591: [Radical]:
+Item[0]: Coins [995, 140000000]
+Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-05-17 01:51:06.518: [[Strezicles, google12; 101.166.195.165, 40-F0-2F-22-08-8B]]:
+My Item[0]: Coins [995, 30312558]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-18 03:21:17.218: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Vesta's spear [13905, 1]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-18 03:21:58.017: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Vesta's spear [13905, 1]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-18 03:22:50.821: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Vesta's spear [13905, 1]
+My Item[1]: Statius's warhammer [13902, 1]
+Other Item[0]: Coins [995, 40000000]
+Other Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-18 03:25:10.021: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Vesta's spear [13905, 1]
+My Item[1]: Statius's warhammer [13902, 1]
+My Item[2]: Statius's platelegs [13890, 1]
+Other Item[0]: Vesta's spear [13905, 1]
+Other Item[1]: Statius's warhammer [13902, 1]
+Other Item[2]: Coins [995, 50000000]
+
+
+
+2015-05-18 03:26:08.848: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Statius's warhammer [13902, 1]
+My Item[1]: Statius's platelegs [13890, 1]
+My Item[2]: Vesta's spear [13905, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+Other Item[1]: Vesta's spear [13905, 1]
+Other Item[2]: Coins [995, 50000000]
+
+
+
+2015-05-18 03:27:40.032: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Third-age druidic robe [19320, 1]
+Other Item[0]: Vesta's spear [13905, 1]
+Other Item[1]: Statius's warhammer [13902, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+Other Item[3]: Vesta's spear [13905, 1]
+Other Item[4]: Coins [995, 50000000]
+
+
+
+2015-05-18 03:28:19.648: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Third-age druidic robe [19320, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+Other Item[1]: Statius's warhammer [13902, 1]
+Other Item[2]: Vesta's spear [13905, 1]
+Other Item[3]: Vesta's spear [13905, 1]
+Other Item[4]: Coins [995, 50000000]
+
+
+
+2015-05-23 20:50:07.460: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-24 03:31:15.532: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-24 03:31:50.937: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-24 03:33:33.548: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-28 02:25:01.548: [[Not Katie, lillyrose1262011; 188.30.204.179, None]]:
+My Item[0]: Coins [995, 50500000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-28 02:25:47.764: [[Not Katie, lillyrose1262011; 188.30.204.179, None]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-28 02:26:23.757: [[Not Katie, lillyrose1262011; 188.30.204.179, None]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-28 02:35:20.195: [[Not Katie, lillyrose1262011; 188.30.204.179, None]]:
+Other Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-28 02:36:57.987: [[Not Katie, lillyrose1262011; 188.30.204.179, None]]:
+
+
+
+2015-05-28 02:53:53.786: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-28 02:56:23.195: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-28 02:57:01.001: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-28 20:15:17.995: [[Gm Shawn, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 45540576]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-05-30 12:07:53.917: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Dragon boots [11733, 2]
+My Item[2]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 70000000]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-30 12:08:28.716: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Zuriel's robe bottom [13861, 1]
+Other Item[0]: Dragon boots [11733, 2]
+Other Item[1]: Coins [995, 25000000]
+
+
+
+2015-05-30 12:09:22.717: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Coins [995, 25000000]
+My Item[2]: Dragon boots [11733, 2]
+My Item[3]: Zuriel's robe bottom [13861, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-30 12:17:03.516: [[Harmony, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic staff [18355, 1]
+
+
+

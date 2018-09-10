@@ -1,0 +1,24 @@
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5357, 2]] - 2015-04-16 12:32:17.194
+Item Telegrabbed: Coins [995, 22210 - [2866, 5366, 2]] - 2015-04-16 12:36:52.000
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5363, 2]] - 2015-04-16 12:36:59.794
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 12:39:05.794
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 12:45:50.800
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5361, 2]] - 2015-04-16 12:48:58.579
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 12:51:37.594
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 12:54:25.600
+Item Telegrabbed: Grimy snapdragon [3052, 3 - [2864, 5360, 2]] - 2015-04-16 12:57:49.017
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 12:57:55.018
+Item Telegrabbed: Coins [995, 18482 - [2864, 5360, 2]] - 2015-04-16 14:47:59.868
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5362, 2]] - 2015-04-16 14:50:44.267
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 14:52:38.255
+Item Telegrabbed: Coins [995, 21485 - [2864, 5361, 2]] - 2015-04-16 14:52:52.069
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 14:56:26.878
+Item Telegrabbed: Coins [995, 22441 - [2864, 5361, 2]] - 2015-04-16 14:57:04.078
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 14:58:33.469
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5361, 2]] - 2015-04-16 15:00:13.078
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5360, 2]] - 2015-04-16 15:00:18.479
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5361, 2]] - 2015-04-16 15:03:45.469
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5362, 2]] - 2015-04-16 15:03:53.269
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5361, 2]] - 2015-04-16 15:07:03.478
+Item Telegrabbed: Ourg bones [14793, 2 - [2864, 5363, 2]] - 2015-04-16 15:07:47.269
+Item Telegrabbed: Ruby bolts (e) [9242, 5 - [2904, 5262, 0]] - 2015-04-18 08:09:27.912

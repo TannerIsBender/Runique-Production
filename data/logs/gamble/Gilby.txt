@@ -1,0 +1,28 @@
+2015-06-05 22:23:52.939: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-05 22:25:17.544: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 22:26:14.541: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 22:26:55.370: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Dark bow [15701, 1]
+My Item[1]: Yellow robin hood hat [20950, 1]
+My Item[2]: Staff of light [22212, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+Other Item[2]: Coins [995, 10000000]
+
+
+

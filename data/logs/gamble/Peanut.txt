@@ -1,0 +1,81 @@
+2015-06-03 00:00:24.263: [[Saber570, vascaino; 187.65.244.217, 94-39-E5-34-04-71]]:
+My Item[0]: Coins [995, 1085000]
+Other Item[0]: Coins [995, 1000000]
+
+
+
+2015-06-03 00:19:48.289: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 00:29:17.105: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-03 00:30:00.288: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-03 00:31:39.898: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-03 01:10:28.529: [[Gothic Angel, nanapapa; 72.174.58.223, 38-B1-DB-8C-51-57]]:
+My Item[0]: Torag's helm 0 [4956, 1]
+My Item[1]: Torag's platebody 0 [4968, 1]
+My Item[2]: Guthan's platebody 0 [4920, 1]
+My Item[3]: Torag's helm 0 [4956, 1]
+Other Item[0]: Coins [995, 7572802]
+
+
+
+2015-06-03 01:55:24.352: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-03 02:13:46.573: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-03 02:15:00.974: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-03 02:26:25.587: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+
+2015-06-03 02:38:27.999: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+Other Item[0]: Statius's full helm [13896, 1]
+Other Item[1]: Statius's full helm [13896, 1]
+Other Item[2]: Statius's full helm [13896, 1]
+Other Item[3]: Statius's full helm [13896, 1]
+
+
+
+2015-06-03 02:45:01.590: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+
+
+
+2015-06-03 02:48:58.613: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+
+2015-06-03 02:51:23.812: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+
+2015-06-03 02:53:53.805: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+

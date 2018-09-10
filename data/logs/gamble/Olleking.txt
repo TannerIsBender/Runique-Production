@@ -1,0 +1,331 @@
+2015-04-16 08:01:51.219: [Nostalgia]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 08:01:51.229: [Nostalgia]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 11:45:18.357: [Zarox]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 15:49:49.700: [Best Slayer]:
+Item[0]: Coins [995, 1086678]
+
+
+
+2015-04-17 08:24:11.450: [Zarox]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-17 08:24:43.849: [Zarox]:
+Item[0]: Abyssal vine whip [21371, 1]
+
+
+
+2015-04-17 08:25:27.043: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:25:56.465: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:26:30.050: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:27:01.859: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:27:37.844: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:28:18.043: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:28:18.077: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:28:59.441: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:29:32.443: [Zarox]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 08:30:09.050: [Zarox]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-17 08:30:37.253: [Zarox]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-17 08:34:29.443: [Zarox]:
+Item[0]: Amulet of ranging [15126, 1]
+Item[1]: Archers' ring [6733, 1]
+
+
+
+2015-04-17 08:35:27.681: [Zarox]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 08:36:15.049: [Zarox]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 08:36:58.281: [Zarox]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 08:38:19.859: [Zarox]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 08:38:51.650: [Zarox]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 09:23:56.496: [Thug Life]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 09:26:16.896: [Aurora]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:26:44.496: [Aurora]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:27:47.496: [Aurora]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:28:22.295: [Aurora]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 12:48:51.218: [Keddeflopp]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-18 06:16:08.643: [Pascaladium]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 06:17:10.434: [Pascaladium]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-18 06:17:39.244: [Pascaladium]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-18 06:18:20.634: [Pascaladium]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 06:18:51.834: [Pascaladium]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 06:20:21.243: [Pascaladium]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 06:22:35.644: [Pascaladium]:
+Item[0]: Zuriel's robe top [13858, 1]
+Item[1]: Zuriel's robe bottom [13861, 1]
+
+
+
+2015-04-18 06:24:24.239: [Pascaladium]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Dragon platebody (or) [19337, 1]
+
+
+
+2015-04-18 10:29:47.815: [Melody]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-18 10:30:26.198: [Melody]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 10:30:51.428: [Melody]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 10:31:20.796: [Melody]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 10:32:25.589: [Melody]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 10:33:20.827: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 10:33:53.827: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 10:36:13.028: [Melody]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 11:06:37.621: [Aurora]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 11:07:17.221: [Aurora]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 11:07:45.428: [Aurora]:
+Item[0]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-18 11:08:41.821: [Aurora]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 11:10:05.242: [Aurora]:
+Item[0]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-18 11:11:56.843: [Aurora]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-19 15:07:55.770: [Great Attila]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-19 15:08:28.167: [Great Attila]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-19 15:08:56.960: [Great Attila]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-30 13:08:07.218: [Darkdestroyr]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-04-30 17:40:03.784: [Untouchedtea]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-30 17:43:28.384: [Chaozios]:
+Item[0]: Zamorakian spear [11716, 1]
+Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-30 18:01:17.606: [Untouchedtea]:
+Item[0]: Coins [995, 130000000]
+
+
+
+2015-04-30 18:04:44.599: [Untouchedtea]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Ranger boots [2577, 1]
+
+
+
+2015-04-30 18:05:13.415: [Untouchedtea]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Ranger boots [2577, 1]
+
+
+
+2015-05-05 07:22:17.890: [Homer]:
+Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-05-05 07:23:05.291: [Homer]:
+Item[0]: Coins [995, 35000000]
+
+
+

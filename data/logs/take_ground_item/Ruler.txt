@@ -1,0 +1,6 @@
+Item Taken: Bronze bar [2350, 88 - position=[3105, 3500, 0]] - 2015-03-23 11:54:24.002
+Item Taken: Iron bar [2352, 44 - position=[3105, 3500, 0]] - 2015-03-23 11:54:25.802
+Item Taken: Steel bar [2354, 740 - position=[3105, 3500, 0]] - 2015-03-23 11:54:26.403
+Item Taken: Yellow dye [1765, 1 - position=[3094, 3497, 0]] - 2015-03-23 21:43:40.119
+Item Taken: Raw pheasant [6178, 1 - position=[2600, 4775, 124]] - 2015-03-25 00:20:40.711
+Item Taken: Lederhosen shorts [6181, 1 - position=[3106, 3499, 0]] - 2015-03-25 00:21:02.894

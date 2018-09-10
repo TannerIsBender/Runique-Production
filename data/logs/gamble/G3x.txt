@@ -1,0 +1,528 @@
+2015-04-12 18:59:17.692: [Immortal Sin]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-23 16:14:57.575: [Great Attila]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-23 16:16:00.581: [Great Attila]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-23 16:16:23.380: [Great Attila]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-23 17:22:56.426: [Aurora]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-02 17:59:03.879: [Melee Cyrus]:
+Item[0]: Coins [995, 85000000]
+
+
+
+2015-05-02 18:04:17.088: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-02 18:05:04.483: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-02 18:06:54.906: [Nostalgia]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-02 18:08:44.107: [Coldott]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-05-02 18:09:03.915: [Coldott]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-05-02 18:09:24.907: [Coldott]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-05-03 17:22:28.212: [Melee Cyrus]:
+Item[0]: Coins [995, 350000000]
+
+
+
+2015-05-07 21:11:58.988: [Bamf Katie]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-05-07 21:12:22.399: [Bamf Katie]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-05-07 21:15:43.400: [Nostalgia]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-10 12:28:40.869: [The J]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 12:29:14.469: [The J]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 12:29:15.068: [The J]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 12:29:45.663: [Riv3r]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 12:30:06.069: [Riv3r]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-10 12:30:52.263: [Riv3r]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-22 15:09:39.655: [[Justproptt, eusei10; 93.102.236.82, 00-17-31-86-F9-36]]:
+My Item[0]: Coins [995, 22000000]
+Other Item[0]: Coins [995, 22000000]
+
+
+
+2015-05-22 15:09:39.672: [[Justproptt, eusei10; 93.102.236.82, 00-17-31-86-F9-36]]:
+My Item[0]: Coins [995, 22000000]
+Other Item[0]: Coins [995, 22000000]
+
+
+
+2015-05-24 07:55:04.963: [[Sleda, taraska7; 115.70.238.46, DC-85-DE-61-13-7A]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-24 07:56:18.163: [[Sleda, taraska7; 115.70.238.46, DC-85-DE-61-13-7A]]:
+
+
+
+2015-05-24 07:57:20.563: [[Sleda, taraska7; 115.70.238.46, DC-85-DE-61-13-7A]]:
+
+
+
+2015-05-24 20:32:40.365: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 9000000]
+Other Item[0]: Coins [995, 9038483]
+
+
+
+2015-05-29 20:47:56.191: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 375000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-29 20:48:37.594: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 375000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-29 20:49:15.395: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 375000000]
+Other Item[0]: Coins [995, 375000000]
+
+
+
+2015-05-29 20:50:07.590: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-29 20:53:03.995: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-29 20:54:20.801: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[1]: Coins [995, 25000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-29 20:54:41.801: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 25000000]
+My Item[1]: Elysian spirit shield [13742, 1]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-29 21:01:14.801: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-29 21:01:37.589: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-29 21:01:53.201: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-29 21:02:30.401: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-29 21:02:48.401: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-29 21:03:06.401: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-29 21:04:52.602: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-29 21:06:35.801: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 900000000]
+
+
+
+2015-05-29 21:10:50.815: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 900000000]
+
+
+
+2015-05-29 21:12:01.585: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 900000000]
+Other Item[0]: Coins [995, 900000000]
+
+
+
+2015-05-29 21:14:23.215: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Elysian spirit shield [13742, 1]
+Other Item[0]: Divine spirit shield [13740, 1]
+Other Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-29 21:19:04.614: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Santa hat [1050, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+Other Item[0]: Draconic abyssal whip [3064, 1]
+
+
+
+2015-05-29 21:21:19.617: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+My Item[1]: Divine spirit shield [13740, 1]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-29 21:22:26.815: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 1000000000]
+Other Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-29 21:22:44.815: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 1000000000]
+Other Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-31 08:29:09.260: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Blessed spirit shield [13736, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+My Item[3]: Arcane stream necklace [18335, 1]
+My Item[4]: Morrigan's leather body [13870, 1]
+My Item[5]: Morrigan's leather chaps [13873, 1]
+My Item[6]: Morrigan's coif [13876, 1]
+My Item[7]: Glaiven boots [21790, 1]
+My Item[8]: Ragefire boots [21793, 1]
+My Item[9]: Abyssal whip [4151, 1]
+My Item[10]: Staff of light [15486, 1]
+My Item[11]: Amulet of fury (or) [19335, 1]
+My Item[12]: Dragon hatchet [6739, 1]
+My Item[13]: Full slayer helmet [15492, 1]
+My Item[14]: Statius's warhammer [13902, 1]
+My Item[15]: Amulet of fury [6585, 1]
+My Item[16]: Morrigan's leather body [13870, 1]
+My Item[17]: Statius's full helm [13896, 1]
+My Item[18]: Red robin hood hat [20949, 1]
+My Item[19]: Armadyl helmet [11718, 1]
+My Item[20]: Chaotic longsword [18351, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:31:47.062: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Blessed spirit shield [13736, 1]
+My Item[1]: Morrigan's coif [13876, 1]
+My Item[2]: Morrigan's leather chaps [13873, 1]
+My Item[3]: Morrigan's leather body [13870, 1]
+My Item[4]: Armadyl godsword [11694, 1]
+My Item[5]: Arcane stream necklace [18335, 1]
+My Item[6]: Dragonfire shield [11283, 1]
+My Item[7]: Bandos boots [11728, 1]
+My Item[8]: Chaotic kiteshield [18359, 1]
+My Item[9]: Novite plateskirt [16647, 1]
+My Item[10]: Ring of stone [6583, 1]
+My Item[11]: Novite boots [16339, 1]
+My Item[12]: Novite full helm [16691, 1]
+My Item[13]: Eagle-eye kiteshield [18361, 1]
+My Item[14]: Archers' ring [6733, 1]
+My Item[15]: Dragon boots [11732, 1]
+My Item[16]: Novite plateskirt [16647, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:32:14.659: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Novite plateskirt [16647, 1]
+My Item[1]: Novite boots [16339, 1]
+My Item[2]: Novite full helm [16691, 1]
+My Item[3]: Novite plateskirt [16647, 1]
+My Item[4]: Blessed spirit shield [13736, 1]
+My Item[5]: Morrigan's coif [13876, 1]
+My Item[6]: Morrigan's leather chaps [13873, 1]
+My Item[7]: Morrigan's leather body [13870, 1]
+My Item[8]: Armadyl godsword [11694, 1]
+My Item[9]: Arcane stream necklace [18335, 1]
+My Item[10]: Dragonfire shield [11283, 1]
+My Item[11]: Ring of stone [6583, 1]
+My Item[12]: Archers' ring [6733, 1]
+My Item[13]: Eagle-eye kiteshield [18361, 1]
+My Item[14]: Chaotic kiteshield [18359, 1]
+My Item[15]: Bandos boots [11728, 1]
+My Item[16]: Dragon boots [11732, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:32:44.059: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+My Item[1]: Novite full helm [16691, 1]
+My Item[2]: Novite plateskirt [16647, 1]
+My Item[3]: Novite plateskirt [16647, 1]
+My Item[4]: Novite boots [16339, 1]
+My Item[5]: Blessed spirit shield [13736, 1]
+My Item[6]: Morrigan's coif [13876, 1]
+My Item[7]: Arcane stream necklace [18335, 1]
+My Item[8]: Armadyl godsword [11694, 1]
+My Item[9]: Morrigan's leather body [13870, 1]
+My Item[10]: Morrigan's leather chaps [13873, 1]
+My Item[11]: Dragonfire shield [11283, 1]
+My Item[12]: Chaotic kiteshield [18359, 1]
+My Item[13]: Bandos boots [11728, 1]
+My Item[14]: Ring of stone [6583, 1]
+My Item[15]: Archers' ring [6733, 1]
+My Item[16]: Dragon boots [11732, 1]
+My Item[17]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 08:33:22.510: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+My Item[1]: Store credits (9.500 credits) [13254, 1]
+My Item[2]: Chaotic maul [18353, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+Other Item[3]: Dragon claws [14484, 1]
+Other Item[4]: Armadyl godsword [11694, 1]
+Other Item[5]: Staff of light [15486, 1]
+
+
+
+2015-05-31 08:36:32.063: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Black ibis legs [21533, 1]
+My Item[2]: Black ibis body [21532, 1]
+My Item[3]: Black ibis mask [21534, 1]
+My Item[4]: Briefcase [12335, 1]
+My Item[5]: Gilded full helm [3486, 1]
+My Item[6]: Gilded full helm [3486, 1]
+My Item[7]: Vote Ticket [13256, 1]
+My Item[8]: Ring of stone [6583, 1]
+My Item[9]: Zamorakian spear [11716, 1]
+My Item[10]: Zamorakian spear [11716, 1]
+My Item[11]: Corrupt statius's full helm [13920, 1]
+My Item[12]: Armadyl helmet [11718, 1]
+My Item[13]: Armadyl helmet [11718, 1]
+My Item[14]: Armadyl chainskirt [11722, 1]
+My Item[15]: Armadyl helmet [11718, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-31 08:37:21.262: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Black ibis body [21532, 1]
+My Item[1]: Vote Ticket [13256, 1]
+My Item[2]: Ring of stone [6583, 1]
+My Item[3]: Armadyl helmet [11718, 1]
+My Item[4]: Armadyl chainskirt [11722, 1]
+My Item[5]: Black ibis mask [21534, 1]
+My Item[6]: Black ibis legs [21533, 1]
+My Item[7]: Gilded full helm [3486, 1]
+My Item[8]: Vote Ticket [13256, 1]
+My Item[9]: Briefcase [12335, 1]
+My Item[10]: Gilded full helm [3486, 1]
+My Item[11]: Zamorakian spear [11716, 1]
+My Item[12]: Zamorakian spear [11716, 1]
+My Item[13]: Corrupt statius's full helm [13920, 1]
+My Item[14]: Armadyl helmet [11718, 1]
+My Item[15]: Armadyl helmet [11718, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 08:37:44.664: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl helmet [11718, 1]
+My Item[1]: Zamorakian spear [11716, 1]
+My Item[2]: Zamorakian spear [11716, 1]
+My Item[3]: Vote Ticket [13256, 1]
+My Item[4]: Gilded full helm [3486, 1]
+My Item[5]: Armadyl helmet [11718, 1]
+My Item[6]: Armadyl chainskirt [11722, 1]
+My Item[7]: Black ibis body [21532, 1]
+My Item[8]: Vote Ticket [13256, 1]
+My Item[9]: Black ibis mask [21534, 1]
+My Item[10]: Briefcase [12335, 1]
+My Item[11]: Corrupt statius's full helm [13920, 1]
+My Item[12]: Armadyl helmet [11718, 1]
+My Item[13]: Gilded full helm [3486, 1]
+My Item[14]: Black ibis legs [21533, 1]
+My Item[15]: Ring of stone [6583, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 08:38:09.864: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Chaotic longsword [18351, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Black ibis body [21532, 1]
+My Item[3]: Black ibis mask [21534, 1]
+My Item[4]: Briefcase [12335, 1]
+My Item[5]: Black ibis legs [21533, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:38:46.464: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Armadyl chainskirt [11722, 1]
+My Item[1]: Black ibis body [21532, 1]
+My Item[2]: Black ibis mask [21534, 1]
+My Item[3]: Briefcase [12335, 1]
+My Item[4]: Chaotic longsword [18351, 1]
+My Item[5]: Chaotic maul [18353, 1]
+My Item[6]: Black ibis legs [21533, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:39:11.065: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Black ibis mask [21534, 1]
+My Item[1]: Black ibis legs [21533, 1]
+My Item[2]: Black ibis body [21532, 1]
+My Item[3]: Briefcase [12335, 1]
+My Item[4]: Chaotic maul [18353, 1]
+My Item[5]: Chaotic longsword [18351, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:39:43.464: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic longsword [18351, 1]
+My Item[3]: Black ibis legs [21533, 1]
+My Item[4]: Black ibis mask [21534, 1]
+My Item[5]: Black ibis body [21532, 1]
+My Item[6]: Briefcase [12335, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-05-31 08:41:36.864: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Chaotic longsword [18351, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Black ibis legs [21533, 1]
+My Item[3]: Black ibis mask [21534, 1]
+My Item[4]: Black ibis body [21532, 1]
+My Item[5]: Briefcase [12335, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-31 08:43:07.463: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Gilded kiteshield [3488, 1]
+My Item[1]: Gilded full helm [3486, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+My Item[3]: Armadyl helmet [11718, 1]
+My Item[4]: Gilded full helm [3486, 1]
+My Item[5]: Armadyl chainskirt [11722, 1]
+My Item[6]: Zamorakian spear [11716, 1]
+My Item[7]: Zamorakian spear [11716, 1]
+My Item[8]: Corrupt statius's full helm [13920, 1]
+My Item[9]: Ring of stone [6583, 1]
+My Item[10]: Vote Ticket [13256, 1]
+My Item[11]: Armadyl helmet [11718, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-06-04 14:23:40.039: [[Asian Sweat, butterman; 2.30.179.209, 1C-65-9D-91-F6-93]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+

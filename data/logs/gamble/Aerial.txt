@@ -1,0 +1,239 @@
+2015-04-16 23:46:05.601: [Untouchedtea]:
+
+
+
+2015-04-16 23:49:23.585: [Untouchedtea]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-16 23:50:27.801: [Untouchedtea]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 23:52:29.601: [Untouchedtea]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-16 23:58:35.000: [Untouchedtea]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-17 00:04:54.232: [Untouchedtea]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-17 00:08:43.994: [St3alth Skil]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-17 00:10:04.401: [Simberj]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-17 00:12:05.000: [Dave]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-17 00:13:44.600: [Untouchedtea]:
+Item[0]: Dragon bones [537, 6]
+
+
+
+2015-04-17 00:18:42.231: [Dave]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-17 00:23:45.800: [Darkdestroyr]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-17 00:24:52.417: [Darkdestroyr]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-20 05:03:07.254: [Simberj]:
+
+
+
+2015-04-20 05:03:46.275: [Simberj]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-20 05:24:51.055: [Simberj]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-20 05:25:35.485: [Simberj]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-20 05:27:03.649: [Simberj]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-20 05:28:26.453: [Simberj]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-20 05:29:19.253: [Simberj]:
+Item[0]: Coins [995, 5000000]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-20 05:32:27.058: [Simberj]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-20 05:34:48.660: [Simberj]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-20 07:46:31.769: [Coldott]:
+Item[0]: Coins [995, 2558857]
+Item[1]: Granite maul [4153, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Camo helmet [6656, 1]
+Item[4]: Moonclan hat [9069, 1]
+
+
+
+2015-04-20 07:51:24.577: [Simberj]:
+Item[0]: Coins [995, 1000000]
+Item[1]: Golden feather [2950, 14]
+
+
+
+2015-04-20 08:33:35.993: [Coldott]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Golden mining top [20791, 1]
+Item[2]: Golden mining helmet [20789, 1]
+Item[3]: Granite maul [4153, 1]
+Item[4]: Pyre logs [3439, 73]
+
+
+
+2015-04-20 08:36:55.796: [Mathew]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-20 08:38:10.205: [Mathew]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-20 08:40:44.400: [Mathew]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-21 00:23:48.700: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-21 00:25:24.077: [The J]:
+Item[0]: Coins [995, 374545]
+
+
+
+2015-04-21 00:39:42.095: [The J]:
+
+
+
+2015-04-28 06:59:13.149: [Brazy]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-28 07:00:18.549: [Brazy]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-28 07:14:58.149: [Brazy]:
+Item[0]: Coins [995, 102573225]
+Item[1]: Dragon claws [14484, 1]
+
+
+
+2015-04-28 07:15:50.333: [Brazy]:
+Item[0]: Coins [995, 102573225]
+Item[1]: Dragon claws [14484, 1]
+
+
+
+2015-04-28 07:16:30.548: [Brazy]:
+Item[0]: Coins [995, 262573225]
+Item[1]: Dragon claws [14484, 1]
+
+
+
+2015-04-28 07:17:08.948: [Brazy]:
+Item[0]: Coins [995, 582573225]
+
+
+
+2015-05-01 02:32:32.407: [Simberj]:
+Item[0]: Coins [995, 13525000]
+
+
+
+2015-05-01 02:34:26.386: [Simberj]:
+Item[0]: Coins [995, 21525000]
+Item[1]: Infinity boots [6920, 1]
+
+
+
+2015-05-01 13:33:27.505: [Ziptie]:
+Item[0]: Coins [995, 8266222]
+
+
+
+2015-05-01 13:37:59.315: [Ziptie]:
+Item[0]: Ranger boots [2578, 1]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Staff of light [22212, 1]
+
+
+
+2015-05-01 13:42:28.732: [Ziptie]:
+Item[0]: Big bones [533, 100]
+
+
+
+2015-05-01 16:39:45.662: [Ziptie]:
+Item[0]: Dark bow [15702, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-02 15:18:23.578: [Untouchedtea]:
+
+
+
+2015-05-02 15:22:25.384: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+

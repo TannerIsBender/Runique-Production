@@ -1,0 +1,5 @@
+Item Taken: Manta ray [392, 250 - position=[3082, 3505, 0]] - 2015-03-23 16:16:00.779
+Item Taken: Explorer's ring 1 [13560, 1 - position=[3082, 3505, 0]] - 2015-03-23 16:16:01.974
+Item Taken: Battlefield cape [21406, 1 - position=[3082, 3505, 0]] - 2015-03-23 16:16:03.164
+Item Taken: Bones [526, 1 - position=[2674, 3717, 0]] - 2015-03-24 02:26:55.896
+Item Taken: Bones [526, 1 - position=[2672, 3717, 0]] - 2015-03-24 02:27:35.496

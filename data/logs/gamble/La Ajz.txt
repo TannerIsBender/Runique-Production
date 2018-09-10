@@ -1,0 +1,6 @@
+2015-06-06 14:54:20.123: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+

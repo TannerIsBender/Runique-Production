@@ -1,0 +1,1115 @@
+2015-04-07 09:54:37.423: [Marma]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 09:59:30.829: [Marma]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-07 10:00:42.228: [Marma]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-07 10:01:59.022: [Manz No Ownz]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-07 10:03:20.022: [Marma]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 10:04:23.022: [Marma]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 10:07:05.622: [Marma]:
+Item[0]: Coins [995, 20000030]
+
+
+
+2015-04-07 10:07:56.629: [Marma]:
+Item[0]: Coins [995, 15000030]
+
+
+
+2015-04-07 10:09:05.629: [Marma]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-07 10:10:35.622: [Marma]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-07 10:11:44.629: [Marma]:
+Item[0]: Coins [995, 25000030]
+
+
+
+2015-04-07 10:14:02.624: [Manz No Ownz]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-07 10:15:04.442: [Marma]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-07 10:16:39.229: [Marma]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-08 13:58:30.829: [Zaroxmain]:
+
+
+
+2015-04-08 13:59:39.220: [Zaroxmain]:
+
+
+
+2015-04-08 14:01:28.429: [Zaroxmain]:
+
+
+
+2015-04-08 14:02:33.223: [Zaroxmain]:
+
+
+
+2015-04-08 14:03:47.624: [Zaroxmain]:
+
+
+
+2015-04-08 14:09:35.043: [Zaroxmain]:
+
+
+
+2015-04-08 14:10:48.843: [Zaroxmain]:
+Item[0]: Karil's crossbow [4735, 1]
+
+
+
+2015-04-08 14:12:17.028: [Zaroxmain]:
+Item[0]: Karil's crossbow [4735, 1]
+
+
+
+2015-04-08 14:13:47.029: [Zaroxmain]:
+Item[0]: Karil's crossbow [4735, 2]
+Item[1]: Verac's plateskirt [4759, 1]
+Item[2]: Ahrim's robetop [4712, 1]
+Item[3]: Infinity boots [6920, 1]
+
+
+
+2015-04-08 14:14:45.229: [Zaroxmain]:
+Item[0]: Coins [995, 6000000]
+Item[1]: Karil's crossbow [4735, 2]
+
+
+
+2015-04-08 14:16:01.445: [Zaroxmain]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-08 14:17:43.444: [Zaroxmain]:
+Item[0]: Coins [995, 5000001]
+
+
+
+2015-04-08 19:41:34.629: [Victor]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-08 19:42:56.245: [Victor]:
+Item[0]: Zamorak platelegs [2655, 1]
+Item[1]: Zamorak kiteshield [2659, 1]
+Item[2]: Zamorak platebody [2653, 1]
+Item[3]: Zamorak full helm [2657, 1]
+
+
+
+2015-04-08 19:44:05.244: [Victor]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Zamorak platelegs [2655, 1]
+Item[2]: Zamorak kiteshield [2659, 1]
+Item[3]: Zamorak full helm [2657, 1]
+Item[4]: Zamorak platebody [2653, 1]
+
+
+
+2015-04-08 19:45:30.437: [Homerg]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-08 19:46:48.445: [Cozzab123]:
+Item[0]: Coins [995, 23000000]
+
+
+
+2015-04-08 19:49:38.245: [Cozzab123]:
+Item[0]: Coins [995, 8000000]
+Item[1]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:55:12.429: [Cozzab123]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-08 20:00:32.843: [Homerg]:
+Item[0]: Zamorak platebody [2653, 1]
+Item[1]: Zamorak kiteshield [2659, 1]
+Item[2]: Zamorak full helm [2657, 1]
+Item[3]: Zamorak platelegs [2655, 1]
+
+
+
+2015-04-08 20:02:43.042: [Cozzab123]:
+Item[0]: Zamorak platebody [2653, 1]
+Item[1]: Zamorak platelegs [2655, 1]
+Item[2]: Zamorak kiteshield [2659, 1]
+Item[3]: Zamorak full helm [2657, 1]
+
+
+
+2015-04-08 20:48:08.875: [Homerg]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 20:49:08.876: [Homerg]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-08 20:50:06.475: [Homerg]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 20:51:30.468: [Homerg]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-08 20:52:22.076: [Homerg]:
+Item[0]: Zamorak platebody [2653, 1]
+Item[1]: Zamorak kiteshield [2659, 1]
+Item[2]: Zamorak platelegs [2655, 1]
+Item[3]: Zamorak full helm [2657, 1]
+
+
+
+2015-04-08 20:53:16.076: [Homerg]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Zamorak platebody [2653, 1]
+Item[2]: Zamorak platelegs [2655, 1]
+Item[3]: Zamorak full helm [2657, 1]
+Item[4]: Zamorak kiteshield [2659, 1]
+
+
+
+2015-04-08 20:54:37.069: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+Item[1]: Apprentice wand [6910, 1]
+
+
+
+2015-04-08 20:56:53.868: [Homerg]:
+Item[0]: Verac's plateskirt [4759, 1]
+Item[1]: Ahrim's robetop [4712, 1]
+Item[2]: Guthan's chainskirt [4730, 1]
+Item[3]: Karil's crossbow [4735, 2]
+
+
+
+2015-04-08 20:58:25.668: [Homerg]:
+Item[0]: Coins [995, 4000000]
+Item[1]: Corrupt zuriel's staff [13941, 1]
+Item[2]: Apprentice wand [6910, 1]
+Item[3]: Karil's crossbow [4735, 2]
+Item[4]: Guthan's chainskirt [4730, 1]
+Item[5]: Ahrim's robetop [4712, 1]
+Item[6]: Verac's plateskirt [4759, 1]
+
+
+
+2015-04-08 20:59:34.676: [Homerg]:
+Item[0]: Coins [995, 14000000]
+Item[1]: Corrupt zuriel's staff [13941, 1]
+Item[2]: Apprentice wand [6910, 1]
+
+
+
+2015-04-08 21:00:40.675: [Homerg]:
+Item[0]: Guthan's chainskirt [4730, 1]
+Item[1]: Ahrim's robetop [4712, 1]
+Item[2]: Verac's plateskirt [4759, 1]
+Item[3]: Karil's crossbow [4735, 2]
+Item[4]: Zamorak full helm [2657, 1]
+Item[5]: Zamorak platebody [2653, 1]
+Item[6]: Zamorak kiteshield [2659, 1]
+Item[7]: Zamorak platelegs [2655, 1]
+
+
+
+2015-04-08 21:02:28.676: [Homerg]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Zamorak kiteshield [2659, 1]
+Item[2]: Zamorak platelegs [2655, 1]
+Item[3]: Zamorak full helm [2657, 1]
+Item[4]: Zamorak platebody [2653, 1]
+Item[5]: Corrupt zuriel's staff [13941, 1]
+Item[6]: Apprentice wand [6910, 1]
+Item[7]: Karil's crossbow [4735, 2]
+Item[8]: Ahrim's robetop [4712, 1]
+
+
+
+2015-04-08 21:04:21.482: [Homerg]:
+Item[0]: Guthan's chainskirt [4730, 1]
+Item[1]: Verac's plateskirt [4759, 1]
+Item[2]: Infinity boots [6920, 1]
+
+
+
+2015-04-08 21:10:20.291: [Homerg]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-08 21:11:20.887: [Homerg]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-08 21:12:52.082: [Homerg]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-08 21:16:40.090: [Homerg]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-08 21:40:52.707: [Homerg]:
+Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-04-08 21:48:01.113: [Homerg]:
+Item[0]: Coins [995, 45921046]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Verac's brassard [4757, 1]
+Item[3]: Verac's plateskirt [4759, 1]
+
+
+
+2015-04-08 21:49:07.113: [Homerg]:
+Item[0]: Coins [995, 45921046]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Verac's brassard [4757, 1]
+Item[3]: Verac's plateskirt [4759, 1]
+
+
+
+2015-04-08 21:50:11.307: [Homerg]:
+Item[0]: Coins [995, 60921046]
+
+
+
+2015-04-08 21:51:33.513: [Homerg]:
+Item[0]: Coins [995, 55000000]
+Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-04-08 21:52:53.907: [Homerg]:
+Item[0]: Coins [995, 50921046]
+
+
+
+2015-04-08 21:53:47.907: [Homerg]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-08 21:56:29.914: [Homerg]:
+Item[0]: Coins [995, 25921046]
+
+
+
+2015-04-08 22:00:55.114: [Homerg]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-09 19:29:01.192: [Armadylgs]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-09 19:31:36.598: [Armadylgs]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-04-09 19:32:59.976: [Armadylgs]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-09 19:35:04.783: [Armadylgs]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-09 19:38:14.392: [Armadylgs]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-09 22:39:10.906: [Armadylgs]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Verac's plateskirt [4759, 1]
+Item[2]: Verac's brassard [4757, 1]
+
+
+
+2015-04-09 22:40:27.107: [Armadylgs]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-09 22:41:24.729: [Armadylgs]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-09 22:42:15.129: [Armadylgs]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-10 08:48:07.670: [Ermac]:
+Item[0]: Coins [995, 30943184]
+
+
+
+2015-04-10 09:31:04.689: [Solid]:
+Item[0]: Coins [995, 50943184]
+
+
+
+2015-04-10 09:33:13.097: [Solid]:
+Item[0]: Coins [995, 30943184]
+
+
+
+2015-04-10 09:37:56.898: [Solid]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-10 09:39:08.291: [Solid]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-10 09:40:50.892: [Solid]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-10 09:42:45.491: [Solid]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-10 09:43:32.291: [Solid]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 09:45:10.729: [Solid]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-10 09:46:59.929: [Solid]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 09:47:57.498: [Solid]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 09:49:26.306: [Solid]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 09:50:53.907: [Solid]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-04-10 09:51:56.929: [Solid]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-10 09:52:41.297: [Solid]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 12:02:58.206: [Victor]:
+Item[0]: Coins [995, 20000000]
+Item[1]: Verac's plateskirt [4759, 1]
+Item[2]: Verac's brassard [4757, 1]
+
+
+
+2015-04-10 13:44:28.246: [Noig]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-04-10 13:45:48.675: [Noig]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-10 13:52:49.268: [Chaozios]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-10 13:53:42.660: [Merchendise]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-10 13:55:35.468: [Merchendise]:
+Item[0]: Coins [995, 100000000]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 14:01:04.276: [Merchendise]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-04-10 14:23:22.260: [Nostalgia]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-10 14:55:40.906: [Noig]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-10 16:08:38.544: [Manz No Ownz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-10 16:10:43.344: [Manz No Ownz]:
+Item[0]: Coins [995, 19000000]
+
+
+
+2015-04-10 16:13:28.944: [Manz No Ownz]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-10 16:14:12.142: [Manz No Ownz]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-10 16:15:04.944: [Manz No Ownz]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-10 16:16:04.945: [Manz No Ownz]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-10 16:18:33.145: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:19:20.545: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:22:03.745: [Manz No Ownz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 16:22:50.544: [Manz No Ownz]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 16:24:17.576: [Manz No Ownz]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-10 16:25:09.144: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:26:56.575: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:29:58.976: [Manz No Ownz]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-04-10 16:30:46.947: [Manz No Ownz]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-10 16:31:36.147: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:32:18.747: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:33:33.743: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:34:42.176: [Manz No Ownz]:
+Item[0]: Coins [995, 85000000]
+Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-10 16:37:11.576: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 16:38:46.369: [Manz No Ownz]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-10 16:45:33.776: [Manz No Ownz]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-10 18:31:20.025: [Narosere]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-10 20:40:51.929: [Armadylgs]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 20:42:41.692: [Armadylgs]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 20:43:42.907: [Armadylgs]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-10 20:44:32.720: [Armadylgs]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-10 20:45:32.707: [Armadylgs]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 20:46:09.929: [Armadylgs]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-10 20:47:34.529: [Armadylgs]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-10 20:49:50.707: [Armadylgs]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-04-10 20:50:44.707: [Armadylgs]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-10 22:20:33.376: [Medley]:
+
+
+
+2015-04-10 23:03:41.807: [Senpai]:
+Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-10 23:07:07.607: [Senpai]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-10 23:09:38.207: [Senpai]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-10 23:21:30.382: [Genderfluid]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-10 23:27:41.229: [Senpai]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-10 23:31:59.197: [Senpai]:
+
+
+
+2015-04-10 23:36:29.224: [Try Hardz]:
+Item[0]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-04-10 23:37:24.429: [Try Hardz]:
+Item[0]: Coins [995, 32000000]
+
+
+
+2015-04-10 23:40:00.419: [Senpai]:
+
+
+
+2015-04-10 23:49:54.429: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-10 23:53:12.429: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-10 23:54:15.428: [Try Hardz]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-10 23:55:22.025: [Try Hardz]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-10 23:57:05.829: [Try Hardz]:
+Item[0]: Amulet of fury (or) [19335, 1]
+Item[1]: Coins [995, 10000000]
+
+
+
+2015-04-10 23:58:30.407: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 23:59:41.224: [Try Hardz]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Coins [995, 12000000]
+Item[2]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-11 00:02:22.629: [Try Hardz]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-11 00:03:32.829: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 00:04:58.647: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 00:06:15.428: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 00:07:20.244: [Try Hardz]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-04-11 00:08:24.443: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Coins [995, 10000000]
+
+
+
+2015-04-11 00:10:40.642: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:12:31.644: [Optic]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 00:13:07.643: [Optic]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 00:14:04.043: [Optic]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 00:15:37.043: [Optic]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:16:19.642: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:17:14.244: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-04-11 00:18:08.244: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:19:09.442: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-04-11 00:20:19.044: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:21:20.245: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 35000000]
+
+
+
+2015-04-11 00:22:07.643: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:23:00.443: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:24:09.442: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:25:17.829: [Optic]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:26:16.645: [Try Hardz]:
+Item[0]: Coins [995, 40335700]
+
+
+
+2015-04-11 00:29:48.444: [Try Hardz]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 12:02:41.022: [Noko3456]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-11 12:03:56.023: [Noko3456]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-11 12:06:50.624: [Noko3456]:
+Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-11 12:07:35.028: [Noko3456]:
+Item[0]: Zamorakian spear [11716, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-11 12:09:29.023: [Noko3456]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-11 12:10:16.428: [Noko3456]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-11 12:12:02.623: [Noko3456]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-11 13:31:12.275: [April Fools]:
+
+
+
+2015-04-11 13:46:14.107: [April Fools]:
+
+
+
+2015-04-11 14:53:02.133: [Try Hardz]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 14:55:12.323: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 14:57:58.529: [Try Hardz]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 14:59:18.919: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 15:01:18.921: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:02:14.722: [Try Hardz]:
+Item[0]: Coins [995, 24000000]
+
+
+
+2015-04-11 15:03:35.729: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:05:53.129: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:06:57.345: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:08:08.142: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:09:14.145: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 15:10:17.745: [Try Hardz]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:11:31.545: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 15:13:03.345: [Try Hardz]:
+Item[0]: Coins [995, 59000000]
+
+
+
+2015-04-11 15:14:36.344: [Try Hardz]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:37:03.463: [Papa Mouliq]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-16 14:37:48.463: [Papa Mouliq]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-16 14:38:41.863: [Papa Mouliq]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:39:12.462: [Papa Mouliq]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-16 14:39:44.862: [Papa Mouliq]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:40:26.862: [Papa Mouliq]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:41:13.667: [Papa Mouliq]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:43:13.065: [Papa Mouliq]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-16 14:44:17.266: [Papa Mouliq]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 14:44:59.263: [Papa Mouliq]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Dragon claws [14484, 1]
+
+
+
+2015-04-16 14:47:05.267: [Papa Mouliq]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-16 14:47:55.667: [Papa Mouliq]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-16 14:50:04.666: [Papa Mouliq]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+

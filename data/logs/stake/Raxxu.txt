@@ -1,0 +1,22 @@
+2015-04-16 11:58:36.379: [Papa Mouliq]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt statius's full helm [13920, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Blisterwood polearm [21582, 1]
+Item[5]: Infinity boots [6920, 1]
+Item[6]: Amulet of zealots [19892, 1]
+Item[7]: Amulet of glory (t) [10719, 1]
+Item[8]: Strength amulet (t) [10736, 1]
+Item[9]: Dragon boots [11732, 1]
+Item[10]: Novite boots [16340, 1]
+Item[11]: Spirit cape [19893, 1]
+Item[12]: Dragon claws [14484, 1]
+Item[13]: Berserker ring [6737, 1]
+Item[14]: Amulet of fury [6585, 1]
+Item[15]: Corrupt vesta's longsword [13923, 1]
+Item[16]: Pure essence [7937, 155779]
+Item[17]: Coins [995, 1791554]
+
+
+

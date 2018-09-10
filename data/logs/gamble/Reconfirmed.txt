@@ -1,0 +1,454 @@
+2015-06-04 11:16:57.301: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:17:35.688: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:19:19.501: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:20:20.688: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 11:20:44.701: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 11:21:12.269: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 11:21:52.501: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:23:11.688: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 11:23:50.101: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 18469279]
+Other Item[0]: Coins [995, 18000000]
+
+
+
+2015-06-04 11:30:24.290: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Amulet of fury [6586, 2]
+My Item[1]: Abyssal whip [15442, 1]
+My Item[2]: Dragon boots [11733, 2]
+My Item[3]: Dharok's helm 0 [4885, 1]
+My Item[4]: Dharok's greataxe 0 [4891, 1]
+My Item[5]: Dharok's platebody 0 [4897, 1]
+My Item[6]: Dharok's platelegs 0 [4903, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:31:54.318: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 36000000]
+
+
+
+2015-06-04 11:32:24.292: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 36000000]
+
+
+
+2015-06-04 12:13:56.139: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Coins [995, 15486059]
+My Item[1]: Blue robin hood hat [20951, 1]
+My Item[2]: Abyssal whip [15444, 1]
+My Item[3]: Ranger boots [2577, 1]
+My Item[4]: Seers' ring [6732, 2]
+My Item[5]: Dragon boots [11733, 3]
+Other Item[0]: Dharok's helm [4717, 1]
+Other Item[1]: Dharok's platebody [4721, 1]
+Other Item[2]: Dharok's platelegs [4723, 1]
+Other Item[3]: Dharok's greataxe [4719, 1]
+Other Item[4]: Infinity top [6917, 1]
+Other Item[5]: Hand cannon [15241, 1]
+
+
+
+2015-06-04 12:25:35.141: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 30486059]
+My Item[1]: Dharok's platelegs [4723, 1]
+My Item[2]: Dharok's helm [4717, 1]
+My Item[3]: Dharok's platebody [4721, 1]
+My Item[4]: Dharok's greataxe [4719, 1]
+My Item[5]: Ranger boots [2577, 1]
+My Item[6]: Blue robin hood hat [20951, 1]
+My Item[7]: Hand cannon [15241, 1]
+My Item[8]: Dragon boots [11733, 3]
+Other Item[0]: Steadfast boots [21788, 2]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-06-04 12:36:05.770: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Seers' ring [6732, 2]
+Other Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-06-04 12:36:29.169: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Seers' ring [6732, 2]
+Other Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-06-04 12:36:57.951: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Seers' ring [6732, 2]
+Other Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-06-04 12:55:31.570: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Santa hat [1050, 1]
+My Item[1]: Divine spirit shield [13740, 1]
+My Item[2]: Santa hat [1050, 1]
+Other Item[0]: Yellow partyhat [1040, 1]
+Other Item[1]: Torva platelegs [22319, 1]
+
+
+
+2015-06-04 13:11:06.364: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Torva platelegs [22319, 1]
+Other Item[0]: Torva platebody [20139, 1]
+
+
+
+2015-06-04 13:42:29.223: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Santa hat [1050, 1]
+Other Item[0]: Pernix body [20151, 1]
+Other Item[1]: Pernix chaps [20155, 1]
+Other Item[2]: Elysian spirit shield [13742, 1]
+
+
+
+2015-06-04 13:48:04.601: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Santa hat [1050, 1]
+My Item[1]: Pernix body [20151, 1]
+My Item[2]: Pernix chaps [20155, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Staff of the dead [11791, 1]
+Other Item[2]: Statius's full helm [13896, 1]
+Other Item[3]: Vesta's plateskirt [13893, 1]
+Other Item[4]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 14:11:35.823: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Santa hat [1050, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+Other Item[2]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 14:12:26.240: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Santa hat [1050, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+Other Item[2]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 14:13:08.840: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Santa hat [1050, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+Other Item[2]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-04 14:59:56.866: [[Tiro, miris46; 74.102.221.35, 5C-F9-38-AA-03-14]]:
+
+
+
+2015-06-04 16:48:05.369: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Santa hat [1050, 1]
+Other Item[0]: Santa hat [1050, 1]
+
+
+
+2015-06-04 17:00:30.569: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Armadyl crossbow [11785, 1]
+My Item[1]: Arcane spirit shield [13738, 1]
+My Item[2]: Spectral spirit shield [13744, 1]
+My Item[3]: Armadyl godsword [11695, 1]
+Other Item[0]: Elysian spirit shield [13742, 1]
+Other Item[1]: Divine spirit shield [13740, 1]
+Other Item[2]: Divine spirit shield [13740, 1]
+Other Item[3]: Elysian spirit shield [13742, 1]
+Other Item[5]: Armadyl godsword [11695, 1]
+
+
+
+2015-06-04 17:03:38.369: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Third-age full helmet [10350, 1]
+My Item[1]: Third-age platebody [10348, 1]
+My Item[2]: Third-age platelegs [10346, 1]
+My Item[3]: Third-age kiteshield [10352, 1]
+Other Item[0]: Pernix body [20151, 1]
+Other Item[1]: Pernix chaps [20155, 1]
+Other Item[2]: Armadyl crossbow [11785, 1]
+Other Item[3]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-04 17:04:42.566: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+My Item[1]: Store credits (9.500 credits) [13254, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+My Item[3]: Vesta's plateskirt [13893, 1]
+My Item[4]: Statius's full helm [13896, 1]
+Other Item[0]: Arcane spirit shield [13738, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+Other Item[2]: Elysian spirit shield [13742, 1]
+Other Item[3]: Virtus robe top [20163, 1]
+Other Item[4]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-04 17:05:44.969: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+My Item[1]: Arcane spirit shield [13738, 1]
+My Item[2]: Elysian spirit shield [13742, 1]
+My Item[3]: Divine spirit shield [13740, 1]
+My Item[4]: Virtus robe top [20163, 1]
+Other Item[0]: Pernix body [20151, 1]
+Other Item[1]: Pernix chaps [20155, 1]
+Other Item[2]: Elysian spirit shield [13742, 1]
+
+
+
+2015-06-04 17:09:14.965: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Basket of eggs [4565, 1]
+My Item[1]: Coins [995, 331000000]
+Other Item[0]: Third-age full helmet [10350, 1]
+Other Item[1]: Third-age kiteshield [10352, 1]
+Other Item[2]: Third-age platelegs [10346, 1]
+Other Item[3]: Third-age platebody [10348, 1]
+
+
+
+2015-06-04 17:13:10.169: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Yellow partyhat [1040, 1]
+Other Item[0]: Basket of eggs [4565, 1]
+Other Item[1]: Elysian spirit shield [13742, 1]
+Other Item[2]: Divine spirit shield [13740, 1]
+Other Item[3]: Divine spirit shield [13740, 1]
+Other Item[4]: Elysian spirit shield [13742, 1]
+Other Item[5]: Arcane spirit shield [13738, 1]
+Other Item[6]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 17:16:51.569: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Third-age platebody [10348, 1]
+My Item[1]: Third-age kiteshield [10352, 1]
+My Item[2]: Third-age platelegs [10346, 1]
+My Item[3]: Third-age full helmet [10350, 1]
+Other Item[0]: Pernix body [20151, 1]
+Other Item[1]: Pernix chaps [20155, 1]
+Other Item[2]: Armadyl crossbow [11785, 1]
+Other Item[3]: Statius's full helm [13896, 1]
+Other Item[4]: Vesta's plateskirt [13893, 1]
+Other Item[5]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 17:21:51.570: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Yellow partyhat [1040, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-06-04 17:26:19.769: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Pernix body [20151, 1]
+My Item[1]: Pernix chaps [20155, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Virtus robe top [20163, 1]
+My Item[4]: Elysian spirit shield [13742, 1]
+My Item[5]: Spectral spirit shield [13744, 1]
+My Item[6]: Arcane spirit shield [13738, 1]
+My Item[7]: Vesta's plateskirt [13893, 1]
+My Item[8]: Vesta's chainbody [13887, 1]
+My Item[9]: Statius's full helm [13896, 1]
+My Item[10]: Virtus robe top [20163, 1]
+My Item[11]: Chaotic rapier [18349, 1]
+My Item[12]: Coins [995, 450000000]
+Other Item[0]: Third-age full helmet [10350, 1]
+Other Item[1]: Third-age platebody [10348, 1]
+Other Item[2]: Third-age kiteshield [10352, 1]
+Other Item[3]: Third-age platelegs [10346, 1]
+Other Item[4]: Divine spirit shield [13740, 1]
+Other Item[5]: Elysian spirit shield [13742, 1]
+Other Item[6]: Armadyl crossbow [11785, 1]
+Other Item[7]: Divine spirit shield [13740, 1]
+Other Item[8]: Armadyl godsword [11695, 1]
+
+
+
+2015-06-04 17:35:40.793: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Torva platebody [20139, 1]
+My Item[1]: Torva platelegs [22319, 1]
+My Item[2]: Vote Ticket [13256, 1]
+My Item[3]: Elysian spirit shield [13742, 1]
+My Item[4]: Elysian spirit shield [13742, 1]
+My Item[5]: Arcane spirit shield [13738, 1]
+My Item[6]: Spectral spirit shield [13744, 1]
+My Item[7]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Basket of eggs [4565, 1]
+Other Item[1]: Chaotic rapier [18349, 1]
+Other Item[2]: Divine spirit shield [13740, 1]
+Other Item[3]: Divine spirit shield [13740, 1]
+Other Item[4]: Armadyl godsword [11695, 3]
+
+
+
+2015-06-04 17:37:00.001: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Statius's full helm [13896, 1]
+My Item[3]: Steadfast boots [21787, 1]
+My Item[4]: Vesta's chainbody [13887, 1]
+Other Item[0]: Torva platebody [20139, 1]
+
+
+
+2015-06-04 17:38:05.401: [[Equinox, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Statius's full helm [13896, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+My Item[3]: Torva platebody [20139, 1]
+My Item[4]: Full slayer helmet [15492, 1]
+My Item[5]: Dragonfire shield [11283, 1]
+Other Item[0]: Torva platelegs [22319, 1]
+
+
+
+2015-06-06 01:59:33.923: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Corrupt vesta's longsword [13923, 1]
+My Item[1]: Berserker ring [6737, 1]
+Other Item[0]: Dragon boots [11733, 4]
+Other Item[1]: Coins [995, 50000000]
+
+
+
+2015-06-06 02:01:17.117: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Berserker ring [6737, 1]
+My Item[1]: Corrupt vesta's longsword [13923, 1]
+My Item[2]: Dragon boots [11733, 4]
+My Item[3]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 140000000]
+
+
+
+2015-06-06 02:01:50.723: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Berserker ring [6737, 1]
+My Item[1]: Corrupt vesta's longsword [13923, 1]
+My Item[2]: Dragon boots [11733, 4]
+My Item[3]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 140000000]
+
+
+
+2015-06-06 02:02:26.119: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 190000000]
+My Item[1]: Berserker ring [6737, 1]
+My Item[2]: Corrupt vesta's longsword [13923, 1]
+My Item[3]: Dragon boots [11733, 4]
+Other Item[0]: Coins [995, 280000000]
+
+
+
+2015-06-06 02:02:54.923: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 190000000]
+My Item[1]: Corrupt vesta's longsword [13923, 1]
+My Item[2]: Berserker ring [6737, 1]
+My Item[3]: Dragon boots [11733, 4]
+Other Item[0]: Coins [995, 280000000]
+
+
+
+2015-06-06 02:04:32.723: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Corrupt vesta's longsword [13923, 1]
+My Item[2]: Berserker ring [6737, 1]
+My Item[3]: Dragon boots [11733, 4]
+Other Item[0]: Coins [995, 95000000]
+
+
+
+2015-06-06 02:06:10.523: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Zamorak halo [18746, 1]
+My Item[1]: Dragon square shield (or) [19340, 1]
+My Item[2]: Zamorak halo [18746, 1]
+Other Item[0]: Guthix halo [18744, 1]
+Other Item[1]: Zamorak halo [18746, 1]
+Other Item[2]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:06:36.322: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Zamorak halo [18746, 1]
+My Item[1]: Dragon square shield (or) [19340, 1]
+My Item[2]: Zamorak halo [18746, 1]
+Other Item[0]: Guthix halo [18744, 1]
+Other Item[1]: Zamorak halo [18746, 1]
+Other Item[2]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:08:50.719: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Saradomin halo [18745, 1]
+My Item[1]: Saradomin halo [18745, 1]
+My Item[2]: Zamorak halo [18746, 1]
+My Item[3]: Zamorak halo [18746, 1]
+My Item[4]: Zamorak halo [18746, 1]
+My Item[5]: Zamorak halo [18746, 1]
+My Item[6]: Guthix halo [18744, 1]
+My Item[7]: Dragon square shield (or) [19340, 1]
+My Item[8]: Coins [995, 55000000]
+Other Item[0]: Coins [995, 240000000]
+
+
+
+2015-06-06 02:09:47.120: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 295000000]
+My Item[1]: Zamorak halo [18746, 1]
+My Item[2]: Zamorak halo [18746, 1]
+My Item[3]: Zamorak halo [18746, 1]
+My Item[4]: Zamorak halo [18746, 1]
+My Item[5]: Saradomin halo [18745, 1]
+My Item[6]: Saradomin halo [18745, 1]
+My Item[7]: Guthix halo [18744, 1]
+My Item[8]: Dragon square shield (or) [19340, 1]
+Other Item[0]: Coins [995, 495000000]
+
+
+

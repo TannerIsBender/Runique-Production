@@ -1,0 +1,42 @@
+2015-06-06 10:13:05.523: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 10:13:33.123: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 10:21:51.122: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-06 10:22:14.519: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 60000003]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-06 10:22:34.323: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 60000003]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-06 10:23:44.520: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-06-06 10:24:27.719: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 50000001]
+Other Item[0]: Coins [995, 50000000]
+
+
+

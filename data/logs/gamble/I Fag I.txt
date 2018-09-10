@@ -1,0 +1,160 @@
+2015-04-26 09:04:25.049: [Strawhat]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-26 09:08:52.649: [Strawhat]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-26 10:42:33.516: [Kabooyah]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-26 10:57:43.733: [Coldott]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-26 10:58:13.133: [Coldott]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-26 11:03:28.125: [Shcherbakova]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-26 11:05:50.933: [Brazy]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-26 11:07:06.527: [Brazy]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-27 11:32:43.024: [Shcherbakova]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 11:34:13.623: [Shcherbakova]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 11:34:13.624: [Shcherbakova]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 11:36:28.033: [Aurora]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:37:12.434: [Aurora]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:37:33.425: [Aurora]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:41:31.649: [Mercy]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-27 11:42:10.649: [Mercy]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-27 11:42:37.045: [Mercy]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-27 11:44:55.647: [Shcherbakova]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:45:24.449: [Shcherbakova]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:46:20.833: [Noli Ftw]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-27 11:47:26.833: [Noli Ftw]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:48:29.234: [Noli Ftw]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 11:49:34.634: [Noli Ftw]:
+Item[0]: Coins [995, 28000000]
+Item[1]: Third-age amulet [10344, 1]
+
+
+
+2015-04-27 11:50:05.248: [Noli Ftw]:
+Item[0]: Coins [995, 28000000]
+Item[1]: Third-age amulet [10344, 1]
+
+
+
+2015-04-27 11:50:34.648: [Noli Ftw]:
+Item[0]: Coins [995, 28000000]
+Item[1]: Third-age amulet [10344, 1]
+
+
+
+2015-04-28 15:51:14.064: [Aurora]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Bandos godsword [11696, 1]
+
+
+
+2015-04-28 15:52:20.067: [Aurora]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-28 15:54:01.467: [Aurora]:
+Item[2]: Coins [995, 1741567]
+
+
+
+2015-04-28 15:59:45.271: [Kabooyah]:
+Item[0]: Flameburst defender [17274, 1]
+Item[1]: Amulet of ranging [15127, 2]
+Item[2]: Rocktail [15273, 485]
+Item[3]: Karil's top [4737, 2]
+Item[4]: Karil's crossbow [4735, 1]
+Item[5]: New crystal bow [4213, 1]
+Item[6]: Berserker ring [6738, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+
+
+

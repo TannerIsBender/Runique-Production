@@ -1,0 +1,30 @@
+2015-05-17 13:57:58.090: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Coins [995, 1]
+
+
+
+2015-05-18 09:57:43.348: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-05-18 10:01:27.148: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 10:09:01.379: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-18 10:10:19.380: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+

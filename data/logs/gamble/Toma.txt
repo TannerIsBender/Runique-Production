@@ -1,0 +1,688 @@
+2015-05-03 14:07:24.440: [Troy]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 14:08:21.448: [Troy]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 14:12:52.662: [Davetherave]:
+Item[0]: Coins [995, 140000000]
+
+
+
+2015-05-03 14:13:30.435: [Davetherave]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 14:15:58.036: [Davetherave]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 14:16:59.237: [Davetherave]:
+Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-03 14:22:14.261: [Coldott]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 14:28:10.646: [Cl0ud 9]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-03 14:29:13.668: [Cl0ud 9]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 14:32:46.652: [Davetherave]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 14:33:56.883: [Davetherave]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 14:48:42.499: [Davetherave]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 14:55:00.483: [Bad Pker]:
+Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-03 14:55:50.877: [Bad Pker]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-03 14:56:34.084: [Bad Pker]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-03 15:03:23.894: [Ch33sek1ng]:
+Item[0]: Dragon chainbody [3141, 1]
+Item[1]: Dragon boots [11733, 3]
+
+
+
+2015-05-03 15:08:32.891: [Failfish]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-03 15:11:39.481: [Failfish]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-03 15:15:28.086: [Saber570]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 15:16:41.284: [Saber570]:
+Item[0]: Coins [995, 140000000]
+
+
+
+2015-05-03 15:21:43.100: [Saber570]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-03 15:30:50.915: [Melee Cyrus]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 16:15:31.764: [Melee Cyrus]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-03 16:20:00.562: [Melee Cyrus]:
+Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-03 16:30:29.968: [Melee Cyrus]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 17:08:58.188: [Davetherave]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Coins [995, 40000000]
+
+
+
+2015-05-04 01:50:12.083: [Darkdestroyr]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-05-04 01:51:26.491: [Darkdestroyr]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-04 01:51:56.485: [Darkdestroyr]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-04 01:52:51.091: [Darkdestroyr]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-04 01:55:52.891: [Darkdestroyr]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-04 02:11:57.115: [Goog]:
+Item[0]: Coins [995, 11000000]
+
+
+
+2015-05-04 02:12:45.713: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-04 07:59:13.000: [Elite Pvm]:
+Item[0]: Armadyl godsword [11695, 4]
+
+
+
+2015-05-04 08:00:26.200: [Elite Pvm]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-04 08:00:56.789: [Elite Pvm]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-04 08:01:23.200: [Elite Pvm]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-04 08:02:33.400: [Elite Pvm]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-05-04 08:05:50.800: [Elite Pvm]:
+Item[0]: Armadyl crossbow [11786, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-04 08:06:28.599: [Elite Pvm]:
+Item[0]: Armadyl crossbow [11786, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-04 08:07:44.222: [Elite Pvm]:
+Item[0]: Armadyl crossbow [11786, 2]
+Item[1]: Divine spirit shield [13741, 1]
+Item[2]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-04 08:09:58.000: [Elite Pvm]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-04 08:11:49.000: [Elite Pvm]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Armadyl godsword [11695, 1]
+Item[2]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-04 08:12:13.000: [Elite Pvm]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Armadyl godsword [11695, 1]
+Item[2]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-04 08:12:39.422: [Elite Pvm]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Armadyl godsword [11695, 1]
+Item[2]: Armadyl hilt [11703, 1]
+
+
+
+2015-05-04 09:02:08.239: [Homer]:
+Item[0]: Armadyl chestplate [11721, 2]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-05-04 09:04:29.237: [Homer]:
+Item[0]: Zuriel's robe bottom [13862, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Amulet of fury [6586, 2]
+
+
+
+2015-05-04 09:07:38.238: [Bamf Katie]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-05-04 09:10:19.038: [Bamf Katie]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+
+
+
+2015-05-04 09:12:50.869: [Homer]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-04 09:14:41.238: [Homer]:
+Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-04 09:17:48.463: [Homer]:
+Item[0]: Coins [995, 146000000]
+
+
+
+2015-05-04 09:17:49.641: [Homer]:
+Item[0]: Coins [995, 146000000]
+
+
+
+2015-05-04 09:21:19.063: [Elite Pvm]:
+Item[0]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 09:21:40.068: [Elite Pvm]:
+Item[0]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 09:22:05.863: [Elite Pvm]:
+Item[0]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 09:24:49.669: [Bamf Katie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-04 09:27:28.661: [Bamf Katie]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-04 09:27:53.869: [Bamf Katie]:
+Item[0]: Vesta's plateskirt [13894, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+
+
+
+2015-05-04 09:28:22.062: [Bamf Katie]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-04 09:31:31.669: [Bamf Katie]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-04 09:31:56.869: [Bamf Katie]:
+Item[0]: Vesta's plateskirt [13894, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+
+
+
+2015-05-04 09:32:34.062: [Bamf Katie]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-04 09:33:04.068: [Bamf Katie]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+
+
+
+2015-05-04 09:39:55.064: [Elite Pvm]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 09:53:08.890: [Porno Swag]:
+Item[0]: Coins [995, 518000000]
+
+
+
+2015-05-04 09:53:38.275: [Porno Swag]:
+Item[0]: Coins [995, 518000000]
+
+
+
+2015-05-04 09:54:30.500: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-04 09:55:27.475: [Porno Swag]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-04 10:16:17.921: [Elite Pvm]:
+Item[0]: Coins [995, 475000000]
+
+
+
+2015-05-04 11:42:55.317: [Brazy]:
+Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-04 11:44:24.553: [Brazy]:
+Item[0]: Armadyl godsword [11695, 10]
+Item[1]: Coins [995, 460000000]
+
+
+
+2015-05-04 13:20:57.038: [Failfish]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 13:31:36.069: [Xcristina]:
+Item[0]: Armadyl chainskirt [11723, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-04 13:32:21.069: [Xcristina]:
+Item[0]: Armadyl chainskirt [11723, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl helmet [11719, 1]
+
+
+
+2015-05-04 13:32:47.462: [Xcristina]:
+Item[0]: Armadyl chainskirt [11723, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl helmet [11719, 1]
+
+
+
+2015-05-04 13:33:11.469: [Xcristina]:
+Item[0]: Armadyl chainskirt [11723, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl helmet [11719, 1]
+
+
+
+2015-05-04 13:33:39.068: [Xcristina]:
+Item[0]: Armadyl chainskirt [11723, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl helmet [11719, 1]
+
+
+
+2015-05-04 13:34:45.062: [Xcristina]:
+Item[0]: Armadyl chainskirt [11723, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-04 13:36:16.862: [Xcristina]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-04 13:41:54.663: [Darkdestroyr]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Coins [995, 9000000]
+
+
+
+2015-05-04 13:42:45.664: [Darkdestroyr]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-04 13:43:37.868: [Darkdestroyr]:
+Item[0]: Armadyl chestplate [11721, 2]
+
+
+
+2015-05-04 13:44:42.669: [Darkdestroyr]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Coins [995, 17000000]
+
+
+
+2015-05-04 13:45:40.863: [Darkdestroyr]:
+Item[0]: Armadyl chestplate [11721, 3]
+
+
+
+2015-05-04 14:20:22.275: [Xcristina]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-04 14:22:27.090: [Gibby]:
+Item[0]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-04 14:28:34.322: [Rdando]:
+Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-04 14:29:03.100: [Rdando]:
+Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-04 14:37:53.500: [Rdando]:
+Item[1]: Coins [995, 150000000]
+
+
+
+2015-05-04 14:41:22.291: [Jordanstr]:
+Item[0]: Coins [995, 700000000]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-04 14:41:52.917: [Jordanstr]:
+Item[0]: Coins [995, 700000000]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-04 14:44:51.122: [Jordanstr]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Coins [995, 180000000]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Dragonfire shield [11283, 1]
+Item[6]: Dragonfire shield [11283, 1]
+Item[7]: Korasi's sword [19780, 1]
+Item[8]: Korasi's sword [19780, 1]
+
+
+
+2015-05-04 14:48:48.722: [Rdando]:
+Item[0]: Yellow partyhat [1040, 1]
+Item[1]: Elysian spirit shield [13743, 1]
+
+
+
+2015-05-04 14:59:31.938: [Rdando]:
+Item[0]: Armadyl crossbow [11786, 1]
+Item[1]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 15:00:05.525: [Rdando]:
+Item[0]: Armadyl crossbow [11786, 1]
+Item[1]: Armadyl godsword [11695, 3]
+
+
+
+2015-05-04 15:05:32.520: [Iron Gangsta]:
+Item[0]: Armadyl godsword [11695, 11]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Zuriel's staff [13867, 1]
+Item[3]: Korasi's sword [19780, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Korasi's sword [19780, 1]
+Item[6]: Saradomin godsword [11699, 1]
+
+
+
+2015-05-04 15:13:36.720: [Rdando]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-05 08:18:09.538: [Mercy]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-05 08:18:44.317: [Mercy]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-05 08:22:32.938: [Elite Pvm]:
+Item[0]: Coins [995, 500000000]
+Item[1]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 08:23:01.737: [Elite Pvm]:
+Item[0]: Coins [995, 500000000]
+Item[1]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 08:23:43.737: [Elite Pvm]:
+Item[0]: Coins [995, 500000000]
+Item[1]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 08:24:30.538: [Elite Pvm]:
+Item[0]: Yellow partyhat [1041, 2]
+Item[1]: Coins [995, 500000000]
+
+
+
+2015-05-05 08:26:10.753: [Elite Pvm]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-05 08:26:48.538: [Elite Pvm]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-05 08:27:59.937: [Elite Pvm]:
+Item[0]: Arcane spirit shield [13739, 1]
+Item[1]: Spectral spirit shield [13745, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-05 08:28:28.739: [Elite Pvm]:
+Item[0]: Arcane spirit shield [13739, 1]
+Item[1]: Spectral spirit shield [13745, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-05 08:30:46.137: [Bamf Katie]:
+Item[1]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 08:33:07.736: [Bamf Katie]:
+Item[0]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 08:33:50.930: [Melee Cyrus]:
+Item[0]: Yellow partyhat [1041, 1]
+
+
+
+2015-05-05 08:35:03.538: [Melee Cyrus]:
+Item[0]: Yellow partyhat [1041, 1]
+Item[1]: Red partyhat [1038, 1]
+
+
+
+2015-05-05 08:37:40.138: [Melee Cyrus]:
+Item[0]: White partyhat [1048, 1]
+Item[1]: Coins [995, 2147000000]
+
+
+
+2015-05-05 08:38:05.934: [Melee Cyrus]:
+Item[0]: Coins [995, 1500000000]
+Item[1]: White partyhat [1048, 1]
+
+
+
+2015-05-06 12:48:45.453: [Coldott]:
+Item[0]: Rubber chicken [4566, 1]
+
+
+
+2015-05-06 12:51:20.858: [Coldott]:
+Item[0]: Rubber chicken [4566, 1]
+
+
+
+2015-05-06 12:56:23.862: [Coldott]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-06 13:01:52.061: [Justpropt]:
+Item[0]: Green h'ween mask [1053, 1]
+
+
+
+2015-05-06 13:06:50.873: [Coldott]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-06 13:10:38.276: [Coldott]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-06-05 18:52:04.769: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Sled [4084, 1]
+Other Item[0]: Staff of the dead [11791, 1]
+
+
+

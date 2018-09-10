@@ -1,0 +1,20 @@
+2015-05-25 11:19:48.238: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-05-25 11:21:59.648: [[Gm Shawn, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Farseer kiteshield [18363, 1]
+Other Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-05-25 11:24:20.066: [[Gm Shawn, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Dragon full helm (or) [19336, 1]
+My Item[1]: Dragon platelegs (or) [19338, 1]
+My Item[2]: Dragon square shield (or) [19340, 1]
+Other Item[0]: Coins [995, 25000000]
+
+
+

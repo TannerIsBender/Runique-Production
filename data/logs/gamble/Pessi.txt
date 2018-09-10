@@ -1,0 +1,71 @@
+2015-04-30 18:02:44.583: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Basket of eggs [4565, 1]
+Item[3]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-30 18:04:49.983: [Melee Cyrus]:
+Item[0]: Pernix cowl [20147, 1]
+Item[1]: Chaotic maul [18353, 1]
+Item[2]: Basket of eggs [4565, 1]
+Item[3]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-30 18:07:26.006: [Melee Cyrus]:
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-30 18:11:39.215: [Melee Cyrus]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-30 18:23:06.208: [Melee Cyrus]:
+Item[0]: Coins [995, 500000000]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Elysian spirit shield [13742, 1]
+Item[3]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-30 20:19:18.913: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Sled [4084, 1]
+
+
+
+2015-04-30 20:22:39.915: [Melee Cyrus]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 20:24:12.315: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+Item[1]: Sled [4084, 1]
+Item[2]: Coins [995, 500000000]
+Item[3]: Chaotic maul [18353, 1]
+
+
+
+2015-04-30 20:24:47.706: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+Item[1]: Sled [4084, 1]
+Item[2]: Chaotic maul [18353, 1]
+Item[3]: Coins [995, 500000000]
+
+
+
+2015-04-30 20:25:20.105: [Melee Cyrus]:
+Item[0]: Sled [4084, 1]
+Item[1]: Sled [4084, 1]
+Item[2]: Coins [995, 500000000]
+Item[3]: Chaotic maul [18353, 1]
+
+
+

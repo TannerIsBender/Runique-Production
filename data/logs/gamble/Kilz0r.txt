@@ -1,0 +1,48 @@
+2015-06-06 18:14:50.268: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 18:47:46.101: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 18:48:49.101: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 18:50:03.517: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 18:50:31.117: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 18:51:48.516: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 18:52:34.707: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 18:53:34.107: [[Zammy King, chandra6711; 70.161.168.6, BC-EE-7B-11-74-8C]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+

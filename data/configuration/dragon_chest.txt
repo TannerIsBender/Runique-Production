@@ -1,0 +1,74 @@
+Common Rewards
+	Emerald x60
+	Sapphire x80
+	Ruby x40
+	Dragonstone x10
+	Golden hammer x1
+	Manta ray x250
+	Magic logs x50
+	Magic pyre logs x25
+	Coins x100000
+	Dragon med helm x2
+	Cannonball x50
+	Dragon dagger (p++) x1
+	Big bones x30
+Uncommon Rewards
+	Gold leaf x3
+	Onyx x1
+	Shark x500
+	Top hat x1
+	Magic logs x100
+	Magic pyre logs x75
+	Cursed magic logs x75
+	Death rune x1000
+	Blood rune x1000
+	Armadyl rune x5
+	Coins x250000
+	Coins x500000
+	Yellow dye x1
+	Blue dye x1
+	Green dye x1
+	Overload (4) x5
+	Dragon bones x20
+Rare Rewards
+	Death rune x5000
+	Blood rune x5000
+	Anger sword x1
+	Dragon boots x1
+	Berserker ring x1
+	Seers' ring x1
+	Warrior ring x1
+	Dragon platelegs x1
+	Fury shark x1
+	Tiger shark x1
+	Rune defender x1
+	Coins x1000000
+	Zamorakian spear x1
+	Frost dragon bones x15
+	Ourg bones x15
+	White unicorn mask x1
+	Red dragon mask x1
+	Black dragon mask x1
+	Rainbow afro x1
+Very rare Rewards
+	Dragon defender x1
+	Coins x1500000
+	Dark bow x1
+	Abyssal whip x1
+	Sara. abyssal whip x1
+	Draconic abyssal whip x1
+	Shadow abyssal whip x1
+	Dragon defender x1
+	Flameburst defender x1
+	Dragonfire shield x1
+	Guthix halo x1
+	Saradomin halo x1
+	Zamorak halo x1
+	Bandos boots x1
+	Iron dragon mask x1
+	Steel dragon mask x1
+	Mithril dragon mask x1
+	Frost dragon mask x1
+	Dragon chainbody x1
+	Dragon platebody x1
+	Dragon full helm x1

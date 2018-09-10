@@ -1,0 +1,222 @@
+2015-05-04 15:04:57.737: [Toma]:
+Item[0]: Green h'ween mask [1053, 1]
+
+
+
+2015-05-04 15:06:36.738: [Toma]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Ragefire boots [21793, 1]
+Item[4]: Fighter torso [10551, 1]
+Item[5]: Korasi's sword [19780, 1]
+Item[6]: Infinity top [6916, 1]
+Item[7]: Infinity hat [6918, 1]
+Item[8]: Amulet of fury [6585, 1]
+Item[9]: Staff of light [22206, 1]
+Item[10]: Infinity gloves [6922, 1]
+Item[11]: Infinity boots [6920, 1]
+Item[12]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-05-04 15:07:10.322: [Toma]:
+Item[0]: Armadyl godsword [11695, 2]
+
+
+
+2015-05-04 15:07:56.538: [Toma]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Fighter torso [10551, 1]
+Item[5]: Abyssal whip [4151, 1]
+Item[6]: Infinity top [6916, 1]
+Item[7]: Infinity hat [6918, 1]
+Item[8]: Amulet of fury [6585, 1]
+Item[9]: Korasi's sword [19780, 1]
+Item[10]: Staff of light [22206, 1]
+Item[11]: Infinity gloves [6922, 1]
+Item[12]: Infinity boots [6920, 1]
+
+
+
+2015-05-04 15:08:29.518: [Toma]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Infinity top [6916, 1]
+Item[4]: Abyssal whip [4151, 1]
+Item[5]: Fighter torso [10551, 1]
+Item[6]: Infinity hat [6918, 1]
+Item[7]: Amulet of fury [6585, 1]
+Item[8]: Korasi's sword [19780, 1]
+Item[9]: Staff of light [22206, 1]
+Item[10]: Infinity boots [6920, 1]
+Item[11]: Infinity gloves [6922, 1]
+
+
+
+2015-05-04 15:09:10.922: [Toma]:
+Item[0]: Dragon square shield (or) [19340, 1]
+Item[1]: Hand cannon [15241, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Ragefire boots [21793, 1]
+Item[4]: Fighter torso [10551, 1]
+Item[5]: Abyssal whip [4151, 1]
+Item[6]: Infinity top [6916, 1]
+Item[7]: Infinity hat [6918, 1]
+Item[8]: Amulet of fury [6585, 1]
+Item[9]: Korasi's sword [19780, 1]
+Item[10]: Staff of light [22206, 1]
+Item[11]: Infinity gloves [6922, 1]
+Item[12]: Infinity boots [6920, 1]
+
+
+
+2015-05-04 15:09:42.714: [Toma]:
+Item[0]: Dragon square shield (or) [19340, 1]
+Item[1]: Hand cannon [15241, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Ragefire boots [21793, 1]
+Item[4]: Fighter torso [10551, 1]
+Item[5]: Abyssal whip [4151, 1]
+Item[6]: Infinity hat [6918, 1]
+Item[7]: Infinity top [6916, 1]
+Item[8]: Amulet of fury [6585, 1]
+Item[9]: Korasi's sword [19780, 1]
+Item[10]: Staff of light [22206, 1]
+Item[11]: Infinity gloves [6922, 1]
+Item[12]: Infinity boots [6920, 1]
+
+
+
+2015-05-04 15:10:15.120: [Toma]:
+Item[0]: Armadyl godsword [11695, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-04 15:10:52.937: [Toma]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Dragon square shield (or) [19340, 1]
+Item[4]: Infinity hat [6918, 1]
+Item[5]: Infinity top [6916, 1]
+Item[6]: Abyssal whip [4151, 1]
+Item[7]: Fighter torso [10551, 1]
+Item[8]: Amulet of fury [6585, 1]
+Item[9]: Korasi's sword [19780, 1]
+Item[10]: Staff of light [22206, 1]
+Item[11]: Infinity gloves [6922, 1]
+Item[12]: Infinity boots [6920, 1]
+
+
+
+2015-05-04 15:11:24.137: [Toma]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Infinity top [6916, 1]
+Item[4]: Dragon square shield (or) [19340, 1]
+Item[5]: Abyssal whip [4151, 1]
+Item[6]: Fighter torso [10551, 1]
+Item[7]: Amulet of fury [6585, 1]
+Item[8]: Infinity hat [6918, 1]
+Item[9]: Staff of light [22206, 1]
+Item[10]: Infinity boots [6920, 1]
+Item[11]: Infinity gloves [6922, 1]
+Item[12]: Korasi's sword [19780, 1]
+
+
+
+2015-05-04 15:16:37.937: [Failfish]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-04 15:17:02.538: [Failfish]:
+Item[0]: Coins [995, 26000000]
+
+
+
+2015-05-04 15:17:51.737: [Failfish]:
+Item[0]: Coins [995, 26000000]
+
+
+
+2015-05-04 16:29:32.600: [Rozza123]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:30:00.190: [Rozza123]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:30:56.590: [Rozza123]:
+Item[0]: Coins [995, 41000000]
+Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:31:39.791: [Rozza123]:
+Item[0]: Coins [995, 41000000]
+Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:32:06.191: [Rozza123]:
+Item[0]: Coins [995, 41000000]
+Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:32:41.600: [Rozza123]:
+Item[0]: Coins [995, 41000000]
+Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:33:12.800: [Rozza123]:
+Item[0]: Coins [995, 41000000]
+Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 16:33:43.391: [Rozza123]:
+Item[0]: Coins [995, 164000000]
+
+
+
+2015-05-04 16:42:00.199: [Desi]:
+Item[0]: Store credits (9.500 credits) [13254, 1]
+Item[1]: Store credits (9.500 credits) [13254, 1]
+Item[2]: Store credits (9.500 credits) [13254, 1]
+Item[3]: Store credits (12.500 credits) [13257, 1]
+
+
+
+2015-05-04 16:42:33.800: [Desi]:
+Item[0]: Store credits (12.500 credits) [13257, 1]
+Item[1]: Store credits (9.500 credits) [13254, 1]
+Item[2]: Store credits (9.500 credits) [13254, 1]
+Item[3]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-04 16:43:06.800: [Desi]:
+Item[0]: Store credits (50.500 credits) [13259, 1]
+
+
+
+2015-05-04 16:43:33.800: [Desi]:
+Item[0]: Store credits (9.500 credits) [13254, 1]
+Item[1]: Store credits (9.500 credits) [13254, 1]
+Item[2]: Store credits (12.500 credits) [13257, 1]
+Item[3]: Store credits (9.500 credits) [13254, 1]
+
+
+

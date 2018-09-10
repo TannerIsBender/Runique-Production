@@ -1,0 +1,94 @@
+2015-04-15 15:45:11.027: [Ch33sek1ng]:
+Item[0]: Coins [995, 3871821]
+
+
+
+2015-04-15 15:59:14.647: [Ch33sek1ng]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-23 10:52:50.181: [Ziptie]:
+Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-25 13:54:56.149: [Nanslayer69]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-25 14:11:49.549: [Brockinator]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+Item[3]: Staff of light [22212, 1]
+
+
+
+2015-04-26 10:12:13.714: [Kabooyah]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-26 10:20:28.714: [Kabooyah]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-26 10:28:13.111: [Kabooyah]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-26 10:31:03.514: [Kabooyah]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-26 10:31:04.103: [Kabooyah]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-26 10:34:18.502: [Kabooyah]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-26 10:37:33.517: [Brazy]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-26 10:38:15.514: [Brazy]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-01 15:11:02.997: [Ziptie]:
+Item[0]: Zuriel's robe bottom [13861, 1]
+Item[1]: Zuriel's robe top [13858, 1]
+Item[2]: Zuriel's hood [13864, 1]
+Item[3]: Staff of light [22212, 1]
+
+
+
+2015-05-01 15:11:48.596: [Ziptie]:
+Item[0]: Zuriel's robe top [13858, 1]
+Item[1]: Zuriel's robe bottom [13861, 1]
+Item[2]: Staff of light [22212, 1]
+Item[3]: Zuriel's hood [13864, 1]
+
+
+
+2015-05-01 15:41:34.799: [Davetherave]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-01 15:44:46.215: [Noli Ftw]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+

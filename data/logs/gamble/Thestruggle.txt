@@ -1,0 +1,93 @@
+2015-06-02 19:27:27.651: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+
+
+
+2015-06-02 19:35:27.667: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 6000720]
+My Item[1]: Golden mining trousers [20790, 1]
+Other Item[0]: Tzrek-jad [21512, 1]
+
+
+
+2015-06-02 19:36:51.067: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 6000720]
+My Item[1]: Golden mining trousers [20790, 1]
+Other Item[0]: Tzrek-jad [21512, 1]
+
+
+
+2015-06-02 19:37:28.267: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Golden mining trousers [20790, 1]
+My Item[1]: Coins [995, 6000720]
+Other Item[0]: Tzrek-jad [21512, 1]
+
+
+
+2015-06-02 19:39:08.461: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Godsword shard 1 [11711, 1]
+Other Item[0]: Coins [995, 6000720]
+Other Item[1]: Tzrek-jad [21512, 1]
+Other Item[2]: Black full helm (t) [2587, 1]
+
+
+
+2015-06-02 19:39:47.462: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Godsword shard 1 [11711, 1]
+Other Item[0]: Black full helm (t) [2587, 1]
+Other Item[1]: Tzrek-jad [21512, 1]
+Other Item[2]: Coins [995, 6000720]
+
+
+
+2015-06-02 21:46:22.368: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Godsword shard 1 [11710, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-02 21:47:22.367: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Godsword shard 1 [11710, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-02 21:48:10.967: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Godsword shard 1 [11710, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-02 21:49:19.367: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Godsword shard 1 [11710, 1]
+
+
+
+2015-06-02 21:50:40.365: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Infinity boots [6920, 1]
+My Item[1]: Golden mining trousers [20790, 1]
+Other Item[0]: Coins [995, 7000000]
+
+
+
+2015-06-02 21:52:02.567: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Golden mining trousers [20790, 1]
+My Item[1]: Infinity boots [6920, 1]
+My Item[2]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-02 21:53:15.152: [[Fischerin05, Lbshallein1; 62.46.56.243, 00-21-6B-5D-39-4E]]:
+My Item[0]: Coins [995, 13223824]
+My Item[1]: Infinity boots [6920, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-06 20:59:48.620: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+

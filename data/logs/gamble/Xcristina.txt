@@ -1,0 +1,55 @@
+2015-05-04 13:31:00.662: [Toma]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-04 14:20:50.500: [Toma]:
+Item[0]: Abyssal whip [15444, 1]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-05 12:32:26.522: [Coldott]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-05-05 12:39:06.138: [Zinc]:
+Item[0]: Coins [995, 1500000]
+
+
+
+2015-05-05 12:44:51.138: [Zinc]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-08 08:40:39.722: [Lustknabe]:
+Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-05-08 08:41:39.722: [Lustknabe]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-08 08:47:53.531: [Lustknabe]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-08 08:52:03.135: [1hit 1down]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-14 16:04:34.200: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 163340000]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+

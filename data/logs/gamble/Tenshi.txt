@@ -1,0 +1,48 @@
+2015-05-11 23:56:19.862: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Coins [995, 1]
+
+
+
+2015-05-11 23:56:22.846: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Coins [995, 1]
+
+
+
+2015-05-11 23:58:40.853: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 6000000]
+Other Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-05-12 00:00:26.456: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Tokkul [6529, 109595]
+Other Item[0]: Vote Ticket [13256, 1]
+Other Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-05-12 00:03:31.853: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 100023644]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Vote Ticket [13256, 1]
+Other Item[2]: Vote Ticket [13256, 1]
+Other Item[3]: Vote Ticket [13256, 1]
+Other Item[4]: Tokkul [6529, 109595]
+Other Item[5]: Coins [995, 40000000]
+
+
+
+2015-05-14 01:51:13.537: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Watermelon [5982, 1]
+My Item[1]: Watermelon [5982, 1]
+My Item[2]: Watermelon [5982, 1]
+My Item[3]: Watermelon [5982, 1]
+Other Item[0]: Watermelon [5982, 1]
+Other Item[1]: Watermelon [5982, 1]
+Other Item[2]: Watermelon [5982, 1]
+Other Item[3]: Watermelon [5982, 1]
+
+
+

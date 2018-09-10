@@ -1,0 +1,6 @@
+Item Taken: Bronze dart [806, 3 - position=[2684, 3725, 0]] - 2015-03-23 22:11:28.758
+Item Taken: Bones [526, 1 - position=[2674, 3713, 0]] - 2015-03-23 22:16:08.958
+Item Taken: Unholy book [3842, 1 - position=[3094, 3491, 0]] - 2015-03-23 22:21:46.158
+Item Taken: Saradomin cape [2412, 1 - position=[3094, 3491, 0]] - 2015-03-23 22:21:57.543
+Item Taken: Lederhosen hat [6182, 1 - position=[3098, 3487, 0]] - 2015-03-23 22:38:52.758
+Item Taken: Coins [995, 63963 - position=[2674, 3713, 0]] - 2015-03-24 22:31:01.426

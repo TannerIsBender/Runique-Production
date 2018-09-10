@@ -1,0 +1,187 @@
+2015-04-16 15:57:36.510: [Olleking]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Fighter torso [10551, 1]
+
+
+
+2015-04-17 08:46:52.889: [Brockinator]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Fighter torso [10551, 1]
+
+
+
+2015-04-17 08:50:58.259: [Brockinator]:
+Item[0]: Coins [995, 93000000]
+
+
+
+2015-04-17 08:52:42.058: [Brockinator]:
+Item[0]: Coins [995, 105000000]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11723, 1]
+
+
+
+2015-04-17 08:57:30.677: [Thug Life]:
+Item[0]: Coins [995, 380000000]
+Item[1]: Eagle-eye kiteshield [18361, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-17 09:10:29.480: [Thug Life]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+Item[5]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-17 09:11:11.481: [Thug Life]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Armadyl godsword [11694, 1]
+Item[5]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-04-17 09:21:00.681: [Zarox]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 09:21:30.681: [Zarox]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 09:22:00.697: [Zarox]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 09:26:51.093: [Zarox]:
+Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 09:27:42.680: [Zarox]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-17 09:28:24.682: [Zarox]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-04-17 09:36:48.696: [Zarox]:
+Item[0]: Divine spirit shield [13741, 2]
+
+
+
+2015-04-17 10:47:01.931: [Zarox]:
+Item[0]: Arcane spirit shield [13738, 1]
+
+
+
+2015-04-21 16:02:17.074: [Oi]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-21 16:03:20.688: [Oi]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-21 16:05:16.476: [Oi]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-21 16:14:39.287: [Oi]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Coins [995, 46000000]
+
+
+
+2015-04-22 16:16:01.502: [Pascaladium]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Steadfast boots [21788, 2]
+Item[2]: Vesta's chainbody [13888, 1]
+Item[3]: Vesta's plateskirt [13894, 1]
+Item[4]: Abyssal whip [4152, 1]
+
+
+
+2015-04-22 16:19:51.933: [Chaozios]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Bandos godsword [11696, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Dragon boots [11733, 3]
+Item[5]: Abyssal whip [4152, 1]
+
+
+
+2015-04-22 16:21:18.316: [Chaozios]:
+Item[0]: Dragon boots [11733, 3]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Bandos godsword [11696, 1]
+Item[4]: Abyssal whip [4152, 1]
+Item[5]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-21 13:15:57.648: [[Us3rn4me, kevindemoor; 82.176.65.124, 48-5B-39-53-DB-F3]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-21 13:17:58.248: [[Us3rn4me, kevindemoor; 82.176.65.124, 48-5B-39-53-DB-F3]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-21 13:26:36.054: [[Us3rn4me, kevindemoor; 82.176.65.124, 48-5B-39-53-DB-F3]]:
+My Item[0]: Staff of light [22206, 1]
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Tzrek-jad [21512, 1]
+My Item[3]: Dharok's platebody [4721, 1]
+My Item[4]: Dharok's platelegs [4723, 1]
+My Item[5]: Dharok's greataxe [4719, 1]
+My Item[6]: Zuriel's robe bottom [13862, 1]
+My Item[7]: Zuriel's robe top [13859, 1]
+My Item[8]: Arcane stream necklace [18335, 1]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-21 13:27:49.248: [[Us3rn4me, kevindemoor; 82.176.65.124, 48-5B-39-53-DB-F3]]:
+My Item[0]: Ranger boots [2578, 1]
+My Item[1]: Robin hood hat [2582, 1]
+My Item[2]: Coins [995, 100000000]
+My Item[3]: Full slayer helmet [15492, 1]
+My Item[4]: Staff of light [22206, 1]
+My Item[5]: Zuriel's robe bottom [13862, 1]
+My Item[6]: Dharok's platelegs [4723, 1]
+My Item[7]: Dharok's platebody [4721, 1]
+My Item[8]: Dharok's greataxe [4719, 1]
+My Item[9]: Dharok's helm [4717, 1]
+My Item[10]: Zuriel's robe top [13859, 1]
+My Item[11]: Arcane stream necklace [18335, 1]
+Other Item[0]: Elysian spirit shield [13742, 1]
+
+
+

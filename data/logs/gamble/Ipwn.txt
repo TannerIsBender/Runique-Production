@@ -1,0 +1,46 @@
+2015-06-07 00:34:54.201: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Coins [995, 8000000]
+Other Item[0]: Coins [995, 8000000]
+
+
+
+2015-06-07 00:56:52.391: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-07 00:57:28.991: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-07 00:57:29.007: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-07 01:05:17.023: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Infinity bottoms [15604, 1]
+Other Item[1]: Infinity top [15600, 1]
+Other Item[2]: Blisterwood polearm [21582, 1]
+Other Item[3]: Karil's top [4736, 1]
+Other Item[4]: Dharok's helm [4716, 1]
+Other Item[5]: Dharok's platelegs [4722, 1]
+Other Item[6]: Dharok's greataxe [4718, 1]
+Other Item[7]: Guthix halo [18744, 1]
+Other Item[8]: Zamorak halo [18746, 1]
+Other Item[9]: Saradomin halo [18745, 1]
+Other Item[10]: Rubber chicken [4566, 1]
+
+
+
+2015-06-07 01:17:21.791: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+

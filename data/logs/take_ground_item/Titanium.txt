@@ -1,0 +1,8 @@
+Item Taken: Green charm [12159, 1 - position=[2667, 3715, 0]] - 2015-03-24 21:43:01.995
+Item Taken: Casket [405, 1 - position=[2668, 3715, 0]] - 2015-03-24 21:44:48.794
+Item Taken: Bones [526, 1 - position=[2668, 3715, 0]] - 2015-03-24 21:44:52.996
+Item Taken: Bones [526, 1 - position=[2668, 3715, 0]] - 2015-03-24 21:44:55.396
+Item Taken: Bones [526, 1 - position=[2669, 3714, 0]] - 2015-03-24 21:44:58.565
+Item Taken: Bones [526, 1 - position=[2670, 3715, 0]] - 2015-03-24 21:45:03.794
+Item Taken: Green charm [12159, 1 - position=[2671, 3714, 0]] - 2015-03-24 21:47:49.394
+Item Taken: Crimson charm [12160, 1 - position=[2670, 3714, 0]] - 2015-03-24 21:49:33.196

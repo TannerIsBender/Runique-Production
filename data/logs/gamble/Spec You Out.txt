@@ -1,0 +1,1187 @@
+2015-04-21 02:50:09.800: [Oi]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-21 02:51:15.183: [Oi]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-21 02:52:25.984: [Oi]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-21 02:53:26.567: [Oi]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-21 03:00:05.577: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-21 03:00:46.976: [Melee Cyrus]:
+Item[0]: Coins [995, 54253851]
+Item[1]: Scroll of augury [18344, 1]
+
+
+
+2015-04-21 03:04:06.777: [Melee Cyrus]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Corrupt dragon chainbody [13958, 1]
+Item[2]: Corrupt dragon plateskirt [13967, 1]
+
+
+
+2015-04-21 03:24:29.604: [Melee Cyrus]:
+Item[0]: Coins [995, 24000000]
+
+
+
+2015-04-21 03:25:12.196: [Melee Cyrus]:
+Item[0]: Coins [995, 48000000]
+
+
+
+2015-04-21 03:31:26.599: [Melee Cyrus]:
+Item[0]: Coins [995, 192000000]
+
+
+
+2015-04-22 06:07:18.775: [Pvm Elite]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-22 06:30:05.600: [Pvm Elite]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:31:39.203: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:33:44.003: [Dave]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:39:30.803: [Pvm Elite]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-22 06:46:13.402: [Pvm Elite]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-22 06:47:00.203: [Pvm Elite]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-22 06:48:50.593: [Pvm Elite]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-22 06:51:30.203: [Pvm Elite]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-22 06:52:39.794: [Pvm Elite]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Coins [995, 50000000]
+
+
+
+2015-04-22 06:53:27.798: [Pvm Elite]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Coins [995, 40000000]
+
+
+
+2015-04-22 06:53:28.403: [Pvm Elite]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Coins [995, 40000000]
+
+
+
+2015-04-22 06:54:33.194: [Pvm Elite]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-22 06:57:17.603: [Simberj]:
+
+
+
+2015-04-22 08:48:40.218: [Strawhat]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-22 09:14:37.233: [Pixel Flexin]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-22 09:16:01.253: [Pixel Flexin]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-23 01:27:27.034: [Simberj]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-23 01:28:25.224: [Simberj]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-23 01:29:16.825: [Simberj]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-23 01:30:13.849: [Simberj]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-23 01:32:11.426: [Simberj]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Coins [995, 25809100]
+
+
+
+2015-04-23 01:42:45.649: [Simberj]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-23 02:28:37.881: [Banklootz]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 02:31:24.680: [Banklootz]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Bandos godsword [11696, 1]
+Item[2]: Saradomin godsword [11698, 1]
+Item[3]: Zamorak godsword [11700, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Armadyl chainskirt [11722, 1]
+Item[6]: Corrupt vesta's chainbody [13911, 1]
+Item[7]: Armadyl chestplate [11720, 1]
+Item[8]: Ranger boots [2577, 1]
+Item[9]: Steadfast boots [21787, 1]
+Item[10]: Dragonfire shield [11283, 1]
+Item[11]: Dragon full helm (or) [19336, 1]
+Item[12]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-23 02:33:08.476: [Banklootz]:
+Item[0]: Torva platebody [20139, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Zamorak godsword [11700, 1]
+Item[5]: Saradomin godsword [11698, 1]
+Item[6]: Bandos godsword [11696, 1]
+Item[7]: Armadyl chainskirt [11722, 1]
+Item[8]: Chaotic crossbow [18357, 1]
+Item[9]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 02:36:07.276: [Banklootz]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Arcane spirit shield [13738, 1]
+Item[3]: Elysian spirit shield [13742, 1]
+Item[4]: Spectral spirit shield [13744, 1]
+Item[5]: Chaotic crossbow [18357, 1]
+Item[6]: Dragon full helm (or) [19336, 1]
+Item[7]: Ranger boots [2577, 1]
+Item[8]: Dragonfire shield [11283, 1]
+Item[9]: Bandos godsword [11696, 1]
+
+
+
+2015-04-23 07:08:40.450: [Mercy]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 08:26:27.280: [Ziptie]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 08:27:00.880: [Ziptie]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 08:28:09.280: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 08:28:58.483: [Ziptie]:
+Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-04-23 08:31:46.487: [Ziptie]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 08:32:20.680: [Ziptie]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 08:33:22.487: [Ziptie]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 08:35:01.487: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:35:41.080: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:37:02.686: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:39:19.496: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:39:52.486: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:40:37.495: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:41:36.295: [Ziptie]:
+Item[0]: Yellow robin hood hat [20950, 1]
+Item[1]: Ranger boots [2577, 1]
+Item[2]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 08:42:11.696: [Ziptie]:
+Item[0]: Ranger boots [2577, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Yellow robin hood hat [20950, 1]
+
+
+
+2015-04-23 08:43:55.494: [Ziptie]:
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:44:30.895: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:45:08.086: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:46:58.486: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:47:39.896: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 08:52:25.503: [Ziptie]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-23 08:52:59.096: [Ziptie]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Statius's platelegs [13890, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Statius's full helm [13896, 1]
+
+
+
+2015-04-23 08:56:34.502: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Coins [995, 50000000]
+
+
+
+2015-04-23 08:59:09.296: [Ziptie]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's full helm [13896, 1]
+Item[3]: Statius's platebody [13884, 1]
+
+
+
+2015-04-23 09:00:29.103: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Ranger boots [2577, 1]
+
+
+
+2015-04-23 09:01:41.702: [Ziptie]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Bandos chestplate [11724, 1]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-23 09:09:23.118: [Ziptie]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Armadyl godsword [11694, 1]
+Item[4]: Armadyl godsword [11694, 1]
+Item[5]: Coins [995, 50000000]
+
+
+
+2015-04-23 09:10:23.102: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-23 09:11:02.702: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-23 09:11:43.519: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-23 09:12:23.119: [Ziptie]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 09:14:17.117: [Ziptie]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-04-23 09:15:48.911: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 10000000]
+
+
+
+2015-04-23 09:16:30.305: [Ziptie]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-23 09:17:30.317: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 09:18:05.718: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 09:18:50.718: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 09:19:37.518: [Ziptie]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 09:21:29.115: [Ziptie]:
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Coins [995, 30000000]
+
+
+
+2015-04-23 09:25:32.118: [Ziptie]:
+Item[1]: Statius's full helm [13896, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-23 09:26:29.112: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 09:27:51.318: [Ziptie]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+
+
+
+2015-04-23 09:28:57.318: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 09:29:39.918: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 09:30:29.120: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 09:31:13.520: [Ziptie]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-23 09:32:00.321: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 09:33:02.118: [Ziptie]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[3]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-23 09:34:33.918: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-23 09:35:11.118: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-23 09:35:50.118: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-04-24 03:23:30.287: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 03:24:27.879: [Ziptie]:
+Item[0]: Armadyl hilt [11702, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 03:25:35.086: [Ziptie]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Dragon claws [14484, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 03:27:09.281: [Ziptie]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Statius's platelegs [13890, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 03:27:51.280: [Ziptie]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+Item[2]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-24 03:28:32.681: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-24 03:29:21.280: [Ziptie]:
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-24 03:29:51.881: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-24 03:30:27.886: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-24 03:33:20.702: [Billionare]:
+Item[0]: Coins [995, 220000000]
+
+
+
+2015-04-24 03:35:19.487: [Ziptie]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 03:37:28.496: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-24 03:41:32.687: [Ziptie]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Statius's platelegs [13890, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Bandos chestplate [11724, 1]
+Item[4]: Ranger boots [2578, 1]
+Item[5]: Armadyl chestplate [11720, 1]
+Item[6]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 03:42:17.696: [Ziptie]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-24 03:44:05.689: [Ziptie]:
+Item[0]: Bandos chestplate [11725, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[3]: Corrupt statius's platebody [13908, 1]
+Item[4]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-24 03:44:51.887: [Ziptie]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Bandos chestplate [11725, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+Item[3]: Corrupt statius's platelegs [13914, 1]
+Item[4]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-24 03:47:46.502: [Ziptie]:
+Item[0]: Coins [995, 52000000]
+
+
+
+2015-04-24 03:48:19.492: [Ziptie]:
+Item[0]: Coins [995, 52000000]
+
+
+
+2015-04-24 03:48:59.702: [Ziptie]:
+Item[0]: Coins [995, 52000000]
+
+
+
+2015-04-24 03:51:23.702: [Ziptie]:
+Item[0]: Coins [995, 52000000]
+
+
+
+2015-04-24 03:55:16.502: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Armadyl hilt [11702, 1]
+Item[3]: Ranger boots [2578, 1]
+Item[4]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 03:56:49.511: [Ziptie]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 03:57:20.696: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 03:58:03.296: [Ziptie]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 03:58:36.302: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Ranger boots [2578, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 03:59:11.095: [Ziptie]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 04:01:30.902: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Bandos chestplate [11724, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 04:02:50.725: [Simberj]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-24 04:13:05.727: [Ziptie]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Morrigan's leather chaps [13874, 2]
+Item[2]: Bandos chestplate [11724, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+Item[4]: Statius's platelegs [13890, 1]
+Item[5]: Statius's platebody [13884, 1]
+Item[6]: Statius's platelegs [13890, 1]
+Item[7]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-24 04:13:51.315: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-24 04:14:47.716: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl hilt [11702, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 04:15:27.316: [Ziptie]:
+Item[0]: Ranger boots [2578, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Armadyl hilt [11702, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 04:16:21.317: [Ziptie]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[4]: Armadyl hilt [11702, 1]
+Item[5]: Armadyl chestplate [11720, 1]
+Item[6]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-24 04:18:10.516: [Ziptie]:
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Corrupt statius's platelegs [13914, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[4]: Ranger boots [2578, 1]
+Item[5]: Armadyl hilt [11702, 1]
+Item[6]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 04:19:02.718: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Armadyl godsword [11694, 1]
+Item[4]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 04:20:05.118: [Ziptie]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Ranger boots [2578, 1]
+Item[3]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-24 04:20:48.334: [Ziptie]:
+Item[0]: Armadyl hilt [11702, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Ranger boots [2578, 1]
+
+
+
+2015-04-24 04:28:33.326: [Mercy]:
+Item[0]: Spectral sigil [13752, 1]
+
+
+
+2015-04-24 05:03:36.934: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 05:04:13.541: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 05:06:30.942: [Simberj]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-24 05:16:45.965: [Ziptie]:
+Item[0]: Armadyl crossbow [11785, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Ranger boots [2577, 1]
+Item[3]: Yellow robin hood hat [20950, 1]
+Item[4]: Divine spirit shield [13740, 1]
+Item[5]: Zamorak godsword [11700, 1]
+Item[6]: Bandos godsword [11696, 1]
+Item[7]: Morrigan's leather body [13870, 1]
+Item[8]: Full slayer helmet [15492, 1]
+Item[9]: Morrigan's leather chaps [13873, 1]
+Item[10]: Armadyl chainskirt [11722, 1]
+Item[11]: Coins [995, 795847711]
+
+
+
+2015-04-24 07:00:19.633: [Simberj]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-24 07:00:49.625: [Simberj]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-24 07:02:01.634: [Simberj]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-24 07:02:32.825: [Simberj]:
+Item[0]: Coins [995, 19000000]
+
+
+
+2015-04-24 07:03:47.825: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 07:04:34.633: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 07:05:20.826: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 08:05:06.475: [Simberj]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 08:38:17.271: [Oi]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-24 08:38:52.080: [Oi]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-24 08:42:28.712: [Simberj]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-04-24 08:45:35.300: [Simberj]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-24 08:46:55.095: [Simberj]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-24 08:48:13.086: [Oi]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 08:50:52.096: [Oi]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-24 08:51:44.286: [Oi]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 08:54:37.087: [Oi]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 08:55:01.700: [Oi]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 08:55:43.696: [Oi]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-24 08:56:37.086: [Oi]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-24 09:14:37.087: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:15:19.695: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:17:04.711: [Oi]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-24 09:17:28.096: [Oi]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-24 09:18:22.718: [Oi]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 09:18:42.512: [Oi]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 09:19:12.502: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:19:37.702: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:21:05.896: [Oi]:
+Item[0]: Ranger boots [2577, 1]
+Item[1]: Yellow robin hood hat [20950, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 09:21:33.502: [Oi]:
+Item[0]: Yellow robin hood hat [20950, 1]
+Item[1]: Ranger boots [2577, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 09:23:32.296: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:24:03.502: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:25:00.496: [Oi]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-24 09:28:07.696: [Oi]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-24 22:08:16.586: [Re Verse]:
+Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-24 22:19:23.781: [Zinc]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-24 22:19:48.977: [Zinc]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-24 22:22:12.378: [Zinc]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-24 22:22:41.781: [Zinc]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-24 22:23:13.581: [Zinc]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-24 22:23:51.376: [Zinc]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-24 22:24:14.780: [Zinc]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-24 22:25:08.181: [Zinc]:
+Item[0]: Arcane spirit shield [13739, 1]
+
+
+
+2015-04-24 22:26:52.577: [Aussiefreak1]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 22:27:31.011: [Aussiefreak1]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-24 22:28:23.813: [Aussiefreak1]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:28:56.771: [Aussiefreak1]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:29:29.813: [Aussiefreak1]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:30:19.601: [Aussiefreak1]:
+Item[0]: Elysian spirit shield [13743, 1]
+Item[1]: Divine spirit shield [13741, 1]
+
+
+
+2015-04-24 22:31:57.386: [Aussiefreak1]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-24 22:32:35.786: [Aussiefreak1]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-24 22:33:11.786: [Aussiefreak1]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:33:52.586: [Aussiefreak1]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:35:27.387: [Kabooyah]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-24 22:36:33.996: [Kabooyah]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-24 22:42:43.612: [Kabooyah]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:44:15.402: [Kabooyah]:
+Item[1]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-24 22:46:56.202: [Kabooyah]:
+Item[0]: Divine spirit shield [13741, 1]
+
+
+
+2015-04-24 22:49:50.211: [Kabooyah]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Coins [995, 300000000]
+
+
+
+2015-04-24 22:52:04.602: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-24 22:52:35.213: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-24 22:53:56.214: [Kabooyah]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-04-24 22:54:21.412: [Kabooyah]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-04-24 22:57:38.215: [Kabooyah]:
+Item[0]: Armadyl crossbow [11786, 1]
+
+
+
+2015-04-24 22:58:18.415: [Kabooyah]:
+Item[0]: Armadyl crossbow [11786, 1]
+
+
+
+2015-04-24 23:01:55.612: [Kabooyah]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+

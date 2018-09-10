@@ -1,0 +1,181 @@
+2015-05-02 03:54:15.615: [Untouchedtea]:
+Item[0]: Coins [995, 1087500]
+
+
+
+2015-05-02 03:55:56.403: [Untouchedtea]:
+Item[0]: Coins [995, 2175000]
+
+
+
+2015-05-03 00:50:57.015: [Melee Cyrus]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-03 00:52:43.818: [Melee Cyrus]:
+Item[0]: Coins [995, 8749342]
+
+
+
+2015-05-03 00:54:24.631: [Melee Cyrus]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-03 08:13:15.762: [Ziptie]:
+Item[0]: Gilded platelegs [3483, 1]
+
+
+
+2015-05-03 10:41:21.899: [Ziptie]:
+Item[0]: Coins [995, 15125222]
+
+
+
+2015-05-03 10:44:31.489: [Ziptie]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-05-03 10:49:06.291: [Ziptie]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-05-03 11:13:29.113: [Ziptie]:
+Item[0]: Abyssal whip [15441, 1]
+
+
+
+2015-05-04 09:02:07.038: [Elite Pvm]:
+Item[0]: Dark bow [11235, 1]
+Item[1]: Gilded full helm [3486, 1]
+Item[2]: Golden mining gloves [20787, 1]
+Item[3]: Golden mining boots [20788, 1]
+Item[4]: Golden mining helmet [20789, 1]
+
+
+
+2015-05-04 09:02:38.837: [Elite Pvm]:
+Item[0]: Golden mining helmet [20789, 1]
+Item[1]: Golden mining boots [20788, 1]
+Item[3]: Dark bow [11235, 1]
+Item[4]: Gilded full helm [3486, 1]
+Item[5]: Golden mining gloves [20787, 1]
+
+
+
+2015-05-04 09:03:11.238: [Elite Pvm]:
+Item[0]: Gilded full helm [3486, 1]
+Item[1]: Golden mining gloves [20787, 1]
+Item[2]: Golden mining helmet [20789, 1]
+Item[3]: Golden mining boots [20788, 1]
+Item[4]: Dark bow [11235, 1]
+
+
+
+2015-05-04 09:08:56.253: [Toma]:
+Item[0]: Coins [995, 9584894]
+
+
+
+2015-05-06 08:00:20.021: [Coldott]:
+Item[0]: Yellow robin hood hat [20950, 1]
+
+
+
+2015-05-06 08:15:15.238: [Coldott]:
+Item[0]: Infinity gloves [6922, 1]
+Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-05-06 08:15:50.633: [Coldott]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Infinity gloves [6922, 1]
+
+
+
+2015-05-06 11:18:30.388: [1hit 1down]:
+Item[0]: Coins [995, 9424900]
+
+
+
+2015-05-06 11:58:16.622: [Freddie007]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-06 12:28:36.453: [Mohd200210]:
+Item[0]: Dragon platelegs/skirt ornament kit (or) [19348, 1]
+
+
+
+2015-05-06 12:29:16.640: [Mohd200210]:
+Item[0]: Dragon platelegs/skirt ornament kit (or) [19348, 1]
+
+
+
+2015-05-06 12:35:31.069: [Mohd200210]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-05-07 07:21:21.737: [Simberj]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-05-08 07:54:52.924: [Lustknabe]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-11 11:24:16.288: [[Error404, scratchy357; 67.6.149.234, 70-F1-A1-C8-7C-EE]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-11 11:27:55.300: [[Aleexk3, meghanxx; 125.238.222.40, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-11 11:28:24.100: [[Aleexk3, meghanxx; 125.238.222.40, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-11 11:32:10.268: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Full slayer helmet [15492, 1]
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Dragon boots [11732, 1]
+Other Item[0]: Gnome scarf [9470, 1]
+Other Item[1]: Coins [995, 10000000]
+
+
+
+2015-05-11 11:32:40.872: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Dragon boots [11732, 1]
+My Item[3]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 10000000]
+Other Item[1]: Gnome scarf [9470, 1]
+
+
+
+2015-05-11 11:33:16.900: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Full slayer helmet [15492, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Gnome scarf [9470, 1]
+Other Item[1]: Coins [995, 10000000]
+
+
+

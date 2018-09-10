@@ -1,0 +1,4 @@
+Item Telegrabbed: Bones [526, 1 - [2677, 3718, 0]] - 2015-06-11 11:46:39.053
+Item Telegrabbed: Grimy dwarf weed [218, 2 - [2677, 3718, 0]] - 2015-06-11 11:46:44.409
+Item Telegrabbed: Grimy harralander [206, 3 - [2671, 3714, 0]] - 2015-06-11 11:47:22.246
+Item Telegrabbed: Coins [995, 46048 - [2677, 3714, 0]] - 2015-06-11 11:47:40.200

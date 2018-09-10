@@ -1,0 +1,12 @@
+2015-06-06 19:30:39.542: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Coins [995, 18000000]
+
+
+
+2015-06-06 19:33:55.739: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+

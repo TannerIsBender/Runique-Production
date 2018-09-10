@@ -1,0 +1,7 @@
+Item Taken: Bones [3187, 1 - position=[2796, 10030, 0]] - 2015-03-24 17:52:57.652
+Item Taken: Bones [3187, 1 - position=[2792, 10031, 0]] - 2015-03-24 17:53:01.258
+Item Taken: Rune full helm [1163, 1 - position=[2704, 10032, 0]] - 2015-03-24 18:00:13.849
+Item Taken: Death rune [560, 15 - position=[2704, 10034, 0]] - 2015-03-24 18:01:43.847
+Item Taken: Coins [995, 68775 - position=[2676, 3718, 0]] - 2015-03-24 18:03:03.658
+Item Taken: Coins [995, 48759 - position=[2674, 3718, 0]] - 2015-03-24 18:03:07.264
+Item Taken: Coins [995, 731470 - position=[2670, 3725, 0]] - 2015-03-24 18:03:19.864

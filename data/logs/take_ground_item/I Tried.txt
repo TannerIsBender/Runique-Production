@@ -1,0 +1,11 @@
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2704, 3722, 0]] - 2015-03-24 20:25:27.794
+Item Taken: Coins [995, 401752 - position=[2704, 3722, 0]] - 2015-03-24 20:30:54.202
+Item Taken: Coins [995, 61957 - position=[2704, 3723, 0]] - 2015-03-24 20:50:07.957
+Item Taken: Coins [995, 329969 - position=[2704, 3721, 0]] - 2015-03-24 20:50:09.758
+Item Taken: Coins [995, 98368 - position=[2704, 3723, 0]] - 2015-03-24 21:07:12.164
+Item Taken: Coins [995, 257866 - position=[2703, 3723, 0]] - 2015-03-24 21:10:05.576
+Item Taken: Coins [995, 42878 - position=[2702, 3723, 0]] - 2015-03-24 21:12:10.375
+Item Taken: Coins [995, 267931 - position=[2703, 3724, 0]] - 2015-03-24 21:12:12.165
+Item Taken: Coins [995, 321293 - position=[2703, 3723, 0]] - 2015-03-24 21:14:36.779
+Item Taken: Coins [995, 256783 - position=[2703, 3723, 0]] - 2015-03-24 21:15:13.980
+Item Taken: Coins [995, 315588 - position=[2703, 3723, 0]] - 2015-03-24 21:18:16.380

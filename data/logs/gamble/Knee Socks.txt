@@ -1,0 +1,81 @@
+2015-04-17 17:15:42.381: [Iliblil]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Armadyl chainskirt [11723, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-26 11:20:16.133: [Coldott]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 08:19:26.387: [Zinc]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-28 08:20:15.587: [Zinc]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-13 13:53:11.796: [[Suck My Dh, graciejane; 72.47.42.58, 9C-AD-97-AC-60-14]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-19 06:27:46.732: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-05-19 06:28:30.524: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-19 06:28:58.132: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 06:29:34.123: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 75000000]
+
+
+
+2015-06-01 05:49:01.883: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 05:51:40.889: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-06-01 05:56:46.298: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-01 05:57:29.487: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Coins [995, 125000000]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+

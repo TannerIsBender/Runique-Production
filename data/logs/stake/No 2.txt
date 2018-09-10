@@ -1,0 +1,22 @@
+2015-04-14 08:30:46.642: [Sir Sjid]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Coins [995, 22000000]
+
+
+
+2015-04-14 08:32:10.632: [Sir Sjid]:
+Item[0]: Coins [995, 11000000]
+
+
+
+2015-04-14 08:32:48.438: [Sir Sjid]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-14 08:38:02.247: [Sir Sjid]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+

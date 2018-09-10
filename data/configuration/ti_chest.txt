@@ -1,0 +1,107 @@
+Common Rewards	Bones x100
+	Big bones x50
+	Dragon bones x25
+	Frost dragon bones x10
+	Dragon bolts (e) x75
+	Ruby bolts (e) x75
+	Diamond bolts (e) x75
+	Uncut dragonstone x1
+	Uncut diamond x1
+	Uncut ruby x1
+	Rune 2h sword x1
+	Dragon 2h sword x1
+	Granite maul x1
+	Cannonball x500
+	Blood rune x500
+	Death rune x500
+	Astral rune x500
+	Saradomin brew flask (6) x25
+	Super restore flask (6) x25
+	Raw shark x50
+	Raw rocktail x25
+	Rune hatchet x1
+	Rune pickaxe x1
+	Rune scimitar x1
+	Dragon scimitar x1
+	Rune bar x15
+	Adamant bar x25
+	Mithril bar x50
+	Coins x5000000
+Uncommon Rewards	Rune platebody (g) x1
+	Rune platebody (t) x1
+	Rune platelegs (g) x1
+	Rune platelegs (t) x1
+	Rune full helm (g) x1
+	Rune full helm (t) x1
+	Rune kiteshield (g) x1
+	Rune kiteshield (t) x1
+	Zamorak platebody x1
+	Zamorak platelegs x1
+	Zamorak full helm x1
+	Zamorak kiteshield x1
+	Guthix platebody x1
+	Guthix platelegs x1
+	Guthix full helm x1
+	Guthix kiteshield x1
+	Saradomin platebody x1
+	Saradomin platelegs x1
+	Saradomin full helm x1
+	Saradomin kiteshield x1
+	Tan cavalier x1
+	Dark cavalier x1
+	Black cavalier x1
+	Highwayman mask x1
+	Red boater x1
+	Orange boater x1
+	Green boater x1
+	Blue boater x1
+	Black boater x1
+	Black elegant shirt x1
+	Black elegant legs x1
+	Red elegant shirt x1
+	Red elegant legs x1
+	Blue elegant shirt x1
+	Blue elegant legs x1
+	Green elegant shirt x1
+	Green elegant legs x1
+	Purple elegant shirt x1
+	Purple elegant legs x1
+	White elegant blouse x1
+	White elegant skirt x1
+	Armadyl cloak x1
+	Bandos cloak x1
+	Ancient cloak x1
+	Saradomin cloak x1
+	Guthix cloak x1
+	Zamorak cloak x1
+	Wizard boots x1
+	Red headband x1
+	Black headband x1
+	Brown headband x1
+	Green dragon mask x1
+	Blue dragon mask x1
+	Red dragon mask x1
+	Black dragon mask x1
+	Frost dragon mask x1
+	Bronze dragon mask x1
+	Iron dragon mask x1
+	Steel dragon mask x1
+	Mithril dragon mask x1
+	Rune cane x1
+	Amulet of glory (t) x1
+	Zamorakian spear x1
+Rare Rewards	Third-age range top x1
+	Third-age range legs x1
+	Third-age range coif x1
+	Third-age vambraces x1
+	Third-age robe top x1
+	Third-age robe x1
+	Third-age mage hat x1
+	Third-age amulet x1
+	Third-age platelegs x1
+	Third-age platebody x1
+	Third-age full helmet x1
+	Third-age kiteshield x1
+	Green h'ween mask x1
+	Blue h'ween mask x1
+	Red h'ween mask x1

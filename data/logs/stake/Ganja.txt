@@ -1,0 +1,64 @@
+2015-04-02 22:51:00.901: [Blakeey Dds]:
+Item[0]: Coins [995, 462132300]
+
+
+
+2015-04-02 22:52:21.896: [Blakeey Dds]:
+Item[0]: Coins [995, 138132300]
+
+
+
+2015-04-02 22:53:13.496: [Blakeey Dds]:
+Item[0]: Coins [995, 276000000]
+
+
+
+2015-04-02 22:58:06.293: [Raped]:
+Item[0]: Coins [995, 212000000]
+Item[1]: Abyssal vine whip [21371, 1]
+Item[2]: Abyssal vine whip [21371, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Dragon boots [11732, 1]
+Item[5]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 23:52:33.319: [Raped]:
+Item[0]: Santa hat [1050, 1]
+
+
+
+2015-04-02 23:55:17.127: [Try Hardz]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's full helm [13896, 1]
+Item[3]: Novite plateskirt [16647, 1]
+Item[4]: Novite platebody [17239, 1]
+Item[5]: Amulet of fury [6585, 1]
+Item[6]: Amulet of fury [6585, 1]
+Item[7]: Abyssal vine whip [21371, 1]
+
+
+
+2015-04-02 23:57:48.918: [Try Hardz]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Amulet of fury [6585, 1]
+Item[5]: Coins [995, 60000000]
+
+
+
+2015-04-06 19:08:28.544: [April Fools]:
+Item[0]: Coins [995, 94982300]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-06 19:09:59.744: [April Fools]:
+Item[0]: Vesta's longsword [13899, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+

@@ -1,0 +1,86 @@
+2015-05-03 17:59:27.046: [Yocky123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 18:00:11.439: [Yocky123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 18:08:33.621: [Davetherave]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-05-03 19:15:46.900: [Desi]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Bandos chestplate [11724, 1]
+
+
+
+2015-05-04 14:30:14.489: [Toma]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-04 14:33:33.100: [Toma]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-04 14:48:17.521: [Toma]:
+Item[0]: Yellow partyhat [1040, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-05-04 15:14:04.338: [Toma]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Gnome scarf [9470, 1]
+Item[2]: Faithful shield [18747, 1]
+Item[3]: Statius's platebody [13884, 1]
+Item[4]: Dragon hatchet [6739, 1]
+Item[5]: Tan cavalier [2639, 1]
+Item[6]: Black cavalier [2643, 1]
+Item[7]: Dragon boots [11732, 1]
+Item[8]: Corrupt statius's platelegs [13914, 1]
+Item[9]: Dragon pickaxe [15259, 1]
+Item[10]: Amulet of fury (or) [19335, 1]
+Item[11]: Wolf staff [19329, 1]
+
+
+
+2015-05-04 15:14:36.119: [Toma]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Dragon hatchet [6739, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Wolf staff [19329, 1]
+Item[5]: Corrupt statius's platelegs [13914, 1]
+Item[6]: Dragon pickaxe [15259, 1]
+Item[7]: Tan cavalier [2639, 1]
+Item[8]: Gnome scarf [9470, 1]
+Item[9]: Faithful shield [18747, 1]
+Item[10]: Black cavalier [2643, 1]
+Item[11]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-05-04 15:15:09.720: [Toma]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Tan cavalier [2639, 1]
+Item[2]: Amulet of fury (or) [19335, 1]
+Item[3]: Wolf staff [19329, 1]
+Item[4]: Abyssal whip [4151, 1]
+Item[5]: Corrupt statius's platelegs [13914, 1]
+Item[6]: Statius's platebody [13884, 1]
+Item[7]: Dragon pickaxe [15259, 1]
+Item[8]: Black cavalier [2643, 1]
+Item[9]: Faithful shield [18747, 1]
+Item[10]: Gnome scarf [9470, 1]
+Item[11]: Dragon hatchet [6739, 1]
+
+
+

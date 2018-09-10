@@ -1,0 +1,23 @@
+2015-04-27 12:49:31.680: [Brazy]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 12:53:03.475: [Brazy]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Coins [995, 180000000]
+Item[3]: Statius's full helm [13896, 1]
+
+
+
+2015-04-27 12:57:07.111: [Bad Pker]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-27 12:58:23.312: [Coldott]:
+Item[0]: Dragon boots [11732, 1]
+
+
+

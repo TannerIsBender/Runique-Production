@@ -1,0 +1,2444 @@
+2015-05-04 17:20:39.840: [C R I M]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-04 17:21:12.838: [C R I M]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-07 14:06:43.069: [Bumblebee]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-09 17:12:42.107: [C R I M V2]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-09 17:13:25.938: [C R I M V2]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-09 17:14:06.138: [C R I M V2]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-09 17:18:13.922: [Justpropt]:
+Item[0]: Coins [995, 95000000]
+
+
+
+2015-05-09 17:19:16.327: [Justpropt]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-09 17:19:56.542: [Justpropt]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-09 17:22:01.339: [Justpropt]:
+Item[0]: Warrior ring [6735, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Anger battleaxe [7807, 1]
+
+
+
+2015-05-10 03:14:20.006: [A Vulcan]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-10 03:15:00.806: [A Vulcan]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-10 03:15:32.606: [A Vulcan]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-10 03:19:04.437: [A Vulcan]:
+Item[0]: Coins [995, 102000000]
+Item[1]: Dragon pickaxe [15259, 1]
+Item[2]: Glaiven boots [21790, 1]
+
+
+
+2015-05-10 03:20:47.629: [A Vulcan]:
+Item[0]: Dragon pickaxe [15259, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Coins [995, 102000000]
+
+
+
+2015-05-10 20:24:59.237: [Hot Bars]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 20:25:49.637: [Hot Bars]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 20:26:21.439: [Hot Bars]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-10 23:56:57.000: [Radical]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 23:57:32.422: [Radical]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-11 00:24:31.237: [Lvls]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 00:26:29.422: [Lvls]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 00:27:00.637: [Lvls]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 00:28:05.422: [Lvls]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 00:28:40.837: [Lvls]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 00:29:12.029: [Lvls]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 00:34:01.238: [Max]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-11 18:47:37.038: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-11 19:27:06.454: [[My99capes, haley2388; 207.144.76.46, 74-29-AF-96-F5-8F]]:
+
+
+
+2015-05-11 21:57:42.563: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-11 21:58:18.564: [[Max, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-11 23:26:34.837: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 125000000]
+Other Item[0]: Coins [995, 125428281]
+
+
+
+2015-05-11 23:27:16.835: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-11 23:27:58.838: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-11 23:28:37.837: [[Darkdestroyr, hippop; 72.214.176.102, 68-7F-74-EF-6E-FE]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-13 19:20:53.438: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-13 19:23:30.053: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-13 19:23:57.653: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-14 23:22:07.537: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-14 23:22:34.537: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-14 23:23:04.537: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-14 23:24:44.137: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-14 23:25:09.338: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 13000000]
+Other Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-14 23:27:15.336: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-14 23:27:54.338: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25249545]
+
+
+
+2015-05-14 23:29:12.338: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25249545]
+
+
+
+2015-05-14 23:29:45.937: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-14 23:30:15.337: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-14 23:30:42.938: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25249545]
+
+
+
+2015-05-14 23:32:12.938: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-14 23:32:44.137: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 23000000]
+Other Item[0]: Coins [995, 23000000]
+
+
+
+2015-05-16 19:41:14.638: [[Ban Me Bch, master; 98.249.76.78, 68-94-23-88-F9-47]]:
+My Item[0]: Coins [995, 17000000]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-16 19:45:13.437: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Morrigan's leather chaps [13873, 1]
+Other Item[0]: Staff of light [22206, 1]
+
+
+
+2015-05-16 19:48:17.025: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-16 19:48:53.041: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 17000000]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-17 02:53:26.378: [[Strezicles, google12; 101.166.195.165, 40-F0-2F-22-08-8B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-17 02:55:14.381: [[Strezicles, google12; 101.166.195.165, 40-F0-2F-22-08-8B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-17 03:01:19.800: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Gilded kiteshield [3488, 1]
+
+
+
+2015-05-17 03:02:31.184: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-17 19:50:31.570: [[Dr Phill, D0peisfun; 99.27.36.88, 9C-B7-0D-77-35-F7]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-17 21:14:17.879: [[Knock Knock, jojo789; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-17 21:15:34.680: [[Knock Knock, jojo789; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-17 21:18:00.471: [[Knock Knock, jojo789; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Wolf staff [19329, 1]
+
+
+
+2015-05-17 21:18:35.880: [[Knock Knock, jojo789; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Wolf staff [19329, 1]
+
+
+
+2015-05-17 23:00:39.530: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Zamorakian spear [11716, 1]
+My Item[2]: Coins [995, 50000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-17 23:03:13.748: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 12000000]
+Other Item[0]: Coins [995, 12000000]
+
+
+
+2015-05-17 23:03:40.145: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 24000000]
+Other Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-17 23:45:29.359: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-17 23:46:02.964: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 01:00:05.733: [[Aleexk3, meghanxx; 125.238.221.133, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Warrior ring [6735, 1]
+My Item[1]: Coins [995, 47000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 01:00:29.733: [[Aleexk3, meghanxx; 125.238.221.133, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Warrior ring [6735, 1]
+My Item[1]: Coins [995, 47000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 01:00:57.932: [[Aleexk3, meghanxx; 125.238.221.133, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Warrior ring [6735, 1]
+My Item[1]: Coins [995, 47000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 01:01:24.314: [[Aleexk3, meghanxx; 125.238.221.133, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Warrior ring [6735, 1]
+My Item[1]: Coins [995, 47000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 01:29:02.135: [[C R I M V2, streamers1; 108.170.176.135, 94-0C-6D-E4-FE-D9]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 01:29:45.333: [[C R I M V2, streamers1; 108.170.176.135, 94-0C-6D-E4-FE-D9]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-18 01:56:26.179: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Warrior ring [6735, 1]
+My Item[1]: Dark bow [15704, 1]
+My Item[2]: Amulet of ranging [15126, 1]
+My Item[3]: Dark bow [15704, 1]
+My Item[4]: Zamorakian spear [11716, 1]
+My Item[5]: Faithful shield [18747, 1]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-05-18 01:57:44.179: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Dark bow [15704, 1]
+My Item[1]: Dark bow [15704, 1]
+My Item[2]: Coins [995, 15000000]
+My Item[3]: Zamorakian spear [11716, 1]
+My Item[4]: Faithful shield [18747, 1]
+Other Item[0]: Coins [995, 55000000]
+
+
+
+2015-05-18 02:52:30.417: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Coins [995, 20000000]
+
+
+
+2015-05-18 02:53:17.219: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-18 02:55:25.016: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Corrupt statius's warhammer [13926, 1]
+Other Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-05-18 02:56:05.217: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Armadyl chainskirt [11722, 1]
+Other Item[1]: Morrigan's leather body [13870, 1]
+Other Item[2]: Dharok's platelegs [4722, 1]
+Other Item[3]: Morrigan's leather chaps [13873, 1]
+Other Item[4]: Morrigan's leather chaps [13873, 1]
+Other Item[5]: Dark bow [15704, 1]
+Other Item[6]: Coins [995, 28115141]
+
+
+
+2015-05-18 02:58:25.620: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Morrigan's leather chaps [13873, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Corrupt statius's warhammer [13926, 1]
+My Item[3]: Dharok's platelegs [4722, 1]
+My Item[4]: Armadyl chainskirt [11722, 1]
+My Item[5]: Morrigan's leather body [13870, 1]
+My Item[6]: Saradomin godsword [11698, 1]
+My Item[7]: Dark bow [15704, 1]
+Other Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[1]: Coins [995, 93115141]
+
+
+
+2015-05-18 02:59:18.421: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Morrigan's leather chaps [13873, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Dharok's platelegs [4722, 1]
+My Item[3]: Armadyl chainskirt [11722, 1]
+My Item[4]: Morrigan's leather body [13870, 1]
+My Item[6]: Corrupt statius's warhammer [13926, 1]
+My Item[7]: Saradomin godsword [11698, 1]
+Other Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[1]: Coins [995, 93000000]
+
+
+
+2015-05-18 03:00:53.216: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Morrigan's leather chaps [13873, 1]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Armadyl chainskirt [11722, 1]
+My Item[3]: Dharok's platelegs [4722, 1]
+My Item[4]: Saradomin godsword [11698, 1]
+My Item[5]: Corrupt statius's warhammer [13926, 1]
+My Item[6]: Morrigan's leather body [13870, 1]
+Other Item[0]: Coins [995, 93000000]
+Other Item[1]: Eagle-eye kiteshield [18361, 1]
+
+
+
+2015-05-18 03:02:00.421: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 93000000]
+My Item[1]: Morrigan's leather chaps [13873, 1]
+My Item[2]: Armadyl chainskirt [11722, 1]
+My Item[4]: Saradomin godsword [11698, 1]
+My Item[6]: Corrupt statius's warhammer [13926, 1]
+My Item[7]: Dark bow [15704, 1]
+My Item[8]: Steadfast boots [21787, 1]
+My Item[9]: Steadfast boots [21787, 1]
+My Item[10]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+Other Item[2]: Vesta's chainbody [13887, 1]
+Other Item[3]: Vesta's plateskirt [13893, 1]
+Other Item[4]: Korasi's sword [19780, 1]
+
+
+
+2015-05-18 03:03:18.417: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Armadyl chainskirt [11722, 1]
+My Item[1]: Dharok's platelegs [4722, 1]
+My Item[2]: Coins [995, 93000000]
+My Item[3]: Morrigan's leather chaps [13873, 1]
+My Item[4]: Saradomin godsword [11698, 1]
+My Item[5]: Corrupt statius's warhammer [13926, 1]
+My Item[6]: Eagle-eye kiteshield [18361, 1]
+My Item[7]: Steadfast boots [21787, 1]
+My Item[8]: Steadfast boots [21787, 1]
+My Item[9]: Dark bow [15704, 1]
+My Item[10]: Morrigan's leather chaps [13873, 1]
+My Item[11]: Morrigan's leather body [13870, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Vesta's chainbody [13887, 1]
+Other Item[3]: Korasi's sword [19780, 1]
+Other Item[5]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-18 03:05:17.821: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-18 19:27:42.597: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-18 19:29:24.002: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-18 19:36:02.426: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-18 19:36:39.020: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-18 19:37:18.601: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-18 19:54:13.233: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Coins [995, 15000000]
+
+
+
+2015-05-18 19:55:17.421: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Gilded kiteshield [3488, 1]
+
+
+
+2015-05-18 19:56:11.432: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Gilded kiteshield [3488, 1]
+My Item[2]: Coins [995, 10000000]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-05-18 22:23:09.132: [[Gracyez07, oliver4500; 192.0.240.167, 4C-72-B9-DA-14-8C]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-18 22:41:45.148: [[Aleexk3, meghanxx; 125.236.178.70, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-05-18 22:42:42.747: [[Aleexk3, meghanxx; 125.236.178.70, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 2000000]
+Other Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-18 22:43:13.348: [[Aleexk3, meghanxx; 125.236.178.70, 70-F1-A1-C6-AC-2F]]:
+My Item[0]: Coins [995, 4000000]
+Other Item[0]: Coins [995, 4000000]
+
+
+
+2015-05-18 23:06:44.548: [[C R I M V2, streamers1; 108.170.176.135, 94-0C-6D-E4-FE-D9]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Vote Ticket [13256, 1]
+My Item[2]: Vote Ticket [13256, 1]
+My Item[3]: Vote Ticket [13256, 1]
+My Item[4]: Vote Ticket [13256, 1]
+My Item[5]: Vote Ticket [13256, 1]
+My Item[6]: Vote Ticket [13256, 1]
+My Item[7]: Vote Ticket [13256, 1]
+Other Item[0]: Vote Ticket [13256, 1]
+Other Item[1]: Vote Ticket [13256, 1]
+Other Item[2]: Vote Ticket [13256, 1]
+Other Item[3]: Vote Ticket [13256, 1]
+Other Item[4]: Vote Ticket [13256, 1]
+Other Item[5]: Vote Ticket [13256, 1]
+Other Item[6]: Vote Ticket [13256, 1]
+Other Item[7]: Vote Ticket [13256, 1]
+
+
+
+2015-05-19 13:11:41.933: [[Rozza123, whitephat; 176.24.69.19, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 13:12:11.932: [[Rozza123, whitephat; 176.24.69.19, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 13:12:51.532: [[Rozza123, whitephat; 176.24.69.19, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 13:13:32.933: [[Rozza123, whitephat; 176.24.69.19, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 13:15:04.748: [[Rozza123, whitephat; 176.24.69.19, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-20 01:21:19.093: [[Newname, bigbootyhoe; 24.177.111.2, AC-B5-7D-07-83-AA]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Spectral spirit shield [13744, 1]
+Other Item[0]: Coins [995, 280000000]
+
+
+
+2015-05-20 02:03:53.932: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-20 02:04:29.333: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-20 02:05:02.330: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-20 02:06:20.932: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Coins [995, 82000000]
+Other Item[0]: Coins [995, 82000000]
+
+
+
+2015-05-20 02:07:04.144: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Statius's platebody [13884, 1]
+My Item[1]: Statius's platelegs [13890, 1]
+Other Item[0]: Coins [995, 170000000]
+
+
+
+2015-05-20 02:07:59.934: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Statius's platebody [13884, 1]
+My Item[1]: Statius's platelegs [13890, 1]
+Other Item[0]: Coins [995, 120000000]
+Other Item[1]: Vesta's spear [13905, 1]
+Other Item[2]: Ragefire boots [21793, 1]
+
+
+
+2015-05-20 02:09:23.348: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Statius's platebody [13884, 1]
+My Item[1]: Statius's platelegs [13890, 1]
+My Item[2]: Ragefire boots [21793, 1]
+Other Item[0]: Coins [995, 160000000]
+Other Item[1]: Vesta's spear [13905, 1]
+Other Item[2]: Zuriel's robe bottom [13861, 1]
+
+
+
+2015-05-20 02:12:24.545: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Coins [995, 38000000]
+My Item[1]: Statius's platebody [13884, 1]
+My Item[2]: Statius's platelegs [13890, 1]
+Other Item[0]: Coins [995, 208000000]
+
+
+
+2015-05-20 02:14:56.346: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+My Item[1]: Ragefire boots [21793, 1]
+My Item[2]: Vesta's spear [13905, 1]
+Other Item[0]: Statius's platebody [13884, 1]
+Other Item[1]: Statius's platelegs [13890, 1]
+Other Item[2]: Coins [995, 45000000]
+
+
+
+2015-05-20 02:15:31.745: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Zuriel's robe bottom [13861, 1]
+My Item[1]: Dragon claws [14484, 1]
+My Item[2]: Abyssal whip [15441, 1]
+Other Item[0]: Coins [995, 95000000]
+
+
+
+2015-05-20 02:15:59.339: [[Chaozios, Devon0132; 64.180.220.251, 3C-15-C2-ED-F5-26]]:
+My Item[0]: Zuriel's robe bottom [13861, 1]
+My Item[1]: Dragon claws [14484, 1]
+My Item[2]: Abyssal whip [15441, 1]
+Other Item[0]: Coins [995, 95000000]
+
+
+
+2015-05-20 18:48:23.533: [[Olafiron, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-20 20:18:16.401: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-20 20:19:05.601: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-20 20:21:05.619: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Coins [995, 40000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-20 20:21:59.033: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 80710729]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-20 20:23:43.419: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-20 20:25:19.433: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-20 20:26:28.421: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 110000000]
+Other Item[0]: Coins [995, 110000000]
+
+
+
+2015-05-20 20:28:05.017: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 100639000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-20 20:28:46.396: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-20 20:29:34.417: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 75710729]
+Other Item[0]: Coins [995, 75710728]
+
+
+
+2015-05-20 20:35:48.832: [[Knock Knock, jojo789; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Flameburst defender [17273, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Coins [995, 35000000]
+Other Item[0]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-20 20:36:20.022: [[Knock Knock, jojo789; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Dragon boots [11732, 1]
+My Item[1]: Flameburst defender [17273, 1]
+My Item[2]: Coins [995, 35000000]
+Other Item[0]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-20 20:42:38.023: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Black cavalier [2643, 1]
+
+
+
+2015-05-20 20:43:14.632: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Black cavalier [2643, 1]
+
+
+
+2015-05-21 02:24:13.702: [[Tolerated, mickerman12; 64.39.181.209, AC-81-12-AE-C0-52]]:
+
+
+
+2015-05-21 02:24:59.896: [[Tolerated, mickerman12; 64.39.181.209, AC-81-12-AE-C0-52]]:
+
+
+
+2015-05-22 02:14:31.248: [[Noli Ftw, pakokosare; 46.99.37.82, 00-1F-3C-75-90-73]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Bandos boots [11728, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-22 02:18:24.079: [[Noli Ftw, pakokosare; 46.99.37.82, 00-1F-3C-75-90-73]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 90000000]
+
+
+
+2015-05-22 02:20:47.480: [[Noli Ftw, pakokosare; 46.99.37.82, 00-1F-3C-75-90-73]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 90000000]
+
+
+
+2015-05-22 02:21:59.441: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Amulet of fury [6585, 1]
+My Item[3]: Coins [995, 90000000]
+My Item[4]: Abyssal whip [4151, 1]
+My Item[5]: Abyssal whip [15441, 1]
+Other Item[0]: Virtus mask [20159, 1]
+
+
+
+2015-05-23 02:11:34.795: [[Dr Phill, D0peisfun; 99.27.36.88, 9C-B7-0D-77-35-F7]]:
+My Item[0]: Coins [995, 53000000]
+Other Item[0]: Coins [995, 53959081]
+
+
+
+2015-05-23 02:12:06.595: [[Dr Phill, D0peisfun; 99.27.36.88, 9C-B7-0D-77-35-F7]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000020]
+
+
+
+2015-05-23 02:12:28.786: [[Dr Phill, D0peisfun; 99.27.36.88, 9C-B7-0D-77-35-F7]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-24 14:59:58.695: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-24 15:01:22.702: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-24 15:02:14.902: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-24 15:02:48.495: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-24 15:03:57.495: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-24 15:04:33.501: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-24 15:05:44.895: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-24 15:06:34.101: [[Chief, scaryshit123; 92.232.67.78, 00-1E-2A-B1-99-84]]:
+My Item[0]: Coins [995, 31000000]
+Other Item[0]: Coins [995, 30989545]
+
+
+
+2015-05-24 15:07:48.495: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-05-24 15:08:24.501: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-05-24 15:09:01.694: [[L2iron Man, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-24 15:10:41.295: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Coins [995, 150000000]
+Other Item[3]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-24 15:11:58.095: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-24 15:20:55.116: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Elysian spirit shield [13742, 1]
+Other Item[1]: Coins [995, 230000000]
+
+
+
+2015-05-24 15:36:07.122: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-05-24 15:38:17.917: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-24 15:39:14.943: [[Young Nite, adgangskode; 91.144.231.131, 90-48-9A-7D-24-BB]]:
+My Item[0]: Coins [995, 90000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[2]: Coins [995, 20000000]
+
+
+
+2015-05-24 15:51:07.741: [[L2iron Man, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Zamorakian spear [11716, 1]
+Other Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-05-24 15:56:17.348: [[Get Wet Kids, altoids; 86.180.74.92, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000291]
+
+
+
+2015-05-24 16:40:04.194: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Ragefire boots [21793, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+My Item[3]: Abyssal whip [4151, 1]
+Other Item[0]: Third-age full helmet [10351, 1]
+
+
+
+2015-05-24 19:36:11.512: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-24 19:38:21.713: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-24 19:40:09.717: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Flameburst defender [17273, 1]
+My Item[1]: Godsword shard 1 [11710, 1]
+My Item[2]: Saradomin halo [18745, 1]
+My Item[3]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-25 01:03:20.763: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-05-25 01:03:51.363: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-05-25 01:09:05.767: [[Webtastic, titleistboy; 73.208.100.11, 5C-F9-38-9F-78-28]]:
+My Item[0]: Dragon claws [14484, 1]
+My Item[1]: Coins [995, 30000000]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-25 01:09:48.995: [[Webtastic, titleistboy; 73.208.100.11, 5C-F9-38-9F-78-28]]:
+My Item[0]: Coins [995, 30000000]
+My Item[1]: Dragon claws [14484, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-25 01:11:30.395: [[Webtastic, titleistboy; 73.208.100.11, 5C-F9-38-9F-78-28]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-25 01:12:29.768: [[Webtastic, titleistboy; 73.208.100.11, 5C-F9-38-9F-78-28]]:
+My Item[0]: Coins [995, 30000000]
+My Item[1]: Dragon claws [14484, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-25 01:14:03.395: [[Webtastic, titleistboy; 73.208.100.11, 5C-F9-38-9F-78-28]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-25 01:14:53.795: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-25 01:15:29.795: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-25 01:16:30.395: [[Ddsman713, 082313chrislove; 50.158.201.223, D8-CB-8A-33-11-E3]]:
+My Item[0]: Vesta's plateskirt [13893, 1]
+My Item[1]: Coins [995, 10000000]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[1]: Corrupt vesta's longsword [13923, 1]
+Other Item[2]: Dragon platebody [14479, 1]
+Other Item[3]: Dragon full helm [11335, 1]
+
+
+
+2015-05-25 02:54:10.057: [[Wizardluck2, mad12ison; 67.248.112.241, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 21000000]
+Other Item[0]: Coins [995, 21000000]
+
+
+
+2015-05-25 03:02:01.067: [[Wizardluck2, mad12ison; 67.248.112.241, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-25 03:03:29.260: [[Get Wet Kids, altoids; 86.180.74.92, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Corrupt vesta's longsword [13924, 1]
+
+
+
+2015-05-25 13:32:00.963: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Corrupt vesta's longsword [13923, 1]
+My Item[1]: Coins [995, 20000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-25 13:32:47.764: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 70000000]
+My Item[1]: Guthix platebody [2669, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-25 13:34:40.564: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-25 13:36:40.564: [[Baked Player, hj1264; 73.1.155.200, 08-ED-B9-20-C0-6B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-25 13:44:15.965: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 10000000]
+My Item[1]: Guthix platebody [2669, 1]
+Other Item[0]: Coins [995, 6000000]
+Other Item[1]: Bandos boots [11728, 1]
+
+
+
+2015-05-25 13:46:03.963: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 35000000]
+My Item[1]: Vote Ticket [13256, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-25 17:58:02.364: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Zamorakian spear [11716, 1]
+Other Item[0]: Gilded plateskirt [3485, 1]
+
+
+
+2015-05-25 17:59:53.375: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Zamorakian spear [11716, 1]
+Other Item[0]: Gilded plateskirt [3485, 1]
+
+
+
+2015-05-25 18:00:21.569: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Zamorakian spear [11716, 1]
+Other Item[0]: Gilded plateskirt [3485, 1]
+
+
+
+2015-05-25 18:00:50.969: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Zamorakian spear [11716, 1]
+Other Item[0]: Gilded plateskirt [3485, 1]
+
+
+
+2015-05-25 18:02:00.570: [[Star, w1w2w3w4; 68.235.104.2, D4-85-64-17-8A-73]]:
+My Item[0]: Coins [995, 62000000]
+Other Item[9]: Coins [995, 62102085]
+
+
+
+2015-05-25 18:02:55.764: [[Star, w1w2w3w4; 68.235.104.2, D4-85-64-17-8A-73]]:
+My Item[0]: Coins [995, 38000000]
+Other Item[0]: Coins [995, 38000000]
+
+
+
+2015-05-25 18:04:07.764: [[Star, w1w2w3w4; 68.235.104.2, D4-85-64-17-8A-73]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-25 18:05:10.148: [[Star, w1w2w3w4; 68.235.104.2, D4-85-64-17-8A-73]]:
+My Item[0]: Coins [995, 36000000]
+Other Item[0]: Coins [995, 36102085]
+
+
+
+2015-05-25 18:05:34.170: [[Star, w1w2w3w4; 68.235.104.2, D4-85-64-17-8A-73]]:
+My Item[0]: Coins [995, 72000000]
+Other Item[0]: Coins [995, 72102085]
+
+
+
+2015-05-25 18:06:05.395: [[Star, w1w2w3w4; 68.235.104.2, D4-85-64-17-8A-73]]:
+My Item[0]: Coins [995, 72000000]
+Other Item[0]: Coins [995, 72102085]
+
+
+
+2015-05-25 18:14:19.795: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Gilded plateskirt [3485, 1]
+Other Item[1]: Zamorakian spear [11717, 2]
+Other Item[2]: Zamorakian spear [11716, 1]
+Other Item[3]: Morrigan's leather body [13871, 2]
+Other Item[4]: Armadyl helmet [11719, 2]
+Other Item[5]: Zamorakian spear [11716, 1]
+
+
+
+2015-05-25 18:17:51.564: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Zamorakian spear [11717, 2]
+My Item[1]: Zamorakian spear [11716, 1]
+My Item[2]: Zamorakian spear [11716, 1]
+My Item[3]: Gilded plateskirt [3485, 1]
+My Item[4]: Armadyl helmet [11719, 2]
+My Item[5]: Morrigan's leather body [13871, 2]
+My Item[6]: Coins [995, 50000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Saradomin godsword [11698, 1]
+Other Item[2]: Zamorak godsword [11700, 1]
+Other Item[3]: Saradomin sword [11730, 1]
+
+
+
+2015-05-25 18:20:40.164: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Saradomin godsword [11698, 1]
+My Item[2]: Zamorak godsword [11700, 1]
+My Item[3]: Armadyl helmet [11719, 2]
+My Item[4]: Faithful shield [18747, 1]
+My Item[5]: Faithful shield [18747, 1]
+My Item[6]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 134837416]
+Other Item[1]: Tan cavalier [2639, 1]
+Other Item[2]: Green boater [10762, 1]
+Other Item[3]: Rune boots [4131, 1]
+Other Item[4]: Dragon boots [11732, 1]
+Other Item[5]: Saradomin sword [11730, 1]
+Other Item[6]: Armadyl godsword [11694, 1]
+Other Item[7]: Dragon boots [11732, 1]
+
+
+
+2015-05-25 18:21:45.564: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Zamorakian spear [11717, 2]
+My Item[1]: Zamorakian spear [11716, 1]
+My Item[2]: Zamorakian spear [11716, 1]
+My Item[3]: Gilded plateskirt [3485, 1]
+My Item[4]: Morrigan's leather body [13871, 2]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-25 18:22:18.566: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Zamorakian spear [11717, 2]
+My Item[1]: Zamorakian spear [11716, 1]
+My Item[2]: Gilded plateskirt [3485, 1]
+My Item[3]: Zamorakian spear [11716, 1]
+My Item[4]: Morrigan's leather body [13871, 2]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-25 18:30:02.995: [[Beware, teddy2013; 86.0.49.249, 74-DE-2B-8B-6E-7C]]:
+My Item[0]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 49000000]
+
+
+
+2015-05-25 18:38:05.429: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-26 01:06:01.648: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 10680157]
+Other Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-05-26 01:09:19.624: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Abyssal vine whip [21372, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-26 01:10:42.440: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Coins [995, 24000000]
+My Item[2]: Amulet of fury [6585, 1]
+My Item[3]: Dragon boots [11732, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-26 02:43:29.295: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Armadyl helmet [11718, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-26 02:44:41.339: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-26 17:35:01.839: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-26 17:35:45.638: [[Hot Bars, tristan; 72.193.37.244, 84-A6-C8-E1-67-2A]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-26 17:37:57.017: [[Clownfish, william7; 213.21.83.21, 44-6D-57-EC-1F-F4]]:
+
+
+
+2015-05-26 17:47:10.848: [[Clownfish, william7; 213.21.83.21, 44-6D-57-EC-1F-F4]]:
+
+
+
+2015-05-26 17:48:01.237: [[Clownfish, william7; 213.21.83.21, 44-6D-57-EC-1F-F4]]:
+
+
+
+2015-05-26 17:48:27.648: [[Clownfish, william7; 213.21.83.21, 44-6D-57-EC-1F-F4]]:
+
+
+
+2015-05-28 02:22:59.163: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 34000000]
+Other Item[1]: Coins [995, 34203900]
+
+
+
+2015-05-28 02:25:06.963: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 66000000]
+Other Item[0]: Coins [995, 66000000]
+
+
+
+2015-05-28 02:27:02.163: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 325000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-28 18:28:50.939: [[Jebotar, dj2jn3ub; 142.166.133.252, AC-B5-7D-6C-47-37]]:
+My Item[0]: Coins [995, 7000000]
+My Item[1]: Vote Ticket [13256, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-28 18:29:19.739: [[Jebotar, dj2jn3ub; 142.166.133.252, AC-B5-7D-6C-47-37]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-28 18:36:48.537: [[Xp Lamp, tyler1996; 74.82.232.15, 00-23-4D-A7-AD-22]]:
+
+
+
+2015-05-28 18:36:49.126: [[Xp Lamp, tyler1996; 74.82.232.15, 00-23-4D-A7-AD-22]]:
+
+
+
+2015-05-28 18:43:58.747: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[2]: Coins [995, 5000000]
+Other Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-05-29 19:13:22.514: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-29 19:21:23.101: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-05-30 13:49:29.992: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-30 13:50:45.592: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 12000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-30 13:51:16.792: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 13000000]
+Other Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-30 13:52:18.002: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 9000000]
+Other Item[0]: Coins [995, 9000000]
+
+
+
+2015-05-30 13:52:44.401: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 9000000]
+Other Item[0]: Coins [995, 9000000]
+
+
+
+2015-05-30 13:56:53.995: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 7000000]
+Other Item[0]: Coins [995, 4000000]
+Other Item[1]: Warrior ring [6735, 1]
+
+
+
+2015-05-30 13:58:57.001: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Warrior ring [6735, 1]
+My Item[1]: Vote Ticket [13256, 1]
+My Item[2]: Vote Ticket [13256, 1]
+My Item[3]: Coins [995, 46000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-30 14:34:55.839: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 37000000]
+Other Item[0]: Coins [995, 37000000]
+
+
+
+2015-05-30 14:35:37.248: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 37000000]
+Other Item[0]: Coins [995, 37000000]
+
+
+
+2015-05-30 14:36:07.232: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Coins [995, 74000000]
+Other Item[0]: Coins [995, 74000000]
+
+
+
+2015-05-31 02:14:25.166: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-31 02:14:55.771: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-31 02:15:24.595: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-31 19:38:48.204: [[So Wet, software; 176.25.236.149, EC-1A-59-C1-EA-AB]]:
+My Item[0]: Coins [995, 2000000]
+Other Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-31 19:40:03.821: [[U 8 To L8, boy10; 50.162.50.116, 00-24-21-D0-73-E4]]:
+My Item[0]: Coins [995, 34000000]
+
+
+
+2015-06-01 12:24:51.989: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-02 01:33:48.415: [[Not Katie, lillyrose1262011; 188.30.31.156, None]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-02 01:37:08.812: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-02 01:40:52.615: [[Not Katie, lillyrose1262011; 188.30.31.156, None]]:
+My Item[0]: Coins [995, 62000000]
+Other Item[0]: Coins [995, 62000000]
+
+
+
+2015-06-02 01:41:53.214: [[Not Katie, lillyrose1262011; 188.30.31.156, None]]:
+My Item[0]: Coins [995, 180000000]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-06-02 02:33:14.248: [[Get Owned, jordan1; 24.166.248.76, 84-4B-F5-46-39-7D]]:
+My Item[0]: Coins [995, 44000000]
+
+
+
+2015-06-02 12:36:56.140: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Arcane spirit shield [13738, 1]
+Other Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-06-02 15:22:50.867: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:23:28.682: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:23:53.268: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:24:46.068: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:31:23.867: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 103000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:32:18.471: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:33:05.271: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:33:42.551: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-02 15:34:58.071: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 170000000]
+Other Item[0]: Coins [995, 170000000]
+
+
+
+2015-06-02 15:35:31.105: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 130000000]
+Other Item[0]: Coins [995, 130000000]
+
+
+
+2015-06-02 15:36:08.890: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 110000000]
+Other Item[0]: Coins [995, 110000000]
+
+
+
+2015-06-02 15:48:30.489: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-02 15:53:08.883: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-02 15:55:44.320: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 15:56:22.689: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-02 15:57:36.510: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Arcane stream necklace [18335, 1]
+My Item[2]: Dark bow [11235, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-02 15:59:34.689: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Dark bow [11235, 1]
+My Item[2]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-02 16:00:18.490: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-02 16:03:32.306: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Arcane stream necklace [18335, 1]
+My Item[2]: Dark bow [11235, 1]
+My Item[3]: Coins [995, 80000000]
+
+
+
+2015-06-02 16:25:05.312: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 1000000]
+
+
+
+2015-06-02 16:29:36.521: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-02 16:30:01.719: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-06-02 16:30:49.717: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Arcane stream necklace [18335, 1]
+My Item[2]: Dark bow [11235, 1]
+
+
+
+2015-06-02 16:33:37.121: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 45000000]
+
+
+
+2015-06-02 16:34:00.518: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+My Item[0]: Coins [995, 45000000]
+
+
+
+2015-06-02 16:35:12.520: [[Maxjch, chelsea8; 87.112.243.171, 64-66-B3-25-39-B3]]:
+
+
+
+2015-06-02 16:40:34.710: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-06-02 17:04:50.325: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-02 17:05:50.325: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-02 17:07:04.736: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Warrior ring [6735, 1]
+
+
+
+2015-06-02 17:07:26.327: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Warrior ring [6735, 1]
+
+
+
+2015-06-03 01:06:23.104: [[Jello Shot, bignarb; 99.126.49.150, A4-DB-30-6F-BA-D1]]:
+My Item[0]: Dharok's platelegs 0 [4902, 1]
+Other Item[0]: Dharok's platelegs 0 [4902, 1]
+
+
+
+2015-06-03 01:12:41.152: [[Jello Shot, bignarb; 99.126.49.150, A4-DB-30-6F-BA-D1]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Warrior ring [6736, 1]
+Other Item[1]: Coins [995, 28000000]
+
+
+
+2015-06-03 01:33:27.336: [[Jello Shot, bignarb; 99.126.49.150, A4-DB-30-6F-BA-D1]]:
+My Item[0]: Dharok's platelegs 0 [4902, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-06-03 19:21:25.739: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-03 19:21:57.539: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-03 20:06:02.386: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:06:27.566: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:07:11.971: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:07:35.371: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-06-03 20:08:32.383: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:08:51.568: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:09:31.768: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:10:14.968: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:10:29.370: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:11:32.370: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-06-03 20:19:43.805: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+My Item[1]: Coins [995, 50000000]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-03 20:20:09.590: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-03 20:20:33.591: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 01:11:20.613: [[Wtf Dog Face, vscluby123; 165.228.43.250, 98-FE-94-50-34-90]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chainskirt [11722, 1]
+Other Item[2]: Armadyl chestplate [11720, 1]
+
+
+
+2015-06-04 01:11:55.389: [[Wtf Dog Face, vscluby123; 165.228.43.250, 98-FE-94-50-34-90]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-06-04 01:12:26.013: [[Wtf Dog Face, vscluby123; 165.228.43.250, 98-FE-94-50-34-90]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chainskirt [11722, 1]
+Other Item[2]: Armadyl chestplate [11720, 1]
+
+
+
+2015-06-04 01:14:51.812: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 01:27:33.212: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Armadyl helmet [11718, 1]
+My Item[2]: Armadyl chestplate [11720, 1]
+My Item[3]: Armadyl chainskirt [11722, 1]
+Other Item[0]: Coins [995, 175000000]
+
+
+
+2015-06-04 01:41:29.039: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Coins [995, 10000000]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[16]: Amulet of fury [6585, 1]
+Other Item[18]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 01:42:02.639: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Coins [995, 10000000]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Amulet of fury [6585, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 01:42:41.039: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-04 01:43:07.439: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-04 01:43:34.439: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-04 01:44:12.239: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 02:38:36.269: [[Sleda, taraska7; 115.70.238.46, DC-85-DE-61-13-7A]]:
+My Item[0]: Coins [995, 100000000]
+My Item[1]: Korasi's sword [19780, 1]
+Other Item[0]: Arcane spirit shield [13738, 1]
+
+
+
+2015-06-04 02:40:59.075: [[Sleda, taraska7; 115.70.238.46, DC-85-DE-61-13-7A]]:
+My Item[0]: Virtus robe legs [20167, 1]
+Other Item[0]: Arcane spirit shield [13738, 1]
+Other Item[1]: Coins [995, 100000000]
+Other Item[2]: Korasi's sword [19780, 1]
+Other Item[3]: Amulet of fury [6585, 1]
+Other Item[4]: Dark bow [15704, 1]
+Other Item[5]: Amulet of fury [6585, 1]
+Other Item[6]: Dragonfire shield [11283, 1]
+Other Item[7]: Archers' ring [6733, 1]
+Other Item[8]: Torag's helm 0 [4956, 1]
+Other Item[9]: Torag's platebody 0 [4968, 1]
+
+
+
+2015-06-04 12:27:29.139: [[Calsta, coventry; 86.174.209.86, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[1]: Fighter torso [10551, 1]
+
+
+
+2015-06-04 12:27:59.139: [[Calsta, coventry; 86.174.209.86, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 19:39:40.891: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+
+
+
+2015-06-04 19:40:42.691: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Dragon pickaxe [15259, 1]
+Other Item[1]: Dragon pickaxe [15259, 1]
+
+
+
+2015-06-04 19:43:42.091: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Dragon pickaxe [15259, 1]
+My Item[1]: Dragon pickaxe [15259, 1]
+Other Item[0]: Dharok's platebody [4720, 1]
+Other Item[1]: Berserker ring [6737, 1]
+Other Item[2]: Amulet of fury [6585, 1]
+Other Item[3]: Dharok's greataxe [4718, 1]
+Other Item[4]: Dragon hatchet [6739, 1]
+
+
+
+2015-06-04 19:46:01.285: [[Mrshane, steven98; 94.214.123.50, 7A-79-19-14-5C-2C]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15441, 1]
+Other Item[4]: Full slayer helmet [15492, 1]
+Other Item[5]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-04 19:53:12.101: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-04 19:54:01.293: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 160000000]
+My Item[1]: Full slayer helmet [15492, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-06-04 19:54:48.073: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Abyssal whip [15441, 1]
+My Item[3]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-06-04 19:55:22.301: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Abyssal whip [15441, 1]
+My Item[3]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-06-04 19:55:43.892: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+My Item[2]: Abyssal whip [15441, 1]
+My Item[3]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-06-04 19:59:10.900: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 20:03:03.723: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 160000000]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-06-04 20:03:54.723: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-05 03:07:17.238: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-06-05 03:07:47.238: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-05 03:08:25.621: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 40000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-05 03:08:46.622: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 40000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-05 03:09:13.039: [[Goog, killzam00; 65.32.57.1, 00-0C-41-5F-DF-6B]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-05 03:12:46.023: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 55000000]
+
+
+
+2015-06-05 03:13:08.220: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 55000000]
+
+
+
+2015-06-05 03:14:08.220: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 105000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 110000000]
+
+
+
+2015-06-05 03:14:37.640: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 105000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 110000000]
+
+
+
+2015-06-05 03:15:10.622: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 105000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 110000000]
+
+
+
+2015-06-05 03:15:55.040: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 105000000]
+Other Item[0]: Coins [995, 105000000]
+
+
+
+2015-06-05 03:16:38.823: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 105000000]
+Other Item[0]: Coins [995, 105000000]
+
+
+
+2015-06-05 18:44:19.772: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl chainskirt [11722, 1]
+Other Item[3]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-05 19:53:38.437: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-06-05 19:56:00.621: [[Gracyez07, oliver4500; 192.0.240.167, 48-D2-24-B2-13-74]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 01:49:55.514: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-06-06 01:50:26.101: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-06-06 01:55:43.520: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-06-06 01:58:13.519: [[War Chief, 11651231165123; 99.120.14.127, D0-DF-9A-47-D0-A1]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 02:09:19.517: [[War Chief, 11651231165123; 99.120.14.127, D0-DF-9A-47-D0-A1]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 02:09:39.923: [[War Chief, 11651231165123; 99.120.14.127, D0-DF-9A-47-D0-A1]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 02:12:17.122: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 125000000]
+
+
+
+2015-06-06 02:14:23.121: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-06 02:15:07.541: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Farseer kiteshield [18363, 1]
+My Item[1]: Dragon platebody [14479, 1]
+My Item[2]: Morrigan's leather chaps [13873, 1]
+My Item[3]: Arcane stream necklace [18335, 1]
+Other Item[0]: Coins [995, 170000000]
+
+
+
+2015-06-06 02:44:31.570: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 02:48:44.742: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:49:22.542: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 02:49:51.341: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 02:50:26.142: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 02:50:56.163: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:51:31.570: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 02:52:00.369: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 02:52:28.563: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 02:53:53.764: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 02:54:14.769: [[Number, drew11; 69.133.159.60, 60-6C-66-13-4B-2E]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 03:01:05.764: [[Nostalgia, gurbaxsingh; 65.92.126.42, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-06 16:57:36.416: [[Donorcha, westeinde282; 84.107.236.248, 24-0A-64-80-7C-0A]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 16:58:11.223: [[Donorcha, westeinde282; 84.107.236.248, 24-0A-64-80-7C-0A]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 16:59:40.622: [[Donorcha, westeinde282; 84.107.236.248, 24-0A-64-80-7C-0A]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 17:02:10.623: [[Akuma, spider0; 108.46.183.103, A0-88-69-81-18-F2]]:
+My Item[0]: Coins [995, 140000000]
+My Item[1]: Infinity boots [6920, 1]
+My Item[2]: Infinity boots [6920, 1]
+My Item[3]: Vote Ticket [13256, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Abyssal vine whip [21372, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Dragon boots [11732, 1]
+Other Item[4]: Strength amulet (t) [10736, 1]
+Other Item[5]: Tzrek-jad [21512, 1]
+Other Item[6]: Coins [995, 1468454]
+Other Item[7]: Golden mining boots [20788, 1]
+Other Item[8]: Nurse hat [6548, 1]
+Other Item[9]: Elemental gloves [20458, 1]
+Other Item[10]: White beret [2637, 1]
+Other Item[11]: Green dye [1771, 1]
+Other Item[12]: Dragon bones [537, 4]
+
+
+
+2015-06-06 17:03:53.223: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 17:05:42.438: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-06 17:09:15.423: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-06 17:09:53.839: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-06-06 17:11:04.038: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Coins [995, 30000000]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Coins [995, 15000000]
+
+
+
+2015-06-06 17:12:32.238: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Coins [995, 15000000]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-06 17:12:57.438: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Coins [995, 15000000]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-06 17:16:17.254: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Abyssal vine whip [21372, 1]
+My Item[2]: Coins [995, 10000000]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 17:17:52.623: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Coins [995, 10000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+

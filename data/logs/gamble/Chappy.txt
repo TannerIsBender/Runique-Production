@@ -1,0 +1,435 @@
+2015-04-15 03:40:45.993: [Im Dizzee]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-15 03:48:04.578: [Ganja Green]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 03:49:41.178: [Ganja Green]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 04:12:26.816: [Ganja Green]:
+
+
+
+2015-04-15 04:15:50.216: [Ganja Green]:
+
+
+
+2015-04-15 04:20:52.017: [Ganja Green]:
+
+
+
+2015-04-15 05:27:23.851: [Freddie007]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-15 05:28:01.662: [Freddie007]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-15 05:28:49.647: [Freddie007]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-15 05:30:28.054: [Freddie007]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-15 05:31:07.647: [Freddie007]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-15 05:31:37.663: [Freddie007]:
+Item[0]: Coins [995, 5000000]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 05:34:43.068: [Rozzab123]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 05:41:48.458: [Rozzab123]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 05:42:23.868: [Rozzab123]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 05:44:58.668: [Makkonen28]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-15 13:01:11.535: [I Am Tommy]:
+
+
+
+2015-04-15 13:01:12.140: [I Am Tommy]:
+
+
+
+2015-04-15 13:04:22.932: [I Am Tommy]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 13:07:06.743: [Dare]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-15 13:08:30.731: [Dare]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-15 13:10:57.143: [Dare]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-04-15 13:18:16.947: [I Am Tommy]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 13:37:16.343: [L2skill]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 13:46:51.153: [L2skill]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-15 14:31:53.592: [Brazy]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon boots [11732, 1]
+
+
+
+2015-04-15 14:46:45.200: [Brazy]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Dragon boots [11732, 1]
+
+
+
+2015-04-15 14:52:12.217: [Ganja Green]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-15 14:56:28.985: [Geordie Lad]:
+Item[0]: Coins [995, 3000000]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon boots [11732, 1]
+
+
+
+2015-04-15 15:02:15.217: [Jenny]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-15 16:57:41.060: [L2skill]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-15 16:59:45.278: [L2skill]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 17:02:16.469: [L2skill]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 17:35:06.285: [L2skill]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-15 17:40:40.484: [Strawhat]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 17:54:45.301: [St3alth Skil]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-15 18:00:25.522: [St3alth Skil]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-15 18:13:57.315: [St3alth Skil]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-15 18:29:26.715: [St3alth Skil]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-15 18:32:22.550: [T Cape]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-15 18:44:20.752: [doflamingo]:
+
+
+
+2015-04-15 18:44:46.530: [doflamingo]:
+
+
+
+2015-04-15 18:45:37.530: [doflamingo]:
+
+
+
+2015-04-15 18:47:29.147: [doflamingo]:
+
+
+
+2015-04-15 18:49:35.147: [doflamingo]:
+
+
+
+2015-04-15 18:51:09.945: [doflamingo]:
+
+
+
+2015-04-15 18:53:39.947: [doflamingo]:
+
+
+
+2015-04-15 19:03:20.141: [Jenny]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-15 19:03:57.340: [Jenny]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Bandos tassets [11726, 1]
+Item[2]: Fighter torso [10551, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Abyssal whip [15441, 1]
+
+
+
+2015-04-15 19:09:31.541: [Jenny]:
+Item[0]: Coins [995, 110000000]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Bandos tassets [11726, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Abyssal whip [15441, 1]
+Item[5]: Abyssal whip [15444, 1]
+
+
+
+2015-04-15 19:21:57.966: [Nostalgia]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Chaotic longsword [18351, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Armadyl hilt [11702, 1]
+Item[5]: Divine spirit shield [13740, 1]
+Item[6]: Bandos tassets [11726, 1]
+Item[7]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-15 19:58:56.165: [Nostalgia]:
+Item[0]: Zamorakian spear [11717, 3]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Zuriel's robe bottom [13862, 1]
+
+
+
+2015-04-15 19:59:38.783: [Nostalgia]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Zamorakian spear [11717, 3]
+Item[2]: Zuriel's robe bottom [13862, 1]
+Item[3]: Fighter torso [10551, 1]
+Item[4]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-16 04:39:36.700: [Darkdestroyr]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 04:41:05.517: [Darkdestroyr]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 04:43:00.101: [Darkdestroyr]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 04:44:10.889: [Darkdestroyr]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 04:46:43.917: [Ganja Green]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 5000000]
+
+
+
+2015-04-16 07:57:53.619: [Miss K]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-16 08:00:13.420: [Nostalgia]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-16 08:00:46.431: [Nostalgia]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-16 08:02:59.647: [Nostalgia]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 08:05:02.631: [Pvp4dayz]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-16 08:05:59.031: [Pvp4dayz]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-16 08:09:24.810: [Pvp4dayz]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 08:13:05.620: [Miss K]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Dharok's helm [4716, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 08:13:57.225: [Miss K]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Dharok's helm [4716, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 08:16:36.231: [Nostalgia]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Coins [995, 15000000]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 08:21:19.432: [Nostalgia]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Dharok's helm [4716, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Abyssal whip [4151, 1]
+Item[4]: Dragon boots [11732, 1]
+Item[5]: Fighter torso [10551, 1]
+Item[6]: Abyssal vine whip [21371, 1]
+Item[7]: Amulet of fury [6585, 1]
+
+
+
+2015-04-16 08:23:05.043: [Nostalgia]:
+Item[0]: Saradomin robe top [10458, 1]
+Item[1]: Saradomin robe legs [10464, 1]
+Item[2]: Infinity boots [6920, 1]
+
+
+
+2015-04-16 08:41:44.647: [Miss K]:
+Item[0]: Dharok's platelegs [4722, 1]
+Item[1]: Dharok's platelegs [4722, 1]
+Item[2]: Ahrim's robetop [4712, 1]
+
+
+
+2015-04-16 08:42:17.643: [Miss K]:
+Item[0]: Dharok's platelegs [4722, 1]
+Item[1]: Ahrim's robetop [4712, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+
+
+
+2015-04-16 09:04:36.868: [Taco Limey]:
+Item[0]: Torag's platebody [4749, 1]
+Item[1]: Torag's platelegs [4751, 1]
+Item[2]: Torag's platebody [4749, 1]
+
+
+

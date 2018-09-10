@@ -1,0 +1,17 @@
+Item Taken: Coins [995, 35000 - position=[2323, 3795, 0]] - 2015-03-24 14:22:49.121
+Item Taken: Coins [995, 35000 - position=[2326, 3793, 0]] - 2015-03-24 14:28:26.320
+Item Taken: Coins [995, 206513 - position=[2671, 3714, 0]] - 2015-03-24 14:39:55.127
+Item Taken: Coins [995, 335202 - position=[2679, 3719, 0]] - 2015-03-24 15:04:29.346
+Item Taken: Big bones [532, 3 - position=[3156, 4278, 3]] - 2015-03-24 15:17:11.957
+Item Taken: Super defence (1) [167, 1 - position=[3570, 9956, 0]] - 2015-03-24 15:28:47.980
+Item Taken: Super attack (1) [149, 1 - position=[3574, 9958, 0]] - 2015-03-24 15:30:58.180
+Item Taken: Bones [526, 1 - position=[3572, 9957, 0]] - 2015-03-25 11:24:03.297
+Item Taken: Antipoison (3) [175, 1 - position=[3172, 2982, 0]] - 2015-03-25 12:29:26.158
+Item Taken: Coins [995, 27468 - position=[2677, 3714, 0]] - 2015-03-25 13:12:54.375
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2673, 3717, 0]] - 2015-03-25 13:14:19.575
+Item Taken: Coins [995, 300392 - position=[2673, 3717, 0]] - 2015-03-25 13:14:21.978
+Item Taken: Coins [995, 394160 - position=[2683, 3719, 0]] - 2015-03-25 13:40:08.195
+Item Taken: Big bones [532, 3 - position=[2578, 9888, 0]] - 2015-03-25 14:26:43.026
+Item Taken: Big bones [532, 3 - position=[2578, 9889, 0]] - 2015-03-25 14:29:29.227
+Item Taken: Big bones [532, 3 - position=[2578, 9889, 0]] - 2015-03-25 14:29:31.027
+Item Taken: Big bones [532, 3 - position=[2578, 9889, 0]] - 2015-03-25 14:29:32.220

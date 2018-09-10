@@ -1,0 +1,31 @@
+2015-04-06 03:10:12.355: [Gang Member]:
+Item[0]: Coins [995, 20000000]
+Item[1]: Godsword shard 1 [11710, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+Item[3]: Zuriel's robe top [13858, 1]
+Item[4]: Third-age mage hat [10342, 1]
+
+
+
+2015-04-10 13:52:49.268: [Kn0gen]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-10 13:53:30.068: [Noig]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-15 18:23:00.916: [Gfme]:
+Item[0]: Vesta's spear [13905, 1]
+Item[1]: Morrigan's coif [13876, 1]
+
+
+
+2015-04-15 18:25:03.331: [Gfme]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Armadyl helmet [11718, 1]
+
+
+
