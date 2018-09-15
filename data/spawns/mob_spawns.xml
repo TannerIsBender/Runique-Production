@@ -1932,6 +1932,166 @@
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
+	<spawn> # defence ezone
+		<id>8270</id>
+		<x>2994</x>
+		<y>2769</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # weapon ezone
+		<id>6527</id>
+		<x>2994</x>
+		<y>2767</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # pure ezone
+		<id>2575</id>
+		<x>2994</x>
+		<y>2765</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # crossbow ezone
+		<id>649</id>
+		<x>2992</x>
+		<y>2769</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # ranged ezone
+		<id>8084</id>
+		<x>2992</x>
+		<y>2767</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # magic ezone
+		<id>1658</id>
+		<x>2990</x>
+		<y>2769</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # rune ezone
+		<id>461</id>
+		<x>2990</x>
+		<y>2767</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # achievements ezone
+		<id>11277</id>
+		<x>2994</x>
+		<y>2784</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # skilling shop ezone
+		<id>57236</id>
+		<x>2994</x>
+		<y>2782</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # boss point shop ezone
+		<id>37</id>
+		<x>2994</x>
+		<y>2780</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # pvm ezone
+		<id>1289</id>
+		<x>2992</x>
+		<y>2784</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Diango ezone
+		<id>970</id>
+		<x>2992</x>
+		<y>2782</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # apprentice smith ezone
+		<id>4904</id>
+		<x>2990</x>
+		<y>2784</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # smithing tutor ezone
+		<id>7959</id>
+		<x>2990</x>
+		<y>2782</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # koschei tutor ezone
+		<id>9119</id>
+		<x>2994</x>
+		<y>2778</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # ethereal ezone
+		<id>4504</id>
+		<x>2992</x>
+		<y>2778</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
 	<spawn> # Max ezone
 		<id>3705</id>
 		<x>2990</x>
@@ -1942,19 +2102,19 @@
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
-	<spawn> # Murcaily ezone
-		<id>50755</id>
-		<x>2913</x>
-		<y>2796</y>
+	<spawn> # Avatar ezone
+		<id>8597</id>
+		<x>2900</x>
+		<y>2793</y>
 		<z>0</z>
 		<face>NORTH</face>
-		<walkDistance>1</walkDistance>
+		<walkDistance>10</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 
 	<spawn> # Filliman Tarlock
 		<id>50943</id>
-		<x>2973</x>
+		<x>2965</x>
 		<y>2781</y>
 		<z>0</z>
 		<face>NORTH</face>
@@ -20562,7 +20722,27 @@
 		<respawnTimer>45</respawnTimer>
 	</spawn>	
 	
-	<spawn> #Lava dragon
+	<spawn> #Ganodermic beast
+		<id>130</id>
+		<x>2254</x>
+		<y>3189</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>	
+		
+	<spawn> #Ganodermic beast
+		<id>130</id>
+		<x>3139</x>
+		<y>3804</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>	
+	
+	<spawn> #Lava Dragon
 		<id>56593</id>
 		<x>3209</x>
 		<y>3848</y>

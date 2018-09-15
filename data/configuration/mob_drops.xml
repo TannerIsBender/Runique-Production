@@ -1418,7 +1418,7 @@
       <drop rolls="0" itemAmount="1" itemId="532" /> # big bones
       <drop rolls="800" itemAmount="2" itemId="4831" itemAmountAddition="1" /> # fayrg
       <drop rolls="800" itemAmount="1450000" itemId="995" itemAmountAddition="1145000" /> # coins
-      <drop rolls="2000" itemAmount="1" itemId="7807" /> # dragon warhammer
+      <drop rolls="2000" itemAmount="1" itemId="50785" /> # dragon warhammer
       <drop rolls="100" itemAmount="1" itemId="4153" /> # granite maul
       <drop rolls="100" itemAmount="1" itemId="14679" /> # granite mace
       <drop rolls="100" itemAmount="1" itemId="11061" /> # ancient mace
@@ -8670,5 +8670,121 @@
       <drop rolls="162" itemAmount="1" itemId="1149" /> #dragon med
       <drop rolls="162" itemAmount="1" itemId="2366" /> #shield left half
       <drop rolls="162" itemAmount="1" itemId="1249" /> #dragon spear
+   </mob>
+   <mob mobId="130"> #Ganodermic Beast
+
+	  <drop rolls="15000" itemAmount="1" itemId="1588" /> #Flaming skull
+	  <drop rolls="15000" itemAmount="1" itemId="1589" /> #Flaming skull
+	  <drop rolls="15000" itemAmount="1" itemId="1590" /> #Flaming skull
+	  <drop rolls="15000" itemAmount="1" itemId="1591" /> #Flaming skull
+	  <drop rolls="3000" itemAmount="1" itemId="17767" /> #Ganodermic beast pet
+	  <drop rolls="1300" itemAmount="1" itemId="1585" /> #Ganodermic visor
+	  <drop rolls="1300" itemAmount="1" itemId="1586" /> #Ganodermic poncho
+	  <drop rolls="1300" itemAmount="1" itemId="1587" /> #Ganodermic leggings
+	  <drop rolls="1700" itemAmount="1" itemId="1584" /> #Polypore staff
+      <drop rolls="200" itemAmount="100000" itemId="995" /> #Coins
+	  <drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
+	  <drop rolls="362" itemAmount="3" itemId="221" /> #eye of newt
+	  <drop rolls="362" itemAmount="3" itemId="1951" /> #RedBerries	
+      <drop rolls="200" itemAmount="145000" itemId="995" /> #Coins
+      <drop rolls="162" itemAmount="50" itemId="1514" itemAmountAddition="100" /> #magic logs
+      <drop rolls="362" itemAmount="20" itemId="2364" itemAmountAddition="10" /> #rune bar
+      <drop rolls="262" itemAmount="40" itemId="2362" itemAmountAddition="30" /> #addy bar
+      <drop rolls="462" itemAmount="25" itemId="452" itemAmountAddition="10" /> #rune ore
+      <drop rolls="262" itemAmount="40" itemId="450" itemAmountAddition="40" /> #addy ore
+      <drop rolls="162" itemAmount="100" itemId="384" itemAmountAddition="50" /> #raw shark
+      <drop rolls="262" itemAmount="5" itemId="537" itemAmountAddition="20" /> #dragon bones
+      <drop rolls="162" itemAmount="800" itemId="565" itemAmountAddition="1450" /> #blood runes
+      <drop rolls="162" itemAmount="800" itemId="560" itemAmountAddition="1450" /> #death runes
+      <drop rolls="162" itemAmount="800" itemId="562" itemAmountAddition="1450" /> #chaos runes
+      <drop rolls="0" itemAmount="1" itemId="592" /> #Ashes
+      
+      <drop rolls="137" itemAmount="750" itemId="890" /> #Adamant arrow
+      <drop rolls="133" itemAmount="250" itemId="9144" /> #Runite bolts
+      <drop rolls="138" itemAmount="1" itemId="1405" /> #Mystic air staff
+      <drop rolls="133" itemAmount="1" itemId="1403" /> #Mystic water staff
+      <drop rolls="173" itemAmount="1" itemId="1407" /> #Mystic earth staff
+      <drop rolls="163" itemAmount="1" itemId="1401" /> #Mystic fire staff
+      <drop rolls="167" itemAmount="1" itemId="4091" /> #Mystic robe top
+      <drop rolls="158" itemAmount="1" itemId="4093" /> #Mystic robe bottom
+      <drop rolls="467" itemAmount="175" itemId="9245" /> #Onyx bolts (e)
+      <drop rolls="267" itemAmount="100" itemId="9245" /> #Onyx bolts (e)
+	  <drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
+      <drop rolls="150" itemAmount="1" itemId="2722" /> #Clue scroll (hard)
+      <drop rolls="200" itemAmount="1" itemId="19043" /> #Clue scroll (elite)
+      <drop rolls="987" itemAmount="1" itemId="13754" /> #Holy elixir
+      <drop rolls="158" itemAmount="1" itemId="989" /> #Crystal key
+      <drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
+      <drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
+      <drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
+      <drop rolls="800" itemAmount="20" itemId="12159" /> #Green charm
+      <drop rolls="800" itemAmount="15" itemId="12160" /> #Crimson charm
+      <drop rolls="0" itemAmount="3" itemId="12158" /> #Gold charm
+      <drop rolls="0" itemAmount="2" itemId="12159" /> #Green charm
+      <drop rolls="0" itemAmount="3" itemId="12160" /> #Crimson charm
+      <drop rolls="0" itemAmount="4" itemId="12163" /> #Blue charm
+	   <drop rolls="161" itemAmount="1450" itemId="556" /> #Air rune
+	   <drop rolls="261" itemAmount="250" itemId="562" itemAmountAddition="2250" /> #Chaos rune
+	   <drop rolls="262" itemAmount="1450" itemId="560" /> #Death rune
+	   <drop rolls="362" itemAmount="1450" itemId="565" /> #Blood rune
+	   <drop rolls="361" itemAmount="1" itemId="464" itemAmountAddition="5" /> #Strange fruit
+	   <drop rolls="175" itemAmount="40" itemId="800" itemAmountAddition="20" /> #grimy guam
+	   <drop rolls="186" itemAmount="100" itemId="202" itemAmountAddition="40" /> #grimy marrentill
+	   <drop rolls="186" itemAmount="100" itemId="204" itemAmountAddition="40" /> #grimy tarromin
+	   <drop rolls="186" itemAmount="60" itemId="206" itemAmountAddition="34" /> #grimy harralander
+	   <drop rolls="188" itemAmount="10" itemId="210" itemAmountAddition="34" /> #grimy irit
+	   <drop rolls="178" itemAmount="5" itemId="212" itemAmountAddition="20" /> #grimy avantoe
+	   <drop rolls="800" itemAmount="2" itemId="214" itemAmountAddition="12" /> #grimy kwuarm
+	   <drop rolls="280" itemAmount="1" itemId="216" itemAmountAddition="20" /> #grimy cadantine
+	   <drop rolls="282" itemAmount="1" itemId="218" itemAmountAddition="20" /> #grimy dwarf weed
+	   <drop rolls="263" itemAmount="1" itemId="208" itemAmountAddition="25" /> #grimy ranarr
+	   <drop rolls="270" itemAmount="2" itemId="2486" itemAmountAddition="10" /> #grimy lantadyme
+	   <drop rolls="152" itemAmount="10" itemId="5297" itemAmountAddition="12" /> #irit seed
+	   <drop rolls="340" itemAmount="1" itemId="5296" itemAmountAddition="3" /> #toadflax seed
+	   <drop rolls="800" itemAmount="1" itemId="5298" itemAmountAddition="12" /> #avantoe seed
+	   <drop rolls="286" itemAmount="1" itemId="5299" itemAmountAddition="2" /> #kwuarm seed
+	   <drop rolls="172" itemAmount="3" itemId="5301" itemAmountAddition="2" /> #cadantine seed
+	   <drop rolls="460" itemAmount="1" itemId="5302" itemAmountAddition="1" /> #lantadyme seed
+	   <drop rolls="290" itemAmount="1" itemId="5303" itemAmountAddition="2" /> #dwarf weed seed
+	   <drop rolls="490" itemAmount="1" itemId="5304" /> #torstol seed
+	   <drop rolls="180" itemAmount="6" itemId="1624" /> #uncut sapphire
+	   <drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
+	   <drop rolls="850" itemAmount="1" itemId="987" /> #loop
+	   <drop rolls="850" itemAmount="1" itemId="985" /> #tooth
+	   <drop rolls="195" itemAmount="3" itemId="1622" /> #uncut emerald
+	   <drop rolls="189" itemAmount="1" itemId="1620" /> #uncut ruby
+	   <drop rolls="800" itemAmount="1" itemId="2364" itemAmountAddition="2" /> #rune bar
+	   <drop rolls="800" itemAmount="2" itemId="2364" itemAmountAddition="2" /> #rune bar
+	   <drop rolls="274" itemAmount="1" itemId="1248" /> #rune spear
+	   <drop rolls="800" itemAmount="1" itemId="1374" /> #rune battleaxe
+	   <drop rolls="310" itemAmount="1" itemId="1320" /> #rune 2h
+	   <drop rolls="288" itemAmount="67" itemId="561" /> #nature rune
+	   <drop rolls="302" itemAmount="2" itemId="1618" itemAmountAddition="3" /> #uncut diamond
+	   <drop rolls="165" itemAmount="10" itemId="830" itemAmountAddition="5" /> #rune jav
+	   <drop rolls="258" itemAmount="40" itemId="829" itemAmountAddition="20" /> #addy jav
+	   <drop rolls="180" itemAmount="1" itemId="1186" /> #rune sq shield
+	   <drop rolls="273" itemAmount="42" itemId="892" itemAmountAddition="20" /> #rune arrow
+	   <drop rolls="152" itemAmount="35" itemId="563" itemAmountAddition="20" /> #law rune
+	   <drop rolls="155" itemAmount="25" itemId="560" itemAmountAddition="20" /> #death rune
+	   <drop rolls="405" itemAmount="1" itemId="1632" /> #uncut dragonstone
+	   <drop rolls="298" itemAmount="2" itemId="1202" /> #rune kite
+	   <drop rolls="800" itemAmount="1" itemId="1149" /> #dragon med
+	   <drop rolls="800" itemAmount="1" itemId="2366" /> #dragon shield left half
+	   <drop rolls="800" itemAmount="1" itemId="2368" /> #dragon right shield
+	   <drop rolls="375" itemAmount="1" itemId="1249" /> #dragon spear
+	   <drop rolls="362" itemAmount="50" itemId="362" /> #Tuna
+	   <drop rolls="362" itemAmount="50" itemId="386" /> #Shark
+      <drop rolls="150" itemAmount="1" itemId="19043" /> # Elite clue scroll
+      <drop rolls="50" itemAmount="1" itemId="2677" /> # Easy clue scroll
+      <drop rolls="100" itemAmount="1" itemId="2801" /> # Medium clue scroll
+      <drop rolls="125" itemAmount="1" itemId="2722" /> # Hard clue scroll
+   </mob>
+	
+	<mob mobId="57546"> #Scavenger Beast
+      <drop rolls="0" itemAmount="1"  itemAmountAddition="13430" itemId="526" /> #bones
+      <drop rolls="2" itemAmount="1"  itemAmountAddition="13430" itemId="526" /> #bones
+      <drop rolls="4" itemAmount="1"  itemAmountAddition="13430" itemId="526" /> #bones
+      <drop rolls="8" itemAmount="1"  itemAmountAddition="13430" itemId="526" /> #bones
+      <drop rolls="10" itemAmount="1" itemAmountAddition="13430" itemId="526" /> #bones
    </mob>
 </mob_drops>

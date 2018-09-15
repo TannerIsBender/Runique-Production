@@ -2,6 +2,18 @@
 <list>
 
 	<shop>
+		<id>67</id>
+		<name>Ava's Shop</name>
+		<currency>org.niobe.model.container.impl.currency.CoinCurrency</currency>
+		
+        <item>
+            <id>10499</id>
+			<amount>2147483647</amount>
+        </item>
+        
+	</shop>
+
+	<shop>
 		<id>66</id>
 		<name>IT Store</name>
 		<currency>org.niobe.model.container.impl.currency.CoinCurrency</currency>
@@ -3026,6 +3038,11 @@
 			<id>21431</id>
 			<amount>100000</amount>
 		</item>
+
+		<item>
+			<id>10551</id>
+			<amount>100000</amount>
+		</item>
 	</shop>
 
 	<shop>
@@ -3321,6 +3338,16 @@
 		
 		<item>
 			<id>299</id>
+			<amount>100000</amount>
+		</item>		
+		
+		<item>
+			<id>15088</id>
+			<amount>100000</amount>
+		</item>
+		
+		<item>
+			<id>15200</id>
 			<amount>100000</amount>
 		</item>
 	</shop>
@@ -8140,6 +8167,41 @@
             <id>22218</id>
             <amount>100</amount>
         </item>
+		<item>
+			<id>21410</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>21411</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>21412</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>21413</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>21414</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>21415</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>21416</id>
+			<amount>100</amount>
+		</item>
+		
     </shop>
 
 	<shop>
