@@ -826,6 +826,7 @@
 		<drop rolls="150" itemAmount="1" itemId="4587" /> # dragon scimitar
 	    <drop rolls="1200" itemAmount="1" itemId="17763" /> # Scorpia's offspring (pet)
 	    <drop rolls="1400" itemAmount="1" itemId="19673" /> # Eye of the warrior
+	    <drop rolls="4000" itemAmount="1" itemId="19673" /> # Blood necklace
 		<drop rolls="150" itemAmount="1" itemId="11090" /> # Phoenix Necklace
 		<drop rolls="1500" itemAmount="1" itemId="11932" /> # Malediction shard 2
 		<drop rolls="140" itemAmount="1" itemId="1113" /> # rune chainbody
@@ -8673,15 +8674,15 @@
    </mob>
    <mob mobId="130"> #Ganodermic Beast
 
-	  <drop rolls="15000" itemAmount="1" itemId="1588" /> #Flaming skull
-	  <drop rolls="15000" itemAmount="1" itemId="1589" /> #Flaming skull
-	  <drop rolls="15000" itemAmount="1" itemId="1590" /> #Flaming skull
-	  <drop rolls="15000" itemAmount="1" itemId="1591" /> #Flaming skull
-	  <drop rolls="3000" itemAmount="1" itemId="17767" /> #Ganodermic beast pet
-	  <drop rolls="1300" itemAmount="1" itemId="1585" /> #Ganodermic visor
-	  <drop rolls="1300" itemAmount="1" itemId="1586" /> #Ganodermic poncho
-	  <drop rolls="1300" itemAmount="1" itemId="1587" /> #Ganodermic leggings
-	  <drop rolls="1700" itemAmount="1" itemId="1584" /> #Polypore staff
+	  <drop rolls="25000" itemAmount="1" itemId="1588" /> #Flaming skull
+	  <drop rolls="25000" itemAmount="1" itemId="1589" /> #Flaming skull
+	  <drop rolls="25000" itemAmount="1" itemId="1590" /> #Flaming skull
+	  <drop rolls="25000" itemAmount="1" itemId="1591" /> #Flaming skull
+	  <drop rolls="5000" itemAmount="1" itemId="17767" /> #Ganodermic beast pet
+	  <drop rolls="2500" itemAmount="1" itemId="1585" /> #Ganodermic visor
+	  <drop rolls="2500" itemAmount="1" itemId="1586" /> #Ganodermic poncho
+	  <drop rolls="2500" itemAmount="1" itemId="1587" /> #Ganodermic leggings
+	  <drop rolls="3000" itemAmount="1" itemId="1584" /> #Polypore staff
       <drop rolls="200" itemAmount="100000" itemId="995" /> #Coins
 	  <drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
 	  <drop rolls="362" itemAmount="3" itemId="221" /> #eye of newt
