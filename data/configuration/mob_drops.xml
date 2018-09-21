@@ -826,7 +826,7 @@
 		<drop rolls="150" itemAmount="1" itemId="4587" /> # dragon scimitar
 	    <drop rolls="1200" itemAmount="1" itemId="17763" /> # Scorpia's offspring (pet)
 	    <drop rolls="1400" itemAmount="1" itemId="19673" /> # Eye of the warrior
-	    <drop rolls="4000" itemAmount="1" itemId="19673" /> # Blood necklace
+	    <drop rolls="4000" itemAmount="1" itemId="15418" /> # Blood necklace
 		<drop rolls="150" itemAmount="1" itemId="11090" /> # Phoenix Necklace
 		<drop rolls="1500" itemAmount="1" itemId="11932" /> # Malediction shard 2
 		<drop rolls="140" itemAmount="1" itemId="1113" /> # rune chainbody
