@@ -1033,7 +1033,7 @@ org.client.Client -> org.client.Client:
     int getAmountColor(long) -> zegfRrzyok7oOnZNa2bQ
     void addParticle(org.client.graphics.particles.Particle) -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
-    void tabToReplyPm() -> lVNAbAYpHAUBn4BGO2vD
+    void tabToReplyPm() -> atlY3JO2fO19pYIoHzm
     void changeAchButton(int) -> GNcrRWqAjsKahmOnium
     java.lang.String capitalize(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String capitalizeFirstLetter(java.lang.String) -> ah7AfEach1iGPyGBvMVe
@@ -1046,10 +1046,10 @@ org.client.Client -> org.client.Client:
     void sendFrame126(java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
     void setTab(int) -> o8LpqlzVuH0BWnvl7Bwf
     void getColorFromCoords(int) -> sUQHpmCLI7NuMrWghLKa
-    void updateCompCapeColors() -> atlY3JO2fO19pYIoHzm
+    void updateCompCapeColors() -> yABUjhrlMPHTRQqt3Ycv
     void randomColor(org.client.interfaces.Interface) -> o8LpqlzVuH0BWnvl7Bwf
-    void putEquipmentOnMatcher() -> yABUjhrlMPHTRQqt3Ycv
-    void clearEquipmentMatcher() -> zh8oI0RNnWnZVLiHv2Tv
+    void putEquipmentOnMatcher() -> zh8oI0RNnWnZVLiHv2Tv
+    void clearEquipmentMatcher() -> FJV2x2qTbgyiGwPlTCuj
     void loadMatcherColors(int) -> GL35SPonMOsEbgBVabqV
     int getAutoCastTrans() -> sUQHpmCLI7NuMrWghLKa
     void setFog(int,int) -> j0lwcLi9yupMwSGMc6Yi
@@ -1059,17 +1059,17 @@ org.client.Client -> org.client.Client:
     void saveCapePreset(int) -> TbzjV2hStiawKSKsFlLA
     org.client.interfaces.Interface getColorBox(int) -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.Interface getInterface(int) -> o8LpqlzVuH0BWnvl7Bwf
-    void updateFogStatus() -> FJV2x2qTbgyiGwPlTCuj
-    void setCustomSprites() -> OVjcPaLDHGLsVlkL0f5e
-    void drawCounterOnScreen() -> xK8ZDrf4aYsrbSudjdm8
+    void updateFogStatus() -> OVjcPaLDHGLsVlkL0f5e
+    void setCustomSprites() -> xK8ZDrf4aYsrbSudjdm8
+    void drawCounterOnScreen() -> XgVOdK5rEJ9e7nwIJrXu
     void saveNote(int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void saveNoteDelete(int) -> j0lwcLi9yupMwSGMc6Yi
     void saveNoteDeleteAll() -> zegfRrzyok7oOnZNa2bQ
     void processTabAreaTooltips(int) -> bCOkWBx1VUBUB0RCww1d
     boolean inWorldMap() -> qxgenLXCcEdxF3gyMXs9
     java.lang.String getClipboardContents() -> zegfRrzyok7oOnZNa2bQ
-    void processMinimapActionsOSRS() -> XgVOdK5rEJ9e7nwIJrXu
-    void processMinimapActions667() -> vvUeHCHbtoMM4m74SemE
+    void processMinimapActionsOSRS() -> vvUeHCHbtoMM4m74SemE
+    void processMinimapActions667() -> KxS76HXEWZAsJhC0Xmku
     void saveGoals(java.lang.String) -> ah7AfEach1iGPyGBvMVe
     void loadGoals(java.lang.String) -> WmaQ5jstFwxwTqaXrTp
     int getOrbX(int) -> o8LpqlzVuH0BWnvl7Bwf
@@ -1085,21 +1085,21 @@ org.client.Client -> org.client.Client:
     void addXP(int,int) -> WmaQ5jstFwxwTqaXrTp
     java.lang.String capitalizeWords(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     void toggleSize$67eb321(int,boolean) -> zegfRrzyok7oOnZNa2bQ
-    void drawUnfixedGame() -> KxS76HXEWZAsJhC0Xmku
-    void updateGameArea() -> nMxkOcan9B07yN23FB7i
-    void updateScreen() -> r3eusMgyl3WRsGMmLXKe
+    void drawUnfixedGame() -> nMxkOcan9B07yN23FB7i
+    void updateGameArea() -> r3eusMgyl3WRsGMmLXKe
+    void updateScreen() -> ySM9kDtoo3yAYeDoFUQx
     java.awt.Component getGameComponent() -> zegfRrzyok7oOnZNa2bQ
     boolean mouseInRegion(int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     boolean mouseInRegion2(int,int,int,int) -> o8LpqlzVuH0BWnvl7Bwf
     boolean clickInRegion(int,int,int,int) -> j0lwcLi9yupMwSGMc6Yi
     boolean menuHasAddFriend(int) -> zegfRrzyok7oOnZNa2bQ
-    void setlectMem() -> ySM9kDtoo3yAYeDoFUQx
+    void setlectMem() -> ft7hHf8eIXN3AI5mic2
     void init() -> init
     void startRunnable(java.lang.Runnable,int) -> zegfRrzyok7oOnZNa2bQ
     java.net.Socket createFileServerSocket(int) -> zegfRrzyok7oOnZNa2bQ
-    void processMenuClick() -> ft7hHf8eIXN3AI5mic2
-    void loadRegion() -> rt5vrgunjQKoxhUgwtVQ
-    void unlinkMRUNodes() -> jFe5Rz8QzysESmfuss9p
+    void processMenuClick() -> rt5vrgunjQKoxhUgwtVQ
+    void loadRegion() -> jFe5Rz8QzysESmfuss9p
+    void unlinkMRUNodes() -> eI3hKv5sQBvLLAhZ9VJi
     void method24(int) -> lVNAbAYpHAUBn4BGO2vD
     void clearInterface(int) -> atlY3JO2fO19pYIoHzm
     void spawnGroundItem(int,int) -> GNcrRWqAjsKahmOnium
@@ -1107,20 +1107,20 @@ org.client.Client -> org.client.Client:
     void summoningActions(java.lang.String,int,int) -> zegfRrzyok7oOnZNa2bQ
     void buildInterfaceMenu(int,org.client.interfaces.Interface,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     void drawScrollbar(int,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
-    void refreshBankTabs() -> eI3hKv5sQBvLLAhZ9VJi
+    void refreshBankTabs() -> dLKI3WIsekcLc7gA5agR
     void drawScrollbar(int,int,int,int,int,boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
     void updateNPCs(org.client.stream.Stream,int) -> zegfRrzyok7oOnZNa2bQ
-    void processChatModeClick667() -> dLKI3WIsekcLc7gA5agR
+    void processChatModeClick667() -> ad5tsUpql5craIAutrnc
     void toggleConfig(int) -> yABUjhrlMPHTRQqt3Ycv
-    void updateEntities() -> ad5tsUpql5craIAutrnc
+    void updateEntities() -> Ijgt3rtBivpAoELJGffV
     void delFriend(long) -> zegfRrzyok7oOnZNa2bQ
-    void drawTabArea() -> Ijgt3rtBivpAoELJGffV
-    void method38() -> nEvgT7qqUFHI0eRdTkPV
+    void drawTabArea() -> nEvgT7qqUFHI0eRdTkPV
+    void method38() -> gAElBqclZtwCEO1fG4sL
     void drawMenu(int,int) -> sUQHpmCLI7NuMrWghLKa
     void addFriend(long) -> o8LpqlzVuH0BWnvl7Bwf
     int method42(int,int,int) -> zegfRrzyok7oOnZNa2bQ
-    void resetLogout() -> gAElBqclZtwCEO1fG4sL
-    void method45() -> Im91UWfMksvaDHWOw5ZZ
+    void resetLogout() -> Im91UWfMksvaDHWOw5ZZ
+    void method45() -> pnJZ1Dg1wWn5IcCxVjiD
     void method46(int,org.client.stream.Stream) -> zegfRrzyok7oOnZNa2bQ
     void processGameLoop() -> o8LpqlzVuH0BWnvl7Bwf
     void method47(boolean) -> ah7AfEach1iGPyGBvMVe
@@ -1130,15 +1130,15 @@ org.client.Client -> org.client.Client:
     void showInterface(int) -> ah7AfEach1iGPyGBvMVe
     void displayLoading(java.lang.String[]) -> zegfRrzyok7oOnZNa2bQ
     java.applet.AppletContext getAppletContext() -> getAppletContext
-    void drawLogo() -> pnJZ1Dg1wWn5IcCxVjiD
+    void drawLogo() -> ciEQZ5eEOLHd2fUpZaqZ
     void openInterface(int) -> zh8oI0RNnWnZVLiHv2Tv
-    void mainGameProcessor() -> ciEQZ5eEOLHd2fUpZaqZ
-    void method63() -> n10dG3nOWoFxVxgtPS0H
-    void resetImageProducers() -> HyVa0Fs8q0dQg2PZhUeq
+    void mainGameProcessor() -> n10dG3nOWoFxVxgtPS0H
+    void method63() -> HyVa0Fs8q0dQg2PZhUeq
+    void resetImageProducers() -> v0eBuYRa67PuHBVoYdQ
     void method65(int,int,int,int,org.client.interfaces.Interface,int,boolean,int) -> zegfRrzyok7oOnZNa2bQ
     boolean calculateGameObjectPath(int,int,int,int) -> ah7AfEach1iGPyGBvMVe
     org.client.cache.Archive getArchive$2b012487(int,java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
-    void dropClient() -> v0eBuYRa67PuHBVoYdQ
+    void dropClient() -> wdBMuMjNSTnWy80ot7XS
     void doAction(int) -> FJV2x2qTbgyiGwPlTCuj
     int getRegionId() -> o8LpqlzVuH0BWnvl7Bwf
     void selectDropDownAction(org.client.interfaces.Interface,int) -> zegfRrzyok7oOnZNa2bQ
@@ -1148,9 +1148,9 @@ org.client.Client -> org.client.Client:
     void editNote$552c4e01() -> j0lwcLi9yupMwSGMc6Yi
     void sendMessage(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void run() -> run
-    void build3dScreenMenu() -> wdBMuMjNSTnWy80ot7XS
+    void build3dScreenMenu() -> MAthegM4WctyQs7Ny5IE
     void cleanUpForQuit() -> ah7AfEach1iGPyGBvMVe
-    void manageTextInput() -> MAthegM4WctyQs7Ny5IE
+    void manageTextInput() -> SAHb4OsvEFyDVabJmQ4N
     boolean contains(java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void sendString(int,java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
     void searchBank(long) -> j0lwcLi9yupMwSGMc6Yi
@@ -1158,16 +1158,16 @@ org.client.Client -> org.client.Client:
     void buildDuelorTrade(int) -> xK8ZDrf4aYsrbSudjdm8
     void buildChatAreaMenu(int) -> XgVOdK5rEJ9e7nwIJrXu
     void drawFriendsListOrWelcomeScreen(org.client.interfaces.Interface) -> j0lwcLi9yupMwSGMc6Yi
-    void drawSplitPrivateChat() -> SAHb4OsvEFyDVabJmQ4N
+    void drawSplitPrivateChat() -> tu0urvakqNRdlsYXyxzI
     void pushMessage(java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void pushMessage$a27b1e1(java.lang.String,java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void pushMessage$7e73afc2(java.lang.String,int,java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void clickTab(int) -> vvUeHCHbtoMM4m74SemE
-    void check() -> tu0urvakqNRdlsYXyxzI
-    void resetImageProducers2() -> PZAN6E5sfBGkw7JdpjtF
+    void check() -> PZAN6E5sfBGkw7JdpjtF
+    void resetImageProducers2() -> knus2gGEJQWa11g3f0x7
     void method81(org.client.image.Sprite,int,int) -> zegfRrzyok7oOnZNa2bQ
-    void rightClickChatButtons667() -> knus2gGEJQWa11g3f0x7
-    void processRightClick() -> ePm9uK271EJkYhDNL8p
+    void rightClickChatButtons667() -> ePm9uK271EJkYhDNL8p
+    void processRightClick() -> p5uTukSgSG7Z2YrxDDrE
     boolean hasCash(long) -> zegfRrzyok7oOnZNa2bQ
     void login(java.lang.String,java.lang.String,boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
     int getCrown(int) -> ah7AfEach1iGPyGBvMVe
@@ -1176,47 +1176,47 @@ org.client.Client -> org.client.Client:
     void buildAtNPCMenu$5bd79733(org.client.npcs.Npc,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     void buildAtPlayerMenu(int,int,org.client.Player,int) -> zegfRrzyok7oOnZNa2bQ
     void method89(org.client.Class30_Sub1) -> zegfRrzyok7oOnZNa2bQ
-    void method90() -> p5uTukSgSG7Z2YrxDDrE
-    void setBanners() -> lwq0ueSd6imK3GYd2bvx
+    void method90() -> lwq0ueSd6imK3GYd2bvx
+    void setBanners() -> mrnWAHEOlecVd6ReRJD
     void drawLoadingText(int,java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     void drawLoad(java.lang.String,int) -> o8LpqlzVuH0BWnvl7Bwf
     void load(java.lang.String) -> GNcrRWqAjsKahmOnium
     void startUp() -> WmaQ5jstFwxwTqaXrTp
     boolean isDeveloper() -> j0lwcLi9yupMwSGMc6Yi
     void mouseWheelDragged(int,int) -> o8LpqlzVuH0BWnvl7Bwf
-    void connectToFileServer() -> mrnWAHEOlecVd6ReRJD
+    void connectToFileServer() -> flZx61NfsNj1kaxsucbq
     void method91(org.client.stream.Stream,int) -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String interfaceIntToString(int) -> j0lwcLi9yupMwSGMc6Yi
     java.net.URL getCodeBase() -> getCodeBase
-    void method95() -> flZx61NfsNj1kaxsucbq
+    void method95() -> es7MHlWXsMmcD8TxrTW
     void method96(org.client.Entity) -> zegfRrzyok7oOnZNa2bQ
-    void drawGameScreen() -> es7MHlWXsMmcD8TxrTW
+    void drawGameScreen() -> MxBpLoaC0M1XuJKYNfPs
     void drawBlackBox(int,int) -> l85AzJRz6lyE4Vl88K5k
-    void refreshScreenOptions() -> MxBpLoaC0M1XuJKYNfPs
+    void refreshScreenOptions() -> zWAOwEOTfwWAqJQRxgc8
     void drawInterface(int,int,org.client.interfaces.Interface,int) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String methodR(int) -> ah7AfEach1iGPyGBvMVe
     void drawHoverBox(int,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void drawInputField(org.client.interfaces.Interface,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
-    void method108() -> zWAOwEOTfwWAqJQRxgc8
+    void method108() -> SyuSLZb9Fbx9JQSDvNFk
     void processDrawing() -> GNcrRWqAjsKahmOnium
     boolean isFriendOrSelf(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
-    void draw3dScreen() -> SyuSLZb9Fbx9JQSDvNFk
-    void drawPouchParts() -> nhbONIUsCU1t6BC4TN55
+    void draw3dScreen() -> nhbONIUsCU1t6BC4TN55
+    void drawPouchParts() -> AEeqCYjhMQEk2cMk2VNc
     java.lang.String insertCommasToNumber(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
     void addIgnore(long) -> ah7AfEach1iGPyGBvMVe
-    void method114() -> AEeqCYjhMQEk2cMk2VNc
-    void method115() -> iXmPvhKyfNqMJVMQF7p2
-    void determineMenuSize() -> cejmDgj7ZUC34hjt8sv0
-    void nullLoader() -> c3iMtA2HMvVh8yOvrpOo
+    void method114() -> iXmPvhKyfNqMJVMQF7p2
+    void method115() -> cejmDgj7ZUC34hjt8sv0
+    void determineMenuSize() -> c3iMtA2HMvVh8yOvrpOo
+    void nullLoader() -> SjZu9XvzgtkxLnklvvGA
     boolean processInterfaceAnimation(int,int) -> zegfRrzyok7oOnZNa2bQ
     int method120() -> GL35SPonMOsEbgBVabqV
     void delIgnore(long) -> WmaQ5jstFwxwTqaXrTp
     java.lang.String getParameter(java.lang.String) -> getParameter
     int extractInterfaceValues(org.client.interfaces.Interface,int) -> zegfRrzyok7oOnZNa2bQ
-    void drawTooltip() -> SjZu9XvzgtkxLnklvvGA
-    void drawMinimap() -> xr6qynXgSObOh91FRYeS
-    void loadOrbs() -> PD5QZilOgQ6N0t4I6tob
-    void renderItemGroundNames() -> rhquBIRqA9AqLbpSYmcZ
+    void drawTooltip() -> xr6qynXgSObOh91FRYeS
+    void drawMinimap() -> PD5QZilOgQ6N0t4I6tob
+    void loadOrbs() -> rhquBIRqA9AqLbpSYmcZ
+    void renderItemGroundNames() -> i7nhOQVIkAqNQMBV6yNt
     java.lang.String format(int) -> WmaQ5jstFwxwTqaXrTp
     int getOrbTextColor(int) -> WmaQ5jstFwxwTqaXrTp
     void npcScreenPos(org.client.Entity,int) -> zegfRrzyok7oOnZNa2bQ
@@ -1236,7 +1236,7 @@ org.client.Client -> org.client.Client:
     void updateStrings(java.lang.String,int) -> j0lwcLi9yupMwSGMc6Yi
     void sendPacket185(int,int,int) -> o8LpqlzVuH0BWnvl7Bwf
     void sendFrame36(int,int) -> qxgenLXCcEdxF3gyMXs9
-    void openOptionsInterface() -> i7nhOQVIkAqNQMBV6yNt
+    void openOptionsInterface() -> JvaBhjPEs6EE2wEJUSvJ
     void processObj(java.lang.String) -> sUQHpmCLI7NuMrWghLKa
     void sendFrame248(int,int) -> TbzjV2hStiawKSKsFlLA
     boolean parsePacket() -> bCOkWBx1VUBUB0RCww1d
@@ -1249,9 +1249,9 @@ org.client.Client -> org.client.Client:
     void sendShopValue(int) -> KxS76HXEWZAsJhC0Xmku
     void sendShopSellValue(int) -> nMxkOcan9B07yN23FB7i
     void animateTextures(int) -> r3eusMgyl3WRsGMmLXKe
-    void clearTopInterfaces() -> JvaBhjPEs6EE2wEJUSvJ
+    void clearTopInterfaces() -> qxgenLXCcEdxF3gyMXs9
     void summoningInterfaceUpdate(java.lang.String,int) -> ah7AfEach1iGPyGBvMVe
-    void uLinkNodes() -> qxgenLXCcEdxF3gyMXs9
+    void uLinkNodes() -> TbzjV2hStiawKSKsFlLA
     void executeInput(int,int) -> atlY3JO2fO19pYIoHzm
     void setText(java.lang.String) -> l85AzJRz6lyE4Vl88K5k
     boolean chatStateCheck() -> lVNAbAYpHAUBn4BGO2vD
@@ -1270,7 +1270,7 @@ org.client.Client -> org.client.Client:
     void drawConsoleArea() -> deHMOLn15PfEwXRYVnD
     void consoleMessage(java.lang.String,boolean) -> zegfRrzyok7oOnZNa2bQ
     void performCommand(java.lang.String) -> qxgenLXCcEdxF3gyMXs9
-    void updateColored() -> TbzjV2hStiawKSKsFlLA
+    void updateColored() -> bCOkWBx1VUBUB0RCww1d
     void drawTooltipHover(int,int) -> yABUjhrlMPHTRQqt3Ycv
     void launchURL(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     void openUrl(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
@@ -1470,7 +1470,7 @@ org.client.GameRenderer -> org.client.MvrjpQ6GsfNB4fXMifcb:
     void <init>() -> <init>
     void updateGraphics(boolean) -> zegfRrzyok7oOnZNa2bQ
     void run() -> run
-    void exit() -> bCOkWBx1VUBUB0RCww1d
+    void exit() -> lVNAbAYpHAUBn4BGO2vD
     void method4(int) -> WmaQ5jstFwxwTqaXrTp
     void start() -> start
     void stop() -> stop
@@ -5372,6 +5372,7 @@ org.client.items.Item -> org.client.kkk8LpX7kQCcAAtAkeZn.i280lUpkLge7fC1AJULi:
     void setActions(int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     int[] getEditedModelColor() -> zegfRrzyok7oOnZNa2bQ
     void setEditedModelColor(int[]) -> zegfRrzyok7oOnZNa2bQ
+    int[] getNewModelColor() -> o8LpqlzVuH0BWnvl7Bwf
     void setNewModelColor(int[]) -> o8LpqlzVuH0BWnvl7Bwf
     void setEditedModelColor(int,int) -> zegfRrzyok7oOnZNa2bQ
     void setNewModelColor(int,int) -> o8LpqlzVuH0BWnvl7Bwf
@@ -5393,9 +5394,9 @@ org.client.items.Item -> org.client.kkk8LpX7kQCcAAtAkeZn.i280lUpkLge7fC1AJULi:
     void setNoteId(int) -> vvUeHCHbtoMM4m74SemE
     int getNoteTemplateId() -> yABUjhrlMPHTRQqt3Ycv
     void setNoteTemplateId(int) -> KxS76HXEWZAsJhC0Xmku
-    int[] getStackIDs() -> o8LpqlzVuH0BWnvl7Bwf
+    int[] getStackIDs() -> j0lwcLi9yupMwSGMc6Yi
     void setStackIDs(int[]) -> j0lwcLi9yupMwSGMc6Yi
-    int[] getStackAmounts() -> j0lwcLi9yupMwSGMc6Yi
+    int[] getStackAmounts() -> ah7AfEach1iGPyGBvMVe
     void setStackAmounts(int[]) -> ah7AfEach1iGPyGBvMVe
     void setStackIDs(int,int) -> j0lwcLi9yupMwSGMc6Yi
     void setStackAmounts(int,int) -> ah7AfEach1iGPyGBvMVe
@@ -6321,23 +6322,27 @@ org.client.npcs.impl.SirSphishyus -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Thorvald -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.seUQxCkto8xkaJ8dSsn:
+org.client.npcs.impl.SlayerGetTask -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.seUQxCkto8xkaJ8dSsn:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.TormentedDemonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.IyXGSTN4QSRJbe5bpJg2:
+org.client.npcs.impl.Thorvald -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.IyXGSTN4QSRJbe5bpJg2:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.TradeOption -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.omxr9EUle99DoLkZu6rw:
+org.client.npcs.impl.TormentedDemonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.omxr9EUle99DoLkZu6rw:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.TutGuard -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.gL1iJ61MKkMZyLdkmwl7:
+org.client.npcs.impl.TradeOption -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.gL1iJ61MKkMZyLdkmwl7:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Zulrah -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.zVmPkXvZW1TQoyEuzTMu:
+org.client.npcs.impl.TutGuard -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.zVmPkXvZW1TQoyEuzTMu:
+    int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
+    org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.npcs.impl.Zulrah -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.YmCfWCRPEHjmNJVqMpvW:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6733,23 +6738,27 @@ org.client.objects.impl.TeakTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.ToyStall -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.JbGu9Ru0WoXKDPv7V0Hn:
+org.client.objects.impl.TestObject -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.JbGu9Ru0WoXKDPv7V0Hn:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.TreasureChests -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ffv5F3nBlkvtJEjqkXM5:
+org.client.objects.impl.ToyStall -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ffv5F3nBlkvtJEjqkXM5:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.WallBrightness -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ucpxzrTZqhmLOfEkjnbF:
+org.client.objects.impl.TreasureChests -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ucpxzrTZqhmLOfEkjnbF:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.WallTriangleFixes -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.dhBQNwHuqMl2HOSBDs0i:
+org.client.objects.impl.WallBrightness -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.dhBQNwHuqMl2HOSBDs0i:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.WillowTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.P2yHvoudywI6lWmMvkwv:
+org.client.objects.impl.WallTriangleFixes -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.P2yHvoudywI6lWmMvkwv:
+    int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.objects.impl.WillowTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.fgTgTxMDrMzhpxxpEQEC:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>

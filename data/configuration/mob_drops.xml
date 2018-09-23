@@ -709,6 +709,7 @@
 	    <drop rolls="1500" itemAmount="1" itemId="43227" /> # Eternal crystal
 	    <drop rolls="1500" itemAmount="1" itemId="43229" /> # Pegasian crystal
 	    <drop rolls="1500" itemAmount="1" itemId="43231" /> # Primordial crystal
+	    <drop rolls="750" itemAmount="1" itemId="43233" /> # Smouldering stone
 		<drop rolls="250" itemAmount="100" itemId="9243" /> # Diamond Bolts e
 		<drop rolls="125" itemAmount="1" itemId="1319" /> # Rune 2h
 		<drop rolls="800" itemAmount="1" itemId="15259" /> # Dragon pickaxe
@@ -971,6 +972,7 @@
 		<drop rolls="900" itemAmount="1" itemId="17766" /> # Vet'ion jr. pet
 		<drop rolls="1500" itemAmount="1" itemId="11928" /> # Odium shard 1
 		<drop rolls="3000" itemAmount="1" itemId="12002" /> # Occult necklace
+		<drop rolls="2500" itemAmount="1" itemId="49544" /> # Tormented Bracelet
 		<drop rolls="0" itemAmount="1" itemId="532" /> # big bones
 		<drop rolls="150" itemAmount="1" itemId="1275"  /> # rune pickaxe
 		<drop rolls="350" itemAmount="1" itemId="4675"  /> # Ancient Staff
@@ -5210,6 +5212,7 @@
    </mob>
    <mob mobId="50"> #King Black Dragon
       <drop rolls="1000" itemAmount="1" itemId="20092" /> # IT Ticket
+      <drop rolls="900" itemAmount="1" itemId="50714" /> # Tome of Fire
    
       <drop rolls="0" itemAmount="1" itemId="536" /> #Dragon Bones
       <drop rolls="285" itemAmount="145000" itemId="995" /> #Coins
