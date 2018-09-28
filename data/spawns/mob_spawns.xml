@@ -14740,7 +14740,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3079</x>
 		<y>3618</y>
 		<z>0</z>
@@ -14750,7 +14750,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3070</x>
 		<y>3629</y>
 		<z>0</z>
@@ -14760,7 +14760,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3073</x>
 		<y>3634</y>
 		<z>0</z>
@@ -14770,7 +14770,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3088</x>
 		<y>3636</y>
 		<z>0</z>
@@ -14780,7 +14780,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3092</x>
 		<y>3637</y>
 		<z>0</z>
@@ -14790,7 +14790,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3073</x>
 		<y>3636</y>
 		<z>0</z>
@@ -19964,6 +19964,200 @@
 	</spawn>
 
 	#Edgveille Dungen Spawns End
+	
+	#Ancient Cavern Start
+
+	<spawn> # Kuradal
+		<id>9085</id>
+		<x>1739</x>
+		<y>5311</y>
+		<z>1</z>
+		<face>NORTH</face>
+		<walkDistance>4</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Brutal Green Dragon
+		<id>52918</id>
+		<x>1779</x>
+		<y>5330</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Brutal Green Dragon
+		<id>52918</id>
+		<x>1770</x>
+		<y>5338</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Brutal Green Dragon
+		<id>52918</id>
+		<x>1765</x>
+		<y>5328</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1754</x>
+		<y>5336</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1748</x>
+		<y>5340</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1741</x>
+		<y>5341</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1738</x>
+		<y>5351</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1742</x>
+		<y>5358</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1776</x>
+		<y>5353</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1767</x>
+		<y>5356</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1771</x>
+		<y>5362</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1759</x>
+		<y>5358</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+	
+	<spawn> # Waterfiend
+		<id>5361</id>
+		<x>1754</x>
+		<y>5353</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Mithril Dragon
+		<id>5363</id>
+		<x>1784</x>
+		<y>5329</y>
+		<z>1</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Mithril Dragon
+		<id>5363</id>
+		<x>1756</x>
+		<y>5326</y>
+		<z>1</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Mithril Dragon
+		<id>5363</id>
+		<x>1780</x>
+		<y>5342</y>
+		<z>1</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Mithril Dragon
+		<id>5363</id>
+		<x>1781</x>
+		<y>5357</y>
+		<z>1</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> # Mithril Dragon
+		<id>5363</id>
+		<x>1765</x>
+		<y>5330</y>
+		<z>1</z>
+		<face>WEST</face>
+		<walkDistance>6</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+	
+	#Ancient Cavern End
 
 	#Crash Site Cavern start
 
