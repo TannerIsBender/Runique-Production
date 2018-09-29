@@ -6800,8 +6800,11 @@ org.client.settings.Configuration -> org.client.kw9P9Zcdd6kvIyl3TYw6.jmy4oZkNdrw
     boolean LOCAL_JAGCACH -> ah7AfEach1iGPyGBvMVe
     java.lang.String JAGCACHED_HOST -> GNcrRWqAjsKahmOnium
     boolean FILE_SERVER_ENABLED -> WmaQ5jstFwxwTqaXrTp
+    boolean DEVELOPER_FILE_SERVER -> p5uTukSgSG7Z2YrxDDrE
     boolean DEVELOPER_MODE -> GNcrRWqAjsKahmOnium
     boolean ITEM_EDITING -> sUQHpmCLI7NuMrWghLKa
+    int JAGGRAB_PORT -> zegfRrzyok7oOnZNa2bQ
+    int ONDEMAND_PORT -> o8LpqlzVuH0BWnvl7Bwf
     boolean MOUSE_WHEEL_MOVEMENT -> GL35SPonMOsEbgBVabqV
     boolean SHIFT_CLICK_DROP -> l85AzJRz6lyE4Vl88K5k
     boolean WHEEL_ZOOM -> qxgenLXCcEdxF3gyMXs9
@@ -6843,11 +6846,11 @@ org.client.settings.Configuration -> org.client.kw9P9Zcdd6kvIyl3TYw6.jmy4oZkNdrw
     boolean OLDSCHOOL_CHARACTERS -> PZAN6E5sfBGkw7JdpjtF
     boolean DROP_OVERLAYS -> knus2gGEJQWa11g3f0x7
     boolean PM_NOTIFICATIONS -> ePm9uK271EJkYhDNL8p
-    int statusBarType$6f9f793 -> zegfRrzyok7oOnZNa2bQ
-    int CONSOLE_COLOR -> o8LpqlzVuH0BWnvl7Bwf
-    int hitsplatRevision -> ah7AfEach1iGPyGBvMVe
+    int statusBarType$6f9f793 -> j0lwcLi9yupMwSGMc6Yi
+    int CONSOLE_COLOR -> ah7AfEach1iGPyGBvMVe
+    int hitsplatRevision -> GNcrRWqAjsKahmOnium
     int[] HITSPLAT_REVISION -> zegfRrzyok7oOnZNa2bQ
-    int hitsplatRevisionIndex -> j0lwcLi9yupMwSGMc6Yi
+    int hitsplatRevisionIndex -> WmaQ5jstFwxwTqaXrTp
     int getHitsplatRevision() -> zegfRrzyok7oOnZNa2bQ
     int setShowStatusBar$9df6569(int) -> zegfRrzyok7oOnZNa2bQ
     int setHitsplatIndex(int) -> o8LpqlzVuH0BWnvl7Bwf
