@@ -1,0 +1,92 @@
+2015-04-16 08:08:51.247: [Chappy]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 08:10:40.420: [Chappy]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 08:18:59.026: [Miss K]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Anger battleaxe [7807, 1]
+Item[2]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 08:25:11.031: [Miss K]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Golden mining trousers [20790, 1]
+Item[2]: Blue dye [1767, 1]
+Item[3]: Anger battleaxe [7807, 1]
+
+
+
+2015-04-16 08:43:12.844: [Fetus]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-16 13:18:25.600: [Slayer Mastr]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-16 13:22:01.031: [Slayer Mastr]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-16 13:35:04.019: [Sou Wot1]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 13:37:46.632: [Zarox]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 13:43:38.817: [Iliblil]:
+Item[0]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 13:44:20.831: [Iliblil]:
+Item[0]: Golden mining trousers [20790, 1]
+Item[1]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 13:47:52.631: [Iliblil]:
+Item[0]: Coins [995, 4997405]
+
+
+
+2015-04-16 13:48:46.626: [Iliblil]:
+Item[0]: Coins [995, 4997405]
+
+
+
+2015-04-16 13:51:30.431: [Goog]:
+Item[0]: Coins [995, 4997405]
+
+
+
+2015-04-16 18:21:52.784: [Drackys Bank]:
+Item[0]: Death rune [560, 1]
+Item[1]: Astral rune [9075, 1]
+Item[2]: Earth rune [557, 1]
+
+
+
+2015-04-16 19:28:01.842: [Pascaladium]:
+Item[0]: Death rune [560, 1]
+Item[1]: Astral rune [9075, 1]
+Item[2]: Earth rune [557, 1]
+
+
+

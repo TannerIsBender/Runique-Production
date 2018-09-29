@@ -1,0 +1,262 @@
+username: Runique
+password: fivepkz88
+ip_address: 127.0.0.1
+mac_address: test
+
+position: 3203 - 3430 - 0
+
+rights: PLAYER
+donator_status: -1
+game_mode: EXTREME
+show_game_mode_title: false
+loyalty_points: 0
+money_pouch: 0
+last_yell: 0
+yell_cooldown: 0
+yell_tag: Player
+
+daily_task: SIDE_BY_SIDE_JIG
+last_daily_task: 8
+
+quest_points: 0
+achievement_points: 0
+achievements_completed: 0
+
+mob_kill_points: 0
+
+join_date: 03/06/2018
+last_login: 7
+total_seconds_played: 467
+devotion_charges: 0
+
+bank_pin_state: NONE
+running: true
+run_energy: 100
+public_filter: PUBLIC
+private_filter: PUBLIC
+trade_filter: PUBLIC
+xp_locked: false
+view_yells: true
+special: 100
+special_attack_recovery: 0
+attack_style: 0
+auto_retaliation: false
+poison: 0
+venom: 0
+killstreak: 0
+kills: 0
+deaths: 0
+
+melee_kills: 0
+ranged_kills: 0
+magic_kills: 0
+
+last_game_mode_change: 0
+
+spell_book: MODERN
+prayer_book: NORMAL
+experience_multiplier: 1.0
+experience_multiplier_timer: 0
+total_experience: 0
+
+double_experience: false
+double_experience_start: 0
+double_experience_length: 0
+
+double_drop_rate: false
+double_drop_rate_start: 0
+double_drop_rate_length: 0
+
+
+custom_home: 3198 - 3429 - 0
+general_shift_data: 128
+general_shift_data_2: 0
+timers_shift_data: 3
+sound_volume: 0
+chose_starter: true
+
+slayer_points: 0
+slayer_tasks_completed: 0
+ferocious_ring_charges: 0
+slayer_timed_tasks: 0
+slayer_no_prayer_tasks: 0
+slayer_accumulated_points: 0
+slayer_accumulated_experience: 0
+double_slayer_exp_tasks_left: 0
+disable_task_slots: 0
+
+random_event_index: -1
+skill_start_position: 3196 - 3436 - 0
+
+completed_impling_tasks: 0
+
+unlocked_emotes: 0
+option_tab_shift: 3
+prayer_shift: 0
+
+anti_poison_delay: 0
+anti_fire_delay: 0
+super_anti_fire_delay: 0
+dfs_charges: 0
+
+pk_points: 0
+vote_points: 0
+donator_points: 0
+store_credits: 0
+merchant_points: 0
+total_donations: 0.0
+day_votes: 0
+last_vote_date: 0
+day_vote_claims: 0
+pkp_disabled: false
+former_rank: PLAYER
+
+last_player_killed: null
+last_staff_request: 0
+run_replenishes: 4
+run_replenish_delay: 0
+low_alchemy: 30
+low_alchemy_delay: 0
+super_heat: 27
+super_heat_delay: 0
+high_alchemy: 15
+high_alchemy_delay: 0
+last_charge_spell: 0
+
+
+gwd_altar_delay: 0
+gwd_killcount[0]: 0
+gwd_killcount[1]: 0
+gwd_killcount[2]: 0
+gwd_killcount[3]: 0
+gwd_killcount[4]: 0
+pc_points: 0
+sw_points: 0
+sw_forfeit_delay: 0
+barrows_kc: 0
+last_brother: 0
+killed_brother[0]: false
+killed_brother[1]: false
+killed_brother[2]: false
+killed_brother[3]: false
+killed_brother[4]: false
+killed_brother[5]: false
+
+cyclops_token_removal: 0
+jad_wave: 0
+total_amount_gambled: 0
+last_gamble: 0
+
+hero_merits: 0
+
+bh_enter_timer: 0
+bh_leave_penalty: 0
+bh_target_meter: 0
+bh_target: 
+bh_ep: 0
+bh_ep_ticks: 0
+
+overload_timer: 0
+prayer_renewal_timer: 0
+
+overall_experience: 1184
+hide_familiars: false
+summoning_special_amount: 60
+
+
+
+
+
+
+appearance[0]: 0
+appearance[1]: 3
+appearance[2]: 14
+appearance[3]: 18
+appearance[4]: 27
+appearance[5]: 34
+appearance[6]: 36
+appearance[7]: 43
+appearance[8]: 0
+appearance[9]: 1
+appearance[10]: 2
+appearance[11]: 3
+appearance[12]: 0
+
+skill[0]: 1 - 1 - 0
+skill[1]: 1 - 1 - 0
+skill[2]: 1 - 1 - 0
+skill[3]: 100 - 100 - 1184
+skill[4]: 1 - 1 - 0
+skill[5]: 10 - 10 - 0
+skill[6]: 1 - 1 - 0
+skill[7]: 1 - 1 - 0
+skill[8]: 1 - 1 - 0
+skill[9]: 1 - 1 - 0
+skill[10]: 1 - 1 - 0
+skill[11]: 1 - 1 - 0
+skill[12]: 1 - 1 - 0
+skill[13]: 1 - 1 - 0
+skill[14]: 1 - 1 - 0
+skill[15]: 1 - 1 - 0
+skill[16]: 1 - 1 - 0
+skill[17]: 1 - 1 - 0
+skill[18]: 1 - 1 - 0
+skill[19]: 1 - 1 - 0
+skill[20]: 1 - 1 - 0
+skill[21]: 1 - 1 - 0
+skill[22]: 1 - 1 - 0
+skill[23]: 1 - 1 - 0
+skill[24]: 1 - 1 - 0
+
+inventory[1]: 20054 - 1
+inventory[2]: 18340 - 1
+inventory[3]: 1153 - 1
+inventory[4]: 1115 - 1
+inventory[5]: 1067 - 1
+inventory[6]: 1191 - 1
+inventory[7]: 3105 - 1
+inventory[8]: 1712 - 1
+inventory[9]: 7460 - 1
+inventory[10]: 4587 - 1
+inventory[11]: 1215 - 1
+inventory[12]: 1323 - 1
+inventory[13]: 1333 - 1
+inventory[14]: 995 - 750000
+inventory[15]: 392 - 300
+
+equipment[3]: 21335 - 1
+
+
+
+
+
+
+
+achievement: OPEN_120_MYSTERY_BOXES - 1
+achievement: OPEN_300_MYSTERY_BOXES - 1
+
+
+last_candy_looted_day: 0
+
+
+
+points_skill[0]: 0
+points_skill[1]: 0
+points_skill[2]: 0
+points_skill[3]: 0
+points_skill[4]: 0
+points_skill[5]: 0
+points_skill[6]: 0
+points_skill[7]: 0
+points_skill[8]: 0
+points_skill[9]: 0
+points_skill[10]: 0
+points_skill[11]: 0
+points_skill[12]: 0
+points_skill[13]: 0
+points_skill[14]: 0
+points_skill[15]: 0
+points_skill[16]: 0
+points_skill[17]: 0
+points_skill[18]: 0
+points_skill[19]: 0

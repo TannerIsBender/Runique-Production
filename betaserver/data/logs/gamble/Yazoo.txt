@@ -1,0 +1,331 @@
+2015-04-12 06:50:05.849: [Dare]:
+Item[0]: Dragon full helm (sp) [19341, 1]
+
+
+
+2015-04-12 06:51:01.659: [Dare]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-12 07:00:08.874: [Prada]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-12 07:01:40.058: [Dare]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-13 14:14:55.144: [Prada]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-13 14:17:29.347: [Prada]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-13 14:22:01.769: [Prada]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-13 14:24:17.366: [Prada]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-13 15:00:49.794: [Ftl]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt statius's platelegs [13914, 1]
+Item[3]: Corrupt statius's platelegs [13914, 1]
+Item[4]: Corrupt vesta's chainbody [13911, 1]
+Item[5]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-13 15:03:16.200: [Ftl]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Korasi's sword [19780, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-04-13 15:16:47.985: [Zinc]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-13 15:17:49.800: [Zinc]:
+Item[0]: Coins [995, 38000000]
+
+
+
+2015-04-13 15:20:47.385: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-13 15:22:02.994: [Aurora]:
+Item[0]: Coins [995, 400000000]
+Item[1]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-13 15:26:57.596: [Aurora]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's full helm [13896, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Bathus plateskirt [16649, 1]
+Item[5]: Full slayer helmet [15492, 1]
+Item[6]: Full slayer helmet [15492, 1]
+Item[7]: Blisterwood polearm [21582, 1]
+Item[8]: Dragon claws [14484, 1]
+Item[9]: Zamorakian spear [11716, 1]
+Item[10]: Statius's warhammer [13902, 1]
+Item[11]: Armadyl chestplate [11720, 1]
+Item[12]: Dragon full helm [11335, 1]
+Item[13]: Dragon square shield (or) [19340, 1]
+Item[14]: Dragon square shield (or) [19340, 1]
+Item[15]: Dragon full helm (sp) [19341, 1]
+
+
+
+2015-04-15 15:17:35.594: [St3alth Skil]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-15 15:46:59.614: [St3alth Skil]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-15 15:47:54.828: [St3alth Skil]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-15 15:52:31.417: [St3alth Skil]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-15 15:55:18.847: [Gero]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 17:50:24.318: [Nostalgia]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-10 18:29:01.539: [Cozzab123]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Bandos tassets [11726, 1]
+Item[2]: Spectral spirit shield [13744, 1]
+Item[3]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-12 05:30:25.520: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-05-12 05:31:34.522: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Bandos boots [11728, 1]
+My Item[1]: Dragon full helm [11335, 1]
+
+
+
+2015-05-12 05:33:38.727: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 50000000]
+My Item[1]: Dragon full helm [11335, 1]
+My Item[2]: Bandos boots [11728, 1]
+
+
+
+2015-05-12 18:10:46.537: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-12 19:04:28.553: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Dragon full helm [11335, 1]
+My Item[1]: Zamorakian spear [11716, 1]
+My Item[2]: Bandos boots [11728, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-12 19:05:29.769: [[My99capes, haley2388; 207.144.76.248, 74-29-AF-96-F5-8F]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-12 19:18:30.360: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-13 17:27:41.368: [[My99capes, haley2388; 104.160.53.157, 74-29-AF-96-F5-8F]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-13 17:40:39.569: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40999999]
+
+
+
+2015-05-13 18:02:51.600: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-05-13 18:06:10.800: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-13 18:07:45.590: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-05-13 18:10:17.390: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Coins [995, 200000000]
+
+
+
+2015-05-13 18:46:56.439: [[My99capes, haley2388; 104.160.53.157, 74-29-AF-96-F5-8F]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Morrigan's coif [13876, 1]
+
+
+
+2015-05-13 18:52:07.821: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-05-14 04:12:49.222: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-14 04:14:25.837: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[1]: Vesta's plateskirt [13893, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-14 04:16:39.637: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[2]: Chaotic longsword [18351, 1]
+Other Item[3]: Coins [995, 200000000]
+
+
+
+2015-05-19 14:09:14.970: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+Other Item[0]: Coins [995, 10181249]
+Other Item[1]: Saradomin sword [11730, 1]
+Other Item[2]: Saradomin's tear [8027, 1]
+Other Item[4]: Amulet of fury [6585, 1]
+Other Item[5]: Dragon boots [11732, 1]
+
+
+
+2015-05-26 17:59:00.042: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-26 17:59:26.448: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-26 17:59:26.448: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-26 18:00:41.448: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-26 18:01:04.243: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-27 18:40:33.617: [[Tantor, holcomb2630; 71.56.73.16, E0-3F-49-DD-74-02]]:
+My Item[0]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-27 18:41:19.816: [[Tantor, holcomb2630; 71.56.73.16, E0-3F-49-DD-74-02]]:
+My Item[0]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-27 18:41:56.412: [[Tantor, holcomb2630; 71.56.73.16, E0-3F-49-DD-74-02]]:
+My Item[0]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-30 20:29:44.085: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-05-31 07:39:53.648: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+
+2015-05-31 07:53:31.438: [[Goblin Guard, Adamdapure15; 86.180.134.47, 94-39-E5-B5-C8-57]]:
+My Item[0]: Coins [995, 10000000]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon boots [11732, 1]
+Other Item[0]: Fighter torso [10551, 1]
+
+
+

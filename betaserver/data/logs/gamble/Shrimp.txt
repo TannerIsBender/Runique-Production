@@ -1,0 +1,7 @@
+2015-05-19 17:29:35.545: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 20000000]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+

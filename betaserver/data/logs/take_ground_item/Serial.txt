@@ -1,0 +1,12 @@
+Item Taken: Death rune [560, 1094 - position=[3096, 3525, 0]] - 2015-03-23 09:44:41.334
+Item Taken: Rune platebody [1127, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:42.519
+Item Taken: Rune platelegs [1079, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:43.126
+Item Taken: Granite shield [3122, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:43.734
+Item Taken: Helm of neitiznot [10828, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:44.321
+Item Taken: Veteran cape [20763, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:44.920
+Item Taken: Astral rune [9075, 488 - position=[3096, 3525, 0]] - 2015-03-23 09:44:45.533
+Item Taken: Dragon dagger (p++) [5698, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:46.125
+Item Taken: Amulet of glory (4) [1712, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:54.520
+Item Taken: Coins [995, 5100 - position=[3096, 3525, 0]] - 2015-03-23 09:44:55.120
+Item Taken: Earth rune [557, 570 - position=[3096, 3525, 0]] - 2015-03-23 09:44:56.320
+Item Taken: Ring of recoil [2550, 1 - position=[3096, 3525, 0]] - 2015-03-23 09:44:56.920

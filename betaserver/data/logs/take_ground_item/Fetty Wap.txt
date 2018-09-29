@@ -1,0 +1,15 @@
+Item Taken: Coins [995, 171073 - position=[2703, 3715, 0]] - 2015-03-23 21:51:11.320
+Item Taken: Coins [995, 240168 - position=[2704, 3714, 0]] - 2015-03-23 21:51:16.127
+Item Taken: Bones [526, 1 - position=[2687, 3724, 0]] - 2015-03-24 16:49:22.226
+Item Taken: Dragon bones [536, 2 - position=[3353, 3696, 0]] - 2015-03-24 17:16:17.427
+Item Taken: Uncut dragonstone [1632, 1 - position=[3353, 3696, 0]] - 2015-03-24 17:18:32.422
+Item Taken: Dragon bones [536, 2 - position=[3349, 3696, 0]] - 2015-03-24 17:19:07.822
+Item Taken: Dragon bones [536, 2 - position=[3358, 3692, 0]] - 2015-03-24 17:21:30.023
+Item Taken: Dragon bones [536, 2 - position=[3354, 3695, 0]] - 2015-03-24 17:24:34.223
+Item Taken: Dragon bones [536, 2 - position=[3349, 3696, 0]] - 2015-03-24 17:27:46.858
+Item Taken: Coins [995, 82929 - position=[2705, 3714, 0]] - 2015-03-24 21:17:37.370
+Item Taken: Coins [995, 36342 - position=[2707, 3715, 0]] - 2015-03-24 21:50:00.795
+Item Taken: Coins [995, 825470 - position=[2706, 3716, 0]] - 2015-03-24 21:50:06.795
+Item Taken: Coins [995, 544246 - position=[2706, 3715, 0]] - 2015-03-24 21:53:45.194
+Item Taken: Bronze thrownaxe [800, 3 - position=[2696, 3718, 0]] - 2015-03-25 16:51:45.076
+Item Taken: Gold charm [12158, 7 - position=[2696, 3718, 0]] - 2015-03-25 16:51:46.280

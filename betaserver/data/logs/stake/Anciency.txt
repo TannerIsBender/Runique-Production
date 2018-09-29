@@ -1,0 +1,21 @@
+2015-04-04 16:24:04.827: [Pvm Giggles]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-12 20:15:47.144: [Pvm Giggles]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 12:22:38.792: [Papa Mouliq]:
+Item[0]: White partyhat [1048, 1]
+Item[1]: Mystic boots [4117, 1]
+Item[2]: Cooking gauntlets [775, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Initiate cuisse [5576, 1]
+Item[5]: Initiate hauberk [5575, 1]
+Item[6]: Rune hatchet [1359, 1]
+
+
+

@@ -1,0 +1,7 @@
+Jul 29, 2018 12:50:21 PM org.niobe.GameServer main
+INFO: Launching Niobe, please be patient while configurations are being loaded... [8 cores]
+[main] INFO net.dv8tion.jda.core.JDA - Login Successful!
+[JDA MainWS-ReadThread] INFO net.dv8tion.jda.core.requests.WebSocketClient - Connected to WebSocket
+[JDA MainWS-ReadThread] INFO net.dv8tion.jda.core.JDA - Finished Loading!
+Jul 29, 2018 12:50:24 PM org.niobe.world.content.clan.ClanChatManager init
+INFO: Directory for clan files does NOT exist!

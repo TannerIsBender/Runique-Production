@@ -1,0 +1,11 @@
+2015-04-15 16:53:33.862: [L2skill]:
+Item[0]: Rune platebody [1127, 1]
+Item[1]: Rune platelegs [1079, 1]
+
+
+
+2015-04-15 16:56:05.079: [Slayer64p]:
+Item[0]: Helm of neitiznot [10828, 1]
+
+
+

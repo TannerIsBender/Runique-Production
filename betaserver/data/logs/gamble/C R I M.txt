@@ -1,0 +1,229 @@
+2015-04-20 04:49:31.253: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 17:20:25.549: [Baked Player]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 17:27:41.750: [Pascaladium]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-22 17:29:23.152: [Pascaladium]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-23 02:12:21.654: [Star]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-24 16:50:21.779: [Oi]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-25 03:13:26.349: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 03:14:59.350: [Kabooyah]:
+Item[0]: Coins [995, 47999665]
+
+
+
+2015-04-25 03:19:33.549: [Ziptie]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Zuriel's staff [13867, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-25 03:20:07.749: [Ziptie]:
+Item[0]: Zuriel's staff [13867, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-25 03:20:44.946: [Ziptie]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Zuriel's staff [13867, 1]
+
+
+
+2015-04-25 03:22:52.746: [Simberj]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-25 03:32:04.780: [Kabooyah]:
+Item[0]: Coins [995, 47000000]
+
+
+
+2015-04-28 03:50:16.017: [Brazy]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-28 04:02:23.825: [Brazy]:
+Item[0]: Coins [995, 476000476]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-28 04:03:32.833: [Brazy]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-28 04:32:59.233: [Shcherbakova]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-28 04:44:22.075: [Melee Cyrus]:
+Item[0]: Coins [995, 224961092]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-04 16:33:13.391: [Desi]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 16:43:27.199: [Rozza123]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Coins [995, 20000000]
+
+
+
+2015-05-04 16:44:07.422: [Rozza123]:
+Item[0]: Coins [995, 20000000]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Abyssal whip [4151, 1]
+
+
+
+2015-05-04 16:55:59.019: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 16:56:47.022: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-04 16:57:54.222: [Goog]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-05-04 17:03:54.219: [Goog]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-04 17:05:15.819: [Goog]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-04 17:05:56.622: [Goog]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 17:06:53.039: [Goog]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-05-04 17:12:27.840: [Billionare]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-04 17:13:11.041: [Billionare]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-04 17:13:36.239: [Billionare]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-04 17:15:02.039: [Billionare]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-04 17:17:14.040: [Scizor]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-05-04 17:17:54.237: [Scizor]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-05-04 17:18:24.240: [Scizor]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-05-04 17:19:29.637: [Scizor]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-04 17:20:06.237: [Scizor]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-04 17:23:27.240: [Scizor]:
+Item[0]: Dragon pickaxe [15259, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-04 17:26:12.831: [Dynamic]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 17:31:39.263: [Dynamic]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-04 18:00:41.700: [Nostalgia]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-05-04 18:02:26.700: [Nostalgia]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+

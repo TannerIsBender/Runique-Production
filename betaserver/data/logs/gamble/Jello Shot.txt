@@ -1,0 +1,353 @@
+2015-06-03 01:08:03.311: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 7000000]
+Other Item[5]: Coins [995, 7000000]
+
+
+
+2015-06-03 01:08:54.952: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 14000000]
+Other Item[0]: Coins [995, 14000000]
+
+
+
+2015-06-03 01:10:01.509: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 8000000]
+Other Item[0]: Warrior ring [6736, 1]
+Other Item[1]: Coins [995, 7000000]
+
+
+
+2015-06-03 01:14:32.712: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 37000000]
+Other Item[0]: Coins [995, 33000000]
+Other Item[1]: Dharok's platelegs 0 [4902, 1]
+
+
+
+2015-06-03 01:20:38.152: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Dharok's platelegs 0 [4902, 1]
+My Item[1]: Warrior ring [6736, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 01:21:18.338: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 12000000]
+Other Item[0]: Coins [995, 12000000]
+
+
+
+2015-06-03 01:32:57.936: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Dharok's platelegs 0 [4902, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-03 02:58:19.005: [[Not Katie, lillyrose1262011; 188.29.115.28, None]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 02:59:36.420: [[Not Katie, lillyrose1262011; 188.29.115.28, None]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 03:00:34.016: [[Not Katie, lillyrose1262011; 188.29.115.28, None]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 03:00:34.620: [[Not Katie, lillyrose1262011; 188.29.115.28, None]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 03:02:33.421: [[Not Katie, lillyrose1262011; 188.29.115.28, None]]:
+My Item[0]: Coins [995, 10000000]
+My Item[1]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-03 03:05:17.220: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-03 03:06:51.420: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-03 03:10:04.021: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Amulet of fury (or) [19335, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-03 21:06:06.039: [[Yeyy, bbqking776; 71.194.56.55, 00-07-E9-D7-C5-2B]]:
+My Item[0]: Coins [995, 10000000]
+My Item[1]: Abyssal whip [15442, 1]
+Other Item[0]: Draconic visage [11286, 1]
+
+
+
+2015-06-03 21:22:58.224: [[Harry, google2015; 92.234.239.101, 7A-79-19-8C-CD-D8]]:
+My Item[0]: Coins [995, 2500000]
+Other Item[0]: Coins [995, 2500000]
+
+
+
+2015-06-03 21:53:24.070: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Abyssal whip [15442, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Coins [995, 2000000]
+
+
+
+2015-06-03 21:54:09.065: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Abyssal whip [15442, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Coins [995, 2000000]
+
+
+
+2015-06-03 21:55:05.464: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-06-03 21:57:31.870: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Coins [995, 1830500]
+My Item[1]: Torag's platebody [4749, 1]
+My Item[2]: Abyssal whip [15442, 1]
+My Item[3]: Verac's plateskirt [4759, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-06-03 21:58:09.067: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-06-03 21:59:34.865: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Coins [995, 4000000]
+
+
+
+2015-06-03 22:00:25.266: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Coins [995, 9526500]
+Other Item[1]: Torag's platebody [4749, 1]
+
+
+
+2015-06-03 22:01:20.465: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Torag's platebody [4749, 1]
+Other Item[0]: Verac's plateskirt [4759, 1]
+
+
+
+2015-06-03 22:01:42.665: [[Yeygan, tankwolfmaz; 71.201.151.120, 44-94-FC-15-C7-BC]]:
+My Item[0]: Torag's platebody [4749, 1]
+Other Item[0]: Verac's plateskirt [4759, 1]
+
+
+
+2015-06-03 22:12:23.467: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-82-A0]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-03 22:13:16.871: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-82-A0]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-03 22:15:43.855: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-82-A0]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-03 22:26:25.305: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 28000000]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-06-03 22:27:13.890: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-03 22:29:36.676: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Abyssal whip [15442, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-03 22:34:24.091: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Abyssal whip [15442, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-06-03 22:36:14.469: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15442, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-06-04 00:12:22.370: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-06-04 00:13:39.771: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Verac's plateskirt [4759, 1]
+Other Item[0]: Dragon arrow [11212, 1016]
+
+
+
+2015-06-04 00:19:50.564: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Dragon boots [11732, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Saradomin godsword [11698, 1]
+
+
+
+2015-06-04 00:21:19.370: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Bandos godsword [11696, 1]
+Other Item[1]: Coins [995, 7989545]
+
+
+
+2015-06-04 00:24:49.363: [[The One, josh151991; 107.133.158.185, 84-4B-F5-11-E9-8F]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[2]: Saradomin godsword [11698, 1]
+Other Item[0]: Glaiven boots [21790, 1]
+
+
+
+2015-06-04 00:35:01.977: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-04 00:37:53.603: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-04 00:39:00.811: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Dragon claws [14484, 1]
+My Item[1]: Statius's full helm [13896, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+My Item[3]: Vesta's plateskirt [13893, 1]
+My Item[4]: Dragon boots [11732, 1]
+My Item[5]: Coins [995, 1720135]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-04 00:46:07.992: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Dragon claws [14484, 1]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-06-04 00:47:02.603: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Statius's full helm [13896, 1]
+My Item[1]: Vesta's chainbody [13887, 1]
+My Item[2]: Vesta's plateskirt [13893, 1]
+My Item[3]: Dharok's helm [4716, 1]
+My Item[4]: Dharok's platelegs [4722, 1]
+My Item[5]: Dharok's platebody [4720, 1]
+My Item[6]: Dharok's greataxe [4718, 1]
+My Item[7]: Berserker ring [6737, 1]
+My Item[8]: Dragon boots [11732, 1]
+My Item[9]: Cannonball [2, 600]
+Other Item[0]: Coins [995, 340000000]
+
+
+
+2015-06-04 00:50:44.610: [[Get Owned, jordan1; 74.140.247.212, 84-4B-F5-46-39-7D]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Vesta's plateskirt [13893, 1]
+My Item[2]: Berserker ring [6737, 1]
+My Item[3]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-04 00:51:55.993: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 01:02:10.405: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Statius's full helm [13896, 1]
+My Item[1]: Vesta's chainbody [13887, 1]
+My Item[2]: Vesta's plateskirt [13893, 1]
+My Item[3]: Dharok's helm [4716, 1]
+My Item[4]: Dharok's greataxe [4718, 1]
+My Item[5]: Dharok's platebody [4720, 1]
+My Item[6]: Dharok's platelegs [4722, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Berserker ring [6737, 1]
+My Item[9]: Cannonball [2, 600]
+Other Item[0]: Coins [995, 150000000]
+Other Item[1]: Statius's platebody [13884, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Statius's platelegs [13890, 1]
+
+
+
+2015-06-04 01:04:38.585: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Statius's full helm [13896, 1]
+My Item[1]: Vesta's chainbody [13887, 1]
+My Item[2]: Vesta's plateskirt [13893, 1]
+My Item[3]: Dharok's helm [4716, 1]
+My Item[4]: Dharok's platebody [4720, 1]
+My Item[5]: Dharok's platelegs [4722, 1]
+My Item[6]: Dharok's greataxe [4718, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Berserker ring [6737, 1]
+Other Item[0]: Statius's platebody [13884, 1]
+Other Item[1]: Statius's platelegs [13890, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Coins [995, 130000000]
+
+
+

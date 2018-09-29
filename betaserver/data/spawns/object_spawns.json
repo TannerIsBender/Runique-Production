@@ -1,0 +1,2720 @@
+[
+	# Door Removal
+	
+	{ # Varrock Door Removal
+		"id": -1,
+		"direction": 0,
+		"type": 0,
+		"position": {
+			"x": 3207,
+			"y": 3385,
+			"z": 0
+		}
+	},
+	
+	{ # South Varrock Guard Room Door
+		"id": -1,
+		"direction": 0,
+		"type": 0,
+		"position": {
+			"x": 3208,
+			"y": 3385,
+			"z": 0
+		}
+	},
+
+	# Bork Safespot Fix Adam
+	
+	{ # Rock Boulder
+		"id": 444,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3276,
+			"y": 4395,
+			"z": 0
+		}
+	},
+	
+	{ # Rock Boulder
+		"id": 444,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3275,
+			"y": 4395,
+			"z": 0
+		}
+	},
+
+	# POH Portals
+	
+	{ # POH Portal Varrock
+		"id": 15477,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3206,
+			"y": 3437,
+			"z": 0
+		}
+	},
+	
+	{ # POH Portal Edgeville
+		"id": 15477,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3071,
+			"y": 3503,
+			"z": 0
+		}
+	},
+	
+	{ # POH Portal Relleka
+		"id": 15477,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2667,
+			"y": 3626,
+			"z": 0
+		}
+	},
+	
+	{ # POH Portal Rimmington
+		"id": 15477,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2951,
+			"y": 3223,
+			"z": 0
+		}
+	},
+	
+	{ # POH Portal Pollvineach
+		"id": 15477,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3335,
+			"y": 3002,
+			"z": 0
+		}
+	},
+	
+	{ # POH Portal Rimmington - Bench removal
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2954,
+			"y": 3223,
+			"z": 0
+		}
+	},
+	
+	{ # POH Portal Rimmington - Bench removal
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2954,
+			"y": 3226,
+			"z": 0
+		}
+	},
+	
+	# Rock Crabs
+	
+	{ # Bank Booth
+		"id": 10517,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2670,
+			"y": 3708,
+			"z": 0
+		}
+	},
+
+    # Staffzone
+	
+	{ # BANK BOOTH STAFFZONE
+  		"id": 26972,
+ 		 "direction": 0,
+ 		 "type": 10,
+ 		 "position": {
+  			 "x": 3164,
+  			 "y": 3500,
+  			 "z": 2
+  		}
+	 },
+	 { # BANK BOOTH STAFFZONE
+ 		 "id": 26972,
+ 		 "direction": 0,
+  		"type": 10,
+ 		 "position": {
+  			 "x": 3165,
+  			 "y": 3479,
+  			 "z": 2
+  		}
+ 	},
+
+
+	{ # BIRD HOUSE STAFFZONE
+			"id": 39282,
+			"direction": 3,
+			"type": 10,
+			"position": {
+				 "x": 3155,
+				"y": 3489,
+				 "z": 2
+			}
+		},
+
+	{ # RED FLAME FLOWERS STAFFZONE
+			 "id": 15941,
+			 "direction": 0,
+			"type": 10,
+			"position": {
+				 "x": 3165,
+				 "y": 3492,
+				"z": 2
+	  }
+	 },
+
+
+	 { # RED FLAME FLOWERS STAFFZONE
+	  "id": 15941,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3164,
+	   "y": 3492,
+	   "z": 2
+	  }
+	 },
+
+
+	 { # BLUE FLAME FLOWERS STAFFZONE
+	  "id": 15942,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3162,
+	   "y": 3490,
+	   "z": 2
+	  }
+	 },
+
+
+	 { # BLUE FLAME FLOWERS STAFFZONE
+	  "id": 15942,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3162,
+	   "y": 3489,
+	   "z": 2
+	  }
+	 },
+
+
+	 { # RED FLAME FLOWERS STAFFZONE
+	  "id": 15941,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3164,
+	   "y": 3487,
+	   "z": 2
+	  }
+	 },
+
+
+	 { # RED FLAME FLOWERS STAFFZONE
+	  "id": 15941,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3165,
+	   "y": 3487,
+	   "z": 2
+	  }
+	 },
+
+
+	 { # BLUE FLAME FLOWERS STAFFZONE
+	  "id": 15942,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3167,
+	   "y": 3489,
+	   "z": 2
+	  }
+
+	 },
+
+	 { # BLUE FLAME FLOWERS STAFFZONE
+	  "id": 15942,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3167,
+	   "y": 3490,
+	   "z": 2
+	  }
+	 },
+
+	 
+	 { #FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3167,
+	   "y": 3491,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3167,
+	   "y": 3492,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3166,
+	   "y": 3492,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3162,
+	   "y": 3491,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3162,
+	   "y": 3492,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3163,
+	   "y": 3492,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3162,
+	   "y": 3487,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3163,
+	   "y": 3487,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3162,
+	   "y": 3488,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3166,
+	   "y": 3487,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3167,
+	   "y": 3487,
+	   "z": 2
+	  }
+	 },
+
+	 { # FERNS STAFF ZONE
+	  "id": 1298,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3167,
+	   "y": 3488,
+	   "z": 2
+	  }
+	 },
+
+	 { # TELESCOPE STAFF ZONE
+	  "id": 2210,
+	  "direction": 1,
+	  "type": 10,
+	  "position": {
+	   "x": 3173,
+	   "y": 3489,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3169,
+	   "y": 3479,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3160,
+	   "y": 3479,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3154,
+	   "y": 3485,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3154,
+	   "y": 3494,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3160,
+	   "y": 3500,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3169,
+	   "y": 3500,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3175,
+	   "y": 3494,
+	   "z": 2
+	  }
+	 },
+
+	 { # FLAME PILLAR STAFF ZONE
+	  "id": 42149,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	   "x": 3175,
+	   "y": 3485,
+	   "z": 2
+	  }
+	 },
+	 
+	# Wilderness
+	
+	{ # Mage bank web closest to lever
+		"id": 33237,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3093,
+			"y": 3957,
+			"z": 0
+		}
+	},
+
+	{ # Mage bank web farthest to lever
+		"id": 33237,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3095,
+			"y": 3957,
+			"z": 0
+		}
+	},
+
+	{ # Mage bank web between lever and scorpia
+		"id": 33237,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3158,
+			"y": 3951,
+			"z": 0
+		}
+	},
+
+
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 2,
+		"type": 4,
+		"position": {
+			"x": 3037,
+			"y": 3949,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 2,
+		"type": 4,
+		"position": {
+			"x": 3037,
+			"y": 3958,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 1,
+		"type": 5,
+		"position": {
+			"x": 3042,
+			"y": 3948,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 0,
+		"type": 4,
+		"position": {
+			"x": 3045,
+			"y": 3950,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 0,
+		"type": 4,
+		"position": {
+			"x": 3045,
+			"y": 3955,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 0,
+		"type": 4,
+		"position": {
+			"x": 3045,
+			"y": 3953,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 0,
+		"type": 4,
+		"position": {
+			"x": 3045,
+			"y": 3958,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 3,
+		"type": 5,
+		"position": {
+			"x": 3042,
+			"y": 3960,
+			"z": 0
+		}
+	},
+	
+	{ # Daeyalt rocks
+		"id": 17962,
+		"direction": 3,
+		"type": 5,
+		"position": {
+			"x": 3038,
+			"y": 3960,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3072,
+			"y": 3555,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3121,
+			"y": 3561,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3115,
+			"y": 3596,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3058,
+			"y": 3682,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3072,
+			"y": 3555,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2977,
+			"y": 3658,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2973,
+			"y": 3720,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3017,
+			"y": 3752,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3085,
+			"y": 3791,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3139,
+			"y": 3821,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3161,
+			"y": 3868,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3173,
+			"y": 3867,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3188,
+			"y": 3871,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3278,
+			"y": 3871,
+			"z": 0
+		}
+	},
+	
+	{ # Mastic Tree
+		"id": 41907,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3320,
+			"y": 3880,
+			"z": 0
+		}
+	},
+	
+	# Home
+
+	{ # General Stall
+		"id": 4876,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3221,
+			"y": 3426,
+			"z": 0
+		}
+	},
+	
+	{ # Food Stall
+		"id": 4875,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3221,
+			"y": 3425,
+			"z": 0
+		}
+	},
+	
+	{ # Magic Stall
+		"id": 4877,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3221,
+			"y": 3424,
+			"z": 0
+		}
+	},
+	
+	{ # Crafting Stall
+		"id": 4874,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3221,
+			"y": 3423,
+			"z": 0
+		}
+	},
+	
+	{ # Scimitar Stall
+		"id": 4878,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3221,
+			"y": 3422,
+			"z": 0
+		}
+	},
+
+	{ # Varrock smithing furnace addition
+		"id": 14921,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3188,
+			"y": 3420,
+			"z": 0
+		}
+	},
+
+	{ # Varrock anvil removal
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3188,
+			"y": 3421,
+			"z": 0
+		}
+	},
+
+	{ # Varrock bank chest
+		"id": 4483,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3211,
+			"y": 3437,
+			"z": 0
+		}
+	},
+	
+	{ # Varrock bank chest
+		"id": 4483,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3214,
+			"y": 3437,
+			"z": 0
+		}
+	},
+
+	{ # Scoreboard Varrock
+		"id": 30205,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3216,
+			"y": 3437,
+			"z": 0
+		}
+	},
+
+	{ # Prayer Altar
+	  "id": 409,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	    "x": 3198,
+	    "y": 3418,
+	    "z": 0
+	  }
+	},
+	
+	{ # Decayed altar
+	  "id": 37985,
+	  "direction": 3,
+	  "type": 10,
+	  "position": {
+	    "x": 3201,
+	    "y": 3419,
+	    "z": 0
+	  }
+	},
+
+	{ # Magic Spellbook Altar
+		"id": 120378,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3195,
+			"y": 3418,
+			"z": 0
+		}
+	},
+
+	{ # Silver Chest
+		"id": 4130,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3181,
+			"y": 3431,
+			"z": 0
+		}
+	},
+
+	{ # Dragon Chest
+		"id": 4121,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3179,
+			"y": 3431,
+			"z": 0
+		}
+	},
+	
+	{ # Tomato crate
+		"id": 6839,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3184,
+			"y": 3427,
+			"z": 0
+		}
+	},
+	
+	{ # Mysterious Cape
+		"id": 2563,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3192,
+			"y": 3431,
+			"z": 0
+		}
+	},
+
+	{ # Zeff house - Ladder removal
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3202,
+			"y": 3434,
+			"z": 0
+		}
+	},
+
+	{ # Small Obelisk - Summoning
+		"id": 29954,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3184,
+			"y": 3431,
+			"z": 0
+		}
+	},
+
+	{ # Puro-puro bank chest
+		"id": 4483,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2589,
+			"y": 4317,
+			"z": 0
+		}
+	},
+
+	{ # Rock cave tunnel entrance spike removal
+		"id": -1,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2689,
+			"y": 3717,
+			"z": 0
+		}
+	},
+	
+	{ # Rock cave tunnel entrance spike removal
+		"id": -1,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2689,
+			"y": 3718,
+			"z": 0
+		}
+	},
+	
+	{ # Rock cave tunnel entrance spike removal
+		"id": -1,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2689,
+			"y": 3719,
+			"z": 0
+		}
+	},
+	
+	{ # Incubator
+		"id": 28336,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3300,
+			"y": 9313,
+			"z": 0
+		}
+	},
+
+	{ # Well removal
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3083,
+			"y": 3500,
+			"z": 0
+		}
+	},
+	
+	{ # Bank Booth - Firemaking
+		"id": 10517,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2619,
+			"y": 2876,
+			"z": 0
+		}
+	},
+
+	{ # Bank Booth - Firemaking
+		"id": 10517,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2619,
+			"y": 2876,
+			"z": 0
+		}
+	},
+	
+	{ # Ahrim's Sarcophagus
+		"id": 6821,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3565,
+			"y": 3288,
+			"z": 0
+		}
+	},
+	
+	{ # Verac's Sarcophagus
+		"id": 6823,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3556,
+			"y": 3297,
+			"z": 0
+		}
+	},
+	
+	{ # Torag's Sarcophagus
+		"id": 6772,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3553,
+			"y": 3282,
+			"z": 0
+		}
+	},
+	
+	{ # Karil's Sarcophagus
+		"id": 6822,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3565,
+			"y": 3275,
+			"z": 0
+		}
+	},
+	
+	{ # Guthan's Sarcophagus
+		"id": 6773,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3577,
+			"y": 3282,
+			"z": 0
+		}
+	},
+	
+	{ # Dharok's Sarcophagus
+		"id": 6771,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3575,
+			"y": 3296,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Wilderness - Tree Removal
+		"id": -1,
+		"direction": 3,
+		"type": 11,
+		"position": {
+			"x": 3086,
+			"y": 3526,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Wilderness - Tree Removal
+		"id": -1,
+		"direction": 0,
+		"type": 11,
+		"position": {
+			"x": 3081,
+			"y": 3527,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Wilderness - Tree Removal
+		"id": -1,
+		"direction": 0,
+		"type": 11,
+		"position": {
+			"x": 3076,
+			"y": 3527,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Wilderness - Tree Removal
+		"id": -1,
+		"direction": 1,
+		"type": 11,
+		"position": {
+			"x": 3081,
+			"y": 3531,
+			"z": 0
+		}
+	},
+	
+	{ # Wilderness sign - Edge
+		"id": 14504,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3092,
+			"y": 3519,
+			"z": 0
+		}
+	},
+	
+	{ # Scoreboard Edge
+		"id": 30205,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3079,
+			"y": 3514,
+			"z": 0
+		}
+	},
+	
+	{ # Scoreboard Edge
+		"id": 30205,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3076,
+			"y": 3514,
+			"z": 0
+		}
+	},
+
+	{ # Scoreboard Edge
+		"id": 30205,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3082,
+			"y": 3514,
+			"z": 0
+		}
+	},
+
+	{ # Prayer Altar
+	  "id": 409,
+	  "direction": 3,
+	  "type": 10,
+	  "position": {
+	    "x": 3090,
+	    "y": 3507,
+	    "z": 0
+	  }
+	},
+	
+	{ # Decayed altar
+	  "id": 37985,
+	  "direction": 3,
+	  "type": 10,
+	  "position": {
+	    "x": 3090,
+	    "y": 3511,
+	    "z": 0
+	  }
+	},
+
+	{ # Magic Spellbook Altar
+		"id": 120378,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 3085,
+			"y": 3510,
+			"z": 0
+		}
+	},
+
+	{ # Donator Boss Bank Booth - Revenant Cave
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2534,
+			"y": 9419,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Tormented Demons
+		"id": 34752,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2603,
+			"y": 5724,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Giant Mole
+		"id": 34752,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 1762,
+			"y": 5200,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Nex
+		"id": 34752,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2911,
+			"y": 5207,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Bork
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3292,
+			"y": 4387,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Phoenix Lair
+		"id": 34752,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3537,
+			"y": 5188,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Phoenix Lair
+		"id": 34752,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 3533,
+			"y": 5188,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Dagannoth Kings
+		"id": 34752,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2899,
+			"y": 4450,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Corporeal Beast
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2967,
+			"y": 4379,
+			"z": 6
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - Corporeal Beast
+		"id": 34752,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2974,
+			"y": 4389,
+			"z": 6
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - King Black Dragon
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2259,
+			"y": 4680,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Boss Bank Booth - King Black Dragon
+		"id": 34752,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2270,
+			"y": 4711,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Zone - Altar
+		"id": 55667,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2852,
+			"y": 5089,
+			"z": 0
+		}
+	},
+	
+	{ # Donator Zone - Altar
+		"id": 55667,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2841,
+			"y": 5089,
+			"z": 0
+		}
+	},
+	
+	{ # Donator Zone - Bank Booth
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2850,
+			"y": 5089,
+			"z": 0
+		}
+	},
+	
+	{ # Donator Zone - Bank Booth
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2845,
+			"y": 5089,
+			"z": 0
+		}
+	},
+	
+	{ # Donator Skilling Area - Anvil
+		"id": 2782,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2340,
+			"y": 3678,
+			"z": 4
+		}
+	},
+
+	{ # Donator Skilling Area - Bank Booth
+		"id": 34752,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2344,
+			"y": 3679,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Bank Booth
+		"id": 34752,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2354,
+			"y": 3700,
+			"z": 4
+		}
+	},
+
+	{ # Donator Skilling Area - Fire
+		"id": 2732,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2335,
+			"y": 3697,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Fire
+		"id": 2732,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2339,
+			"y": 3681,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Fire
+		"id": 2732,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2350,
+			"y": 3700,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Altar of Zaros
+		"id": 47120,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2342,
+			"y": 3690,
+			"z": 4
+		}
+	},
+
+	{ # Donator Skilling Area - Magic Tree
+		"id": 1306,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2346,
+			"y": 3687,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Willow Tree
+		"id": 5552,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2343,
+			"y": 3686,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Willow Tree
+		"id": 5551,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2340,
+			"y": 3687,
+			"z": 4
+		}
+	},
+
+	{ # Donator Skilling Area - Maple Tree
+		"id": 1307,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2338,
+			"y": 3690,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Maple Tree
+		"id": 1307,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2338,
+			"y": 3693,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Yew Tree
+		"id": 1309,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2341,
+			"y": 3694,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Yew Tree
+		"id": 1309,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2345,
+			"y": 3693,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Magic Tree
+		"id": 1306,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2347,
+			"y": 3690,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Iron ore
+		"id": 14856,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3698,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Clay ore
+		"id": 31062,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3696,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Gold ore
+		"id": 37310,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3694,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Coal ore
+		"id": 32426,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3692,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Mithril ore
+		"id": 32438,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3690,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Adamantite ore
+		"id": 32435,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3688,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Runite ore
+		"id": 37208,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2356,
+			"y": 3686,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Runite ore
+		"id": 37208,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2353,
+			"y": 3685,
+			"z": 4
+		}
+	},
+
+	{ # Donator Skilling Area - Remove Barrow
+		"id": -1,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2355,
+			"y": 3694,
+			"z": 4
+		}
+	},
+	
+	{ # Donator Skilling Area - Remove Barrow
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2354,
+			"y": 3692,
+			"z": 4
+		}
+	},
+
+	{ # Donator zone - Skilling teleport
+		"id": 13640,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2847,
+			"y": 5081,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2844,
+			"y": 5086,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2841,
+			"y": 5083,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2841,
+			"y": 5079,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2843,
+			"y": 5075,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2850,
+			"y": 5075,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2853,
+			"y": 5079,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2853,
+			"y": 5083,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Evil Magic Tree
+		"id": 37821,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2850,
+			"y": 5086,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Magic Tree
+		"id": 1306,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2841,
+			"y": 5072,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Magic Tree
+		"id": 1306,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2841,
+			"y": 5068,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Magic Tree
+		"id": 1306,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2853,
+			"y": 5072,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Magic Tree
+		"id": 1306,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2853,
+			"y": 5068,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Yew Tree
+		"id": 1309,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2823,
+			"y": 5074,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Yew Tree
+		"id": 1309,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2870,
+			"y": 5074,
+			"z": 0
+		}
+	},
+	
+	{ # Donator zone - Yew Tree
+		"id": 1309,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2823,
+			"y": 5101,
+			"z": 0
+		}
+	},
+
+	{ # Lady Servil House - Trap Door
+		"id": 31010,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3077,
+			"y": 3493,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Shop Stairs
+		"id": 10560,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3082,
+			"y": 3513,
+			"z": 0
+		}
+	},
+
+	{ # General Stall
+		"id": 4876,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3091,
+			"y": 3487,
+			"z": 0
+		}
+	},
+	
+	{ # Food Stall
+		"id": 4875,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3093,
+			"y": 3487,
+			"z": 0
+		}
+	},
+	
+	{ # Magic Stall
+		"id": 4877,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3095,
+			"y": 3487,
+			"z": 0
+		}
+	},
+	
+	{ # Crafting Stall
+		"id": 4874,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3097,
+			"y": 3487,
+			"z": 0
+		}
+	},
+	
+	{ # Scimitar Stall
+		"id": 4878,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3099,
+			"y": 3487,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Tree Remove
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3104,
+			"y": 3494,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Tree Remove
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3097,
+			"y": 3516,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Tree Remove
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3090,
+			"y": 3516,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Tree Remove
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3082,
+			"y": 3516,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Tree Remove
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3076,
+			"y": 3516,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Wilderness Lever
+		"id": 5960,
+		"direction": 0,
+		"type": 4,
+		"position": {
+			"x": 3090,
+			"y": 3474,
+			"z": 0
+		}
+	},
+	
+	{ # Edgeville Anvil
+		"id": 2782,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3106,
+			"y": 3500,
+			"z": 0
+		}
+	},
+	
+	{ # Small Obelisk - Summoning
+		"id": 29954,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3085,
+			"y": 3506,
+			"z": 0
+		}
+	},
+
+	{ # BANK BOOTH
+		"id": 22819,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3094,
+			"y": 3516,
+			"z": 0
+		}
+	},
+	
+	{ # BANK BOOTH
+		"id": 22819,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3096,
+			"y": 3516,
+			"z": 0
+		}
+	},
+	
+	{ # BANK BOOTH
+		"id": 22819,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3095,
+			"y": 3516,
+			"z": 0
+		}
+	},
+
+	{ # BANK BOOTH
+		"id": 22819,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3093,
+			"y": 3516,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 10517,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2939,
+			"y": 9912,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 31010,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2927,
+			"y": 3444,
+			"z": 0
+		}
+	},
+	
+	{ # Silver Chest
+		"id": 4130,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3084,
+			"y": 3490,
+			"z": 0
+		}
+	},
+
+	{ # Dragon Chest
+		"id": 4121,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3084,
+			"y": 3488,
+			"z": 0
+		}
+	},
+	
+	{ # Mysterious Cape
+		"id": 2563,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3085,
+			"y": 3483,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 10517,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3057,
+			"y": 9774,
+			"z": 0
+		}
+	},
+
+	{ # Tomato crate
+		"id": 6839,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3084,
+			"y": 3483,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 29853,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2838,
+			"y": 2992,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 29853,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2855,
+			"y": 2953,
+			"z": -4
+		}
+	},
+
+	{
+		"id": 15936,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2833,
+			"y": 2987,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 15936,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2828,
+			"y": 2959,
+			"z": -4
+		}
+	},
+
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2006,
+			"y": 4758,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2006,
+			"y": 4756,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2006,
+			"y": 4754,
+			"z": -4
+		}
+	},
+
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2006,
+			"y": 4752,
+			"z": -4
+		}
+	},
+
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2013,
+			"y": 4752,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2013,
+			"y": 4754,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2013,
+			"y": 4756,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 5614,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 2013,
+			"y": 4758,
+			"z": -4
+		}
+	},
+
+	{
+		"id": 38165,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2967,
+			"y": 2897,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 38165,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2972,
+			"y": 2921,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 28486,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2922,
+			"y": 2888,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 38823,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2860,
+			"y": 2890,
+			"z": -4
+		}
+	},
+
+	{
+		"id": 44371,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2775,
+			"y": 2892,
+			"z": -4
+		}
+	},
+	
+	{
+		"id": 10517,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2888,
+			"y": 3461,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 409,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2882,
+			"y": 3458,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 28698,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2881,
+			"y": 3464,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 37990,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2882,
+			"y": 3461,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 10517,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 2626,
+			"y": 3677,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 36698,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3423,
+			"y": 9942,
+			"z": 0
+		}
+	},
+	
+	{
+		"id": -1,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2898,
+			"y": 3428,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 36698,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3424,
+			"y": 9942,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 36698,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3421,
+			"y": 9942,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 36698,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3420,
+			"y": 9942,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 31314,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3546,
+			"y": 4954,
+			"z": 0
+		}
+	},
+
+	{
+		"id": 31314,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3551,
+			"y": 4954,
+			"z": 0
+		}
+	},
+
+	{ # Pyre
+		"id": 41909,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 3177,
+			"y": 4960,
+			"z": 0
+		}
+	},
+	
+	{ # Ancient Gate
+	  "id": 2922,
+	  "direction": 2,
+	  "type": 0,
+	  "position": {
+	    "x": 2778,
+	    "y": 9101,
+	    "z": 0
+	  }
+	},
+	
+	{
+	  "id": 11324,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	    "x": 2778,
+	    "y": 9100,
+	    "z": 0
+	  }
+	},
+	
+	{
+	  "id": 2923,
+	  "direction": 2,
+	  "type": 0,
+	  "position": {
+	    "x": 2778,
+	    "y": 9099,
+	    "z": 0
+	  }
+	},
+	
+	{
+	  "id": 27256,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	    "x": 2804,
+	    "y": 9145,
+	    "z": 0
+	  }
+	},
+	
+	{
+	  "id": 2875,
+	  "direction": 2,
+	  "type": 10,
+	  "position": {
+	    "x": 2775,
+	    "y": 9099,
+	    "z": 0
+	  }
+	},
+	
+	{
+	  "id": 37990,
+	  "direction": 2,
+	  "type": 10,
+	  "position": {
+	    "x": 2775,
+	    "y": 9102,
+	    "z": 0
+	  }
+	},
+	
+	{ #soul wars portal
+	  "id": 42219,
+	  "direction": 0,
+	  "type": 10,
+	  "position": {
+	    "x": 3081,
+	    "y": 3473,
+	    "z": 0
+	  }
+	},
+	
+	{ # Plant removal
+		"id": -1,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3082,
+			"y": 3476,
+			"z": 0
+		}
+	},
+	
+	{ # Plant removal
+		"id": -1,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3081,
+			"y": 3475,
+			"z": 0
+		}
+	},
+
+	{ # RFD chest
+		"id": 2182,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 2570,
+			"y": 3080,
+			"z": 0
+		}
+	},
+
+	{ # RFD portal
+		"id": 12356,
+		"direction": 0,
+		"type": 10,
+		"position": {
+			"x": 2565,
+			"y": 3079,
+			"z": 0
+		}
+	},
+
+	{ # Dream Scene Remove Stand
+		"id": -1,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 1824,
+			"y": 5166,
+			"z": 2
+		}
+	},
+
+	{ # Treasure Island Chest
+		"id": 10621,
+		"direction": 1,
+		"type": 10,
+		"position": {
+			"x": 3036,
+			"y": 2912,
+			"z": 0
+		}
+	},
+
+	{ # Treasure Island Chest
+		"id": 18804,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3039,
+			"y": 2908,
+			"z": 0
+		}
+	},
+
+	{ # Treasure Island Chest
+		"id": 24204,
+		"direction": 3,
+		"type": 10,
+		"position": {
+			"x": 3043,
+			"y": 2912,
+			"z": 0
+		}
+	},
+
+	{ # Treasure Island Chest
+		"id": 29577,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3039,
+			"y": 2915,
+			"z": 0
+		}
+	},
+
+	{ # Falador Statue - RC
+		"id": 126827,
+		"direction": 2,
+		"type": 10,
+		"position": {
+			"x": 3051,
+			"y": 3492,
+			"z": 0
+		}
+	}
+
+]

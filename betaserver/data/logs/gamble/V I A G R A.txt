@@ -1,0 +1,13 @@
+2015-05-09 04:39:19.921: [Homer]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Fury ornament kit [19333, 1]
+Item[2]: Coins [995, 25000000]
+
+
+
+2015-05-09 04:42:36.738: [Aleexk3]:
+Item[0]: Coins [995, 24000000]
+Item[1]: Dharok's platebody [4720, 1]
+
+
+

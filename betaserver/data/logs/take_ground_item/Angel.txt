@@ -1,0 +1,10 @@
+Item Taken: Bones [526, 1 - position=[2679, 3715, 0]] - 2015-03-23 09:21:43.118
+Item Taken: Green charm [12159, 1 - position=[2677, 3714, 0]] - 2015-03-23 10:18:34.745
+Item Taken: Gold charm [12158, 3 - position=[2676, 3716, 0]] - 2015-03-23 10:25:04.749
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2676, 3716, 0]] - 2015-03-23 10:25:08.945
+Item Taken: Blue charm [12163, 1 - position=[2680, 3718, 0]] - 2015-03-23 10:35:28.165
+Item Taken: Casket [405, 1 - position=[2684, 3727, 0]] - 2015-03-23 11:05:19.182
+Item Taken: Coins [995, 355652 - position=[2684, 3726, 0]] - 2015-03-23 11:11:19.781
+Item Taken: Casket [405, 1 - position=[2684, 3727, 0]] - 2015-03-24 02:31:02.496
+Item Taken: Coins [995, 373587 - position=[2684, 3726, 0]] - 2015-03-24 02:41:37.892
+Item Taken: Coins [995, 197763 - position=[2684, 3727, 0]] - 2015-03-24 02:45:24.742

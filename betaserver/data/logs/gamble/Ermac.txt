@@ -1,0 +1,155 @@
+2015-04-15 03:38:14.179: [Chappy]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-17 13:18:26.044: [Best Slayer]:
+Item[0]: Coins [995, 10010000]
+
+
+
+2015-04-17 14:14:23.681: [Best Slayer]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 15:16:21.897: [Ch33sek1ng]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-17 15:18:15.928: [Ch33sek1ng]:
+Item[0]: Coins [995, 450000000]
+
+
+
+2015-04-17 15:24:57.299: [Ch33sek1ng]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-17 15:29:38.699: [T Cape]:
+Item[0]: Coins [995, 162891347]
+
+
+
+2015-04-17 15:41:38.127: [Aurora]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-17 15:53:22.538: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 15:54:55.541: [Goog]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-17 15:56:03.323: [Goog]:
+Item[0]: Coins [995, 400891347]
+
+
+
+2015-04-17 15:59:40.541: [Goog]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-17 16:51:26.759: [Iron Ph]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 16:52:17.175: [Iron Ph]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-17 16:52:55.565: [Iron Ph]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-17 16:53:24.374: [Iron Ph]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-17 17:47:45.994: [Coldott]:
+Item[0]: Coins [995, 4500000]
+
+
+
+2015-04-17 17:53:24.397: [Great Attila]:
+Item[0]: Coins [995, 39000000]
+
+
+
+2015-04-17 17:54:07.028: [Great Attila]:
+Item[0]: Coins [995, 39000000]
+
+
+
+2015-04-17 17:55:06.397: [Great Attila]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 17:56:22.598: [Great Attila]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 17:56:58.027: [Great Attila]:
+Item[0]: Coins [995, 78000000]
+
+
+
+2015-04-17 18:06:20.819: [Great Attila]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-17 18:24:40.015: [Zarox]:
+Item[0]: Virtus robe top [20164, 1]
+Item[1]: Divine spirit shield [13741, 1]
+
+
+
+2015-04-17 18:28:32.816: [Nostalgia]:
+Item[0]: Coins [995, 1328000000]
+
+
+
+2015-04-17 18:30:47.828: [Nostalgia]:
+Item[0]: Coins [995, 854000000]
+
+
+
+2015-04-17 18:31:49.016: [Nostalgia]:
+Item[0]: Coins [995, 1708000000]
+
+
+
+2015-04-17 18:32:22.017: [Nostalgia]:
+Item[0]: Coins [995, 1708000000]
+
+
+
+2015-04-17 18:42:29.844: [Nostalgia]:
+Item[0]: Dharok's greataxe [4718, 1]
+Item[1]: Dharok's helm [4716, 1]
+Item[2]: Dharok's platebody [4720, 1]
+Item[3]: Dharok's platelegs [4722, 1]
+Item[4]: Divine spirit shield [13740, 1]
+Item[5]: Amulet of fury [6585, 1]
+Item[6]: Spirit shield [13734, 1]
+Item[7]: Amulet of fury (or) [19335, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Abyssal vine whip [21371, 1]
+
+
+

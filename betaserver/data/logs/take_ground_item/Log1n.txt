@@ -1,0 +1,4 @@
+Item Taken: Coins [995, 750000 - position=[3090, 3490, 0]] - 2015-03-23 20:55:14.880
+Item Taken: Coins [995, 1982600 - position=[3096, 3498, 0]] - 2015-03-23 21:08:17.295
+Item Taken: Toktz-ket-xil [6524, 1 - position=[3096, 3498, 0]] - 2015-03-23 21:08:18.495
+Item Taken: Anger battleaxe [7807, 1 - position=[3096, 3498, 0]] - 2015-03-23 21:08:19.694

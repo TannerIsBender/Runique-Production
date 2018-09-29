@@ -1,0 +1,102 @@
+2015-05-29 19:47:05.748: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Zamorakian spear [11717, 1]
+
+
+
+2015-05-29 19:47:44.748: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Zamorakian spear [11717, 1]
+
+
+
+2015-05-29 19:48:29.138: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Zamorakian spear [11717, 1]
+
+
+
+2015-05-29 19:49:13.536: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-30 14:44:55.848: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Zamorakian spear [11717, 2]
+Other Item[0]: Dragon boots [11733, 4]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-30 14:45:31.848: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dragon boots [11733, 1]
+My Item[1]: Armadyl chainskirt [11723, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Dragon boots [11733, 4]
+Other Item[2]: Zamorakian spear [11717, 2]
+
+
+
+2015-05-31 14:52:00.579: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-31 14:53:39.579: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-02 14:29:43.020: [[Iron Ph, Marvindean1; 178.199.200.77, 08-00-27-00-68-BF]]:
+My Item[0]: Infinity hat [15608, 1]
+Other Item[0]: Infinity hat [15602, 1]
+
+
+
+2015-06-02 21:21:24.743: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Dragon bones [537, 120]
+Other Item[0]: Zamorak godsword [11700, 1]
+
+
+
+2015-06-02 21:23:48.158: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 21:27:54.766: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Armadyl helmet [11718, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-02 21:28:36.738: [[Get Pwned, andrew1; 24.166.248.76, 44-8A-5B-66-32-6C]]:
+My Item[0]: Armadyl helmet [11718, 1]
+Other Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-06-03 15:54:10.577: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-03 16:49:17.820: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+

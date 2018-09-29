@@ -1,0 +1,174 @@
+2015-04-16 18:58:54.632: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:02:54.629: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:04:12.621: [Shpongle]:
+
+
+
+2015-04-16 19:14:07.222: [Shpongle]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 19:22:47.444: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:42:25.843: [Pascaladium]:
+Item[0]: Dragon pickaxe [15260, 1]
+
+
+
+2015-04-16 21:01:33.094: [Pascaladium]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 06:51:47.992: [Raxxu]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-17 09:45:10.897: [Ch33sek1ng]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 09:48:05.512: [Ch33sek1ng]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-17 09:50:20.518: [Ch33sek1ng]:
+Item[0]: Statius's warhammer [13903, 1]
+
+
+
+2015-04-17 09:57:04.313: [Ch33sek1ng]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Bandos chestplate [11725, 1]
+
+
+
+2015-04-17 10:18:57.127: [Sylar]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 10:50:04.344: [Zarox]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-17 10:52:48.743: [Zarox]:
+Item[0]: Chaotic kiteshield [18359, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Coins [995, 250000000]
+Item[3]: Spectral sigil [13753, 1]
+Item[4]: Statius's platebody [13885, 1]
+Item[5]: Corrupt zuriel's staff [13942, 1]
+Item[6]: Statius's platelegs [13891, 1]
+Item[7]: Armadyl helmet [11719, 1]
+Item[8]: Corrupt statius's full helm [13921, 1]
+Item[9]: Dragon full helm [11336, 1]
+
+
+
+2015-04-17 10:55:33.744: [Ch33sek1ng]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-17 10:56:44.575: [Brazy]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-17 10:57:31.346: [Brazy]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-17 10:59:19.944: [Brazy]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-17 11:36:40.370: [Bozinators]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-17 11:37:10.981: [Bozinators]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-17 11:48:45.181: [Keddeflopp]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's full helm [13920, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Statius's platelegs [13890, 1]
+Item[4]: Armadyl helmet [11718, 1]
+Item[5]: Chaotic kiteshield [18359, 1]
+Item[6]: Spectral sigil [13752, 1]
+
+
+
+2015-04-17 11:51:09.193: [Keddeflopp]:
+Item[0]: Steadfast boots [21788, 3]
+Item[1]: Chaotic kiteshield [18359, 1]
+Item[2]: Corrupt vesta's plateskirt [13918, 1]
+Item[3]: Armadyl helmet [11719, 1]
+Item[4]: Statius's platebody [13885, 1]
+
+
+
+2015-04-17 11:56:45.796: [Keddeflopp]:
+Item[0]: Divine spirit shield [13741, 2]
+
+
+
+2015-04-17 12:00:53.596: [Banklootz]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 12:12:47.595: [Dutch Tzhaar]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 12:13:34.996: [Dutch Tzhaar]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 12:20:49.397: [Great Attila]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 12:21:33.794: [Great Attila]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 12:29:12.828: [Brockinator]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-17 12:33:35.627: [Keddeflopp]:
+Item[0]: Coins [995, 300000000]
+
+
+

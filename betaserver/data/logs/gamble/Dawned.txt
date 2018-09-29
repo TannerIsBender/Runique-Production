@@ -1,0 +1,231 @@
+2015-05-29 18:23:21.895: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 15000535]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-29 18:27:08.668: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-01 16:23:32.990: [[Evoty, skaterboy; 216.73.65.97, 00-23-24-0F-71-6D]]:
+My Item[0]: Dragon full helm [11335, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-01 16:32:41.988: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-01 16:59:32.415: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Runite ore [452, 978]
+Other Item[0]: Abyssal whip [15441, 1]
+
+
+
+2015-06-01 17:09:06.621: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Abyssal whip [15441, 1]
+Other Item[0]: Saradomin sword [11731, 1]
+Other Item[1]: Coins [995, 4000000]
+
+
+
+2015-06-04 10:49:35.065: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-04 11:05:15.270: [[Goblin Guard, Adamdapure15; 86.191.64.8, 94-39-E5-B5-C8-57]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-06-04 11:09:19.491: [[Calsta, coventry; 86.174.209.86, 7C-D1-C3-9B-2F-E0]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 11:11:21.291: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Statius's full helm [13896, 1]
+
+
+
+2015-06-04 11:12:08.701: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Goblin mask [12251, 1]
+
+
+
+2015-06-04 11:16:19.492: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Coins [995, 25000000]
+
+
+
+2015-06-04 11:20:25.488: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-06-04 11:24:48.301: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 250000000]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 11:25:20.692: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 250000000]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-06-04 11:28:20.089: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Coins [995, 35000000]
+
+
+
+2015-06-04 11:29:19.501: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 11:30:44.701: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-04 11:31:48.291: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 65000000]
+Other Item[0]: Coins [995, 65000000]
+
+
+
+2015-06-04 11:33:39.322: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:34:09.316: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 11:35:27.923: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-04 11:36:41.701: [[Tort0, asddsa; 146.255.183.131, None]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-06 13:35:33.252: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-06 13:36:30.262: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-06 14:15:45.887: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-06 14:34:43.538: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 45000000]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-06-06 14:35:41.101: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Statius's platelegs [13891, 1]
+
+
+
+2015-06-06 14:37:09.892: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Statius's platelegs [13891, 1]
+
+
+
+2015-06-06 17:45:26.263: [[Trollphace, nobnoob; 73.51.63.178, 74-29-AF-6F-F2-7C]]:
+My Item[0]: Statius's platelegs [13890, 1]
+Other Item[0]: Statius's full helm [13896, 1]
+
+
+
+2015-06-06 17:46:03.463: [[Trollphace, nobnoob; 73.51.63.178, 74-29-AF-6F-F2-7C]]:
+My Item[0]: Statius's platelegs [13890, 1]
+Other Item[0]: Statius's full helm [13896, 1]
+
+
+
+2015-06-06 17:47:28.685: [[Trollphace, nobnoob; 73.51.63.178, 74-29-AF-6F-F2-7C]]:
+My Item[0]: Amulet of fury (or) [19335, 1]
+Other Item[0]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-06-06 19:32:15.539: [[Nobody, poiuyt; 122.57.28.157, 00-36-76-57-73-74]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Coins [995, 18000000]
+
+
+
+2015-06-06 19:32:57.539: [[Nobody, poiuyt; 122.57.28.157, 00-36-76-57-73-74]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Coins [995, 18000000]
+
+
+
+2015-06-06 19:36:37.739: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-06 19:37:22.731: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-06 19:38:27.570: [[Surly, amjedx1; 99.244.165.75, A8-20-66-0D-F4-EF]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-06-06 19:45:44.970: [[Mr M, seviper141; 92.238.36.132, 9C-B7-0D-6F-E6-34]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+

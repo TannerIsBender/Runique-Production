@@ -1,0 +1,218 @@
+2015-06-04 15:09:59.865: [[Tiro, miris46; 74.102.221.35, 5C-F9-38-AA-03-14]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-06-04 15:11:22.070: [[Tiro, miris46; 74.102.221.35, 5C-F9-38-AA-03-14]]:
+My Item[0]: Coins [995, 12000000]
+Other Item[0]: Coins [995, 12000000]
+
+
+
+2015-06-04 15:13:55.670: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Saradomin godsword [11698, 1]
+Other Item[0]: Dragon boots [11733, 3]
+Other Item[1]: Flameburst defender [17274, 2]
+Other Item[2]: Bandos godsword [11696, 1]
+Other Item[3]: Seers' ring [6732, 1]
+
+
+
+2015-06-04 15:33:33.478: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 15:35:13.670: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Abyssal whip [15442, 1]
+My Item[1]: Abyssal whip [15442, 1]
+My Item[2]: Flameburst defender [17274, 2]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 15:35:56.289: [[Cnealy, 2424rules; 74.215.99.249, 30-46-9A-22-AF-55]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-04 15:37:17.882: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 90000000]
+Other Item[0]: Coins [995, 50000000]
+Other Item[1]: Abyssal whip [15444, 1]
+Other Item[2]: Abyssal whip [15444, 1]
+Other Item[3]: Abyssal whip [15444, 1]
+
+
+
+2015-06-04 15:38:15.482: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+Other Item[4]: Abyssal whip [15442, 1]
+Other Item[5]: Abyssal whip [15444, 1]
+Other Item[6]: Abyssal whip [15444, 1]
+Other Item[7]: Abyssal whip [15444, 1]
+Other Item[8]: Coins [995, 40000000]
+
+
+
+2015-06-04 15:39:33.470: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 40000000]
+My Item[1]: Abyssal whip [15442, 1]
+My Item[2]: Abyssal whip [15442, 1]
+My Item[3]: Abyssal whip [15442, 1]
+My Item[4]: Abyssal whip [15442, 1]
+My Item[5]: Abyssal whip [15442, 1]
+Other Item[0]: Coins [995, 140000000]
+
+
+
+2015-06-04 15:40:17.901: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15444, 1]
+My Item[3]: Chaotic longsword [18351, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+Other Item[4]: Abyssal whip [15442, 1]
+Other Item[5]: Coins [995, 40000000]
+Other Item[6]: Dharok's greataxe [4719, 1]
+Other Item[7]: Dharok's platebody [4721, 1]
+Other Item[8]: Dharok's platelegs [4723, 1]
+Other Item[9]: Dharok's helm [4717, 1]
+
+
+
+2015-06-04 15:43:20.286: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dharok's helm [4716, 1]
+My Item[1]: Dharok's platebody [4720, 1]
+My Item[2]: Dharok's platelegs [4722, 1]
+My Item[3]: Dharok's greataxe [4718, 1]
+My Item[4]: Armadyl helmet [11718, 1]
+My Item[5]: Dragon boots [11732, 1]
+My Item[6]: Dragon boots [11732, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Dragon boots [11732, 1]
+My Item[9]: Bandos godsword [11696, 1]
+My Item[10]: Saradomin godsword [11698, 1]
+My Item[11]: Seers' ring [6731, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Ragefire boots [21793, 1]
+Other Item[2]: Abyssal whip [15444, 1]
+Other Item[3]: Abyssal whip [15444, 1]
+Other Item[4]: Abyssal whip [15444, 1]
+
+
+
+2015-06-04 15:43:52.088: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dharok's helm [4716, 1]
+My Item[1]: Dharok's platebody [4720, 1]
+My Item[2]: Dharok's platelegs [4722, 1]
+My Item[3]: Dharok's greataxe [4718, 1]
+My Item[4]: Armadyl helmet [11718, 1]
+My Item[5]: Dragon boots [11732, 1]
+My Item[6]: Bandos godsword [11696, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Seers' ring [6731, 1]
+My Item[9]: Dragon boots [11732, 1]
+My Item[10]: Dragon boots [11732, 1]
+My Item[11]: Saradomin godsword [11698, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Ragefire boots [21793, 1]
+Other Item[2]: Abyssal whip [15444, 1]
+Other Item[3]: Abyssal whip [15444, 1]
+Other Item[4]: Abyssal whip [15444, 1]
+
+
+
+2015-06-04 15:45:05.885: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Saradomin godsword [11698, 1]
+My Item[2]: Dragon boots [11733, 4]
+My Item[3]: Ragefire boots [21793, 1]
+My Item[4]: Abyssal whip [15444, 1]
+My Item[5]: Dharok's helm [4716, 1]
+My Item[6]: Dharok's platebody [4720, 1]
+My Item[7]: Dharok's greataxe [4718, 1]
+My Item[8]: Dharok's platelegs [4722, 1]
+My Item[9]: Abyssal whip [15444, 1]
+My Item[10]: Abyssal whip [15444, 1]
+My Item[11]: Bandos godsword [11696, 1]
+My Item[12]: Armadyl helmet [11718, 1]
+My Item[13]: Seers' ring [6731, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+Other Item[4]: Abyssal whip [15442, 1]
+Other Item[5]: Coins [995, 40000000]
+Other Item[6]: Dharok's helm [4717, 1]
+Other Item[7]: Dharok's platelegs [4723, 1]
+Other Item[8]: Dharok's platebody [4721, 1]
+Other Item[9]: Dharok's greataxe [4719, 1]
+
+
+
+2015-06-04 15:45:43.676: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Dragon boots [11733, 4]
+My Item[2]: Dragonfire shield [11283, 1]
+My Item[3]: Ragefire boots [21793, 1]
+My Item[4]: Abyssal whip [15444, 1]
+My Item[5]: Dharok's helm [4716, 1]
+My Item[6]: Dharok's platebody [4720, 1]
+My Item[7]: Abyssal whip [15444, 1]
+My Item[8]: Dharok's platelegs [4722, 1]
+My Item[9]: Dharok's greataxe [4718, 1]
+My Item[10]: Abyssal whip [15444, 1]
+My Item[11]: Bandos godsword [11696, 1]
+My Item[12]: Armadyl helmet [11718, 1]
+My Item[13]: Seers' ring [6731, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15442, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+Other Item[4]: Abyssal whip [15442, 1]
+Other Item[5]: Coins [995, 40000000]
+Other Item[6]: Dharok's helm [4717, 1]
+Other Item[7]: Dharok's platelegs [4723, 1]
+Other Item[8]: Dharok's platebody [4721, 1]
+Other Item[9]: Dharok's greataxe [4719, 1]
+
+
+
+2015-06-06 01:17:02.701: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 40000052]
+Other Item[0]: Korasi's sword [19780, 1]
+Other Item[1]: Coins [995, 28653]
+
+
+
+2015-06-06 16:03:39.392: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 95000000]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Zamorak halo [18746, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-06-06 16:04:38.192: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+

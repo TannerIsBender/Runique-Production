@@ -1,0 +1,15 @@
+Item Taken: Green charm [12159, 2 - position=[2673, 3727, 0]] - 2015-03-23 09:46:36.833
+Item Taken: Bones [526, 1 - position=[2673, 3727, 0]] - 2015-03-23 09:46:38.033
+Item Taken: Coins [995, 35000 - position=[2326, 3796, 0]] - 2015-03-23 04:51:28.538
+Item Taken: Dragon bones [536, 1 - position=[2908, 9807, 0]] - 2015-03-23 04:58:52.541
+Item Taken: Blue dragonhide [1751, 1 - position=[2908, 9807, 0]] - 2015-03-23 04:59:11.140
+Item Taken: Dragon bones [536, 1 - position=[2906, 9804, 0]] - 2015-03-23 04:59:41.741
+Item Taken: Blue dragonhide [1751, 1 - position=[2906, 9804, 0]] - 2015-03-23 04:59:43.533
+Item Taken: Dragon bones [536, 1 - position=[2892, 9798, 0]] - 2015-03-24 02:50:09.083
+Item Taken: Blue dragonhide [1751, 1 - position=[2892, 9798, 0]] - 2015-03-24 02:50:09.686
+Item Taken: Dragon bones [536, 1 - position=[2895, 9798, 0]] - 2015-03-24 02:50:49.911
+Item Taken: Blue dragonhide [1751, 1 - position=[2895, 9798, 0]] - 2015-03-24 02:50:51.094
+Item Taken: Dragon bones [536, 1 - position=[2896, 9798, 0]] - 2015-03-24 02:51:33.095
+Item Taken: Blue dragonhide [1751, 1 - position=[2896, 9798, 0]] - 2015-03-24 02:51:34.311
+Item Taken: Dragon bones [536, 1 - position=[2896, 9798, 0]] - 2015-03-24 02:52:46.311
+Item Taken: Blue dragonhide [1751, 1 - position=[2896, 9798, 0]] - 2015-03-24 02:52:47.511

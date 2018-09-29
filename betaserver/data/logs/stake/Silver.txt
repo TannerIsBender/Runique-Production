@@ -1,0 +1,67 @@
+2015-04-14 00:10:38.131: [Odds]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-14 00:11:46.519: [Odds]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-14 00:13:53.719: [Odds]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-14 00:16:43.519: [Odds]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-14 00:22:19.516: [Odds]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-14 00:25:23.141: [Odds]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Coins [995, 60000000]
+
+
+
+2015-04-14 00:37:36.929: [Odds]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-14 00:39:08.747: [Odds]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-14 02:08:44.200: [April Fools]:
+
+
+
+2015-04-14 02:11:13.601: [April Fools]:
+
+
+
+2015-04-14 02:12:50.200: [April Fools]:
+
+
+
+2015-04-14 02:41:41.800: [April Fools]:
+
+
+
+2015-04-14 02:43:26.817: [April Fools]:
+
+
+
+2015-04-14 02:45:51.996: [April Fools]:
+
+
+

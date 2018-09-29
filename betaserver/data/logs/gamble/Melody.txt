@@ -1,0 +1,1180 @@
+2015-04-12 08:30:43.719: [Immortal Sin]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:36:49.127: [Immortal Sin]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:37:39.546: [Fleshlight]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:46:35.374: [Zinc]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-12 09:47:13.781: [Zinc]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-12 09:47:53.974: [Zinc]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-12 09:48:37.169: [Zinc]:
+Item[0]: Coins [995, 85000000]
+
+
+
+2015-04-12 09:49:22.174: [Zinc]:
+Item[0]: Coins [995, 85000000]
+
+
+
+2015-04-12 09:49:59.380: [Zinc]:
+Item[0]: Coins [995, 85000000]
+
+
+
+2015-04-12 09:51:59.380: [Immortal Sin]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Statius's full helm [13896, 1]
+Item[2]: Statius's platebody [13884, 1]
+
+
+
+2015-04-12 09:59:02.981: [Zinc]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:59:35.380: [Zinc]:
+Item[0]: Coins [995, 60000000]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 10:00:13.774: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Coins [995, 45000000]
+
+
+
+2015-04-12 10:00:45.580: [Zinc]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-12 10:01:55.794: [Immortal Sin]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-12 10:05:11.994: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Coins [995, 60000000]
+
+
+
+2015-04-12 10:06:59.393: [Zinc]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-12 10:07:35.995: [Zinc]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-12 17:30:27.244: [Lildurk]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 22:59:21.442: [Immortal Sin]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-12 23:06:03.427: [Immortal Sin]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-12 23:06:54.441: [Immortal Sin]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-12 23:09:53.827: [Immortal Sin]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-12 23:11:36.427: [Immortal Sin]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 23:12:11.826: [Immortal Sin]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 23:24:50.837: [Aurora]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-12 23:25:59.843: [Aurora]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-12 23:26:37.642: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-12 23:27:08.842: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-12 23:28:13.043: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-12 23:29:29.843: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-04-12 23:30:10.047: [Aurora]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-12 23:30:47.246: [Aurora]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-12 23:31:46.643: [Aurora]:
+Item[0]: Coins [995, 250000000]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-12 23:37:56.243: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-12 23:40:11.249: [Aurora]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-04-13 16:21:28.830: [Aurora]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Statius's full helm [13896, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Steadfast boots [21787, 1]
+
+
+
+2015-04-13 16:25:31.227: [Aurora]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-13 16:26:28.827: [Aurora]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-13 16:27:30.629: [Aurora]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-04-13 16:29:37.831: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-13 16:30:30.649: [Aurora]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-13 16:32:32.432: [Aurora]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-13 16:35:43.834: [Aurora]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:36:33.640: [Aurora]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:39:19.831: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-13 16:40:08.438: [Aurora]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:40:57.037: [Aurora]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Coins [995, 250000000]
+
+
+
+2015-04-13 16:42:22.231: [Aurora]:
+Item[0]: Statius's full helm [13897, 1]
+Item[1]: Statius's platebody [13885, 1]
+Item[2]: Statius's platelegs [13891, 1]
+Item[3]: Coins [995, 350000000]
+
+
+
+2015-04-13 16:43:14.443: [Aurora]:
+Item[0]: Statius's platebody [13885, 1]
+Item[1]: Statius's platelegs [13891, 1]
+Item[2]: Statius's full helm [13897, 1]
+Item[3]: Coins [995, 350000000]
+
+
+
+2015-04-13 16:43:59.432: [Aurora]:
+Item[0]: Coins [995, 350000000]
+Item[1]: Statius's full helm [13897, 1]
+Item[2]: Statius's platelegs [13891, 1]
+Item[3]: Statius's platebody [13885, 1]
+
+
+
+2015-04-13 16:46:09.631: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-13 16:47:01.247: [Aurora]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:48:23.447: [Aurora]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Chaotic rapier [18349, 1]
+Item[4]: Divine sigil [13748, 1]
+
+
+
+2015-04-13 16:51:57.047: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:52:33.047: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:55:44.446: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-13 16:57:28.247: [Aurora]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-04-13 17:08:18.078: [Goog]:
+Item[0]: Divine sigil [13749, 1]
+Item[1]: Coins [995, 35000000]
+
+
+
+2015-04-15 21:40:33.432: [The Tyler]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-16 20:04:18.079: [Thug Life]:
+
+
+
+2015-04-16 20:04:49.278: [Thug Life]:
+
+
+
+2015-04-16 20:05:52.269: [Thug Life]:
+
+
+
+2015-04-16 20:07:09.669: [Thug Life]:
+
+
+
+2015-04-16 20:09:35.478: [Thug Life]:
+
+
+
+2015-04-16 20:25:10.271: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-16 20:26:43.278: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-04-16 20:27:44.469: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 20:31:01.869: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-16 20:33:01.878: [Nostalgia]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 20:34:39.078: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 20:39:38.465: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic maul [18353, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 20:43:39.694: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic rapier [18349, 1]
+Item[4]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 20:47:49.293: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic maul [18353, 1]
+Item[2]: Chaotic longsword [18351, 1]
+Item[3]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 20:53:19.294: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-16 21:37:05.531: [Goog]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-16 21:38:20.533: [Goog]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-16 21:39:00.719: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-16 21:51:27.747: [2kk2]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Divine sigil [13748, 1]
+Item[3]: Dragon pickaxe [15259, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Coins [995, 30000000]
+
+
+
+2015-04-16 22:07:15.131: [Dave]:
+
+
+
+2015-04-16 22:33:56.546: [Dave]:
+
+
+
+2015-04-17 16:09:30.944: [Aurora]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-17 16:20:45.943: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-17 21:50:49.144: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-17 21:57:30.542: [Nostalgia]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Dragon claws [14484, 1]
+Item[2]: Coins [995, 400000000]
+
+
+
+2015-04-17 22:00:28.144: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Coins [995, 200000000]
+
+
+
+2015-04-17 22:08:02.974: [Nostalgia]:
+Item[0]: Coins [995, 1800000000]
+
+
+
+2015-04-17 22:11:51.581: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-17 22:20:18.575: [Nostalgia]:
+Item[0]: Coins [995, 600000000]
+
+
+
+2015-04-17 22:24:22.177: [Nostalgia]:
+Item[0]: Coins [995, 2100000000]
+
+
+
+2015-04-17 22:25:56.378: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Chaotic maul [18353, 1]
+Item[3]: Dragon claws [14484, 1]
+Item[4]: Armadyl godsword [11694, 1]
+Item[5]: Steadfast boots [21787, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Vesta's chainbody [13887, 1]
+Item[8]: Vesta's plateskirt [13893, 1]
+Item[9]: Steadfast boots [21787, 1]
+
+
+
+2015-04-17 22:26:43.181: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-17 22:28:37.769: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-17 22:30:28.777: [Nostalgia]:
+Item[0]: Blue partyhat [1042, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-17 22:32:15.578: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Red partyhat [1038, 1]
+
+
+
+2015-04-17 22:36:36.581: [Nostalgia]:
+Item[0]: Third-age platebody [10348, 1]
+Item[1]: Third-age full helmet [10350, 1]
+Item[2]: Third-age platelegs [10346, 1]
+Item[3]: Sled [4084, 1]
+Item[4]: Torva full helm [20135, 1]
+
+
+
+2015-04-17 22:37:14.370: [Nostalgia]:
+Item[0]: Coins [995, 750000000]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-04-18 10:31:49.627: [Olleking]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-18 10:34:26.218: [Olleking]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 10:35:23.820: [Olleking]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-18 13:34:28.727: [Aurora]:
+Item[0]: Blue partyhat [1042, 1]
+Item[1]: Yellow partyhat [1041, 1]
+Item[2]: Red partyhat [1038, 1]
+
+
+
+2015-04-19 22:01:35.351: [Aurora]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic longsword [18351, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-19 22:02:43.739: [Aurora]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Blue partyhat [1042, 1]
+Item[2]: Coins [995, 500000000]
+
+
+
+2015-04-19 22:08:20.951: [Aurora]:
+Item[0]: Red partyhat [1039, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic maul [18353, 1]
+Item[4]: Chaotic staff [18355, 1]
+Item[6]: Chaotic crossbow [18357, 1]
+Item[7]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-04-19 22:09:56.352: [Aurora]:
+Item[0]: Blue partyhat [1043, 1]
+Item[1]: Yellow partyhat [1040, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-19 22:10:37.751: [Aurora]:
+Item[0]: Blue partyhat [1043, 1]
+
+
+
+2015-04-19 22:17:02.355: [Iron Hydra]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-04-20 20:25:38.351: [2kk2]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-21 19:18:05.800: [Nostalgia]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 19:20:03.403: [Nostalgia]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-21 19:21:10.603: [Nostalgia]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-21 19:22:17.788: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-04-21 19:24:20.788: [Nostalgia]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic staff [18355, 1]
+
+
+
+2015-04-21 19:25:01.587: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-21 19:25:36.378: [Nostalgia]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-21 19:27:29.193: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 19:28:47.793: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 19:29:22.594: [Nostalgia]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-22 16:23:58.534: [Finnus]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Vesta's plateskirt [13894, 1]
+Item[2]: Divine spirit shield [13741, 1]
+Item[3]: Steadfast boots [21788, 1]
+
+
+
+2015-04-22 16:24:34.503: [Finnus]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+Item[2]: Vesta's plateskirt [13894, 1]
+Item[3]: Steadfast boots [21788, 1]
+
+
+
+2015-04-22 16:25:02.126: [Finnus]:
+Item[0]: Vesta's plateskirt [13894, 1]
+Item[1]: Steadfast boots [21788, 1]
+Item[2]: Divine spirit shield [13741, 1]
+Item[3]: Vesta's chainbody [13888, 1]
+
+
+
+2015-04-22 16:25:57.933: [Finnus]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+Item[4]: Coins [995, 200000000]
+
+
+
+2015-04-22 16:26:36.933: [Finnus]:
+Item[0]: Virtus robe top [20163, 1]
+Item[1]: Coins [995, 400000000]
+
+
+
+2015-04-22 16:31:45.333: [Finnus]:
+Item[0]: Virtus robe top [20163, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic maul [18353, 1]
+Item[5]: Chaotic staff [18355, 1]
+Item[6]: Divine spirit shield [13740, 1]
+Item[7]: Chaotic crossbow [18357, 1]
+Item[8]: Chaotic longsword [18351, 1]
+Item[9]: Coins [995, 250000000]
+
+
+
+2015-04-22 19:58:56.264: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-04-22 19:59:30.450: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-04-22 20:01:17.252: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-22 20:04:47.850: [Banklootz]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-04-22 20:08:48.449: [Banklootz]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-04-22 20:12:50.852: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-04-22 20:14:42.464: [Banklootz]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-22 20:16:16.051: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Chaotic maul [18353, 1]
+Item[5]: Chaotic staff [18355, 1]
+
+
+
+2015-04-22 20:20:49.053: [Banklootz]:
+Item[0]: Torva full helm [20135, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-22 20:21:44.864: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic longsword [18351, 1]
+Item[5]: Coins [995, 100000000]
+
+
+
+2015-04-22 20:22:37.651: [Banklootz]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic longsword [18351, 1]
+Item[5]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-22 20:24:19.050: [Pascaladium]:
+Item[0]: Coins [995, 260000000]
+
+
+
+2015-04-22 20:25:32.253: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Torva full helm [20135, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Chaotic staff [18355, 1]
+Item[5]: Chaotic longsword [18351, 1]
+Item[6]: Chaotic crossbow [18357, 1]
+Item[7]: Coins [995, 150000000]
+
+
+
+2015-04-22 20:26:24.454: [Banklootz]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic maul [18353, 1]
+
+
+
+2015-04-22 20:28:35.249: [Banklootz]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-22 20:29:22.081: [Banklootz]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-22 20:31:14.275: [Banklootz]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic maul [18353, 1]
+Item[3]: Coins [995, 750000000]
+
+
+
+2015-04-22 20:33:21.475: [Banklootz]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Coins [995, 1500000000]
+
+
+
+2015-04-22 20:35:34.676: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Chaotic maul [18353, 1]
+Item[5]: Coins [995, 100000000]
+
+
+
+2015-04-22 20:36:22.675: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic longsword [18351, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic maul [18353, 1]
+Item[5]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-22 20:37:04.080: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic maul [18353, 1]
+Item[4]: Coins [995, 100000000]
+
+
+
+2015-04-22 20:38:49.681: [Banklootz]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-04-22 20:42:58.674: [Pascaladium]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 90000000]
+
+
+
+2015-04-22 20:44:01.075: [Pascaladium]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 90000000]
+
+
+
+2015-04-23 19:22:22.913: [St3alth Skil]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 19:23:07.913: [St3alth Skil]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 45000000]
+
+
+
+2015-04-23 19:24:43.313: [St3alth Skil]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 45000000]
+
+
+
+2015-04-26 10:14:42.494: [Kabooyah]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-26 10:16:01.114: [Kabooyah]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-26 10:16:47.302: [Kabooyah]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-26 10:17:53.303: [Kabooyah]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Armadyl godsword [11694, 1]
+Item[4]: Coins [995, 60000000]
+Item[5]: Chaotic staff [18355, 1]
+
+
+
+2015-04-26 15:38:51.065: [Prada]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-26 15:40:55.265: [Prada]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-26 17:20:25.940: [Kabooyah]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-26 17:26:57.749: [Prada]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-26 17:27:45.749: [Prada]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-26 17:28:21.749: [Prada]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-26 17:31:40.947: [Kabooyah]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-27 19:54:36.150: [Kabooyah]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-27 19:55:00.728: [Kabooyah]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-27 19:58:03.749: [Kabooyah]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-27 19:58:45.751: [Kabooyah]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-27 20:00:51.149: [Kabooyah]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-27 20:03:20.549: [The Tyler]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-04-27 20:05:25.949: [The Tyler]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-27 20:08:28.350: [Ziptie]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-27 20:13:01.950: [Ziptie]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 20:15:09.750: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-27 20:15:40.950: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-27 20:16:13.349: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-27 20:17:10.949: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-27 20:18:02.551: [Ziptie]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-27 20:26:54.752: [Kabooyah]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-27 20:27:55.381: [Kabooyah]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-27 20:39:09.149: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 20:39:57.780: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-27 21:39:48.801: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 16:54:24.903: [Kabooyah]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-04 17:02:33.222: [Desi]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-04 17:03:00.818: [Desi]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-04 17:03:57.219: [Desi]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic longsword [18351, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-04 17:04:24.206: [Desi]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-04 17:12:18.218: [Desi]:
+Item[0]: Blue partyhat [1042, 1]
+Item[1]: Black partyhat [8015, 1]
+
+
+

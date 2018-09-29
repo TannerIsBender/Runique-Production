@@ -1,0 +1,197 @@
+2015-05-05 09:41:36.585: [Bamf Katie]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-05 09:46:02.991: [Bamf Katie]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-05 09:46:38.390: [Bamf Katie]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-05 09:47:05.400: [Bamf Katie]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-05 09:47:35.416: [Bamf Katie]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-05 14:15:28.422: [Freddie007]:
+Item[0]: Holy elixir [13754, 1]
+
+
+
+2015-05-05 14:21:08.038: [Freddie007]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-05 14:21:45.238: [Freddie007]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-07 12:37:14.188: [Lvls]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-05-08 12:29:54.916: [Osku Pk]:
+Item[0]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-08 12:39:09.939: [Ch33sek1ng]:
+
+
+
+2015-05-08 13:05:53.138: [Osku Pk]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 10:21:54.029: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Spectral sigil [13752, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Dragon full helm (or) [19336, 1]
+Other Item[2]: Dragon platelegs (or) [19338, 1]
+Other Item[3]: Dragon chainbody [3141, 1]
+Other Item[4]: Dragon boots [11733, 1]
+Other Item[5]: Faithful shield [18747, 1]
+Other Item[6]: Godsword shard 1 [11711, 1]
+
+
+
+2015-05-11 11:48:56.500: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Third-age robe [10340, 1]
+
+
+
+2015-05-11 12:04:14.517: [[Cozzab123, cozza1234; 176.25.209.127, 74-E5-43-BC-2B-14]]:
+My Item[0]: Dragon full helm (or) [19336, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon platelegs (or) [19338, 1]
+My Item[3]: Dragon chainbody [3140, 1]
+My Item[4]: Faithful shield [18747, 1]
+Other Item[0]: Coins [995, 30000424]
+
+
+
+2015-05-11 12:07:06.100: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-11 12:09:00.722: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Dragon chainbody [3140, 1]
+My Item[1]: Faithful shield [18747, 1]
+My Item[2]: Dragon full helm (or) [19336, 1]
+My Item[3]: Dragon boots [11732, 1]
+My Item[4]: Dragon platelegs (or) [19338, 1]
+Other Item[0]: Coins [995, 49000000]
+
+
+
+2015-05-11 12:12:33.122: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-05-11 12:15:32.522: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[5]: Dragon full helm (or) [19336, 1]
+Other Item[0]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-05-11 12:16:57.718: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Dragon full helm (or) [19336, 1]
+My Item[1]: Faithful shield [18747, 1]
+Other Item[0]: Dragon full helm (or) [19336, 1]
+Other Item[1]: Coins [995, 6000000]
+
+
+
+2015-05-11 12:18:21.721: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-11 12:23:03.122: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 10000000]
+My Item[1]: Faithful shield [18747, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-11 12:26:22.939: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[1]: Zamorak godsword [11700, 1]
+
+
+
+2015-05-11 15:44:13.500: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Spectral sigil [13752, 1]
+Other Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-05-11 16:10:07.483: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-11 16:10:35.091: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-11 16:11:09.284: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-11 16:11:39.285: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-12 14:46:37.968: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Dharok's greataxe [4718, 1]
+
+
+
+2015-05-12 14:48:18.753: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Dragon full helm (or) [19336, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon platelegs (or) [19338, 1]
+My Item[3]: Dragon platebody [14479, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-12 14:50:36.753: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+

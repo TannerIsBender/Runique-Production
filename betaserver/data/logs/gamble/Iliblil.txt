@@ -1,0 +1,170 @@
+2015-04-16 08:41:53.044: [Fetus]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Third-age amulet [10344, 1]
+
+
+
+2015-04-16 08:46:11.045: [Miss K]:
+Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-16 08:47:27.847: [Ganja Green]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Third-age amulet [10344, 1]
+Item[3]: Farseer kiteshield [18363, 1]
+Item[4]: Coins [995, 25000000]
+
+
+
+2015-04-16 09:53:48.279: [Aurora]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-16 09:54:11.100: [Aurora]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-16 09:55:17.694: [Aurora]:
+Item[0]: Zamorak godsword [11701, 1]
+Item[1]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-16 10:37:13.500: [Zarox]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-16 13:42:43.016: [Pvp4dayz]:
+Item[0]: Zamorak godsword [11700, 1]
+
+
+
+2015-04-16 13:46:08.831: [Goog]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-16 13:49:17.252: [Pvp4dayz]:
+
+
+
+2015-04-16 13:50:31.632: [Kabooyah]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Golden mining trousers [20790, 1]
+Item[3]: Golden mining trousers [20790, 1]
+Item[5]: Zamorak halo [18746, 1]
+
+
+
+2015-04-16 13:51:34.016: [Kabooyah]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Golden mining trousers [20790, 1]
+Item[3]: Golden mining trousers [20790, 1]
+Item[4]: Zamorak halo [18746, 1]
+
+
+
+2015-04-16 13:52:58.031: [Kabooyah]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Zamorak halo [18746, 1]
+Item[2]: Golden mining trousers [20790, 1]
+Item[3]: Golden mining trousers [20790, 1]
+Item[4]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-16 13:55:21.442: [Zarox]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Zamorak godsword [11700, 1]
+Item[4]: Saradomin godsword [11698, 1]
+Item[5]: Statius's platebody [13884, 1]
+
+
+
+2015-04-16 14:06:48.447: [Thug Life]:
+Item[2]: Golden mining trousers [20790, 1]
+
+
+
+2015-04-16 14:12:26.241: [Thug Life]:
+Item[0]: Rune bar [2364, 79]
+
+
+
+2015-04-16 14:23:19.063: [Zarox]:
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-17 17:16:33.993: [Knee Socks]:
+Item[0]: Zamorak godsword [11700, 1]
+Item[1]: Zamorak godsword [11700, 1]
+Item[2]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-17 17:21:26.781: [Knee Socks]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Vesta's spear [13905, 1]
+
+
+
+2015-04-17 17:28:38.193: [Knee Socks]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Statius's warhammer [13902, 1]
+Item[4]: Corrupt statius's warhammer [13926, 1]
+Item[5]: Zamorak hilt [11708, 1]
+Item[6]: Marmaros plateskirt [16651, 1]
+
+
+
+2015-04-17 17:30:18.993: [Knee Socks]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Corrupt statius's full helm [13920, 1]
+Item[4]: Corrupt statius's platebody [13908, 1]
+Item[5]: Corrupt statius's platelegs [13914, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Statius's warhammer [13902, 1]
+Item[8]: Statius's warhammer [13902, 1]
+Item[9]: Blessed spirit shield [13736, 1]
+
+
+
+2015-04-17 17:35:44.197: [Rk Mirrage]:
+Item[0]: Zamorak godsword [11700, 1]
+
+
+
+2015-04-17 17:37:18.379: [Gabriele]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-17 17:38:09.397: [Gabriele]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11723, 1]
+
+
+

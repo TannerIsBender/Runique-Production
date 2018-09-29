@@ -1,0 +1,161 @@
+2015-04-08 22:07:15.529: [Homerg]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-08 22:08:10.729: [Homerg]:
+Item[0]: Coins [995, 43000000]
+
+
+
+2015-04-08 22:09:44.923: [Homerg]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-09 00:03:54.593: [The J]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Dharok's greataxe [4718, 1]
+Item[3]: Dharok's platelegs [4722, 1]
+
+
+
+2015-04-09 00:07:12.007: [The J]:
+Item[0]: Coins [995, 9532651]
+
+
+
+2015-04-09 00:08:19.794: [The J]:
+Item[0]: Coins [995, 19064651]
+
+
+
+2015-04-09 00:10:03.593: [The J]:
+Item[0]: Coins [995, 30064651]
+
+
+
+2015-04-09 00:17:40.195: [The J]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-09 00:19:04.807: [The J]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-09 00:20:15.592: [The J]:
+Item[0]: Coins [995, 32000000]
+
+
+
+2015-04-09 19:29:01.176: [Kn0gen]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-09 19:31:36.598: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-09 19:33:00.007: [Kn0gen]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-09 19:35:04.793: [Kn0gen]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-09 19:38:14.379: [Kn0gen]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-09 22:39:10.906: [Kn0gen]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-09 22:40:27.107: [Kn0gen]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-09 22:41:24.729: [Kn0gen]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-09 22:42:15.129: [Kn0gen]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-10 20:40:51.929: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 20:42:41.707: [Kn0gen]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-10 20:43:42.907: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-10 20:44:32.720: [Kn0gen]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-10 20:45:32.707: [Kn0gen]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-10 20:46:09.929: [Kn0gen]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-10 20:47:34.529: [Kn0gen]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-10 20:49:50.707: [Kn0gen]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-10 20:50:44.707: [Kn0gen]:
+Item[0]: Coins [995, 10290258]
+
+
+
+2015-04-11 13:09:51.869: [Wtf Dog Face]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-11 13:19:05.068: [Smalle]:
+Item[0]: Coins [995, 1199400]
+
+
+
+2015-04-11 13:32:05.070: [Untouchedtea]:
+
+
+

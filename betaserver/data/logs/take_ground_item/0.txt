@@ -1,0 +1,6 @@
+Item Taken: Uncut sapphire [1623, 1 - position=[3097, 3486, 0]] - 2015-03-23 19:21:52.627
+Item Taken: Manta ray [392, 250 - position=[3099, 3488, 0]] - 2015-03-23 19:38:31.645
+Item Taken: Corrupt dragon scimitar [13979, 1 - position=[3099, 3488, 0]] - 2015-03-23 19:38:32.243
+Item Taken: Gold charm [12158, 8 - position=[2678, 3717, 0]] - 2015-03-23 19:50:18.445
+Item Taken: Green charm [12159, 2 - position=[2678, 3717, 0]] - 2015-03-23 19:50:20.843
+Item Taken: Green charm [12159, 2 - position=[2679, 3714, 0]] - 2015-03-23 19:52:07.658

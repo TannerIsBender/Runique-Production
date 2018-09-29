@@ -1,0 +1,5 @@
+Item Telegrabbed: Dragon bones [536, 1 - [2894, 9798, 0]] - 2015-04-30 05:30:09.933
+Item Telegrabbed: Dragon bones [536, 1 - [2894, 9798, 0]] - 2015-04-30 05:33:40.526
+Item Telegrabbed: Rune kiteshield [1202, 1 - [2577, 9896, 0]] - 2015-04-30 05:45:42.348
+Item Telegrabbed: Big bones [532, 1 - [2577, 9896, 0]] - 2015-04-30 05:45:52.549
+Item Telegrabbed: Big bones [532, 1 - [2575, 9897, 0]] - 2015-04-30 05:47:00.349

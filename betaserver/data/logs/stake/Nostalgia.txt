@@ -1,0 +1,16 @@
+2015-04-10 14:23:22.260: [Kn0gen]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-04-14 14:04:43.019: [Odds]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-14 14:06:56.218: [Odds]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+

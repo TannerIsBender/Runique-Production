@@ -1,0 +1,85 @@
+2015-05-26 16:48:21.587: [[Chief, scaryshit123; 92.232.67.78, 00-1E-2A-B1-99-84]]:
+My Item[0]: Coins [995, 69]
+Other Item[0]: Coins [995, 1]
+
+
+
+2015-05-26 16:49:08.995: [[Chief, scaryshit123; 92.232.67.78, 00-1E-2A-B1-99-84]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Coins [995, 5]
+
+
+
+2015-05-26 17:06:16.196: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 420]
+Other Item[0]: Coins [995, 420]
+
+
+
+2015-05-26 17:06:54.602: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 420]
+Other Item[0]: Coins [995, 420]
+
+
+
+2015-05-26 17:35:31.817: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Coins [995, 1]
+
+
+
+2015-05-28 17:24:15.463: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Coins [995, 1]
+
+
+
+2015-05-28 17:25:10.660: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Overload (3) [15333, 1]
+Other Item[0]: Coins [995, 150000]
+
+
+
+2015-05-28 17:25:50.888: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Saradomin kiteshield [2667, 1]
+My Item[1]: Overload (3) [15333, 1]
+Other Item[0]: Coins [995, 2150000]
+
+
+
+2015-05-31 08:11:02.664: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+
+
+
+2015-06-04 11:40:06.312: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Shadow abyssal whip [3063, 1]
+
+
+
+2015-06-04 11:44:35.113: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Torva platelegs [20143, 1]
+My Item[1]: Torva platebody [20139, 1]
+My Item[2]: Torva full helm [20135, 1]
+My Item[3]: Shadow abyssal whip [3063, 1]
+Other Item[0]: Torva full helm [2542, 1]
+
+
+
+2015-06-04 11:45:04.489: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Torva full helm [20135, 1]
+My Item[1]: Shadow abyssal whip [3063, 1]
+My Item[2]: Torva platelegs [20143, 1]
+My Item[3]: Torva platebody [20139, 1]
+Other Item[0]: Torva full helm [2542, 1]
+
+
+
+2015-06-04 11:52:21.920: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+
+
+
+2015-06-06 15:22:57.340: [[Mikhail, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 69]
+
+
+

@@ -1,0 +1,13 @@
+2015-04-05 19:38:31.292: [The J]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-05 19:41:03.102: [The J]:
+Item[0]: Coins [995, 45000000]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+

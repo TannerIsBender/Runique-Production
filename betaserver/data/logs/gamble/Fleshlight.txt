@@ -1,0 +1,101 @@
+2015-04-12 09:34:27.543: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-15 06:09:13.679: [Cozza1234]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 06:51:19.093: [Cozza1234]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-15 06:52:02.894: [Cozza1234]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-15 06:52:54.500: [Cozza1234]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-15 06:53:38.900: [Cozza1234]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 06:54:28.694: [Cozza1234]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 06:55:05.894: [Cozza1234]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 08:17:53.947: [Zyrix]:
+
+
+
+2015-04-15 08:22:38.357: [Zyrix]:
+
+
+
+2015-04-15 08:24:08.979: [Cozzab123]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13927, 1]
+Item[2]: Abyssal whip [15442, 1]
+
+
+
+2015-04-15 08:41:23.963: [Zyrix]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-19 10:39:23.192: [Homer]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Vote Ticket [13256, 1]
+
+
+
+2015-04-19 10:41:18.423: [Homer]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Gilded platelegs [3484, 1]
+Item[4]: Coins [995, 24000000]
+Item[5]: Corrupt statius's warhammer [13927, 2]
+Item[6]: Ranger boots [2577, 1]
+
+
+
+2015-05-03 08:45:46.400: [Ziptie]:
+Item[0]: Dark bow [15704, 1]
+Item[1]: Dark bow [15704, 1]
+Item[2]: Faithful shield [18747, 1]
+
+
+
+2015-05-03 09:17:00.846: [Ziptie]:
+Item[0]: Coins [995, 20000000]
+
+
+

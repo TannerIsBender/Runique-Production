@@ -1,0 +1,57 @@
+2015-04-18 02:26:20.518: [Dave]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Coins [995, 42884170]
+Item[4]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 02:32:45.118: [Slightlyop]:
+Item[0]: Coins [995, 359884170]
+
+
+
+2015-04-18 02:34:36.112: [Slightlyop]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Statius's platebody [13884, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Infinity boots [6920, 1]
+
+
+
+2015-04-18 02:39:13.317: [Ganja Green]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 02:40:32.517: [Dave]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-18 02:40:33.118: [Dave]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-18 02:42:39.728: [Mathew]:
+Item[0]: Infinity boots [6920, 1]
+Item[1]: Infinity gloves [6922, 1]
+
+
+
+2015-04-18 02:53:45.128: [Aurora]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 09:34:01.565: [Thug Life]:
+Item[0]: Coins [995, 12410000]
+
+
+

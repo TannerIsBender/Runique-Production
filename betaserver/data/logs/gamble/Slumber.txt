@@ -1,0 +1,36 @@
+2015-04-16 10:19:42.315: [Aurora]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Dark bow [15701, 1]
+Item[2]: Torag's platebody [4749, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Coins [995, 5523815]
+
+
+
+2015-04-16 10:21:00.931: [Aurora]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Torag's platebody [4749, 1]
+Item[2]: Dark bow [15701, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Coins [995, 5523815]
+
+
+
+2015-04-16 10:21:50.731: [Aurora]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 5523815]
+Item[3]: Torag's platebody [4749, 1]
+Item[4]: Dark bow [15701, 1]
+
+
+
+2015-04-16 10:22:23.731: [Aurora]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Torag's platebody [4749, 1]
+Item[2]: Dark bow [15701, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Coins [995, 5523815]
+
+
+

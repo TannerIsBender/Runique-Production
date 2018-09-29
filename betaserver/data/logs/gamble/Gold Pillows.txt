@@ -1,0 +1,18 @@
+2015-06-06 17:39:26.870: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 17:49:31.044: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[1]: Armadyl helmet [11718, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-06 17:50:31.669: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Armadyl helmet [11718, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+
+
+

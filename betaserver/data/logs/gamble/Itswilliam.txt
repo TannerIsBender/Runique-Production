@@ -1,0 +1,27 @@
+2015-04-22 18:09:03.975: [Pascaladium]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-26 11:21:42.517: [Knee Socks]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 20:50:28.976: [Bad Pker]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-12 21:05:11.860: [[Bumblebee, naldinho999; 200.161.157.32, C8-9C-DC-CF-5E-A4]]:
+My Item[0]: Coins [995, 17000000]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-12 21:07:43.653: [[Bumblebee, naldinho999; 200.161.157.32, C8-9C-DC-CF-5E-A4]]:
+My Item[0]: Coins [995, 28000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+

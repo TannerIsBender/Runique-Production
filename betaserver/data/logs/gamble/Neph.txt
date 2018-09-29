@@ -1,0 +1,107 @@
+2015-05-12 18:05:34.517: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-12 18:06:11.122: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-12 18:13:00.337: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-12 18:16:12.925: [[Yeezus, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Coins [995, 20000020]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-12 18:22:34.539: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-12 18:27:47.141: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 100000]
+Other Item[0]: Coins [995, 100000]
+
+
+
+2015-05-12 18:31:31.543: [[Frisk, balintore23; 46.64.216.165, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 100000]
+Other Item[0]: Coins [995, 100000]
+
+
+
+2015-05-13 21:09:28.338: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-13 21:10:19.937: [[Wawa, mitchell21; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 25000025]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-13 21:13:42.138: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 65000000]
+
+
+
+2015-05-14 04:48:01.837: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Coins [995, 22000000]
+Other Item[0]: Coins [995, 22000000]
+
+
+
+2015-05-14 04:50:27.646: [[Iron Jacob, Emmarose2006; 99.239.134.90, 78-2B-CB-A3-CF-17]]:
+My Item[0]: Coins [995, 17000000]
+Other Item[0]: Coins [995, 17000000]
+
+
+
+2015-05-14 04:57:13.243: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-06-02 10:19:53.631: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Bandos chestplate [11724, 1]
+Other Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-06-04 20:51:18.739: [[Equinox, imadamfucker9; 37.231.48.50, 00-50-56-C0-00-08]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-04 20:51:54.740: [[Equinox, imadamfucker9; 37.231.48.50, 00-50-56-C0-00-08]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-05 00:36:36.320: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-05 00:38:56.723: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+

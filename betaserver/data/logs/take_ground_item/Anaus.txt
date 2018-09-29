@@ -1,0 +1,6 @@
+Item Taken: Coins [995, 232370 - position=[2676, 3717, 0]] - 2015-03-23 20:52:03.495
+Item Taken: Coins [995, 326651 - position=[2675, 3717, 0]] - 2015-03-23 20:55:50.896
+Item Taken: Coins [995, 48812 - position=[2676, 3717, 0]] - 2015-03-23 21:04:15.496
+Item Taken: Coins [995, 209179 - position=[2677, 3714, 0]] - 2015-03-23 21:13:50.295
+Item Taken: Battlefield cape [21407, 1 - position=[3412, 3536, 0]] - 2015-03-24 21:57:27.195
+Item Taken: Shark [386, 250 - position=[3412, 3536, 0]] - 2015-03-24 21:57:30.195

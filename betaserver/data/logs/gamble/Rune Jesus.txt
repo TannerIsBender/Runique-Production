@@ -1,0 +1,77 @@
+2015-06-04 22:49:57.842: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-06-04 23:02:18.838: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-82-A0]]:
+My Item[0]: Abyssal whip [15444, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-04 23:21:44.063: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-82-A0]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-04 23:23:23.638: [[Sorry, howareyou?; 76.181.175.179, 30-10-B3-C2-62-ED]]:
+My Item[0]: Saradomin sword [11731, 1]
+My Item[1]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-04 23:24:03.840: [[Sorry, howareyou?; 76.181.175.179, 30-10-B3-C2-62-ED]]:
+My Item[0]: Saradomin sword [11731, 1]
+My Item[1]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-04 23:24:46.466: [[Sorry, howareyou?; 76.181.175.179, 30-10-B3-C2-62-ED]]:
+My Item[0]: Saradomin sword [11731, 1]
+My Item[1]: Coins [995, 1000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-04 23:26:14.665: [[Sorry, howareyou?; 76.181.175.179, 30-10-B3-C2-62-ED]]:
+My Item[0]: Coins [995, 11990000]
+My Item[1]: Dragon boots [11733, 1]
+Other Item[0]: Coins [995, 16986863]
+
+
+
+2015-06-04 23:45:55.470: [[Akuma, spider0; 108.46.183.103, 98-90-96-9C-05-D4]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Onyx amulet [6581, 1]
+
+
+
+2015-06-04 23:47:42.866: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-04 23:48:20.700: [[M1, lookacow00; 216.16.96.71, 10-40-F3-AE-46-82]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-05 10:05:13.943: [[Gildhartz, wawa00; 121.54.54.236, 00-1E-10-1F-B4-5E]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-05 10:08:37.362: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Abyssal whip [15444, 1]
+Other Item[0]: Abyssal whip [15444, 1]
+
+
+

@@ -1,0 +1,16 @@
+Item Taken: Coins [995, 409548 - position=[2676, 3715, 0]] - 2015-03-24 11:14:53.196
+Item Taken: Coins [995, 368679 - position=[2675, 3716, 0]] - 2015-03-24 11:15:57.397
+Item Taken: Coins [995, 298350 - position=[2675, 3716, 0]] - 2015-03-24 11:19:05.811
+Item Taken: Coins [995, 343353 - position=[2676, 3717, 0]] - 2015-03-24 11:24:57.420
+Item Taken: Coins [995, 165816 - position=[2675, 3716, 0]] - 2015-03-24 11:25:31.026
+Item Taken: Casket [405, 1 - position=[2677, 3716, 0]] - 2015-03-24 11:25:41.220
+Item Taken: Coins [995, 160395 - position=[2676, 3715, 0]] - 2015-03-24 11:31:25.620
+Item Taken: Manta ray [392, 250 - position=[3087, 3498, 0]] - 2015-03-24 11:32:06.426
+Item Taken: Battlefield cape [21406, 1 - position=[3087, 3498, 0]] - 2015-03-24 11:32:09.427
+Item Taken: Coins [995, 197966 - position=[2677, 3717, 0]] - 2015-03-24 11:50:23.822
+Item Taken: Coins [995, 283311 - position=[2682, 3718, 0]] - 2015-03-24 11:52:26.221
+Item Taken: Coins [995, 61745 - position=[2681, 3717, 0]] - 2015-03-24 11:55:54.426
+Item Taken: Coins [995, 201975 - position=[2677, 3714, 0]] - 2015-03-24 11:58:36.445
+Item Taken: Coins [995, 74219 - position=[2678, 3714, 0]] - 2015-03-24 11:59:36.458
+Item Taken: Coins [995, 202150 - position=[2677, 3716, 0]] - 2015-03-24 12:08:51.458
+Item Taken: Coins [995, 225151 - position=[2668, 3727, 0]] - 2015-03-25 10:46:51.280

@@ -1,0 +1,9 @@
+Item Taken: Green charm [12159, 1 - position=[2675, 3715, 0]] - 2015-03-25 13:32:42.395
+Item Taken: Gold charm [12158, 4 - position=[2674, 3714, 0]] - 2015-03-25 13:32:44.179
+Item Taken: Green charm [12159, 1 - position=[2674, 3714, 0]] - 2015-03-25 13:32:45.395
+Item Taken: Gold charm [12158, 1 - position=[2675, 3711, 0]] - 2015-03-25 13:36:17.195
+Item Taken: Bones [526, 1 - position=[2686, 3727, 0]] - 2015-03-25 13:36:41.795
+Item Taken: Green charm [12159, 1 - position=[2686, 3727, 0]] - 2015-03-25 13:36:42.995
+Item Taken: Gold charm [12158, 3 - position=[2686, 3727, 0]] - 2015-03-25 13:36:55.595
+Item Taken: Green charm [12159, 1 - position=[2685, 3726, 0]] - 2015-03-25 13:37:45.380
+Item Taken: Coins [995, 246755 - position=[2687, 3724, 0]] - 2015-03-25 13:38:59.795

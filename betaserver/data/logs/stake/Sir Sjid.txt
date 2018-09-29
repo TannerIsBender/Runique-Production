@@ -1,0 +1,95 @@
+2015-04-14 08:20:23.242: [Victor]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-14 08:22:07.647: [Victor]:
+Item[0]: Dragon chainbody [3140, 1]
+Item[1]: Iron dragon mask [19299, 1]
+Item[2]: Blue dye [1767, 1]
+
+
+
+2015-04-14 08:23:17.847: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-14 08:24:45.441: [Victor]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Coins [995, 10000000]
+
+
+
+2015-04-14 08:25:29.241: [Victor]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-14 08:26:02.241: [Victor]:
+Item[0]: Saradomin halo [18745, 1]
+
+
+
+2015-04-14 08:30:46.642: [No 2]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Blue dye [1767, 1]
+Item[2]: Saradomin halo [18745, 1]
+Item[3]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-14 08:32:10.647: [No 2]:
+Item[0]: Iron dragon mask [19299, 1]
+Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-04-14 08:32:48.442: [No 2]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Coins [995, 11050932]
+Item[2]: Iron dragon mask [19299, 1]
+
+
+
+2015-04-14 08:38:02.247: [No 2]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Coins [995, 30000000]
+
+
+
+2015-04-14 08:58:14.267: [Fleshlight]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-14 09:00:21.478: [Fleshlight]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-14 09:01:19.069: [Fleshlight]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-14 09:02:12.469: [Fleshlight]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Dark bow [15701, 1]
+Item[3]: Coins [995, 50000000]
+
+
+
+2015-04-16 04:20:51.100: [Pvm Elite]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+

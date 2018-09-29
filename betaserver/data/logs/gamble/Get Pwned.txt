@@ -1,0 +1,257 @@
+2015-06-02 00:03:34.540: [[Get Owned, jordan1; 24.166.248.76, 84-4B-F5-46-39-7D]]:
+My Item[0]: Coins [995, 11]
+Other Item[0]: Prayer potion (3) [139, 1]
+
+
+
+2015-06-02 00:37:48.963: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 00:43:08.765: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 00:45:17.801: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 01:18:01.016: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 01:20:22.620: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 01:32:00.420: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 01:42:14.817: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 01:46:50.218: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 01:47:22.608: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 01:49:50.222: [[Suade, plokij123; 70.106.223.182, 64-76-BA-9F-24-0E]]:
+
+
+
+2015-06-02 02:28:26.863: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-02 02:29:58.065: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-02 02:34:19.068: [[Get Owned, jordan1; 24.166.248.76, 84-4B-F5-46-39-7D]]:
+
+
+
+2015-06-02 02:58:38.889: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+
+
+
+2015-06-02 03:08:28.089: [[Homer, bennyb11; 58.172.232.175, 7C-C3-A1-9F-75-03]]:
+Other Item[0]: Coins [995, 85000000]
+Other Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-06-02 03:10:34.089: [[Homer, bennyb11; 58.172.232.175, 7C-C3-A1-9F-75-03]]:
+
+
+
+2015-06-02 03:13:23.873: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+
+
+
+2015-06-02 03:27:46.704: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+
+
+
+2015-06-02 11:20:39.299: [[Gildhartz, wawa00; 121.54.54.169, 00-1E-10-1F-8A-AA]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-06-02 11:23:12.302: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-06-02 11:30:11.089: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+
+
+
+2015-06-02 21:26:31.367: [[Fag Scout, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Faithful shield [18747, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-02 21:29:08.536: [[Fag Scout, grantthegreat; 68.179.135.107, 8C-A9-82-2C-31-12]]:
+My Item[0]: Faithful shield [18747, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-02 21:34:28.367: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+
+
+
+2015-06-03 01:52:24.967: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Dragon platebody (sp) [19342, 1]
+Other Item[1]: Dragon full helm (sp) [19341, 1]
+Other Item[2]: Amulet of fury [6585, 1]
+
+
+
+2015-06-03 01:57:14.162: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+Other Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-06-03 01:57:52.545: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+Other Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-06-03 02:02:48.370: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+
+2015-06-03 02:04:18.983: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+
+2015-06-03 02:13:09.367: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+
+
+
+2015-06-04 00:55:44.592: [[Jello Shot, bignarb; 99.126.49.150, A4-DB-30-6F-BA-D1]]:
+My Item[0]: Statius's platebody [13884, 1]
+My Item[1]: Statius's platelegs [13890, 1]
+My Item[2]: Bandos chestplate [11724, 1]
+Other Item[0]: Coins [995, 180000000]
+
+
+
+2015-06-04 01:16:11.616: [[Digital, krazygood95; 24.112.159.132, 68-1C-A2-02-72-36]]:
+My Item[0]: Coins [995, 45000000]
+Other Item[0]: Abyssal whip [15444, 1]
+Other Item[1]: Abyssal whip [15442, 1]
+Other Item[2]: Abyssal whip [15441, 1]
+
+
+
+2015-06-04 01:19:19.424: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 01:20:01.413: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 65000000]
+My Item[1]: Abyssal whip [15444, 1]
+My Item[2]: Abyssal whip [15441, 1]
+My Item[3]: Abyssal whip [4151, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 01:20:42.224: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Abyssal whip [15444, 1]
+My Item[1]: Abyssal whip [4151, 1]
+My Item[2]: Abyssal whip [15441, 1]
+My Item[3]: Coins [995, 60000000]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 01:21:14.613: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 60000000]
+My Item[1]: Abyssal whip [4151, 1]
+My Item[2]: Abyssal whip [15444, 1]
+My Item[3]: Abyssal whip [15441, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-04 01:45:41.639: [[Get Owned, jordan1; 74.140.247.212, 84-4B-F5-46-39-7D]]:
+My Item[0]: Coins [995, 6267073]
+Other Item[0]: Coins [995, 6267073]
+
+
+
+2015-06-04 01:55:32.637: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 100000000]
+My Item[1]: Bandos chestplate [11724, 1]
+My Item[2]: Statius's platelegs [13890, 1]
+My Item[3]: Zuriel's robe bottom [13861, 1]
+My Item[4]: Dragon platebody (sp) [19342, 1]
+My Item[5]: Abyssal whip [15442, 1]
+My Item[6]: Berserker ring [6737, 1]
+My Item[7]: Amulet of fury [6585, 1]
+My Item[8]: Dragon platelegs (sp) [19343, 1]
+My Item[9]: Dragon boots [11732, 1]
+My Item[10]: Statius's platebody [13884, 1]
+My Item[11]: Morrigan's leather body [13870, 1]
+My Item[12]: Statius's full helm [13896, 1]
+My Item[13]: Dragonfire shield [11283, 1]
+My Item[14]: Armadyl battlestaff [21777, 1]
+My Item[15]: Guthix coif [10382, 1]
+My Item[16]: Bandos godsword [11696, 1]
+My Item[17]: Dragon boots [11732, 1]
+My Item[18]: Zuriel's robe top [13858, 1]
+My Item[19]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+Other Item[1]: Coins [995, 350000000]
+
+
+
+2015-06-04 01:56:14.039: [[Micky G, parkridge; 101.163.69.184, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 100000000]
+My Item[1]: Bandos chestplate [11724, 1]
+My Item[2]: Statius's platelegs [13890, 1]
+My Item[3]: Berserker ring [6737, 1]
+My Item[4]: Statius's platebody [13884, 1]
+My Item[5]: Armadyl battlestaff [21777, 1]
+My Item[6]: Zuriel's robe top [13858, 1]
+My Item[7]: Dragon boots [11732, 1]
+My Item[8]: Guthix coif [10382, 1]
+My Item[9]: Vesta's plateskirt [13893, 1]
+My Item[10]: Morrigan's leather body [13870, 1]
+My Item[11]: Amulet of fury [6585, 1]
+My Item[12]: Zuriel's robe bottom [13861, 1]
+My Item[13]: Dragon platebody (sp) [19342, 1]
+My Item[14]: Statius's full helm [13896, 1]
+My Item[15]: Bandos godsword [11696, 1]
+My Item[16]: Dragonfire shield [11283, 1]
+My Item[17]: Dragon boots [11732, 1]
+My Item[18]: Abyssal whip [15442, 1]
+My Item[19]: Dragon platelegs (sp) [19343, 1]
+Other Item[0]: Coins [995, 350000000]
+Other Item[1]: Zaryte bow [20171, 1]
+
+
+

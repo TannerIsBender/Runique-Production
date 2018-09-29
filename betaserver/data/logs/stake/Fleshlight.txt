@@ -1,0 +1,145 @@
+2015-04-12 08:53:39.533: [Best Slayer]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 08:54:28.727: [Best Slayer]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 08:55:13.743: [Best Slayer]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-12 08:55:53.327: [Best Slayer]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-12 08:56:36.543: [Best Slayer]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-12 08:57:13.143: [Best Slayer]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-13 04:39:38.327: [Immortal Sin]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-13 07:24:12.617: [Pk4alivin]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-13 07:25:17.419: [Pk4alivin]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-13 07:26:12.027: [Pk4alivin]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-14 08:58:14.267: [Sir Sjid]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Dark bow [15701, 1]
+Item[3]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-14 09:00:21.478: [Sir Sjid]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-14 09:01:19.069: [Sir Sjid]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:02:12.469: [Sir Sjid]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-14 09:47:50.300: [Homerg]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-14 09:48:58.695: [Homerg]:
+Item[0]: Coins [995, 26000000]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-14 09:50:26.900: [Homerg]:
+Item[0]: Dark bow [15701, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-14 09:52:35.917: [Homerg]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:53:46.100: [Homerg]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:55:23.317: [Homerg]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-14 09:55:59.916: [Homerg]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:56:59.901: [Homerg]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:57:44.300: [Homerg]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-14 09:59:37.100: [Grix]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Faithful shield [18747, 1]
+
+
+
+2015-04-14 10:01:54.518: [Grix]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-14 10:04:27.531: [Grix]:
+
+
+
+2015-04-14 10:49:52.141: [Slumber]:
+
+
+

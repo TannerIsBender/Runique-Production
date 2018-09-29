@@ -1,0 +1,133 @@
+2015-04-17 17:55:50.798: [Ermac]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-17 18:06:53.819: [Ermac]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-17 18:16:17.819: [Zarox]:
+Item[0]: Coins [995, 250000000]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-17 18:22:30.428: [Zarox]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Coins [995, 300000000]
+
+
+
+2015-04-17 18:23:29.828: [Zarox]:
+Item[0]: Coins [995, 200000000]
+Item[1]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-17 18:26:47.243: [Zarox]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Abyssal vine whip [21372, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Karil's skirt [4738, 1]
+Item[6]: Coins [995, 25000000]
+
+
+
+2015-04-17 18:27:20.821: [Zarox]:
+Item[0]: Abyssal vine whip [21372, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-17 18:53:54.444: [Baked Player]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Saradomin hilt [11706, 1]
+
+
+
+2015-04-19 14:08:18.524: [Oi]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-20 13:43:20.085: [Aurora]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Full slayer helmet [15492, 1]
+Item[5]: Coins [995, 45000000]
+Item[6]: Godsword shard 2 [11712, 1]
+
+
+
+2015-04-20 13:43:55.501: [Aurora]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Armadyl helmet [11718, 1]
+Item[5]: Coins [995, 45000000]
+Item[6]: Godsword shard 2 [11712, 1]
+
+
+
+2015-04-21 15:53:18.276: [Pascaladium]:
+Item[0]: Coins [995, 7100000]
+
+
+
+2015-04-22 10:24:38.503: [Banklootz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-22 10:26:21.696: [Banklootz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-22 10:28:51.080: [Pascaladium]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 10:29:38.511: [Pascaladium]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-23 16:12:32.980: [G3x]:
+Item[0]: Coins [995, 34000000]
+
+
+
+2015-04-23 16:13:13.175: [G3x]:
+Item[0]: Coins [995, 34000000]
+
+
+
+2015-04-23 16:14:00.576: [G3x]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-23 16:14:31.780: [G3x]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-23 16:14:31.780: [G3x]:
+Item[0]: Coins [995, 10000000]
+
+
+

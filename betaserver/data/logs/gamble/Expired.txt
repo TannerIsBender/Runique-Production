@@ -1,0 +1,116 @@
+2015-04-15 15:58:56.638: [Try Hardz]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-15 17:20:09.893: [St3alth Skil]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-15 17:22:03.301: [St3alth Skil]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-15 17:31:40.493: [St3alth Skil]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-24 11:45:32.403: [Icarpediem]:
+Item[0]: Gilded platebody [3481, 1]
+Item[1]: Dragon platebody (or) [19337, 1]
+Item[2]: Gilded kiteshield [3488, 1]
+Item[3]: Dragon platelegs (or) [19338, 1]
+Item[4]: Abyssal vine whip [21371, 1]
+Item[5]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-04-24 12:00:11.414: [Icarpediem]:
+Item[0]: Gilded platebody [3481, 1]
+Item[1]: Gilded kiteshield [3488, 1]
+Item[2]: Dragon platebody (or) [19337, 1]
+Item[3]: Abyssal vine whip [21371, 1]
+Item[4]: Dragon platelegs (or) [19338, 1]
+Item[5]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-04-24 15:15:04.934: [Blessthyfall]:
+Item[0]: Gilded kiteshield [3488, 1]
+Item[1]: Gilded platebody [3481, 1]
+
+
+
+2015-04-24 15:15:54.733: [Blessthyfall]:
+Item[0]: Gilded platebody [3481, 1]
+Item[1]: Gilded kiteshield [3488, 1]
+
+
+
+2015-04-24 15:16:39.724: [Blessthyfall]:
+Item[0]: Gilded kiteshield [3488, 1]
+Item[1]: Gilded platebody [3481, 1]
+
+
+
+2015-04-24 15:19:38.533: [Blessthyfall]:
+Item[0]: Gilded kiteshield [3488, 1]
+Item[1]: Gilded platebody [3481, 1]
+Item[2]: Coins [995, 10000000]
+
+
+
+2015-04-24 15:20:14.518: [Blessthyfall]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-24 15:31:35.527: [Oi]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-24 15:32:08.533: [Oi]:
+Item[0]: Coins [995, 55000000]
+
+
+
+2015-04-24 15:35:10.318: [Coldott]:
+Item[0]: Golden mining boots [20788, 1]
+Item[1]: Golden mining trousers [20790, 1]
+Item[2]: Golden mining gloves [20787, 1]
+
+
+
+2015-04-24 15:36:03.718: [Coldott]:
+Item[0]: Golden mining top [20791, 1]
+Item[1]: Golden mining gloves [20787, 1]
+Item[2]: Golden mining boots [20788, 1]
+Item[3]: Golden mining trousers [20790, 1]
+Item[4]: Coins [995, 5000000]
+
+
+
+2015-05-02 13:43:18.704: [Untouchedtea]:
+Item[0]: Blue robin hood hat [20951, 1]
+
+
+
+2015-05-02 13:47:58.306: [Gibby]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-02 13:48:40.315: [Gibby]:
+Item[0]: Dharok's platebody [4720, 1]
+Item[1]: Blue robin hood hat [20951, 1]
+Item[2]: Flameburst defender [17273, 1]
+
+
+

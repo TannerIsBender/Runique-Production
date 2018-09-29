@@ -1,0 +1,28 @@
+2015-05-28 09:53:51.117: [[G Master, november; 203.59.16.37, 78-E4-00-03-18-72]]:
+My Item[0]: Ranger boots [2577, 1]
+My Item[1]: Coins [995, 44222883]
+My Item[2]: Chaotic staff [18355, 1]
+My Item[3]: Chaotic crossbow [18357, 1]
+My Item[4]: Vesta's plateskirt [13893, 1]
+My Item[5]: Steadfast boots [21787, 1]
+My Item[6]: Inferno adze [13661, 1]
+My Item[7]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 253712384]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-28 09:54:23.537: [[G Master, november; 203.59.16.37, 78-E4-00-03-18-72]]:
+My Item[0]: Coins [995, 44222883]
+My Item[1]: Chaotic staff [18355, 1]
+My Item[2]: Chaotic crossbow [18357, 1]
+My Item[3]: Ranger boots [2577, 1]
+My Item[4]: Vesta's plateskirt [13893, 1]
+My Item[5]: Steadfast boots [21787, 1]
+My Item[6]: Inferno adze [13661, 1]
+My Item[7]: Full slayer helmet [15492, 1]
+Other Item[0]: Coins [995, 253712384]
+Other Item[1]: Store credits (9.500 credits) [13254, 1]
+
+
+

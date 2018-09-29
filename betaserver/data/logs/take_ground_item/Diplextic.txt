@@ -1,0 +1,6 @@
+Item Taken: Gold charm [12158, 4 - position=[2678, 3720, 0]] - 2015-03-25 14:45:53.221
+Item Taken: Coins [995, 411529 - position=[2679, 3719, 0]] - 2015-03-25 14:46:00.422
+Item Taken: Blue charm [12163, 1 - position=[2678, 3719, 0]] - 2015-03-25 14:47:41.822
+Item Taken: Crimson charm [12160, 1 - position=[2678, 3719, 0]] - 2015-03-25 14:47:42.421
+Item Taken: Gold charm [12158, 2 - position=[2679, 3720, 0]] - 2015-03-25 14:47:43.627
+Item Taken: Green charm [12159, 3 - position=[2679, 3719, 0]] - 2015-03-25 14:47:49.026

@@ -1,0 +1,12 @@
+Item Taken: Green charm [12159, 1 - position=[2678, 3714, 0]] - 2015-03-25 13:24:03.376
+Item Taken: Grimy cadantine [216, 1 - position=[2678, 3714, 0]] - 2015-03-25 13:24:20.179
+Item Taken: Dwarf weed seed [5303, 2 - position=[2679, 3714, 0]] - 2015-03-25 13:24:22.575
+Item Taken: Grimy irit [210, 4 - position=[2679, 3714, 0]] - 2015-03-25 13:24:23.175
+Item Taken: Coins [995, 385621 - position=[2681, 3715, 0]] - 2015-03-25 13:25:22.576
+Item Taken: Gold charm [12158, 4 - position=[2680, 3715, 0]] - 2015-03-25 13:26:27.375
+Item Taken: Green charm [12159, 2 - position=[2680, 3715, 0]] - 2015-03-25 13:26:27.975
+Item Taken: Green charm [12159, 2 - position=[2665, 3716, 0]] - 2015-03-25 13:30:55.595
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2665, 3716, 0]] - 2015-03-25 13:31:52.594
+Item Taken: Mind bomb (3) [5800, 1 - position=[2670, 3716, 0]] - 2015-03-25 13:32:37.595
+Item Taken: Casket [405, 1 - position=[2670, 3716, 0]] - 2015-03-25 13:32:38.780
+Item Taken: Dwarf weed seed [5303, 1 - position=[2665, 3716, 0]] - 2015-03-25 13:33:32.795

@@ -1,0 +1,7 @@
+Item Telegrabbed: Rune sq shield [1186, 1 - [2906, 9806, 0]] - 2015-06-07 20:47:53.622
+Item Telegrabbed: Rune sq shield [1186, 1 - [2906, 9806, 0]] - 2015-06-07 20:53:51.223
+Item Telegrabbed: Rune dagger [1213, 1 - [2906, 9806, 0]] - 2015-06-07 20:54:00.836
+Item Telegrabbed: Coins [995, 80000 - [2906, 9806, 0]] - 2015-06-07 21:02:33.238
+Item Telegrabbed: Dragon spear [1249, 1 - [2906, 9806, 0]] - 2015-06-07 21:05:41.026
+Item Telegrabbed: Law rune [563, 43 - [2906, 9806, 0]] - 2015-06-07 21:10:44.647
+Item Telegrabbed: Nature rune [561, 67 - [2906, 9806, 0]] - 2015-06-07 21:11:37.432

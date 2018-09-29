@@ -1,0 +1,76 @@
+2015-04-17 18:32:32.228: [Great Attila]:
+Item[0]: Coins [995, 95025000]
+
+
+
+2015-04-17 18:32:32.823: [Great Attila]:
+Item[0]: Coins [995, 95025000]
+
+
+
+2015-04-17 18:34:08.212: [Baked Player]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 18:34:51.412: [Baked Player]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-17 18:43:44.244: [Baked Player]:
+Item[0]: Coins [995, 19990000]
+
+
+
+2015-04-18 08:27:26.743: [Iron Ph]:
+Item[0]: Coins [995, 28000000]
+
+
+
+2015-04-18 08:28:26.742: [Iron Ph]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Dharok's platelegs [4722, 1]
+
+
+
+2015-04-18 08:30:05.143: [Iron Ph]:
+Item[0]: Coins [995, 5000000]
+Item[1]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-19 15:22:40.768: [Olleking]:
+Item[0]: Coins [995, 26492583]
+
+
+
+2015-04-19 15:25:19.166: [Baked Player]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's greataxe [4718, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+Item[3]: Coins [995, 6492583]
+
+
+
+2015-04-19 15:55:23.386: [Pvm Giggles]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Berserker ring [6737, 1]
+
+
+
+2015-04-19 15:56:05.389: [Pvm Giggles]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-19 16:01:15.002: [Pvm Giggles]:
+Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-25 10:17:26.034: [Oi]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+

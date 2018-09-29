@@ -1,0 +1,163 @@
+2015-06-06 04:32:10.636: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-06-06 04:39:47.840: [[Platinumins, kiptoktok; 77.162.123.54, E4-D5-3D-ED-AB-37]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-06 05:42:14.301: [[Indica, 87lordst; 122.149.197.177, C4-46-19-8C-EE-72]]:
+My Item[0]: Coins [995, 34000000]
+Other Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-06-06 05:44:58.101: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-06-06 07:38:52.201: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-06-06 07:40:57.590: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[1]: Zamorakian spear [11716, 1]
+Other Item[2]: Zamorakian spear [11716, 1]
+Other Item[3]: Zamorakian spear [11716, 1]
+Other Item[4]: Dragon platebody [14479, 1]
+Other Item[5]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 16:02:44.200: [[Own, owned123; 92.1.232.71, 02-1E-F5-21-B4-6D]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 95000000]
+Other Item[1]: Zamorak halo [18746, 1]
+Other Item[2]: Saradomin's tear [8027, 1]
+
+
+
+2015-06-06 16:05:05.801: [[Own, owned123; 92.1.232.71, 02-1E-F5-21-B4-6D]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 17:11:31.638: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Coins [995, 15000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Coins [995, 30000000]
+
+
+
+2015-06-06 17:12:07.641: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Coins [995, 15000000]
+
+
+
+2015-06-06 21:34:12.038: [[Officerspank, idqiydew; 162.237.213.224, 3C-77-E6-36-26-7B]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 21:37:52.838: [[Nessie, rocker10; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 21:45:05.439: [[Nessie, rocker10; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 40000000]
+My Item[1]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 90000000]
+
+
+
+2015-06-06 21:56:36.670: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 21:58:27.064: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 22:43:15.091: [[Strezicles, google12; 60.224.26.80, 40-F0-2F-22-08-8B]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 22:44:42.093: [[Strezicles, google12; 60.224.26.80, 40-F0-2F-22-08-8B]]:
+My Item[0]: Coins [995, 140000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Coins [995, 70000000]
+
+
+
+2015-06-06 22:50:25.892: [[Monkey Josh, ab12abab12ab; 58.110.65.113, C0-F8-DA-4D-4F-69]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Coins [995, 70000000]
+
+
+
+2015-06-06 22:51:40.901: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 140000000]
+Other Item[0]: Coins [995, 140000000]
+
+
+
+2015-06-06 23:00:54.723: [[Monkey Josh, ab12abab12ab; 58.110.65.113, C0-F8-DA-4D-4F-69]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Steadfast boots [21787, 1]
+My Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Other Item[0]: Coins [995, 210000000]
+
+
+
+2015-06-06 23:00:55.922: [[Monkey Josh, ab12abab12ab; 58.110.65.113, C0-F8-DA-4D-4F-69]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Steadfast boots [21787, 1]
+My Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Other Item[0]: Coins [995, 210000000]
+
+
+
+2015-06-06 23:03:46.323: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 23:04:12.092: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-06-06 23:04:37.923: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 50000000]
+
+
+

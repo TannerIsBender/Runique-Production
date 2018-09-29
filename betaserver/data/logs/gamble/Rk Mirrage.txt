@@ -1,0 +1,73 @@
+2015-04-17 16:58:25.567: [Iron Ph]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 16:59:04.567: [Iron Ph]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 17:04:26.796: [Drackys Bank]:
+Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-17 17:07:50.159: [Drackys Bank]:
+Item[0]: Black dragon mask [19290, 1]
+Item[1]: Zamorakian spear [11716, 1]
+Item[2]: Zamorakian spear [11716, 1]
+Item[3]: Cannonball [2, 508]
+
+
+
+2015-04-17 17:09:19.580: [Drackys Bank]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 17:10:09.376: [Drackys Bank]:
+Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-17 17:11:56.181: [Drackys Bank]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-17 17:41:10.596: [Coldott]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 17:44:47.797: [Sou Wot1]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 17:45:18.992: [Sou Wot1]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 17:45:55.597: [Sou Wot1]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-17 17:54:53.194: [Bluef9]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 17:55:38.194: [Bluef9]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 17:58:23.828: [Bluef9]:
+Item[0]: Coins [995, 20000000]
+
+
+

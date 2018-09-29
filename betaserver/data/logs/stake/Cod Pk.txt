@@ -1,0 +1,6 @@
+2015-04-06 03:37:06.375: [Gang Member]:
+Item[0]: Coins [995, 412002300]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+

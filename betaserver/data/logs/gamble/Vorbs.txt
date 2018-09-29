@@ -1,0 +1,35 @@
+2015-04-23 21:43:58.914: [Strawhat]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-30 23:04:31.031: [Zoomkill]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-30 23:05:56.231: [Zoomkill]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-03 20:10:42.747: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Berserker ring [6737, 1]
+Item[5]: Abyssal whip [15442, 1]
+Item[6]: Statius's platelegs [13890, 1]
+
+
+
+2015-05-05 22:56:07.238: [Lvls]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Berserker ring [6737, 1]
+Item[4]: Abyssal whip [15442, 1]
+
+
+

@@ -1,0 +1,254 @@
+2015-04-02 23:36:44.126: [Merchendise]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-02 23:38:11.700: [Merchendise]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-02 23:38:53.727: [Merchendise]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-02 23:39:47.699: [Merchendise]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-06 18:49:48.942: [Pker07]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-06 18:53:48.329: [The J]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-06 18:56:22.542: [The J]:
+Item[0]: Coins [995, 450000000]
+
+
+
+2015-04-06 19:08:28.544: [Ganja]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Vesta's longsword [13899, 1]
+
+
+
+2015-04-06 19:09:59.744: [Ganja]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+Item[4]: Armadyl helmet [11718, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Spectral spirit shield [13744, 1]
+Item[7]: Corrupt statius's platebody [13908, 1]
+Item[8]: Statius's platebody [13884, 1]
+Item[9]: Corrupt vesta's longsword [13923, 1]
+Item[10]: Corrupt vesta's spear [13929, 1]
+Item[11]: Vesta's spear [13905, 1]
+
+
+
+2015-04-06 22:49:24.468: [Jonathan]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-06 22:50:40.060: [Jonathan]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-06 22:52:27.468: [Jonathan]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-06 22:54:53.275: [Jonathan]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-06 22:56:36.475: [Jonathan]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-09 16:09:32.276: [Homerg]:
+
+
+
+2015-04-09 16:10:43.668: [Homerg]:
+
+
+
+2015-04-09 16:11:36.456: [Homerg]:
+
+
+
+2015-04-09 16:12:43.669: [Homerg]:
+
+
+
+2015-04-09 16:13:40.067: [Homerg]:
+
+
+
+2015-04-09 16:28:32.893: [Homerg]:
+
+
+
+2015-04-09 16:30:03.492: [Homerg]:
+
+
+
+2015-04-09 16:31:19.707: [Homerg]:
+
+
+
+2015-04-09 16:33:49.693: [Homerg]:
+
+
+
+2015-04-09 21:16:58.844: [Try Hardz]:
+
+
+
+2015-04-09 21:18:30.676: [Try Hardz]:
+
+
+
+2015-04-09 21:20:09.644: [Try Hardz]:
+
+
+
+2015-04-09 21:27:59.468: [Try Hardz]:
+
+
+
+2015-04-09 21:29:52.876: [Try Hardz]:
+
+
+
+2015-04-09 21:31:03.676: [Try Hardz]:
+
+
+
+2015-04-09 21:32:13.276: [Try Hardz]:
+
+
+
+2015-04-09 21:33:31.875: [Try Hardz]:
+
+
+
+2015-04-09 21:35:37.267: [Try Hardz]:
+
+
+
+2015-04-09 21:38:10.869: [Try Hardz]:
+
+
+
+2015-04-09 21:43:46.276: [Try Hardz]:
+
+
+
+2015-04-11 13:13:00.868: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:15:40.468: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:17:05.075: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:17:57.876: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:19:12.867: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:21:02.076: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:26:23.668: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:27:44.076: [Wtf Dog Face]:
+
+
+
+2015-04-11 13:31:12.275: [Kn0gen]:
+
+
+
+2015-04-11 13:46:14.091: [Kn0gen]:
+
+
+
+2015-04-14 01:00:07.547: [Odds]:
+
+
+
+2015-04-14 01:03:15.378: [Odds]:
+
+
+
+2015-04-14 01:10:46.567: [Odds]:
+
+
+
+2015-04-14 01:15:26.750: [Odds]:
+
+
+
+2015-04-14 01:18:12.978: [Odds]:
+
+
+
+2015-04-14 02:08:44.200: [Silver]:
+
+
+
+2015-04-14 02:11:13.601: [Silver]:
+
+
+
+2015-04-14 02:12:50.200: [Silver]:
+
+
+
+2015-04-14 02:41:41.816: [Silver]:
+
+
+
+2015-04-14 02:43:26.803: [Silver]:
+
+
+
+2015-04-14 02:45:51.996: [Silver]:
+
+
+

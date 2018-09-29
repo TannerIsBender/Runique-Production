@@ -1,0 +1,45 @@
+2015-04-25 17:22:22.086: [Kabooyah]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-28 00:24:44.102: [Melee Cyrus]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-04-28 00:25:12.302: [Melee Cyrus]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-04-28 00:41:20.112: [Iron Cle]:
+Item[0]: Coins [995, 127640000]
+Item[1]: Dragon claws [14484, 1]
+Item[2]: Dark bow [11235, 1]
+Item[3]: Zamorakian spear [11716, 1]
+Item[4]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-28 00:42:20.133: [Star]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-28 00:44:11.119: [Brazy]:
+Item[0]: Coins [995, 127640000]
+Item[1]: Dragon claws [14484, 1]
+Item[2]: Chaotic maul [18353, 1]
+Item[3]: Chaotic staff [18355, 1]
+
+
+
+2015-04-28 00:45:27.317: [Brazy]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic maul [18353, 1]
+Item[2]: Dragon claws [14484, 1]
+Item[3]: Coins [995, 127640000]
+
+
+

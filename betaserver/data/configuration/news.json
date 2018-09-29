@@ -1,0 +1,82 @@
+[
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Accidently leveled a skill? Right click it in your skills tab",
+			"to reset it!"
+		]
+	},
+	
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Want to chat or need some help? Join '@red@Help Chat@bla@' Clan."
+		]
+	},
+	
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Grand Exchange is available through any bank booth! Simply",
+			"right click any bank booth and select 'Grand-Exchange'."
+		]
+	},
+
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Tired of restocking over and over again? Press F9, F11 or F12",
+			"to set preset setups!"
+		]
+	},
+	
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Have the same Slayer task as a friend? Try slaying near each",
+			"other and you will receive their kills and experience!"
+		]
+	},
+	
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Need better armor? Try out barrows for a high chance of",
+			"obtaining better gear!"
+		]
+	},
+	
+	{
+		"feed": [
+			"<col=00C100>Server Tip@bla@: Thieving Stalls located near home are a good way to earn cash",
+			"when you first start out!"
+		]
+	},
+	
+	{
+		"feed": [
+			"Need urgent help? Type ::help to request assistance from staff members!"
+		]
+	},
+	
+	{
+		"feed": [
+			"Remember to register on our forums: @red@Runique.org@bla@ or type ::forums for all",
+			"of the latest updates on Runique!"
+		]
+	},
+	
+	{
+		"feed": [
+			"Remember to vote every 12 hours by typing ::vote for a reward of cash,",
+			"vote points and a mystery box!"
+		]
+	},
+	
+	{
+		"feed": [
+			"Bored? Go and pk for pk points which you can spend in the pk point store!",
+			"You can type ::edge to get there without the hassle of running!"
+		]
+	},
+	
+	{
+		"feed": [
+			"You current get double zeals from playing Soul Wars!"
+		]
+	}
+]

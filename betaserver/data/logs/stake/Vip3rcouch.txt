@@ -1,0 +1,173 @@
+2015-03-26 18:39:12.626: [Victor]:
+Item[0]: Coins [995, 30000]
+
+
+
+2015-03-26 18:40:45.016: [Victor]:
+Item[0]: Coins [995, 60000]
+
+
+
+2015-03-26 18:43:37.818: [Victor]:
+Item[0]: Coins [995, 80000]
+
+
+
+2015-03-28 10:09:57.590: [Steveo2444]:
+Item[0]: Scroll of augury [18344, 1]
+
+
+
+2015-03-28 10:13:20.380: [Steveo2444]:
+Item[0]: Scroll of augury [18344, 1]
+
+
+
+2015-04-07 21:05:46.828: [Homerg]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:09:32.429: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:10:36.624: [Homerg]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 21:11:38.423: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:13:17.424: [Homerg]:
+Item[0]: Tome of frost [18346, 1]
+Item[1]: Karil's coif [4732, 1]
+Item[2]: Apprentice wand [6910, 1]
+Item[3]: Tome of frost [18346, 1]
+
+
+
+2015-04-07 21:18:06.029: [Homerg]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-07 21:19:05.429: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:20:12.645: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:21:56.428: [Homerg]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:23:13.243: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:24:27.044: [Homerg]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:36:18.644: [Victor]:
+
+
+
+2015-04-07 21:41:01.845: [Homerg]:
+Item[0]: Tome of frost [18346, 1]
+Item[1]: Tome of frost [18346, 1]
+Item[2]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:49:01.843: [Victor]:
+
+
+
+2015-04-07 22:29:20.470: [Victor]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-04-07 22:33:58.270: [Red Basket]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-07 22:37:36.076: [Red Basket]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-07 22:40:00.068: [Red Basket]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-07 22:44:14.507: [Victor]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-08 19:37:02.845: [Homerg]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:38:26.242: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-08 19:40:35.829: [Homerg]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:41:26.244: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-08 19:42:23.244: [Homerg]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:43:07.029: [Homerg]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-08 19:44:05.235: [Homerg]:
+Item[0]: Apprentice wand [6910, 1]
+
+
+
+2015-04-08 19:46:26.844: [Homerg]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 19:47:41.845: [Homerg]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-14 09:43:07.701: [Homerg]:
+Item[0]: Coins [995, 10000000]
+
+
+

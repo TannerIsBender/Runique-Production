@@ -1,0 +1,78 @@
+2015-04-11 00:10:40.642: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:12:31.644: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:13:07.642: [Kn0gen]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-11 00:14:04.043: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:15:37.043: [Kn0gen]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-11 00:16:19.642: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:17:14.244: [Kn0gen]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-11 00:18:08.244: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:19:09.442: [Kn0gen]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-11 00:20:19.044: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:21:20.245: [Kn0gen]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Coins [995, 20335700]
+
+
+
+2015-04-11 00:22:07.642: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:23:00.441: [Kn0gen]:
+Item[0]: Coins [995, 75335700]
+
+
+
+2015-04-11 00:24:09.442: [Kn0gen]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-11 00:25:17.845: [Kn0gen]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Coins [995, 60335700]
+
+
+

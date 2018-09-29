@@ -1,0 +1,64 @@
+2015-04-06 09:08:23.968: [Best Slayer]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-04-06 09:09:44.391: [Best Slayer]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-06 09:13:19.190: [Best Slayer]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Coins [995, 28204833]
+Item[2]: Dragon bones [537, 306]
+
+
+
+2015-04-06 09:15:44.369: [Best Slayer]:
+Item[0]: Coins [995, 28204833]
+
+
+
+2015-04-06 09:16:40.771: [Best Slayer]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-06 09:19:57.574: [Best Slayer]:
+Item[0]: Corrupt vesta's longsword [13924, 1]
+Item[1]: Corrupt statius's platelegs [13915, 1]
+Item[2]: Corrupt statius's platebody [13909, 1]
+
+
+
+2015-04-06 09:45:26.406: [Best Slayer]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Dragon bones [537, 150]
+
+
+
+2015-04-06 09:46:19.206: [Best Slayer]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-06 09:48:35.991: [Best Slayer]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+Item[3]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-07 08:52:33.167: [Elite Pvm]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-10 18:31:20.025: [Kn0gen]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+

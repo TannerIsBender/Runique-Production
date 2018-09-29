@@ -1,0 +1,50 @@
+2015-06-02 21:42:34.366: [[Thestruggle, highlanderx4; 24.161.121.246, 44-8A-5B-81-12-C2]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-06-02 21:45:06.766: [[Thestruggle, highlanderx4; 24.161.121.246, 44-8A-5B-81-12-C2]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Godsword shard 1 [11710, 1]
+
+
+
+2015-06-02 22:16:18.204: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 100000000]
+My Item[1]: Bandos godsword [11696, 1]
+Other Item[0]: Vesta's spear [13905, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+Other Item[3]: Zamorak godsword [11701, 1]
+
+
+
+2015-06-02 22:24:54.199: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-02 22:24:54.211: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-02 22:27:56.005: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-02 22:28:51.205: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+
+
+

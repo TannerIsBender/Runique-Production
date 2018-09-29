@@ -1,0 +1,7 @@
+Item Taken: Coins [995, 223938 - position=[2675, 3716, 0]] - 2015-03-24 22:51:53.058
+Item Taken: Green charm [12159, 2 - position=[2675, 3717, 0]] - 2015-03-24 22:53:53.048
+Item Taken: Gold charm [12158, 1 - position=[2675, 3717, 0]] - 2015-03-24 22:53:54.263
+Item Taken: Gold charm [12158, 1 - position=[2674, 3716, 0]] - 2015-03-24 22:53:56.058
+Item Taken: Coins [995, 43248 - position=[2675, 3716, 0]] - 2015-03-24 22:56:55.058
+Item Taken: Blue charm [12163, 1 - position=[2675, 3716, 0]] - 2015-03-24 22:56:56.258
+Item Taken: Grimy ranarr [208, 3 - position=[2675, 3730, 0]] - 2015-03-24 23:36:22.074

@@ -1,0 +1,5 @@
+Item Taken: Scroll [6758, 1 - position=[3089, 3484, 0]] - 2015-03-23 15:47:22.942
+Item Taken: Healing aura scroll [12434, 60 - position=[3087, 3498, 0]] - 2015-03-24 12:11:50.858
+Item Taken: Uncut dragonstone [1631, 1 - position=[3438, 3562, 0]] - 2015-03-24 16:09:46.180
+Item Taken: Dragonstone [1615, 1 - position=[3438, 3562, 0]] - 2015-03-24 16:10:28.195
+Item Taken: Iron knife [863, 13 - position=[3572, 9958, 0]] - 2015-03-24 16:25:25.195

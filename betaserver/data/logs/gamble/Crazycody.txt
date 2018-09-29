@@ -1,0 +1,173 @@
+2015-05-09 11:29:44.861: [My99capes]:
+Item[0]: Coins [995, 28000000]
+
+
+
+2015-05-09 11:31:28.069: [Justpropt]:
+Item[0]: Coins [995, 78000000]
+
+
+
+2015-05-09 12:31:38.884: [My99capes]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-09 12:32:26.891: [My99capes]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-09 12:35:02.891: [My99capes]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-09 12:35:02.922: [My99capes]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-09 12:36:13.690: [My99capes]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-09 12:36:49.691: [My99capes]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-09 12:37:38.316: [My99capes]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-09 12:40:06.516: [Zoomkill]:
+Item[0]: Virtus mask [20159, 1]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Virtus robe legs [20167, 1]
+
+
+
+2015-05-09 23:30:40.617: [Star]:
+Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-09 23:31:19.043: [Star]:
+Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-05-09 23:32:26.217: [Star]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-10 00:38:52.088: [Homer]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-10 00:41:31.700: [Homer]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-10 00:42:46.100: [Homer]:
+Item[0]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-10 00:43:32.288: [Homer]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-10 00:44:38.888: [Homer]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-10 01:14:02.911: [Big Booty]:
+Item[1]: Coins [995, 500000000]
+
+
+
+2015-05-10 01:16:49.716: [Big Booty]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-10 01:21:25.116: [Big Booty]:
+Item[0]: Armadyl crossbow [11786, 1]
+Item[1]: Coins [995, 650000000]
+
+
+
+2015-05-10 11:19:25.200: [Kuto]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-10 11:21:21.622: [Quuel]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-10 16:26:39.844: [Nostalgia]:
+Item[1]: Coins [995, 1000000000]
+Item[3]: Armadyl crossbow [11786, 2]
+
+
+
+2015-05-10 16:30:33.243: [Nostalgia]:
+Item[0]: Coins [995, 1000000000]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Virtus robe legs [20167, 1]
+Item[3]: Zaryte bow [20171, 1]
+Item[4]: Third-age druidic cloak [19311, 1]
+Item[5]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-10 16:34:17.069: [Nostalgia]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+Item[1]: Statius's full helm [13896, 1]
+Item[2]: Berserker ring [6737, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Steadfast boots [21787, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Chaotic crossbow [18357, 1]
+Item[8]: Coins [995, 200000000]
+
+
+
+2015-05-10 16:36:12.268: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+Item[4]: Torva full helm [20136, 1]
+Item[5]: Corrupt vesta's longsword [13923, 1]
+Item[6]: Statius's full helm [13896, 1]
+Item[7]: Chaotic crossbow [18357, 1]
+Item[8]: Berserker ring [6737, 1]
+Item[9]: Coins [995, 400000000]
+Item[10]: Steadfast boots [21787, 1]
+Item[11]: Steadfast boots [21787, 1]
+
+
+
+2015-05-10 23:12:06.569: [Digital]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-10 23:12:39.563: [Digital]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+

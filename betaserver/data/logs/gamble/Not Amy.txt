@@ -1,0 +1,31 @@
+2015-06-06 20:07:02.962: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-06 20:07:34.154: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-06 20:09:58.162: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon boots [11732, 1]
+My Item[3]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 20:10:41.354: [[Beware, teddy2013; 86.0.49.249, 74-DE-2B-8B-6E-7C]]:
+My Item[0]: Dragon boots [11732, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Dragon boots [11732, 1]
+My Item[3]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 33000000]
+Other Item[1]: Gilded platelegs [3484, 1]
+
+
+

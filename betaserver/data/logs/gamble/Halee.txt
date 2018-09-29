@@ -1,0 +1,533 @@
+2015-04-24 03:14:43.515: [Spec You Out]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-24 03:15:34.496: [Spec You Out]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-24 03:25:26.702: [Billionare]:
+Item[0]: Dragon platebody [14479, 1]
+
+
+
+2015-04-24 03:32:15.280: [Ziptie]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-24 03:33:02.680: [Ziptie]:
+Item[0]: Dragon platebody [14479, 1]
+
+
+
+2015-04-24 03:54:47.713: [Simberj]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-24 04:17:52.519: [Mercy]:
+Item[0]: Coins [995, 9999328]
+
+
+
+2015-04-24 04:18:53.718: [Mercy]:
+Item[1]: Coins [995, 9999328]
+
+
+
+2015-04-24 04:19:41.118: [Mercy]:
+Item[0]: Coins [995, 9999328]
+
+
+
+2015-04-24 04:20:21.318: [Mercy]:
+Item[0]: Coins [995, 9999328]
+
+
+
+2015-04-24 05:25:17.774: [King Arthur]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-24 05:27:31.556: [King Arthur]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-24 05:28:24.374: [King Arthur]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-24 05:29:17.174: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 05:34:32.780: [King Arthur]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-24 05:35:18.381: [King Arthur]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-24 05:36:13.575: [King Arthur]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-24 05:36:54.975: [King Arthur]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-24 11:41:53.412: [Icarpediem]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-24 11:43:13.202: [Icarpediem]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-24 11:48:15.012: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 11:48:51.012: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 11:49:27.009: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 11:50:10.802: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 11:56:10.216: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 11:56:55.203: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 11:57:52.202: [King Arthur]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Tooth half of a key [985, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Dragon med helm [1149, 1]
+Item[4]: Dragon sq shield (sp) [19345, 1]
+
+
+
+2015-04-24 12:00:25.203: [Candyshz]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Korasi's sword [19780, 1]
+Item[3]: Strength amulet (t) [10736, 1]
+Item[4]: Spectral sigil [13752, 1]
+
+
+
+2015-04-24 12:03:01.814: [Candyshz]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 13715220]
+Item[2]: Fancy boots [9005, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+Item[4]: Dragon sq shield (sp) [19345, 1]
+Item[6]: Amulet of glory (t) [10719, 1]
+
+
+
+2015-04-24 23:20:20.833: [Strawhat]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Guthix halo [18744, 1]
+Item[3]: Zamorak halo [18746, 1]
+Item[4]: Saradomin halo [18745, 1]
+Item[5]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-04-24 23:26:20.833: [Ultima]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-24 23:27:34.626: [Ultima]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-24 23:27:34.628: [Ultima]:
+Item[0]: Zamorak halo [18746, 1]
+
+
+
+2015-04-24 23:52:52.028: [Aurora]:
+Item[0]: Corrupt vesta's plateskirt [13918, 1]
+Item[1]: Statius's platelegs [13891, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-04-25 00:21:51.450: [Kabooyah]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-04-25 00:23:40.061: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 00:26:35.864: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-25 00:27:47.264: [Kabooyah]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[5]: Dragon boots [11732, 1]
+
+
+
+2015-04-25 00:29:00.454: [Kabooyah]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-25 01:20:19.696: [Kabooyah]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Zuriel's robe bottom [13861, 1]
+
+
+
+2015-04-25 01:24:34.700: [Kabooyah]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Abyssal whip [15441, 1]
+
+
+
+2015-04-25 01:31:58.711: [Kabooyah]:
+Item[0]: Coins [995, 16369969]
+Item[1]: Saradomin halo [18745, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Zamorak halo [18746, 1]
+Item[4]: Guthix halo [18744, 1]
+
+
+
+2015-04-25 01:36:43.111: [Kabooyah]:
+Item[0]: Coins [995, 16369969]
+Item[1]: Guthix halo [18744, 1]
+Item[2]: Saradomin halo [18745, 1]
+Item[3]: Zamorak halo [18746, 1]
+
+
+
+2015-04-25 01:38:18.502: [Kabooyah]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Zamorak halo [18746, 1]
+Item[2]: Saradomin halo [18745, 1]
+Item[3]: Guthix halo [18744, 1]
+Item[4]: Abyssal whip [15442, 1]
+Item[5]: Coins [995, 16369969]
+
+
+
+2015-04-25 02:20:17.926: [Deth]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 02:21:57.526: [Deth]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 02:22:37.134: [Deth]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 02:30:45.523: [Melee Cyrus]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Zamorak halo [18746, 1]
+
+
+
+2015-04-25 02:32:55.734: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 02:32:55.734: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-25 02:33:38.938: [Deth]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-25 03:04:02.349: [Kabooyah]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Korasi's sword [19780, 1]
+Item[3]: Zamorak halo [18746, 1]
+
+
+
+2015-04-25 03:05:40.749: [Kabooyah]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Korasi's sword [19780, 1]
+Item[3]: Zamorak halo [18746, 1]
+
+
+
+2015-04-25 03:06:25.149: [Kabooyah]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Korasi's sword [19780, 1]
+Item[3]: Zamorak halo [18746, 1]
+
+
+
+2015-04-25 23:55:50.514: [Kabooyah]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-26 00:19:39.717: [Kabooyah]:
+Item[0]: Coins [995, 25000000]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-28 15:38:43.465: [Kabooyah]:
+Item[0]: Coins [995, 28791773]
+
+
+
+2015-04-28 15:39:30.864: [Kabooyah]:
+Item[0]: Coins [995, 49000000]
+
+
+
+2015-04-28 15:40:26.050: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 15:41:06.850: [Kabooyah]:
+Item[0]: Coins [995, 7583546]
+
+
+
+2015-04-29 20:01:30.880: [Loric]:
+Item[0]: Dark bow [11235, 1]
+
+
+
+2015-04-29 20:02:12.280: [Loric]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Dark bow [11235, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-30 16:43:15.731: [Kabooyah]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-30 16:46:33.132: [Kabooyah]:
+Item[0]: Coins [995, 29000000]
+
+
+
+2015-04-30 16:47:07.931: [Kabooyah]:
+Item[0]: Coins [995, 29000000]
+
+
+
+2015-04-30 16:48:47.536: [Davetherave]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Dragon claws [14484, 1]
+
+
+
+2015-04-30 16:51:10.932: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Ranger boots [2577, 1]
+
+
+
+2015-04-30 16:53:25.962: [Loric]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-30 17:03:49.336: [Melee Cyrus]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Dark bow [11235, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Armadyl godsword [11694, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Coins [995, 10168808]
+
+
+
+2015-04-30 17:06:28.968: [Melee Cyrus]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Ranger boots [2577, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Morrigan's leather body [13870, 1]
+Item[5]: Amulet of fury [6585, 1]
+
+
+
+2015-04-30 17:07:05.562: [Melee Cyrus]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Ranger boots [2577, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Morrigan's leather chaps [13873, 1]
+Item[5]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-30 17:35:19.981: [Star]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-04-30 17:36:14.584: [Star]:
+Item[0]: Coins [995, 1147483647]
+
+
+
+2015-04-30 17:37:33.782: [Star]:
+Item[0]: Coins [995, 1494483647]
+
+
+
+2015-04-30 17:48:20.007: [Billionare]:
+Item[0]: Coins [995, 1000483647]
+Item[1]: Santa hat [1050, 1]
+
+
+
+2015-04-30 21:45:47.768: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-30 21:46:39.956: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 21:48:01.568: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 21:51:56.779: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 21:52:45.380: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 21:56:03.380: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 21:57:06.984: [Kabooyah]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-30 21:57:57.379: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-30 21:59:41.180: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-30 22:00:32.779: [Kabooyah]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-30 23:12:25.030: [Zoomkill]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-01 11:57:42.462: [Nostalgia]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-03 02:15:17.286: [Kabooyah]:
+
+
+
+2015-05-03 02:15:53.885: [Kabooyah]:
+
+
+
+2015-05-03 02:16:19.688: [Kabooyah]:
+
+
+
+2015-05-03 02:19:32.299: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-03 02:48:44.902: [Untouchedtea]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl godsword [11694, 1]
+
+
+

@@ -1,0 +1,176 @@
+2015-04-23 20:15:14.434: [St3alth Skil]:
+Item[0]: Coins [995, 114961703]
+
+
+
+2015-04-23 20:18:45.626: [St3alth Skil]:
+Item[0]: Coins [995, 134941703]
+Item[1]: Yellow dye [1765, 1]
+Item[2]: Scroll of rigour [18839, 1]
+Item[3]: Scroll of augury [18344, 1]
+Item[4]: Fox mask [19272, 1]
+Item[7]: Cat mask [13113, 1]
+
+
+
+2015-04-24 05:18:13.580: [Spec You Out]:
+Item[0]: Gnome scarf [9470, 1]
+
+
+
+2015-04-24 05:22:09.381: [Halee]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 05:32:30.958: [Halee]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Korasi's sword [19780, 1]
+Item[2]: Fancy boots [9005, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 05:33:41.780: [Halee]:
+Item[0]: Gnome scarf [9470, 1]
+Item[1]: Coins [995, 25537823]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 05:38:23.165: [Halee]:
+Item[0]: Spectral sigil [13752, 1]
+
+
+
+2015-04-24 08:24:39.476: [Spec You Out]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Hand cannon shot [15243, 1000]
+
+
+
+2015-04-24 08:29:42.487: [Spec You Out]:
+Item[0]: Coins [995, 20000000]
+Item[1]: Hand cannon [15241, 1]
+Item[2]: Hand cannon shot [15243, 1000]
+
+
+
+2015-04-24 11:52:27.601: [Halee]:
+Item[0]: Amulet of glory (t) [10719, 1]
+Item[1]: Strength amulet (t) [10736, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Tooth half of a key [985, 1]
+Item[4]: Cat staff [19331, 1]
+
+
+
+2015-04-24 11:53:54.602: [Halee]:
+Item[0]: Dragon sq shield (sp) [19345, 1]
+Item[1]: Dragon med helm [1149, 1]
+
+
+
+2015-04-24 11:54:28.814: [Halee]:
+Item[0]: Coins [995, 3000000]
+Item[1]: Dragon sq shield (sp) [19345, 1]
+Item[2]: Dragon med helm [1149, 1]
+
+
+
+2015-04-24 11:55:25.802: [Halee]:
+Item[0]: Amulet of zealots [19892, 1]
+
+
+
+2015-04-24 12:02:43.233: [Icarpediem]:
+Item[0]: Saradomin halo [18745, 1]
+
+
+
+2015-04-24 12:05:48.033: [Candyshz]:
+Item[0]: Cat mask [13113, 1]
+Item[1]: Saradomin halo [18745, 1]
+
+
+
+2015-04-24 12:07:21.614: [Candyshz]:
+Item[0]: Guthix halo [18744, 1]
+Item[1]: Zamorak halo [18746, 1]
+Item[2]: Saradomin halo [18745, 1]
+
+
+
+2015-04-24 12:48:36.639: [Thug Life]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-24 12:59:14.458: [Coldott]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-24 13:04:12.640: [Candyshz]:
+Item[0]: Coins [995, 22000000]
+Item[1]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-24 13:06:28.849: [Candyshz]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 13:09:15.044: [Thug Life]:
+Item[0]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-24 13:14:47.449: [Thug Life]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Eagle-eye kiteshield [18361, 1]
+
+
+
+2015-04-24 13:31:27.664: [Thug Life]:
+Item[0]: Coins [995, 25449385]
+
+
+
+2015-04-24 13:43:49.863: [Kabooyah]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-04-24 14:15:09.096: [Thug Life]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-24 14:16:38.487: [Thug Life]:
+Item[0]: Eagle-eye kiteshield [18361, 1]
+
+
+
+2015-04-24 14:18:21.087: [Thug Life]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Coins [995, 16139000]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-24 14:19:12.113: [Thug Life]:
+Item[0]: Eagle-eye kiteshield [18361, 1]
+Item[1]: Golden mining top [20791, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Coins [995, 16139000]
+
+
+

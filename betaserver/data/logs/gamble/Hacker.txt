@@ -1,0 +1,166 @@
+2015-04-27 02:08:02.874: [Anonymous]:
+Item[0]: Coins [995, 2687263]
+
+
+
+2015-04-27 02:13:12.475: [Anonymous]:
+Item[0]: Coins [995, 2000007]
+
+
+
+2015-04-27 02:22:16.075: [N 9 N E]:
+Item[0]: Coins [995, 2826808]
+
+
+
+2015-04-27 02:23:25.674: [N 9 N E]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-27 03:02:01.102: [Red Basket]:
+Item[0]: Coins [995, 5339203]
+
+
+
+2015-04-27 03:03:58.096: [Red Basket]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-27 03:05:17.303: [Red Basket]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-27 03:05:44.302: [Red Basket]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-27 03:07:01.096: [Red Basket]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-27 03:11:07.702: [Red Basket]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-27 03:14:37.113: [Red Basket]:
+
+
+
+2015-04-27 03:16:08.302: [Red Basket]:
+
+
+
+2015-05-10 19:39:53.200: [Ginnerb]:
+
+
+
+2015-05-21 07:49:37.595: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-26 06:51:19.909: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Coins [995, 5000000]
+Other Item[2]: Anger battleaxe [7807, 1]
+
+
+
+2015-05-26 06:52:12.111: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-26 06:53:06.115: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 12404345]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-26 06:55:25.895: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Dragon dagger [1215, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Golden mining gloves [20787, 1]
+My Item[3]: Blue boater [10764, 1]
+My Item[4]: Amulet of glory (4) [1712, 1]
+My Item[5]: Dragon dagger [1215, 1]
+My Item[6]: Rune pickaxe [1275, 1]
+My Item[7]: Anger battleaxe [7807, 1]
+My Item[8]: Insulated boots [7159, 1]
+My Item[9]: Holy book [3840, 1]
+My Item[10]: Dragon scimitar [4587, 1]
+Other Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-26 06:56:52.916: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 15000000]
+Other Item[1]: Dragon boots [11732, 1]
+Other Item[2]: Insulated boots [7159, 1]
+Other Item[3]: Holy book [3840, 1]
+Other Item[4]: Anger battleaxe [7807, 1]
+Other Item[5]: Dragon dagger [1215, 1]
+Other Item[6]: Amulet of glory (4) [1712, 1]
+Other Item[7]: Dragon dagger [1215, 1]
+Other Item[8]: Golden mining gloves [20787, 1]
+Other Item[9]: Rune pickaxe [1275, 1]
+Other Item[10]: Dragon scimitar [4587, 1]
+
+
+
+2015-05-26 07:04:48.139: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-26 07:07:33.748: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+My Item[0]: Anger battleaxe [7807, 1]
+My Item[1]: Blue boater [10764, 1]
+My Item[2]: Holy book [3840, 1]
+My Item[3]: Dragon scimitar [4587, 1]
+My Item[4]: Amulet of glory (4) [1712, 1]
+My Item[5]: Dragon dagger [1215, 1]
+My Item[6]: Golden mining gloves [20787, 1]
+My Item[7]: Insulated boots [7159, 1]
+My Item[8]: Zuriel's robe bottom [13861, 1]
+My Item[9]: Lederhosen shorts [6181, 1]
+My Item[10]: Rune pickaxe [1275, 1]
+My Item[11]: Dragon dagger [1215, 1]
+My Item[12]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-26 08:21:16.963: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-26 08:32:08.601: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-26 08:34:22.385: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-26 08:38:31.991: [[Get Wet Kids, altoids; 86.179.169.144, 1C-65-9D-54-E2-48]]:
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+

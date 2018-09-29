@@ -1,0 +1,521 @@
+2015-04-15 12:00:17.494: [Brockinator]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-15 12:04:18.694: [Brockinator]:
+
+
+
+2015-04-16 07:11:25.394: [Chappy]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-16 07:13:30.784: [Chappy]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Coins [995, 9000000]
+
+
+
+2015-04-16 07:15:37.984: [Chappy]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-16 11:15:54.347: [Aquaa]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 11:17:32.724: [Aquaa]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 06:06:37.988: [Spec You Out]:
+Item[0]: Ranger boots [2577, 1]
+
+
+
+2015-04-22 06:08:17.587: [Spec You Out]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-22 06:13:28.387: [Oi]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-04-22 06:28:51.793: [Spec You Out]:
+
+
+
+2015-04-22 06:34:46.387: [Spec You Out]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 14000000]
+
+
+
+2015-04-22 06:35:26.603: [Spec You Out]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Coins [995, 14000000]
+
+
+
+2015-04-22 06:36:18.801: [Spec You Out]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Coins [995, 14000000]
+
+
+
+2015-04-22 06:37:11.603: [Spec You Out]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-22 06:38:31.394: [Spec You Out]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-22 06:42:08.003: [Spec You Out]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 06:43:13.409: [Spec You Out]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 06:44:05.602: [Spec You Out]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 06:47:37.993: [Spec You Out]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-22 06:49:53.603: [Spec You Out]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-22 06:50:40.394: [Spec You Out]:
+Item[0]: Coins [995, 130000000]
+
+
+
+2015-04-23 09:37:27.918: [Ziptie]:
+Item[0]: Coins [995, 340861744]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 09:37:59.725: [Ziptie]:
+Item[0]: Coins [995, 340861744]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 09:38:30.933: [Ziptie]:
+Item[0]: Coins [995, 340861744]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-23 09:40:47.734: [Ziptie]:
+Item[2]: Divine spirit shield [13740, 1]
+Item[3]: Glaiven boots [21790, 1]
+
+
+
+2015-04-23 09:42:27.934: [Ziptie]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-23 09:44:00.333: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Amulet of fury [6586, 1]
+Item[2]: Steadfast boots [21788, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Armadyl chestplate [11721, 1]
+Item[5]: Morrigan's leather chaps [13874, 1]
+Item[6]: Dragon bones [537, 167]
+Item[7]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-23 09:44:35.727: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Amulet of fury [6586, 1]
+Item[2]: Steadfast boots [21788, 1]
+Item[3]: Dragon bones [537, 167]
+Item[4]: Morrigan's leather chaps [13874, 1]
+Item[5]: Armadyl chestplate [11721, 1]
+Item[6]: Dragonfire shield [11283, 1]
+Item[7]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-23 09:45:06.334: [Ziptie]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Amulet of fury [6586, 1]
+Item[2]: Steadfast boots [21788, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Armadyl chestplate [11721, 1]
+Item[5]: Morrigan's leather chaps [13874, 1]
+Item[6]: Dragon bones [537, 167]
+Item[7]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-23 09:46:20.134: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Amulet of fury [6586, 1]
+Item[5]: Steadfast boots [21788, 1]
+Item[6]: Full slayer helmet [15492, 1]
+Item[7]: Dragon bones [537, 167]
+Item[8]: Morrigan's leather chaps [13874, 1]
+Item[9]: Armadyl chestplate [11721, 1]
+Item[10]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-23 09:47:00.328: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[4]: Steadfast boots [21788, 1]
+Item[5]: Armadyl chestplate [11721, 1]
+Item[6]: Dragonfire shield [11283, 1]
+Item[7]: Morrigan's leather chaps [13874, 1]
+Item[8]: Amulet of fury [6586, 1]
+Item[9]: Chaotic crossbow [18357, 1]
+Item[10]: Dragon bones [537, 167]
+
+
+
+2015-04-23 09:47:44.733: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Armadyl chestplate [11721, 1]
+Item[5]: Steadfast boots [21788, 1]
+Item[6]: Full slayer helmet [15492, 1]
+Item[7]: Morrigan's leather chaps [13874, 1]
+Item[8]: Amulet of fury [6586, 1]
+Item[9]: Chaotic crossbow [18357, 1]
+Item[10]: Dragon bones [537, 167]
+
+
+
+2015-04-23 09:48:50.730: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-23 09:49:32.131: [Ziptie]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Steadfast boots [21788, 1]
+
+
+
+2015-04-23 09:50:06.932: [Ziptie]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Steadfast boots [21788, 1]
+Item[2]: Ragefire boots [21793, 1]
+
+
+
+2015-04-23 09:50:38.733: [Ziptie]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Steadfast boots [21788, 1]
+
+
+
+2015-04-23 09:51:11.126: [Ziptie]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Ragefire boots [21793, 1]
+
+
+
+2015-04-23 09:51:44.733: [Ziptie]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Steadfast boots [21788, 1]
+
+
+
+2015-04-23 09:52:51.934: [Ziptie]:
+Item[0]: Amulet of fury [6586, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Steadfast boots [21788, 1]
+
+
+
+2015-04-23 09:53:27.935: [Ziptie]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Amulet of fury [6586, 1]
+
+
+
+2015-04-23 09:55:23.134: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+
+
+
+2015-04-23 09:56:00.336: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+
+
+
+2015-04-23 09:56:55.533: [Ziptie]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Steadfast boots [21788, 1]
+Item[4]: Ragefire boots [21793, 1]
+Item[5]: Ragefire boots [21793, 1]
+Item[6]: Vesta's plateskirt [13893, 1]
+Item[7]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-23 09:57:25.534: [Ziptie]:
+Item[0]: Virtus robe legs [20167, 1]
+
+
+
+2015-04-23 10:00:09.937: [Homer]:
+Item[0]: Steadfast boots [21788, 2]
+Item[1]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:00:47.164: [Ziptie]:
+Item[0]: Steadfast boots [21788, 3]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:02:04.539: [Ziptie]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:02:57.338: [Ziptie]:
+Item[1]: Steadfast boots [21788, 2]
+Item[2]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:03:33.340: [Ziptie]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:04:36.940: [Ziptie]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:06:09.341: [Ziptie]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Ragefire boots [21794, 1]
+
+
+
+2015-04-23 10:07:02.180: [Ziptie]:
+Item[0]: Steadfast boots [21788, 2]
+Item[1]: Corrupt statius's platelegs [13915, 1]
+Item[2]: Corrupt statius's platebody [13909, 1]
+
+
+
+2015-04-23 10:07:31.542: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13915, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Steadfast boots [21788, 2]
+
+
+
+2015-04-23 10:08:02.149: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13915, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Steadfast boots [21788, 2]
+
+
+
+2015-04-23 10:08:50.145: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13915, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Steadfast boots [21788, 2]
+
+
+
+2015-04-23 10:09:24.949: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13915, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Steadfast boots [21788, 2]
+
+
+
+2015-04-23 10:09:56.749: [Ziptie]:
+Item[0]: Corrupt statius's platelegs [13915, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Steadfast boots [21788, 2]
+
+
+
+2015-04-23 10:10:45.949: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-23 10:12:18.349: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-23 10:17:41.164: [Ziptie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-23 10:18:19.564: [Ziptie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-23 10:18:51.367: [Ziptie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-23 10:19:36.364: [Ziptie]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 10:20:04.578: [Ziptie]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 10:20:50.173: [Ziptie]:
+Item[0]: Virtus robe legs [20168, 1]
+
+
+
+2015-04-23 10:21:27.364: [Ziptie]:
+Item[0]: Virtus robe legs [20168, 1]
+
+
+
+2015-04-23 10:23:14.773: [Ziptie]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 10:24:24.974: [Ziptie]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+Item[4]: Dharok's platelegs [4722, 1]
+Item[5]: Glaiven boots [21790, 1]
+Item[6]: Armadyl chestplate [11720, 1]
+Item[7]: Dragonfire shield [11283, 1]
+Item[8]: Chaotic crossbow [18357, 1]
+Item[9]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-23 10:25:16.574: [Ziptie]:
+Item[0]: Virtus robe legs [20168, 1]
+Item[1]: Corrupt statius's platebody [13909, 1]
+Item[2]: Corrupt statius's platelegs [13915, 1]
+Item[3]: Dharok's platebody [4720, 1]
+Item[4]: Dharok's helm [4716, 1]
+Item[5]: Dharok's greataxe [4718, 1]
+Item[6]: Morrigan's leather chaps [13873, 1]
+Item[7]: Dharok's platelegs [4722, 1]
+Item[8]: Glaiven boots [21790, 1]
+Item[9]: Full slayer helmet [15492, 1]
+Item[10]: Chaotic crossbow [18357, 1]
+Item[11]: Dragonfire shield [11283, 1]
+Item[12]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-23 10:26:18.349: [Ziptie]:
+Item[0]: Virtus robe legs [20168, 1]
+Item[1]: Corrupt statius's platelegs [13915, 1]
+Item[2]: Corrupt statius's platebody [13909, 1]
+Item[3]: Steadfast boots [21788, 4]
+
+
+
+2015-04-23 10:26:48.972: [Ziptie]:
+Item[0]: Virtus robe legs [20168, 1]
+Item[1]: Steadfast boots [21788, 4]
+Item[2]: Corrupt statius's platebody [13909, 1]
+Item[3]: Corrupt statius's platelegs [13915, 1]
+
+
+
+2015-04-23 10:27:54.372: [Ziptie]:
+Item[0]: Ragefire boots [21794, 2]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+Item[3]: Dharok's helm [4716, 1]
+Item[4]: Zuriel's robe bottom [13861, 1]
+Item[5]: Zuriel's robe top [13858, 1]
+Item[6]: Glaiven boots [21790, 1]
+Item[7]: Armadyl chestplate [11720, 1]
+Item[8]: Dragonfire shield [11283, 1]
+Item[9]: Chaotic crossbow [18357, 1]
+Item[10]: Morrigan's leather chaps [13873, 1]
+Item[11]: Dharok's greataxe [4718, 1]
+Item[12]: Full slayer helmet [15492, 1]
+
+
+

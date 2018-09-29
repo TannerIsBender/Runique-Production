@@ -1,0 +1,393 @@
+2015-04-12 04:36:14.880: [Simberj]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 04:37:00.476: [Simberj]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 04:37:44.275: [Simberj]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 04:38:31.669: [Simberj]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-12 04:39:14.907: [Simberj]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+
+
+
+2015-04-12 04:40:29.270: [Simberj]:
+Item[0]: Zuriel's robe top [13858, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 04:41:04.688: [Simberj]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-12 04:41:59.276: [Simberj]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-04-12 04:51:31.707: [Prada]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Statius's full helm [13896, 1]
+Item[2]: Korasi's sword [19780, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Zuriel's robe top [13858, 1]
+
+
+
+2015-04-12 04:54:34.692: [Prada]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-12 04:56:50.307: [Prada]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:29:30.527: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:33:20.927: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:35:35.927: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:37:40.727: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:41:21.537: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:50:40.143: [Zinc]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-12 08:51:47.942: [Zinc]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-12 08:52:37.143: [Zinc]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-12 08:54:22.743: [Zinc]:
+Item[0]: Coins [995, 150000]
+
+
+
+2015-04-12 08:56:33.543: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:58:13.143: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 08:59:26.358: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:16:45.544: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:17:53.374: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:18:19.774: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:18:43.745: [Zinc]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 09:39:47.374: [Zinc]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-12 09:42:40.174: [Zinc]:
+Item[0]: Zamorakian spear [11716, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-12 09:43:17.364: [Zinc]:
+Item[0]: Coins [995, 15111948]
+Item[1]: Zamorakian spear [11716, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-12 09:53:46.781: [Melody]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-12 09:55:48.580: [Zinc]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-12 10:02:48.569: [Melody]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-04-12 10:05:42.580: [Melody]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-12 10:07:56.993: [Melody]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-12 12:20:18.658: [Nostalgia]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Blisterwood staff [21580, 1]
+
+
+
+2015-04-12 18:42:38.674: [Noko3456]:
+
+
+
+2015-04-12 18:43:12.275: [Noko3456]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-12 18:43:36.865: [Noko3456]:
+
+
+
+2015-04-12 19:04:14.716: [T Cape]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 19:04:45.916: [T Cape]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 19:05:03.916: [T Cape]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 19:05:33.917: [T Cape]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 19:06:09.296: [T Cape]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 19:06:57.296: [T Cape]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 19:08:11.104: [Noko3456]:
+
+
+
+2015-04-12 19:21:32.713: [Prada]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-12 22:51:04.633: [Melody]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-12 22:52:02.842: [Melody]:
+Item[2]: Coins [995, 15000000]
+
+
+
+2015-04-12 22:52:54.441: [Melody]:
+Item[1]: Coins [995, 30000000]
+
+
+
+2015-04-12 22:54:19.042: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-12 22:55:37.649: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-12 22:58:00.443: [Melody]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-12 22:59:54.443: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-12 23:02:00.427: [Melody]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-12 23:04:19.626: [Melody]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-12 23:09:04.042: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-12 23:42:19.659: [Aurora]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-12 23:43:55.058: [Aurora]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-13 02:12:22.042: [Mvgxzero]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-13 02:20:11.836: [Ganja Green]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-13 02:21:06.437: [Ganja Green]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-13 02:27:58.042: [Ganja Green]:
+Item[2]: Statius's platebody [13884, 1]
+
+
+
+2015-04-13 02:30:08.242: [Ganja Green]:
+Item[1]: Abyssal whip [15441, 1]
+Item[2]: Dragon full helm [11335, 1]
+Item[3]: Corrupt vesta's plateskirt [13917, 1]
+Item[4]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-13 02:30:46.043: [Ganja Green]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Dragon full helm [11335, 1]
+
+
+
+2015-04-13 15:17:50.994: [Prada]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-13 15:29:43.216: [Aurora]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Berserker ring (i) [15220, 1]
+Item[3]: Ringmaster hat [13672, 1]
+Item[4]: Zamorak body [10370, 1]
+Item[5]: Abyssal whip [15441, 1]
+Item[6]: Zamorak chaps [10372, 1]
+
+
+
+2015-04-13 15:30:39.593: [Aurora]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Berserker ring (i) [15220, 1]
+
+
+
+2015-04-13 15:31:39.617: [Aurora]:
+Item[0]: Zamorak body [10370, 1]
+Item[1]: Abyssal whip [15441, 1]
+Item[2]: Zamorak chaps [10372, 1]
+Item[3]: Ringmaster hat [13672, 1]
+
+
+
+2015-04-13 15:32:06.016: [Aurora]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Zamorak body [10370, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Zamorak chaps [10372, 1]
+Item[4]: Ringmaster hat [13672, 1]
+
+
+

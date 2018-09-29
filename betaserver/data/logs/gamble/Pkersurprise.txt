@@ -1,0 +1,7 @@
+2015-04-21 02:07:15.152: [Strawhat]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Coins [995, 10000000]
+
+
+

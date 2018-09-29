@@ -1,0 +1,43 @@
+2015-05-25 06:58:43.848: [[L2iron Man, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-26 03:05:44.917: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+
+
+
+2015-05-26 03:06:19.720: [[Iron, pepsi123; 76.188.236.226, B8-EE-65-CC-7D-F0]]:
+
+
+
+2015-05-27 06:33:58.248: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+
+
+
+2015-06-01 01:56:03.505: [[1hit 1down, natasha1290; 60.224.26.80, 54-27-1E-D5-AB-49]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-01 02:15:13.713: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Coins [995, 130000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-01 02:16:41.913: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-01 02:17:57.521: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 400000000]
+
+
+

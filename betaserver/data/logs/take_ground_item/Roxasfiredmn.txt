@@ -1,0 +1,6 @@
+Item Taken: Blue charm [12163, 1 - position=[2668, 3717, 0]] - 2015-03-24 18:28:20.476
+Item Taken: Green charm [12159, 1 - position=[2665, 3716, 0]] - 2015-03-24 18:33:54.075
+Item Taken: Gold charm [12158, 1 - position=[2665, 3716, 0]] - 2015-03-24 18:33:57.680
+Item Taken: Manta ray [391, 1 - position=[3097, 3498, 0]] - 2015-03-25 04:02:12.643
+Item Taken: Scroll of rigour [18839, 1 - position=[3097, 3498, 0]] - 2015-03-25 04:04:07.842
+Item Taken: Green charm [12159, 1 - position=[3093, 3496, 0]] - 2015-03-25 06:20:19.918

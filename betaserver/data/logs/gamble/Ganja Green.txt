@@ -1,0 +1,373 @@
+2015-04-12 03:52:32.875: [Immortal Sin]:
+Item[0]: Zamorak chaps [10372, 1]
+Item[1]: Zamorak halo [18746, 1]
+Item[2]: Coins [995, 1509858]
+
+
+
+2015-04-12 04:20:25.060: [Immortal Sin]:
+Item[0]: Coins [995, 18261349]
+
+
+
+2015-04-12 04:32:05.265: [Simberj]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-12 17:41:38.043: [Loric]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Dharok's platelegs [4722, 1]
+
+
+
+2015-04-12 17:45:33.274: [The J]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Dharok's platelegs [4722, 1]
+
+
+
+2015-04-13 00:48:39.996: [Immortal Sin]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Dark bow [15701, 1]
+
+
+
+2015-04-13 00:49:55.596: [Immortal Sin]:
+Item[2]: Dark bow [15701, 1]
+
+
+
+2015-04-13 02:19:02.843: [Mvgxzero]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Dragon full helm [11335, 1]
+
+
+
+2015-04-13 02:27:08.840: [Immortal Sin]:
+Item[0]: Bandos godsword [11696, 1]
+
+
+
+2015-04-13 23:23:50.078: [Knock Knock]:
+Item[6]: Coins [995, 26249883]
+
+
+
+2015-04-13 23:24:56.103: [Knock Knock]:
+Item[0]: Coins [995, 26249883]
+Item[1]: Armadyl stole [19392, 1]
+Item[2]: Dharok's platebody [4720, 1]
+Item[3]: Infinity gloves [6922, 1]
+
+
+
+2015-04-13 23:26:47.100: [Knock Knock]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-04-14 00:52:23.147: [Brockinator]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-15 03:51:59.794: [Brockinator]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 03:54:05.200: [Brockinator]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 03:58:20.786: [Brockinator]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 04:03:47.812: [Brockinator]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-15 04:12:52.616: [Chappy]:
+
+
+
+2015-04-15 04:16:19.016: [Chappy]:
+
+
+
+2015-04-15 04:19:17.216: [Chappy]:
+
+
+
+2015-04-15 05:35:47.247: [Chappy]:
+Item[0]: Dragon platebody [14479, 1]
+Item[1]: Zamorak halo [18746, 1]
+
+
+
+2015-04-15 05:37:39.462: [Chappy]:
+Item[0]: Dragon platebody [14479, 1]
+Item[1]: Zamorak halo [18746, 1]
+
+
+
+2015-04-15 05:38:49.661: [Chappy]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Fighter torso [10551, 1]
+
+
+
+2015-04-15 05:39:11.259: [Chappy]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-15 14:50:39.185: [Chappy]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-15 14:51:46.993: [Chappy]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-15 14:52:54.794: [Chappy]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Steadfast boots [21787, 1]
+
+
+
+2015-04-15 17:18:50.685: [L2pk]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-15 17:20:02.700: [L2pk]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-15 17:22:44.093: [St3alth Skil]:
+Item[0]: Spirit shield [13734, 1]
+
+
+
+2015-04-15 17:25:45.300: [St3alth Skil]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-16 04:47:35.493: [Chappy]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 04:51:36.117: [Darkdestroyr]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-16 07:39:46.416: [Miss K]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-16 08:48:02.047: [Iliblil]:
+Item[0]: Abyssal vine whip [21371, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Corrupt statius's full helm [13920, 1]
+Item[4]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-16 08:49:00.246: [Iliblil]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Golden mining top [20791, 1]
+Item[2]: Golden mining helmet [20789, 1]
+Item[3]: Golden mining gloves [20787, 1]
+Item[4]: Golden mining trousers [20790, 1]
+Item[5]: Golden mining boots [20788, 1]
+Item[6]: Coins [995, 2000000]
+
+
+
+2015-04-18 01:27:59.481: [Deth]:
+Item[7]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 01:28:20.465: [Deth]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 01:28:42.680: [Deth]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 01:29:14.465: [Deth]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 01:30:05.465: [Deth]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-18 01:31:09.681: [Deth]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-18 01:31:35.465: [Deth]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-18 01:31:55.876: [Deth]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-18 02:02:34.880: [Catch a ride]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 28173433]
+
+
+
+2015-04-18 02:18:08.510: [Dave]:
+Item[0]: Coins [995, 20000000]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Statius's platebody [13884, 1]
+
+
+
+2015-04-18 02:20:43.928: [Jordanjk]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-18 02:21:36.727: [Jordanjk]:
+Item[0]: Coins [995, 25000000]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 02:27:37.917: [Jordanjk]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 02:28:06.115: [Jordanjk]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 02:28:49.915: [Jordanjk]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-18 02:38:31.328: [Jordanjk]:
+Item[0]: Coins [995, 100173433]
+
+
+
+2015-04-18 02:43:48.119: [Jordanjk]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-18 02:44:35.519: [Jordanjk]:
+Item[0]: Fighter torso [10551, 1]
+
+
+
+2015-04-18 02:46:21.728: [Jordanjk]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Saradomin godsword [11698, 1]
+Item[4]: Abyssal whip [15444, 1]
+
+
+
+2015-04-18 02:46:54.128: [Jordanjk]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Saradomin godsword [11698, 1]
+Item[4]: Abyssal whip [15444, 1]
+
+
+
+2015-04-18 02:47:47.528: [Jordanjk]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Corrupt dragon sq shield [13964, 1]
+Item[4]: Abyssal whip [4151, 1]
+Item[5]: Corrupt statius's platebody [13908, 1]
+Item[6]: Bandos tassets [11726, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Coins [995, 156173433]
+
+
+
+2015-04-18 02:48:21.728: [Jordanjk]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Bandos tassets [11726, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Coins [995, 156173433]
+Item[4]: Abyssal whip [4151, 1]
+Item[5]: Corrupt dragon sq shield [13964, 1]
+Item[6]: Amulet of fury [6585, 1]
+Item[7]: Statius's platebody [13884, 1]
+Item[8]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-18 02:48:58.919: [Jordanjk]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Corrupt dragon sq shield [13964, 1]
+Item[4]: Bandos tassets [11726, 1]
+Item[5]: Abyssal whip [4151, 1]
+Item[6]: Corrupt statius's platebody [13908, 1]
+Item[7]: Coins [995, 156173433]
+Item[8]: Steadfast boots [21787, 1]
+
+
+
+2015-04-18 02:49:40.917: [Jordanjk]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Abyssal whip [4151, 1]
+Item[3]: Statius's platebody [13884, 1]
+Item[4]: Amulet of fury [6585, 1]
+Item[5]: Corrupt dragon sq shield [13964, 1]
+Item[6]: Bandos tassets [11726, 1]
+Item[7]: Full slayer helmet [15492, 1]
+Item[8]: Coins [995, 156173433]
+
+
+

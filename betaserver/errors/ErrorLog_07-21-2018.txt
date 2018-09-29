@@ -1,0 +1,2 @@
+Aug 21, 2018 8:16:53 AM org.niobe.GameServer main
+INFO: Launching Niobe, please be patient while configurations are being loaded... [8 cores]

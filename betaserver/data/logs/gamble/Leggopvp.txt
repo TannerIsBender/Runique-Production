@@ -1,0 +1,533 @@
+2015-05-03 19:26:21.715: [Desi]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-03 19:27:00.099: [Desi]:
+Item[0]: Coins [995, 160000000]
+
+
+
+2015-05-03 19:29:21.084: [Desi]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-03 19:29:51.114: [Desi]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-03 19:30:22.300: [Desi]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 19:31:05.514: [Desi]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-03 19:31:39.100: [Desi]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-03 19:32:24.115: [Desi]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-03 19:42:09.097: [Loric]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 19:43:46.297: [Loric]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-03 19:44:32.513: [Loric]:
+Item[0]: Coins [995, 100000000]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-03 19:47:52.301: [Loric]:
+Item[0]: Coins [995, 820000000]
+
+
+
+2015-05-03 19:51:30.146: [Desi]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-03 19:52:14.546: [Desi]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-03 20:50:48.762: [Nostalgia]:
+Item[0]: Coins [995, 625000000]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 20:53:17.553: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-03 20:54:15.753: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 20:55:23.589: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-03 20:57:07.989: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 20:58:50.600: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 20:59:36.189: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-03 21:00:16.368: [Nostalgia]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-03 21:16:36.184: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 21:18:30.799: [Kabooyah]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Coins [995, 40000040]
+
+
+
+2015-05-03 21:19:57.788: [Kabooyah]:
+Item[0]: Coins [995, 30434767]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-03 21:21:45.200: [Kabooyah]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 21:22:45.188: [Kabooyah]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 21:24:24.788: [Melee Cyrus]:
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Abyssal whip [15442, 1]
+Item[4]: Statius's full helm [13897, 2]
+
+
+
+2015-05-03 21:24:55.990: [Melee Cyrus]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 21:25:18.800: [Melee Cyrus]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-03 21:26:40.390: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Statius's full helm [13897, 2]
+Item[2]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-03 21:29:51.199: [Melee Cyrus]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Amulet of fury [6586, 1]
+
+
+
+2015-05-03 21:31:48.206: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 21:33:19.999: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-03 21:33:36.199: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-05-05 01:54:50.037: [Melee Cyrus]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 01:55:23.637: [Melee Cyrus]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 01:59:20.638: [Melee Cyrus]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Tyrannical ring [12603, 1]
+
+
+
+2015-05-05 02:00:24.238: [Melee Cyrus]:
+Item[0]: Berserker ring [6737, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-05 02:02:21.821: [Melee Cyrus]:
+Item[0]: Saradomin full helm [2665, 1]
+Item[1]: Saradomin platebody [2661, 1]
+Item[2]: Golden mining trousers [20790, 1]
+Item[3]: Golden mining gloves [20787, 1]
+Item[4]: Golden mining boots [20788, 1]
+Item[5]: Golden mining top [20791, 1]
+Item[6]: Zamorak halo [18746, 1]
+Item[7]: Saradomin chaps [10388, 1]
+Item[8]: Saradomin body [10386, 1]
+Item[9]: Dragon boots [11732, 1]
+Item[10]: Abyssal whip [15444, 1]
+Item[11]: Fighter torso [10551, 1]
+Item[12]: Fighter torso [10551, 1]
+Item[13]: Golden mining helmet [20789, 1]
+Item[14]: Full slayer helmet [15492, 1]
+Item[15]: Dragon boots [11732, 1]
+
+
+
+2015-05-05 02:04:18.253: [Melee Cyrus]:
+Item[0]: Dharok's platebody [4720, 1]
+Item[1]: Ahrim's robetop 0 [4872, 1]
+Item[2]: Rainbow afro [19747, 1]
+Item[3]: Ahrim's robeskirt 0 [4878, 1]
+Item[4]: Dharok's helm 0 [4884, 1]
+Item[5]: Dharok's helm 0 [4884, 1]
+Item[6]: Hand cannon [15241, 1]
+Item[7]: Green dragon mask [19281, 1]
+Item[8]: Purple tricorn hat [8964, 1]
+Item[9]: Black tricorn hat [8963, 1]
+Item[10]: Sailor's hat [12595, 1]
+Item[11]: Abyssal whip [15441, 1]
+Item[12]: Green dye [1772, 2]
+Item[13]: Warrior ring [6735, 1]
+Item[14]: Mudskipper hat [6665, 1]
+Item[15]: Berserker necklace [11128, 1]
+Item[16]: Red dragon mask [19287, 1]
+Item[17]: Guthix stole [10472, 1]
+Item[18]: Tome of frost [18346, 1]
+
+
+
+2015-05-05 02:06:27.853: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:07:33.225: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13874, 3]
+Item[1]: Corrupt statius's warhammer [13927, 1]
+Item[2]: Armadyl helmet [11719, 1]
+Item[3]: Berserker ring [6738, 1]
+Item[4]: Dark bow [15702, 1]
+
+
+
+2015-05-05 02:08:52.426: [Melee Cyrus]:
+Item[0]: Corrupt vesta's chainbody [13912, 1]
+Item[1]: Morrigan's leather chaps [13874, 3]
+Item[2]: Corrupt statius's warhammer [13927, 1]
+Item[3]: Dark bow [15702, 1]
+
+
+
+2015-05-05 02:09:53.627: [Melee Cyrus]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Dark bow [15702, 1]
+
+
+
+2015-05-05 02:10:32.038: [Melee Cyrus]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Corrupt vesta's chainbody [13912, 1]
+Item[3]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-05-05 02:11:16.453: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13874, 3]
+Item[1]: Berserker ring [6738, 1]
+Item[2]: Tooth half of a key [985, 1]
+Item[3]: Tooth half of a key [985, 1]
+Item[4]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Item[5]: Dragon sq shield ornament kit (or) [19352, 1]
+
+
+
+2015-05-05 02:12:11.038: [Melee Cyrus]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 02:12:48.229: [Melee Cyrus]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Morrigan's leather chaps [13874, 3]
+Item[3]: Tooth half of a key [985, 1]
+Item[4]: Tooth half of a key [985, 1]
+
+
+
+2015-05-05 02:13:21.853: [Melee Cyrus]:
+Item[0]: Corrupt statius's warhammer [13927, 1]
+Item[1]: Corrupt vesta's chainbody [13912, 1]
+Item[2]: Berserker ring [6738, 1]
+Item[3]: Dragon sq shield ornament kit (or) [19352, 1]
+Item[4]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+
+
+
+2015-05-05 02:14:54.831: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Morrigan's leather chaps [13874, 2]
+Item[3]: Tooth half of a key [985, 1]
+
+
+
+2015-05-05 02:15:35.669: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:16:09.253: [Melee Cyrus]:
+Item[0]: Armadyl chainskirt [11722, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Armadyl chestplate [11721, 1]
+
+
+
+2015-05-05 02:16:41.661: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13874, 3]
+Item[1]: Tooth half of a key [985, 1]
+Item[2]: Tooth half of a key [985, 1]
+
+
+
+2015-05-05 02:17:42.861: [Melee Cyrus]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Dragon sq shield ornament kit (or) [19352, 1]
+Item[3]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Item[4]: Dark bow [15702, 1]
+
+
+
+2015-05-05 02:18:10.437: [Melee Cyrus]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Dragon sq shield ornament kit (or) [19352, 1]
+Item[3]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Item[4]: Dark bow [15702, 1]
+
+
+
+2015-05-05 02:18:46.434: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl chestplate [11721, 1]
+Item[3]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-05-05 02:19:41.661: [Melee Cyrus]:
+Item[0]: Corrupt vesta's chainbody [13912, 1]
+Item[1]: Berserker ring [6738, 1]
+
+
+
+2015-05-05 02:21:02.653: [Melee Cyrus]:
+Item[0]: Hand cannon [15242, 1]
+Item[1]: Armadyl helmet [11719, 1]
+Item[2]: Warrior ring [6736, 1]
+Item[3]: Black tricorn hat [8963, 1]
+Item[4]: Sailor's hat [12595, 1]
+Item[5]: Rainbow afro [19747, 1]
+Item[6]: Green dragon mask [19282, 1]
+Item[7]: Saradomin full helm [2666, 1]
+Item[8]: Tome of frost [18346, 1]
+Item[9]: Mudskipper hat [6665, 1]
+Item[10]: Guthix stole [10473, 1]
+Item[11]: Saradomin platebody [2662, 1]
+Item[12]: Zamorak halo [18746, 1]
+Item[13]: Green dye [1772, 2]
+Item[14]: Purple tricorn hat [8964, 1]
+
+
+
+2015-05-05 02:21:46.437: [Melee Cyrus]:
+Item[0]: Hand cannon [15242, 1]
+Item[1]: Armadyl helmet [11719, 1]
+Item[2]: Warrior ring [6736, 1]
+Item[3]: Black tricorn hat [8963, 1]
+Item[4]: Sailor's hat [12595, 1]
+Item[5]: Rainbow afro [19747, 1]
+Item[6]: Green dragon mask [19282, 1]
+Item[7]: Guthix stole [10473, 1]
+Item[8]: Saradomin full helm [2666, 1]
+Item[9]: Saradomin platebody [2662, 1]
+Item[10]: Zamorak halo [18746, 1]
+Item[11]: Mudskipper hat [6665, 1]
+Item[12]: Green dye [1772, 2]
+Item[13]: Tome of frost [18346, 1]
+Item[14]: Purple tricorn hat [8964, 1]
+
+
+
+2015-05-05 02:22:21.838: [Melee Cyrus]:
+Item[0]: Corrupt vesta's plateskirt [13918, 1]
+Item[1]: Abyssal whip [15441, 1]
+Item[2]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-05 02:23:00.261: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:23:28.438: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:23:50.638: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:24:14.662: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:24:42.238: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:24:42.264: [Melee Cyrus]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11721, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-05 02:25:06.862: [Melee Cyrus]:
+Item[0]: Hand cannon [15242, 1]
+Item[1]: Warrior ring [6736, 1]
+Item[2]: Armadyl helmet [11719, 1]
+Item[3]: Tooth half of a key [985, 1]
+Item[4]: Tooth half of a key [985, 1]
+Item[5]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Item[6]: Dragon sq shield ornament kit (or) [19352, 1]
+
+
+
+2015-05-05 02:25:44.039: [Melee Cyrus]:
+Item[0]: Corrupt vesta's plateskirt [13918, 1]
+Item[1]: Fighter torso [10551, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[4]: Abyssal whip [15441, 1]
+Item[5]: Morrigan's leather chaps [13874, 2]
+
+
+
+2015-05-05 02:33:08.653: [Melee Cyrus]:
+Item[0]: Coins [995, 15500000]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Ahrim's robeskirt 0 [4879, 1]
+Item[3]: Karil's skirt 0 [4951, 1]
+Item[4]: Karil's top 0 [4945, 1]
+Item[5]: Dharok's helm 0 [4885, 2]
+Item[6]: Ahrim's robetop 0 [4873, 1]
+Item[8]: Warrior ring [6735, 1]
+Item[9]: Berserker necklace [11128, 1]
+
+
+
+2015-05-05 02:34:35.056: [Melee Cyrus]:
+Item[0]: Infinity hat [15608, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-05 02:41:22.453: [Melee Cyrus]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-05 02:42:59.062: [Melee Cyrus]:
+Item[0]: Coins [995, 29385071]
+
+
+

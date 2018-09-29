@@ -1,0 +1,148 @@
+2015-04-20 19:58:59.930: [Zinc]:
+Item[0]: Coins [995, 9500000]
+
+
+
+2015-04-20 20:07:16.161: [Strawhat]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-20 20:09:47.351: [Zinc]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-20 20:10:17.930: [Zinc]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-20 20:14:41.930: [Strawhat]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Abyssal vine whip [21372, 1]
+
+
+
+2015-04-20 20:16:46.730: [Strawhat]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+Item[2]: Arcane stream necklace [18335, 1]
+
+
+
+2015-04-20 20:19:34.161: [Zinc]:
+Item[0]: Coins [995, 23000000]
+
+
+
+2015-04-20 20:27:37.753: [Pvm Giggles]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-20 20:29:43.761: [Pvm Giggles]:
+Item[0]: Coins [995, 57000000]
+
+
+
+2015-04-20 20:48:07.176: [Nostalgia]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-21 20:17:10.025: [Pascaladium]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-21 21:22:25.072: [Iron Hydra]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-04-21 21:33:40.087: [Lexar]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-21 21:35:35.275: [Melee Cyrus]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-21 21:44:42.487: [Micky G]:
+Item[0]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-21 23:10:04.141: [Pascaladium]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-21 23:10:43.150: [Pascaladium]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-21 23:26:42.535: [Pascaladium]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-21 23:27:18.524: [Pascaladium]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-21 23:34:14.929: [Banklootz]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-21 23:44:45.556: [Raxxu]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-22 00:00:43.755: [Raxxu]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-22 09:15:19.849: [Spec You Out]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-22 09:18:44.452: [Strawhat]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Steadfast boots [21787, 1]
+
+
+
+2015-04-22 18:00:05.781: [Geordie Lad]:
+Item[0]: Abyssal vine whip [21372, 1]
+
+
+
+2015-04-22 18:01:19.576: [Geordie Lad]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-22 18:03:13.576: [Geordie Lad]:
+Item[0]: Abyssal whip [4152, 1]
+
+
+

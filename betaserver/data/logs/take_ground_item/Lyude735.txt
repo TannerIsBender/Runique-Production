@@ -1,0 +1,14 @@
+Item Taken: Uncut ruby [1619, 1 - position=[3092, 3498, 0]] - 2015-03-23 07:32:42.165
+Item Taken: Bones [526, 1 - position=[2680, 3714, 0]] - 2015-03-23 07:40:38.583
+Item Taken: Bones [526, 1 - position=[2681, 3715, 0]] - 2015-03-23 07:40:40.365
+Item Taken: Bones [526, 1 - position=[2681, 3715, 0]] - 2015-03-23 07:40:42.171
+Item Taken: Bones [526, 1 - position=[2681, 3715, 0]] - 2015-03-23 07:40:43.365
+Item Taken: Green charm [12159, 1 - position=[2680, 3715, 0]] - 2015-03-23 07:41:19.371
+Item Taken: Bones [526, 1 - position=[2680, 3715, 0]] - 2015-03-23 07:41:20.565
+Item Taken: Gold charm [12158, 1 - position=[2679, 3719, 0]] - 2015-03-23 07:44:45.164
+Item Taken: Super attack (1) [149, 1 - position=[3555, 9946, 0]] - 2015-03-23 07:53:41.581
+Item Taken: Clue scroll (easy) [2677, 1 - position=[3554, 9945, 0]] - 2015-03-23 07:54:06.181
+Item Taken: Coins [995, 112216 - position=[2675, 3714, 0]] - 2015-03-23 08:10:18.180
+Item Taken: Green charm [12159, 2 - position=[2675, 3714, 0]] - 2015-03-23 08:10:19.372
+Item Taken: Gold charm [12158, 4 - position=[2675, 3714, 0]] - 2015-03-23 08:10:20.565
+Item Taken: Bones [526, 1 - position=[2675, 3714, 0]] - 2015-03-23 08:10:21.771

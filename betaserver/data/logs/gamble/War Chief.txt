@@ -1,0 +1,61 @@
+2015-06-06 01:32:09.901: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Zamorakian spear [11716, 1]
+Other Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-06-06 01:58:53.113: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-06-06 02:17:40.538: [[Gildhartz, wawa00; 121.54.54.168, 00-1E-10-1F-82-A7]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-06 02:21:10.538: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Zamorakian spear [11716, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-06 02:25:03.938: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Dragon platebody [14479, 1]
+Other Item[0]: Dragon platebody [14479, 1]
+
+
+
+2015-06-06 02:25:38.139: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Dragon platebody [14479, 1]
+Other Item[0]: Dragon platebody [14479, 1]
+
+
+
+2015-06-06 07:29:23.369: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Zamorakian spear [11716, 1]
+My Item[1]: Zamorakian spear [11716, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 07:39:57.601: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Zamorakian spear [11716, 1]
+My Item[1]: Zamorakian spear [11716, 1]
+Other Item[0]: Zamorak godsword [11700, 1]
+Other Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-06-06 07:45:23.401: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Dragon platebody [14479, 1]
+Other Item[0]: Zamorakian spear [11716, 1]
+Other Item[1]: Zamorakian spear [11716, 1]
+Other Item[2]: Zamorakian spear [11716, 1]
+Other Item[3]: Coins [995, 20000000]
+
+
+

@@ -1,0 +1,38 @@
+2015-04-17 13:02:56.633: [Keddeflopp]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-17 16:57:10.549: [Aurora]:
+Item[0]: Statius's platebody [13884, 1]
+Item[1]: Zuriel's robe bottom [13861, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Faithful shield [18747, 1]
+
+
+
+2015-04-17 17:14:06.359: [Iron Ph]:
+Item[1]: Abyssal whip [15442, 1]
+
+
+
+2015-04-17 17:25:27.380: [Iron Ph]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Zuriel's robe bottom [13861, 1]
+
+
+
+2015-04-17 17:27:45.381: [Iron Ph]:
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[4]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-17 17:42:34.592: [Coldott]:
+Item[0]: Armadyl chestplate [11721, 1]
+Item[1]: Armadyl chainskirt [11723, 1]
+
+
+

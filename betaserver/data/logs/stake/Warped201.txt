@@ -1,0 +1,18 @@
+2015-04-03 17:51:27.974: [Kaydog]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-03 17:53:36.357: [Kaydog]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+Item[1]: Coins [995, 35000000]
+
+
+
+2015-04-03 17:55:50.779: [Kaydog]:
+Item[0]: Coins [995, 15000000]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Dragon platelegs/skirt ornament kit (or) [19348, 1]
+
+
+

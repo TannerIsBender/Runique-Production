@@ -1,0 +1,575 @@
+2015-04-01 22:11:33.593: [Noko Pk]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-01 22:15:10.193: [Noko Pk]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-01 22:19:26.394: [Noko Pk]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-02 01:07:21.695: [Noko Pk]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 01:10:22.896: [Noko Pk]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-04-02 01:13:20.527: [Noko Pk]:
+Item[0]: Zamorak platelegs [2655, 1]
+Item[1]: Zamorak platebody [2653, 1]
+Item[2]: Bonecrusher [18337, 1]
+
+
+
+2015-04-02 01:16:51.707: [Noko Pk]:
+Item[0]: Bonecrusher [18337, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 01:21:03.705: [Noko Pk]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-02 01:28:16.910: [Noko Pk]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Ranger boots [2577, 1]
+Item[3]: Dragon pickaxe [15259, 1]
+
+
+
+2015-04-02 01:29:49.311: [Noko Pk]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 01:31:27.722: [Noko Pk]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-02 23:44:30.326: [Merchendise]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-02 23:55:17.127: [Ganja]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-02 23:57:48.918: [Ganja]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-04 21:50:34.106: [The J]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-06 00:06:12.844: [Jonathan]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-06 00:09:35.044: [Jonathan]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Coins [995, 20000000]
+
+
+
+2015-04-06 00:11:33.844: [Jonathan]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-06 00:15:53.644: [Jonathan]:
+Item[0]: Dragon bones [537, 606]
+Item[1]: Coins [995, 20000000]
+
+
+
+2015-04-09 21:16:58.843: [April Fools]:
+
+
+
+2015-04-09 21:18:30.660: [April Fools]:
+
+
+
+2015-04-09 21:20:09.644: [April Fools]:
+
+
+
+2015-04-09 21:27:59.462: [April Fools]:
+
+
+
+2015-04-09 21:29:52.860: [April Fools]:
+
+
+
+2015-04-09 21:31:03.660: [April Fools]:
+
+
+
+2015-04-09 21:32:13.276: [April Fools]:
+
+
+
+2015-04-09 21:33:31.875: [April Fools]:
+
+
+
+2015-04-09 21:35:37.266: [April Fools]:
+
+
+
+2015-04-09 21:38:10.870: [April Fools]:
+
+
+
+2015-04-09 21:43:46.276: [April Fools]:
+
+
+
+2015-04-10 23:36:29.224: [Kn0gen]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-10 23:37:24.429: [Kn0gen]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-10 23:49:54.429: [Kn0gen]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-04-10 23:53:12.428: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-10 23:54:15.428: [Kn0gen]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-10 23:55:22.025: [Kn0gen]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-10 23:57:05.829: [Kn0gen]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-10 23:58:30.423: [Kn0gen]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-10 23:59:41.224: [Kn0gen]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-11 00:02:22.629: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 00:03:32.829: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Coins [995, 30000000]
+
+
+
+2015-04-11 00:04:58.647: [Kn0gen]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-11 00:06:15.428: [Kn0gen]:
+Item[0]: Coins [995, 60000000]
+Item[1]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-04-11 00:07:20.244: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 00:08:24.443: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-11 00:20:29.244: [Senpai]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-11 00:22:07.045: [Senpai]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-11 00:26:16.645: [Kn0gen]:
+Item[0]: Coins [995, 17189488]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-11 00:29:48.443: [Kn0gen]:
+Item[0]: Dragon full helm ornament kit (sp) [19354, 1]
+Item[1]: Dragon platebody ornament kit (sp) [19358, 1]
+
+
+
+2015-04-11 01:16:12.475: [King Arthur]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-11 01:18:00.468: [King Arthur]:
+Item[0]: Dragon platebody ornament kit (sp) [19358, 1]
+Item[1]: Dragon full helm ornament kit (sp) [19354, 1]
+
+
+
+2015-04-11 01:33:55.107: [King Arthur]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-11 01:35:53.907: [King Arthur]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 01:39:21.492: [King Arthur]:
+Item[0]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-04-11 01:40:49.093: [King Arthur]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-11 01:42:40.687: [King Arthur]:
+Item[1]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-04-11 14:53:02.133: [Kn0gen]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-11 14:55:12.323: [Kn0gen]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Coins [995, 25000000]
+
+
+
+2015-04-11 14:57:58.529: [Kn0gen]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 30000000]
+
+
+
+2015-04-11 14:59:18.919: [Kn0gen]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 15:01:18.921: [Kn0gen]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-11 15:02:14.722: [Kn0gen]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Coins [995, 9000000]
+
+
+
+2015-04-11 15:03:35.729: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:05:53.129: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 15:06:57.345: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 15:08:08.142: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:09:14.144: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:10:17.745: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:11:31.545: [Kn0gen]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-11 15:13:03.345: [Kn0gen]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-11 15:14:36.344: [Kn0gen]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Dragon square shield (or) [19340, 1]
+Item[2]: Abyssal whip [15444, 1]
+
+
+
+2015-04-11 15:19:04.544: [Senpai]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-11 15:24:47.745: [Senpai]:
+Item[0]: Coins [995, 31000000]
+
+
+
+2015-04-11 15:26:44.144: [Senpai]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-11 15:37:36.947: [Senpai]:
+Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-04-12 20:47:22.542: [Odds]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Vote Ticket [13256, 1]
+
+
+
+2015-04-12 20:48:17.142: [Odds]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-12 20:48:55.543: [Odds]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-04-12 20:50:29.751: [Odds]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 20:53:29.743: [Odds]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 20:54:24.952: [Odds]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 20:55:03.343: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 20:55:59.202: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 20:56:56.159: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 20:57:53.156: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 20:58:43.558: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 20:59:38.757: [Odds]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:00:39.374: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:01:15.958: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:01:54.359: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:04:32.760: [Odds]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-12 21:05:15.974: [Odds]:
+Item[0]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-12 21:06:09.958: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:07:38.163: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Coins [995, 70000000]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-12 21:09:05.163: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:09:40.558: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:10:34.558: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:12:43.558: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 21:14:35.165: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 21:15:42.964: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:16:48.359: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 21:18:17.759: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:19:17.180: [Odds]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:21:21.364: [Odds]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-12 21:21:54.373: [Odds]:
+Item[0]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-12 21:22:33.991: [Odds]:
+Item[0]: Bandos tassets [11726, 1]
+
+
+
+2015-04-12 21:23:19.591: [Odds]:
+Item[0]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-15 00:49:56.694: [King Staker]:
+Item[0]: Abyssal vine whip [21371, 1]
+
+
+
+2015-04-15 00:55:02.094: [King Staker]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-15 00:55:54.894: [King Staker]:
+Item[0]: Coins [995, 25000000]
+
+
+

@@ -1,0 +1,112 @@
+2015-06-04 14:10:49.639: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Dragon boots [11733, 2]
+
+
+
+2015-06-04 14:11:29.223: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Abyssal whip [15442, 1]
+Other Item[1]: Dragon boots [11733, 2]
+
+
+
+2015-06-04 14:14:14.223: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 4372925]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-04 17:49:43.801: [[U 8 To L8, boy10; 50.162.50.116, 00-24-21-D0-73-E4]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-06-05 01:04:47.138: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-63-CF]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-05 01:06:42.938: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-63-CF]]:
+My Item[0]: Coins [995, 9989743]
+Other Item[0]: Coins [995, 9989743]
+
+
+
+2015-06-06 08:40:52.811: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 140000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 08:44:25.839: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragon platebody [14479, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 08:44:49.840: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Dragon platebody [14479, 1]
+
+
+
+2015-06-06 08:45:19.840: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragon platebody [14479, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 08:45:52.239: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Dragon platebody [14479, 1]
+
+
+
+2015-06-06 08:47:33.640: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragon platebody [14479, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-06-06 09:05:17.426: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Dragon boots [11732, 1]
+My Item[1]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 09:06:25.238: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Warrior ring [6735, 1]
+Other Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-06-06 09:06:53.470: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[1]: Warrior ring [6735, 1]
+Other Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-06-06 09:10:33.670: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Seers' ring [6731, 1]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Warrior ring [6735, 1]
+Other Item[0]: Coins [995, 17000000]
+
+
+

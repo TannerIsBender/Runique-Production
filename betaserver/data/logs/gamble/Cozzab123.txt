@@ -1,0 +1,825 @@
+2015-04-15 08:28:29.378: [Fleshlight]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 08:29:04.747: [Fleshlight]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 08:30:19.779: [Fleshlight]:
+Item[0]: Coins [995, 34317190]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-15 08:31:13.754: [Fleshlight]:
+Item[0]: Abyssal whip [15442, 1]
+Item[1]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-05-09 14:36:10.822: [Rozza123]:
+Item[0]: Elite black full helm [14494, 1]
+
+
+
+2015-05-09 14:37:29.400: [Rozza123]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-09 14:39:45.621: [Rozza123]:
+Item[0]: Coins [995, 57000000]
+
+
+
+2015-05-09 14:41:39.618: [Rozza123]:
+Item[0]: Coins [995, 160655851]
+
+
+
+2015-05-09 14:42:53.422: [Rozza123]:
+
+
+
+2015-05-09 14:44:39.622: [Rozza123]:
+Item[0]: Saradomin sword [11730, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Faithful shield [18747, 1]
+Item[3]: Faithful shield [18747, 1]
+Item[4]: Elite black full helm [14494, 1]
+
+
+
+2015-05-09 14:45:15.621: [Rozza123]:
+Item[0]: Saradomin sword [11730, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Elite black full helm [14494, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Faithful shield [18747, 1]
+
+
+
+2015-05-09 15:04:18.638: [Kuto]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-09 15:07:45.647: [Kuto]:
+Item[4]: Elite black full helm [14494, 1]
+
+
+
+2015-05-09 15:08:24.037: [Kuto]:
+Item[0]: Elite black full helm [14494, 1]
+
+
+
+2015-05-09 15:09:03.037: [Kuto]:
+Item[0]: Elite black full helm [14494, 1]
+
+
+
+2015-05-09 15:12:42.038: [Nostalgia]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Saradomin sword [11730, 1]
+Item[3]: Faithful shield [18747, 1]
+Item[4]: Frost dragon bones [18831, 280]
+
+
+
+2015-05-09 15:19:12.037: [Kuto]:
+Item[0]: Faithful shield [18747, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Infinity boots [6920, 1]
+Item[3]: Coins [995, 23000000]
+
+
+
+2015-05-09 15:23:01.237: [Kuto]:
+Item[4]: Coins [995, 8000000]
+
+
+
+2015-05-09 15:25:42.039: [Kuto]:
+Item[0]: Infinity boots [6920, 1]
+Item[3]: Faithful shield [18747, 1]
+Item[4]: Coins [995, 8000000]
+
+
+
+2015-05-09 15:29:51.642: [Kuto]:
+Item[0]: Gnome scarf [9470, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Coins [995, 8000000]
+Item[3]: Infinity boots [6920, 1]
+
+
+
+2015-05-09 15:30:39.668: [Kuto]:
+Item[0]: Gnome scarf [9470, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Infinity boots [6920, 1]
+Item[3]: Coins [995, 8000000]
+
+
+
+2015-05-10 14:52:19.968: [Rozza123]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-10 15:07:39.200: [Rozza123]:
+
+
+
+2015-05-10 15:10:54.200: [Dare]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-10 15:17:56.590: [Yocky123]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-10 15:18:51.194: [Dare]:
+Item[0]: Coins [995, 151249695]
+
+
+
+2015-05-10 15:19:24.800: [Dare]:
+Item[0]: Coins [995, 151249695]
+
+
+
+2015-05-10 15:24:24.800: [Dare]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-10 15:24:55.999: [Dare]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-10 15:25:20.600: [Dare]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-10 15:27:42.222: [Rozza123]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-10 15:42:20.622: [Ch33sek1ng]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-10 15:51:51.222: [C R I M V2]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-10 15:54:15.822: [Wawa]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-10 15:56:26.622: [Carducci]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-10 16:18:42.238: [Crazycody]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-05-10 16:31:29.669: [Nostalgia]:
+Item[0]: Coins [995, 450000000]
+
+
+
+2015-05-11 05:22:44.185: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-11 05:23:15.974: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-11 05:23:59.774: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-11 05:25:00.985: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-11 05:25:53.185: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[1]: Bandos chestplate [11724, 1]
+My Item[2]: Bandos tassets [11726, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-11 05:26:29.183: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Bandos tassets [11726, 1]
+My Item[1]: Bandos chestplate [11724, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-11 05:27:05.185: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Bandos chestplate [11724, 1]
+My Item[1]: Bandos tassets [11726, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-11 05:28:26.175: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 330000000]
+My Item[1]: Saradomin godsword [11698, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+Other Item[2]: Bandos tassets [11726, 1]
+Other Item[3]: Bandos chestplate [11724, 1]
+Other Item[4]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-11 07:04:32.262: [[Mohd200210, dubaiajman957; 94.59.161.9, 44-6D-57-7C-C5-E6]]:
+My Item[0]: Coins [995, 101520621]
+Other Item[0]: Coins [995, 100520621]
+
+
+
+2015-05-11 09:54:43.198: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 3779000]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Armadyl helmet [11718, 1]
+My Item[3]: Armadyl chestplate [11720, 1]
+My Item[4]: Spirit cape [19893, 1]
+My Item[5]: Amulet of zealots [19892, 1]
+My Item[6]: Amulet of glory (t) [10719, 1]
+My Item[7]: Strength amulet (t) [10736, 1]
+My Item[8]: Rocktail [15273, 1214]
+My Item[9]: Rubber chicken [4566, 1]
+My Item[10]: Apprentice wand [6910, 1]
+Other Item[0]: Draconic visage [11286, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Abyssal vine whip [21371, 1]
+
+
+
+2015-05-11 09:56:40.819: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Strength amulet (t) [10736, 1]
+My Item[1]: Amulet of glory (t) [10719, 1]
+My Item[2]: Amulet of zealots [19892, 1]
+My Item[3]: Rubber chicken [4566, 1]
+My Item[4]: Armadyl chestplate [11720, 1]
+My Item[5]: Armadyl chestplate [11720, 1]
+My Item[6]: Armadyl helmet [11718, 1]
+My Item[7]: Spirit cape [19893, 1]
+My Item[8]: Coins [995, 3779000]
+My Item[9]: Rocktail [15273, 1214]
+My Item[10]: Apprentice wand [6910, 1]
+Other Item[0]: Draconic visage [11286, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Abyssal vine whip [21371, 1]
+
+
+
+2015-05-11 09:57:14.991: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Strength amulet (t) [10736, 1]
+My Item[1]: Amulet of glory (t) [10719, 1]
+My Item[2]: Amulet of zealots [19892, 1]
+My Item[3]: Rubber chicken [4566, 1]
+My Item[4]: Armadyl chestplate [11720, 1]
+My Item[5]: Armadyl chestplate [11720, 1]
+My Item[6]: Spirit cape [19893, 1]
+My Item[7]: Armadyl helmet [11718, 1]
+My Item[8]: Rocktail [15273, 1214]
+My Item[9]: Coins [995, 3779000]
+My Item[10]: Apprentice wand [6910, 1]
+Other Item[0]: Draconic visage [11286, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Dragonfire shield [11283, 1]
+Other Item[3]: Abyssal vine whip [21371, 1]
+
+
+
+2015-05-11 09:59:39.591: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Draconic visage [11286, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+My Item[2]: Abyssal vine whip [21371, 1]
+My Item[3]: Strength amulet (t) [10736, 1]
+My Item[4]: Amulet of glory (t) [10719, 1]
+My Item[5]: Rubber chicken [4566, 1]
+My Item[6]: Amulet of zealots [19892, 1]
+My Item[7]: Spirit cape [19893, 1]
+My Item[8]: Apprentice wand [6910, 1]
+My Item[9]: Rocktail [15273, 1214]
+My Item[10]: Coins [995, 3779000]
+Other Item[0]: Armadyl chestplate [11720, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl chestplate [11720, 1]
+Other Item[3]: Armadyl helmet [11718, 1]
+Other Item[4]: Dark bow [15702, 1]
+Other Item[5]: Dark bow [11235, 1]
+Other Item[6]: Bonecrusher [18337, 1]
+Other Item[7]: Bonecrusher [18337, 1]
+Other Item[8]: Bonecrusher [18337, 1]
+Other Item[9]: Dark bow [11235, 1]
+Other Item[10]: Bonecrusher [18337, 1]
+
+
+
+2015-05-11 10:00:29.416: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Abyssal vine whip [21371, 1]
+My Item[1]: Strength amulet (t) [10736, 1]
+My Item[2]: Amulet of glory (t) [10719, 1]
+My Item[3]: Rubber chicken [4566, 1]
+My Item[4]: Dragonfire shield [11283, 1]
+My Item[5]: Draconic visage [11286, 1]
+My Item[6]: Spirit cape [19893, 1]
+My Item[7]: Amulet of zealots [19892, 1]
+My Item[8]: Coins [995, 3779000]
+My Item[9]: Apprentice wand [6910, 1]
+My Item[10]: Rocktail [15273, 1214]
+Other Item[0]: Armadyl chestplate [11720, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Dark bow [11235, 1]
+Other Item[3]: Dark bow [15702, 1]
+Other Item[4]: Armadyl helmet [11718, 1]
+Other Item[5]: Armadyl chestplate [11720, 1]
+Other Item[6]: Bonecrusher [18337, 1]
+Other Item[7]: Bonecrusher [18337, 1]
+Other Item[8]: Dark bow [11235, 1]
+Other Item[9]: Bonecrusher [18337, 1]
+Other Item[10]: Bonecrusher [18337, 1]
+
+
+
+2015-05-11 10:01:07.790: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Abyssal vine whip [21371, 1]
+My Item[1]: Strength amulet (t) [10736, 1]
+My Item[2]: Draconic visage [11286, 1]
+My Item[3]: Dragonfire shield [11283, 1]
+My Item[4]: Rubber chicken [4566, 1]
+My Item[5]: Amulet of glory (t) [10719, 1]
+My Item[6]: Spirit cape [19893, 1]
+My Item[7]: Amulet of zealots [19892, 1]
+My Item[8]: Rocktail [15273, 1214]
+My Item[9]: Coins [995, 3779000]
+My Item[10]: Apprentice wand [6910, 1]
+Other Item[0]: Armadyl chestplate [11720, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl chestplate [11720, 1]
+Other Item[3]: Armadyl helmet [11718, 1]
+Other Item[4]: Dark bow [15702, 1]
+Other Item[5]: Dark bow [11235, 1]
+Other Item[6]: Bonecrusher [18337, 1]
+Other Item[7]: Bonecrusher [18337, 1]
+Other Item[8]: Dark bow [11235, 1]
+Other Item[9]: Bonecrusher [18337, 1]
+Other Item[10]: Bonecrusher [18337, 1]
+
+
+
+2015-05-11 10:04:46.206: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Armadyl helmet [11718, 1]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Dark bow [15702, 1]
+My Item[3]: Dark bow [11235, 1]
+My Item[4]: Armadyl chestplate [11720, 1]
+My Item[5]: Armadyl chestplate [11720, 1]
+My Item[6]: Dark bow [11235, 1]
+My Item[7]: Abyssal vine whip [21371, 1]
+My Item[8]: Draconic visage [11286, 1]
+My Item[9]: Dragonfire shield [11283, 1]
+My Item[10]: Rocktail [15273, 1214]
+My Item[11]: Coins [995, 3779000]
+Other Item[0]: Dragon boots [11733, 6]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Dragon chainbody [3141, 1]
+Other Item[3]: Strength amulet (t) [10736, 1]
+Other Item[4]: Dragon platelegs (or) [19338, 1]
+Other Item[5]: Dragon full helm (or) [19336, 1]
+Other Item[6]: Faithful shield [18747, 1]
+Other Item[7]: Zamorak godsword [11701, 1]
+Other Item[8]: Saradomin godsword [11699, 1]
+Other Item[9]: Amulet of glory (t) [10719, 1]
+Other Item[10]: Vesta's spear [13906, 1]
+Other Item[11]: Iron dragon mask [19300, 1]
+Other Item[12]: Corrupt vesta's spear [13930, 2]
+
+
+
+2015-05-11 10:09:37.806: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Bonecrusher [18337, 1]
+My Item[1]: Bonecrusher [18337, 1]
+My Item[2]: Bonecrusher [18337, 1]
+My Item[3]: Bonecrusher [18337, 1]
+My Item[4]: Amulet of glory (t) [10719, 1]
+My Item[5]: Strength amulet (t) [10736, 1]
+My Item[6]: Rubber chicken [4566, 1]
+My Item[7]: Spirit cape [19893, 1]
+My Item[8]: Amulet of zealots [19892, 1]
+My Item[9]: Lederhosen hat [6182, 1]
+My Item[10]: Corrupt dragon med helm [13961, 1]
+My Item[11]: Karil's skirt [4738, 1]
+My Item[12]: Apprentice wand [6910, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Dragon boots [11733, 5]
+
+
+
+2015-05-11 11:59:54.700: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-11 12:00:33.699: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 15000424]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-11 12:28:00.738: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Infinity boots [6920, 1]
+My Item[1]: Coins [995, 14000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-11 12:31:55.938: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 9000000]
+My Item[1]: Infinity boots [6920, 1]
+Other Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-05-11 15:47:02.685: [[Prem2good, lol123; 84.27.47.26, 6C-62-6D-48-5B-CA]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-11 15:47:35.100: [[Prem2good, lol123; 84.27.47.26, 6C-62-6D-48-5B-CA]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-11 15:48:53.086: [[Prem2good, lol123; 84.27.47.26, 6C-62-6D-48-5B-CA]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Coins [995, 5000000]
+
+
+
+2015-05-11 15:49:30.300: [[Prem2good, lol123; 84.27.47.26, 6C-62-6D-48-5B-CA]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Coins [995, 5000000]
+
+
+
+2015-05-11 15:50:00.888: [[Prem2good, lol123; 84.27.47.26, 6C-62-6D-48-5B-CA]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Coins [995, 5000000]
+
+
+
+2015-05-12 04:59:21.884: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-12 05:00:36.891: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-12 05:00:59.100: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-12 05:10:38.868: [[Micky G, parkridge; 124.187.97.170, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Royal shirt [15503, 1]
+Other Item[1]: Bandos chestplate [11724, 1]
+
+
+
+2015-05-12 05:11:39.907: [[Micky G, parkridge; 124.187.97.170, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 48000000]
+Other Item[0]: Coins [995, 48000000]
+
+
+
+2015-05-12 05:12:12.900: [[Micky G, parkridge; 124.187.97.170, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 48000000]
+Other Item[0]: Coins [995, 48000000]
+
+
+
+2015-05-12 05:13:36.306: [[Micky G, parkridge; 124.187.97.170, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 96000000]
+Other Item[0]: Bandos chestplate [11724, 1]
+
+
+
+2015-05-12 06:19:00.957: [[Rozza123, whitephat; 176.25.209.127, 10-08-B1-B4-A2-27]]:
+My Item[0]: Frost dragon bones [18831, 50]
+Other Item[0]: Frost dragon bones [18831, 50]
+
+
+
+2015-05-12 06:20:10.562: [[Rozza123, whitephat; 176.25.209.127, 10-08-B1-B4-A2-27]]:
+My Item[0]: Coins [995, 3000000]
+Other Item[0]: Coins [995, 3000000]
+
+
+
+2015-05-12 07:53:17.230: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Coins [995, 900000]
+My Item[1]: Onyx bolts [9342, 700]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-12 07:54:22.637: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[1]: Onyx bolts [9342, 700]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-12 14:49:58.963: [[Ginnerb, torenamai6; 88.107.146.142, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 5000000]
+Other Item[1]: Archers' ring [6733, 1]
+
+
+
+2015-05-12 15:01:26.589: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Berserker ring [6737, 1]
+Other Item[1]: Archers' ring [6733, 1]
+
+
+
+2015-05-12 15:02:00.769: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Berserker ring [6737, 1]
+
+
+
+2015-05-13 08:16:27.984: [[Ginnerb, torenamai6; 88.107.146.142, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 1878000]
+Other Item[0]: Coins [995, 1878000]
+
+
+
+2015-05-13 09:15:23.838: [[Rozza123, whitephat; 90.215.101.115, 10-08-B1-B4-A2-27]]:
+My Item[0]: Coins [995, 3756000]
+Other Item[0]: Coins [995, 3756000]
+
+
+
+2015-05-13 16:13:05.899: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 11582000]
+My Item[2]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Coins [995, 12000000]
+
+
+
+2015-05-13 16:24:58.114: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[2]: Coins [995, 12582000]
+Other Item[0]: Coins [995, 6960892]
+Other Item[1]: Torag's hammers [4747, 1]
+
+
+
+2015-05-13 16:26:23.919: [[Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Ahrim's hood [4708, 1]
+My Item[2]: Coins [995, 1582000]
+Other Item[0]: Coins [995, 18960892]
+Other Item[1]: Torag's hammers [4747, 1]
+
+
+
+2015-05-13 16:28:05.323: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 20542892]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Ahrim's hood [4708, 1]
+My Item[3]: Amulet of fury [6585, 1]
+My Item[4]: Torag's hammers [4747, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-13 16:28:40.117: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 20542892]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Amulet of fury [6585, 1]
+My Item[3]: Torag's hammers [4747, 1]
+My Item[4]: Ahrim's hood [4708, 1]
+Other Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-05-13 16:32:56.321: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Amulet of fury [6585, 1]
+My Item[3]: Ahrim's hood [4708, 1]
+My Item[4]: Torag's hammers [4747, 1]
+My Item[5]: Coins [995, 20542892]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl chestplate [11720, 1]
+Other Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-05-13 16:41:45.522: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-14 16:50:52.206: [[Frisk, balintore23; 46.65.161.29, E8-94-F6-14-7A-71]]:
+My Item[0]: Vote Ticket [13256, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-27 09:47:10.388: [[Clownfish, william7; 213.21.83.21, 44-6D-57-EC-1F-F4]]:
+My Item[0]: Morrigan's leather chaps [13873, 1]
+My Item[1]: Zuriel's robe top [13858, 1]
+My Item[2]: Vote Ticket [13256, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-27 09:55:43.387: [[Rozzab123, zxcvbnm; 90.205.71.209, 10-08-B1-B4-A2-27]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-05-27 09:59:49.401: [[Goblin Guard, Adamdapure15; 86.191.69.74, 94-39-E5-B5-C8-57]]:
+My Item[0]: Dragonfire shield [11283, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-27 10:12:08.001: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Zuriel's staff [13867, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Saradomin sword [11730, 1]
+
+
+
+2015-05-27 10:12:40.402: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Vote Ticket [13256, 1]
+My Item[1]: Zuriel's staff [13867, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+Other Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-05-27 12:30:09.894: [[Noli Ftw, pakokosare; 46.99.17.172, 00-25-22-16-D8-A1]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-27 12:31:25.502: [[Noli Ftw, pakokosare; 46.99.17.172, 00-25-22-16-D8-A1]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Zamorak godsword [11700, 1]
+My Item[3]: Saradomin godsword [11699, 1]
+My Item[4]: Saradomin godsword [11698, 1]
+My Item[5]: Bandos godsword [11696, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+Other Item[2]: Spectral spirit shield [13744, 1]
+Other Item[3]: Abyssal whip [4151, 1]
+
+
+
+2015-05-27 17:52:38.963: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Zamorak godsword [11700, 1]
+My Item[2]: Bandos godsword [11696, 1]
+My Item[3]: Saradomin godsword [11699, 2]
+My Item[4]: Saradomin's tear [8027, 1]
+My Item[5]: Spectral spirit shield [13745, 2]
+My Item[6]: Saradomin's tear [8027, 1]
+My Item[7]: Saradomin's tear [8027, 1]
+My Item[8]: Spectral spirit shield [13744, 1]
+Other Item[0]: Third-age full helmet [10350, 1]
+Other Item[1]: Third-age full helmet [10350, 1]
+Other Item[2]: Third-age druidic robe [19320, 1]
+
+
+
+2015-05-27 18:06:31.195: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Spectral spirit shield [13745, 2]
+Other Item[0]: Spectral spirit shield [13744, 1]
+Other Item[1]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-27 18:07:55.194: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Saradomin sword [11730, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Fighter torso [10551, 1]
+Other Item[0]: Spectral spirit shield [13745, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-27 18:09:05.389: [[Dynamic, 0neclean; 24.161.41.157, 00-22-3F-F6-C1-3F]]:
+My Item[0]: Spectral spirit shield [13745, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+Other Item[0]: Spectral spirit shield [13745, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-28 13:44:59.113: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Vote Ticket [13256, 1]
+Other Item[0]: Hand cannon [15241, 1]
+
+
+
+2015-05-28 16:15:40.638: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-05-28 16:19:26.837: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Tooth half of a key [986, 3]
+Other Item[0]: Holy elixir [13754, 1]
+Other Item[1]: Apprentice wand [6910, 1]
+Other Item[2]: Spirit cape [19893, 1]
+
+
+
+2015-05-28 16:20:25.648: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Tooth half of a key [986, 3]
+Other Item[0]: Holy elixir [13754, 1]
+Other Item[1]: Apprentice wand [6910, 1]
+Other Item[2]: Spirit cape [19893, 1]
+
+
+
+2015-05-29 11:53:00.565: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-29 11:57:44.348: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Zamorakian spear [11716, 1]
+My Item[1]: Zuriel's staff [13867, 1]
+My Item[2]: Torag's helm [4745, 1]
+My Item[3]: Guthan's chainskirt [4730, 1]
+Other Item[0]: Dragon boots [11732, 1]
+Other Item[1]: Faithful shield [18747, 1]
+Other Item[2]: Saradomin hilt [11706, 1]
+
+
+

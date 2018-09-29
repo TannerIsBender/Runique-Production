@@ -1,0 +1,350 @@
+2015-04-12 17:42:19.442: [Ganja Green]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-12 17:43:17.645: [Ganja Green]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-12 17:47:57.258: [Ganja Green]:
+Item[0]: Verac's plateskirt [4759, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Coins [995, 5304873]
+
+
+
+2015-04-15 13:14:27.147: [I Am Tommy]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-15 13:15:14.547: [I Am Tommy]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-15 13:15:43.947: [I Am Tommy]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-15 13:20:45.741: [L2pk]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 15:35:53.631: [St3alth Skil]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-15 15:36:44.032: [St3alth Skil]:
+Item[0]: Coins [995, 19000000]
+
+
+
+2015-04-18 10:28:27.398: [Melody]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-20 17:25:15.461: [Simberj]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-04-20 17:27:50.261: [Melee Cyrus]:
+Item[0]: Coins [995, 46000000]
+
+
+
+2015-04-22 20:32:22.076: [Pascaladium]:
+Item[0]: Coins [995, 9012638]
+
+
+
+2015-04-22 20:34:00.480: [Pascaladium]:
+Item[0]: Coins [995, 18025276]
+
+
+
+2015-04-22 21:13:53.897: [Pascaladium]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-04-22 21:14:41.906: [Pascaladium]:
+Item[0]: Statius's platebody [13884, 1]
+
+
+
+2015-04-22 21:20:20.287: [Pascaladium]:
+Item[0]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-22 21:27:18.502: [Pascaladium]:
+Item[0]: Dark bow [11235, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Coins [995, 15000000]
+
+
+
+2015-04-22 21:27:50.302: [Pascaladium]:
+Item[0]: Dark bow [11235, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Coins [995, 15000000]
+
+
+
+2015-04-25 13:31:29.727: [Iron Ph]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Dark bow [15704, 1]
+Item[3]: Coins [995, 18699652]
+
+
+
+2015-04-27 21:51:26.003: [Bad Pker]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Coins [995, 4451600]
+
+
+
+2015-04-29 13:48:59.614: [Aerial]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-29 13:49:53.613: [Aerial]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-29 13:50:41.012: [Aerial]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-29 13:51:20.602: [Aerial]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-29 15:49:54.875: [Melee Cyrus]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-04-29 16:14:10.514: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-29 16:22:12.302: [Kabooyah]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-29 16:23:10.496: [Kabooyah]:
+Item[0]: Arcane stream necklace [18335, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+
+
+
+2015-04-29 16:54:56.734: [Nostalgia]:
+Item[0]: Coins [995, 265094305]
+
+
+
+2015-04-29 16:55:57.926: [Nostalgia]:
+Item[0]: Coins [995, 265094305]
+
+
+
+2015-04-29 19:56:28.480: [Gibby 2]:
+Item[0]: Bandos godsword [11696, 1]
+
+
+
+2015-04-29 20:03:55.512: [Halee]:
+Item[0]: Coins [995, 140000000]
+
+
+
+2015-04-30 16:43:09.730: [Melee Cyrus]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-30 16:43:45.115: [Melee Cyrus]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-30 16:45:09.729: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-30 16:45:57.731: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-30 16:46:57.131: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-30 16:49:11.531: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Dark bow [11235, 1]
+
+
+
+2015-04-30 16:56:06.162: [Illusions420]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-01 10:12:17.768: [Bonju]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-01 10:14:45.947: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 10:15:22.552: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 10:16:05.762: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 10:16:41.146: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 10:17:20.150: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 10:18:18.362: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 10:19:11.169: [Davetherave]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 18:05:58.931: [Shane]:
+Item[0]: Spectral sigil [13752, 1]
+
+
+
+2015-05-01 18:07:07.338: [Shane]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 18:07:38.529: [Shane]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-01 18:14:33.762: [Shane]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-01 18:15:13.332: [Shane]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-01 18:16:00.162: [Shane]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-01 18:17:00.731: [Shane]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-01 18:17:31.933: [Shane]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-01 18:18:22.932: [Shane]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Coins [995, 100000000]
+
+
+
+2015-05-01 18:23:26.555: [Untouchedtea]:
+Item[0]: Coins [995, 410094755]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+Item[5]: Amulet of fury [6585, 1]
+Item[6]: Glaiven boots [21790, 1]
+Item[7]: Vesta's chainbody [13887, 1]
+Item[8]: Armadyl chestplate [11720, 1]
+Item[9]: Elysian spirit shield [13742, 1]
+Item[10]: Infinity hat [15608, 1]
+Item[11]: Steadfast boots [21787, 1]
+
+
+
+2015-05-03 19:38:34.313: [Desi]:
+Item[0]: Coins [995, 410094755]
+
+
+
+2015-05-03 19:40:04.315: [Desi]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Dragonfire shield [11283, 1]
+Item[6]: Glaiven boots [21790, 1]
+Item[7]: Amulet of fury [6585, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Elysian spirit shield [13742, 1]
+Item[10]: Infinity hat [15608, 1]
+
+
+
+2015-05-03 19:41:10.297: [Leggopvp]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-05-03 19:45:15.098: [Leggopvp]:
+Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-03 19:46:02.515: [Leggopvp]:
+Item[0]: Coins [995, 600600000]
+
+
+

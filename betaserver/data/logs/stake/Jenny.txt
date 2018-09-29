@@ -1,0 +1,64 @@
+2015-03-31 12:07:40.244: [Tonka]:
+Item[0]: Coins [995, 80000000]
+Item[1]: Corrupt vesta's spear [13929, 1]
+Item[2]: Amulet of fury (or) [19335, 1]
+Item[3]: Warrior ring [6735, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-04-01 14:22:14.719: [Tonka]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Godsword shard 1 [11710, 1]
+Item[4]: Amulet of fury [6585, 1]
+
+
+
+2015-04-02 18:54:20.543: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 18:55:25.958: [Raped]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-02 18:56:19.344: [Raped]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-02 18:57:12.744: [Raped]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-02 18:58:17.558: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 18:58:52.952: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 18:59:53.543: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 19:00:34.943: [Raped]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-02 19:01:22.942: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+

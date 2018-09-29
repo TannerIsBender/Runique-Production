@@ -1,0 +1,13 @@
+Item Taken: Bones [526, 1 - position=[2683, 3722, 0]] - 2015-03-24 15:18:01.780
+Item Taken: Bones [526, 1 - position=[2683, 3717, 0]] - 2015-03-24 15:18:10.180
+Item Taken: Bones [526, 1 - position=[2679, 3714, 0]] - 2015-03-24 15:18:18.580
+Item Taken: Bones [526, 1 - position=[2678, 3715, 0]] - 2015-03-24 15:18:23.958
+Item Taken: Bones [526, 1 - position=[2677, 3714, 0]] - 2015-03-24 15:18:30.547
+Item Taken: Bones [526, 1 - position=[2677, 3714, 0]] - 2015-03-24 15:18:34.180
+Item Taken: Bones [526, 1 - position=[2677, 3714, 0]] - 2015-03-24 15:18:49.780
+Item Taken: Bones [526, 1 - position=[2683, 3716, 0]] - 2015-03-24 15:19:09.580
+Item Taken: Bones [526, 1 - position=[2683, 3717, 0]] - 2015-03-24 15:19:17.358
+Item Taken: Mithril bolts [9142, 5 - position=[3175, 2980, 0]] - 2015-03-24 15:24:43.158
+Item Taken: Mithril bolts [9142, 5 - position=[3178, 2982, 0]] - 2015-03-24 15:25:20.980
+Item Taken: Mithril bolts [9142, 6 - position=[3172, 2981, 0]] - 2015-03-24 15:26:04.157
+Item Taken: Mithril bolts [9142, 3 - position=[3170, 2985, 0]] - 2015-03-24 15:26:47.958

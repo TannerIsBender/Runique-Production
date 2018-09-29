@@ -1,0 +1,4 @@
+Item Taken: Bones [526, 1 - position=[2666, 3710, 0]] - 2015-03-24 13:08:02.880
+Item Taken: Bones [526, 1 - position=[2666, 3714, 0]] - 2015-03-24 13:08:04.676
+Item Taken: Green charm [12159, 2 - position=[2667, 3711, 0]] - 2015-03-24 13:08:32.276
+Item Taken: Gold charm [12158, 4 - position=[2667, 3712, 0]] - 2015-03-24 13:09:26.274

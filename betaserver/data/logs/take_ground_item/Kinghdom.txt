@@ -1,0 +1,10 @@
+Item Taken: Coins [995, 35000 - position=[2326, 3793, 0]] - 2015-03-24 20:31:05.545
+Item Taken: Yak-hide [10818, 1 - position=[2326, 3793, 0]] - 2015-03-24 20:31:07.942
+Item Taken: Coins [995, 259006 - position=[2671, 3714, 0]] - 2015-03-25 17:36:21.071
+Item Taken: Gold charm [12158, 5 - position=[2670, 3714, 0]] - 2015-03-25 17:38:10.880
+Item Taken: Gold charm [12158, 1 - position=[2671, 3714, 0]] - 2015-03-25 17:38:52.280
+Item Taken: Bones [526, 1 - position=[2670, 3714, 0]] - 2015-03-25 17:40:55.258
+Item Taken: Gold charm [12158, 1 - position=[2670, 3714, 0]] - 2015-03-25 17:40:58.274
+Item Taken: Green charm [12159, 1 - position=[2670, 3714, 0]] - 2015-03-25 17:41:00.058
+Item Taken: Coins [995, 143962 - position=[2669, 3714, 0]] - 2015-03-25 17:41:18.658
+Item Taken: Gold charm [12158, 5 - position=[2669, 3714, 0]] - 2015-03-25 17:41:23.458

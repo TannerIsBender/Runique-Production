@@ -1,0 +1,68 @@
+2015-05-07 20:12:02.539: [Nostalgia]:
+Item[0]: Amulet of ranging [15126, 1]
+Item[1]: Dragon full helm ornament kit (sp) [19354, 1]
+
+
+
+2015-05-11 10:49:35.437: [[Wizardluck2, mad12ison; 67.248.115.190, 00-25-D3-F5-03-6B]]:
+My Item[0]: Bandos godsword [11696, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-11 10:51:35.468: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Torag's platelegs [4751, 1]
+My Item[1]: Karil's crossbow [4734, 1]
+My Item[2]: Ahrim's hood [4708, 1]
+My Item[3]: Dharok's platelegs [4722, 1]
+My Item[4]: Guthan's warspear [4726, 1]
+My Item[5]: Verac's flail [4755, 1]
+Other Item[0]: Strength amulet (t) [10736, 1]
+Other Item[1]: Amulet of glory (t) [10719, 1]
+Other Item[2]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+Other Item[3]: Dragon sq shield ornament kit (or) [19352, 1]
+Other Item[5]: Amulet of zealots [19892, 1]
+Other Item[6]: Arcane stream necklace [18335, 1]
+
+
+
+2015-05-11 10:53:06.039: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Ahrim's hood [4708, 1]
+My Item[1]: Dharok's platelegs [4722, 1]
+My Item[2]: Guthan's warspear [4726, 1]
+My Item[3]: Verac's flail [4755, 1]
+My Item[4]: Amulet of zealots [19892, 1]
+My Item[5]: Strength amulet (t) [10736, 1]
+My Item[6]: Amulet of glory (t) [10719, 1]
+My Item[7]: Arcane stream necklace [18335, 1]
+My Item[8]: Torag's platelegs [4751, 1]
+My Item[9]: Dragon platelegs/skirt ornament kit (sp) [19356, 1]
+My Item[10]: Dragon sq shield ornament kit (or) [19352, 1]
+My Item[11]: Karil's crossbow [4734, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-11 10:55:03.053: [[Ginnerb, torenamai6; 88.107.147.196, 40-F0-2F-21-39-BA]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Torag's platelegs [4751, 1]
+Other Item[1]: Dharok's platelegs [4722, 1]
+
+
+
+2015-06-03 01:14:17.136: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-06-03 01:42:24.364: [[Gildhartz, wawa00; 121.54.54.171, 00-1E-10-1F-B6-81]]:
+My Item[0]: Coins [995, 45000000]
+My Item[1]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl helmet [11718, 1]
+Other Item[1]: Armadyl helmet [11718, 1]
+Other Item[2]: Armadyl helmet [11718, 1]
+Other Item[3]: Armadyl helmet [11718, 1]
+
+
+

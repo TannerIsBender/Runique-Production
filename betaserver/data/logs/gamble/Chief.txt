@@ -1,0 +1,220 @@
+2015-05-16 12:13:23.300: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-16 12:17:43.690: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+
+
+
+2015-05-17 14:02:20.300: [[1wayticket, Sprotje123; 84.31.113.64, 00-26-82-DA-70-25]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-17 14:02:20.300: [[1wayticket, Sprotje123; 84.31.113.64, 00-26-82-DA-70-25]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-23 10:43:06.995: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Armadyl chainskirt [11722, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-23 14:30:08.975: [[Amy, dragons1; 151.224.135.10, B8-EE-65-EF-AF-CD]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-23 14:31:11.384: [[Get Wet Kids, altoids; 86.153.10.25, 1C-65-9D-54-E2-48]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000001]
+
+
+
+2015-05-23 14:38:17.380: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-23 14:53:10.794: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Coins [995, 18000000]
+
+
+
+2015-05-24 13:04:17.194: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 35000000]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-24 13:04:58.612: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Abyssal whip [4151, 1]
+Other Item[0]: Abyssal whip [15442, 1]
+
+
+
+2015-05-24 13:09:04.612: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-24 17:47:44.414: [[Angel Archer, dd1234; 70.193.101.17, 0C-8B-FD-87-47-9A]]:
+My Item[0]: Abyssal whip [4151, 1]
+My Item[1]: Abyssal whip [4151, 1]
+Other Item[1]: Abyssal whip [4152, 2]
+
+
+
+2015-05-25 09:59:40.395: [[Gm Shawn, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[1]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-25 10:43:20.638: [[My99capes, haley2388; 104.160.61.10, 74-29-AF-96-F5-8F]]:
+My Item[0]: Coins [995, 60000000]
+My Item[1]: Abyssal whip [4151, 1]
+My Item[2]: Abyssal whip [4151, 1]
+My Item[3]: Abyssal whip [4151, 1]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-25 15:14:14.248: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-05-25 15:14:41.843: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Korasi's sword [19780, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-05-26 09:29:26.616: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-26 10:16:40.469: [[Homer, bennyb11; 58.172.232.175, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 30000000]
+Other Item[1]: Barrows - dharok's set [11848, 1]
+
+
+
+2015-05-26 17:01:41.395: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 17:06:33.580: [[Trippl3x, lolled; 77.174.23.244, 94-DB-C9-AD-0B-D2]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-26 17:32:48.017: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-28 13:26:12.891: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-28 17:26:58.088: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 18000000]
+Other Item[0]: Coins [995, 18000000]
+
+
+
+2015-05-28 17:28:53.863: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 36000000]
+Other Item[0]: Coins [995, 36000000]
+
+
+
+2015-05-28 17:50:34.094: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Coins [995, 8000001]
+Other Item[0]: Coins [995, 8000000]
+
+
+
+2015-05-29 11:28:25.148: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-29 11:28:25.726: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-31 12:09:56.244: [[Tort0, asddsa; 194.150.65.152, None]]:
+My Item[0]: Coins [995, 105000000]
+Other Item[0]: Coins [995, 105000000]
+
+
+
+2015-06-06 11:40:26.571: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Virtus robe legs [20167, 1]
+My Item[1]: Coins [995, 150000000]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-06 11:42:27.171: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Virtus robe legs [20167, 1]
+My Item[1]: Coins [995, 150000000]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-06 11:48:43.372: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Virtus robe legs [20167, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Coins [995, 200000000]
+
+
+
+2015-06-06 11:57:47.601: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Steadfast boots [21787, 1]
+My Item[1]: Vesta's chainbody [13887, 1]
+My Item[2]: Vesta's longsword [13899, 1]
+My Item[3]: Vesta's plateskirt [13893, 1]
+My Item[4]: Dragonfire shield [11283, 1]
+My Item[5]: Staff of light [22206, 1]
+My Item[6]: Full slayer helmet [15492, 1]
+My Item[7]: Full slayer helmet [15492, 1]
+My Item[8]: Dharok's helm [4716, 1]
+My Item[9]: Dharok's platebody [4720, 1]
+My Item[10]: Dharok's greataxe [4718, 1]
+My Item[11]: Dharok's platelegs [4722, 1]
+My Item[12]: Amulet of ranging [15126, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+

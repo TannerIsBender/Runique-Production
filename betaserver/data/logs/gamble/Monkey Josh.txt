@@ -1,0 +1,140 @@
+2015-06-06 22:24:12.670: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-06 22:25:21.059: [[Pureownsss, ikbenmarco1; 81.207.121.68, 48-D2-24-E4-6D-3B]]:
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-06-06 22:37:18.091: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Coins [995, 200981610]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-06 22:45:36.092: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 22:46:48.697: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 22:47:40.301: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-06 22:49:40.900: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 140000000]
+Other Item[0]: Coins [995, 140000000]
+
+
+
+2015-06-06 22:52:46.923: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-06 22:54:52.323: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 250000000]
+Other Item[0]: Coins [995, 250000000]
+
+
+
+2015-06-06 23:00:08.549: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 210000000]
+Other Item[0]: Corrupt vesta's plateskirt [13917, 1]
+Other Item[1]: Steadfast boots [21787, 1]
+Other Item[2]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-06 23:03:07.323: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-06-06 23:05:42.722: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-06 23:06:24.138: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 340000000]
+
+
+
+2015-06-06 23:07:06.122: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 340000000]
+
+
+
+2015-06-06 23:07:56.517: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 340000000]
+
+
+
+2015-06-06 23:09:04.923: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 340000000]
+
+
+
+2015-06-06 23:09:53.522: [[Shadow Corey, abcd12; 72.205.210.91, 48-D2-24-EA-B8-97]]:
+My Item[0]: Coins [995, 200000000]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 340000000]
+
+
+
+2015-06-06 23:51:33.142: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 400000000]
+
+
+
+2015-06-06 23:54:15.142: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-06-07 00:08:53.570: [[Beatenblood, hitlerlol; 108.178.216.61, B8-EE-65-B0-20-99]]:
+My Item[0]: Coins [995, 592817060]
+My Item[1]: Divine spirit shield [13740, 1]
+My Item[2]: Divine spirit shield [13741, 1]
+My Item[3]: Armadyl godsword [11694, 1]
+My Item[4]: Armadyl godsword [11694, 1]
+My Item[5]: Armadyl godsword [11694, 1]
+My Item[6]: Korasi's sword [19780, 1]
+My Item[7]: Saradomin's tear [8027, 1]
+My Item[8]: Warrior ring [6735, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+Other Item[1]: Coins [995, 1300000000]
+
+
+

@@ -1,0 +1,50 @@
+2015-04-13 15:10:13.794: [Dare]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-13 15:14:21.585: [Dare]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 15:51:57.912: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 15:54:07.527: [Aurora]:
+Item[0]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-17 15:58:29.735: [Aurora]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Black platebody (t) [2583, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-22 14:34:46.449: [Pascaladium]:
+Item[0]: Glaiven boots [21790, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-22 14:35:23.064: [Pascaladium]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-29 09:05:49.823: [I Like Gold]:
+Item[0]: Inferno adze [13661, 1]
+
+
+

@@ -1,0 +1,336 @@
+2015-04-16 18:52:13.817: [Darkdestroyr]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 18:53:42.601: [Darkdestroyr]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 18:59:16.816: [Darkdestroyr]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-04-16 19:02:45.622: [Pascaladium]:
+Item[0]: Bandos chestplate [11725, 1]
+Item[1]: Coins [995, 55000000]
+
+
+
+2015-04-16 19:09:03.020: [Shpongle]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:10:31.831: [Shpongle]:
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-16 19:11:49.220: [Shpongle]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 19:14:58.847: [2kk2]:
+Item[0]: Bandos chestplate [11725, 1]
+
+
+
+2015-04-16 19:20:34.243: [2kk2]:
+Item[0]: Spectral spirit shield [13745, 1]
+
+
+
+2015-04-16 19:33:25.843: [Ironmansam]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-16 20:30:00.078: [Simberj]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 20:37:30.093: [Simberj]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 20:44:18.094: [Dave]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 20:58:49.901: [Dave]:
+
+
+
+2015-04-16 21:12:24.115: [Ironmansam]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-17 16:14:02.124: [Aurora]:
+Item[0]: Ragefire boots [21793, 1]
+Item[1]: Vesta's spear [13905, 1]
+
+
+
+2015-04-17 16:37:50.181: [Great Attila]:
+
+
+
+2015-04-17 17:06:21.359: [Rk Mirrage]:
+Item[0]: Coins [995, 5080000]
+
+
+
+2015-04-17 17:18:07.581: [Rk Mirrage]:
+Item[0]: Corrupt vesta's spear [13930, 1]
+Item[1]: Coins [995, 5000000]
+
+
+
+2015-04-17 17:23:41.780: [Rk Mirrage]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 17:26:31.000: [Iron Ph]:
+Item[0]: Corrupt vesta's spear [13930, 1]
+Item[1]: Vesta's spear [13906, 1]
+Item[2]: Zamorakian spear [11717, 1]
+Item[3]: Coins [995, 26276651]
+
+
+
+2015-04-17 17:29:36.993: [Coldott]:
+Item[0]: Karil's top [4737, 2]
+Item[1]: Zamorakian spear [11717, 2]
+
+
+
+2015-04-17 17:32:45.997: [Coldott]:
+Item[0]: Armadyl chestplate [11721, 1]
+
+
+
+2015-04-20 18:02:19.061: [Untouchedtea]:
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 18:12:16.661: [Nostalgia]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-04-20 18:17:24.477: [Untouchedtea]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-20 18:22:50.283: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-20 18:45:16.068: [Banklootz]:
+Item[0]: Karil's skirt [4738, 1]
+Item[1]: Karil's crossbow [4734, 1]
+Item[2]: Karil's top [4736, 1]
+Item[3]: Karil's coif [4732, 1]
+Item[4]: Dharok's platelegs [4722, 1]
+Item[5]: Hand cannon [15241, 1]
+Item[6]: Tooth half of a key [985, 1]
+Item[7]: Tooth half of a key [985, 1]
+Item[8]: Tooth half of a key [985, 1]
+Item[9]: Tooth half of a key [985, 1]
+Item[10]: Tooth half of a key [985, 1]
+Item[11]: Tooth half of a key [985, 1]
+Item[12]: Tooth half of a key [985, 1]
+
+
+
+2015-04-20 18:47:25.101: [Banklootz]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+
+
+
+2015-04-22 17:58:49.560: [Pascaladium]:
+Item[0]: Coins [995, 62000000]
+
+
+
+2015-04-24 18:02:50.618: [Powerstroke]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-24 18:04:11.024: [Powerstroke]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-24 18:08:04.418: [Powerstroke]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-24 18:23:13.451: [Kabooyah]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-24 18:49:50.050: [Kabooyah]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-04-24 18:51:38.080: [Chaozios]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-24 18:55:20.652: [Kabooyah]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-24 18:57:27.880: [Kabooyah]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-24 19:03:52.480: [Kabooyah]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-24 19:34:58.481: [Simberj]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-25 11:06:33.246: [Oi]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-25 11:40:29.676: [Simberj]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-25 11:41:38.079: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-25 11:50:11.080: [Simberj]:
+Item[3]: Dragon pickaxe [15259, 1]
+
+
+
+2015-04-25 11:50:48.877: [Simberj]:
+Item[0]: Dragon pickaxe [15259, 1]
+
+
+
+2015-04-25 23:03:51.065: [Strawhat]:
+Item[5]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-25 23:14:36.113: [Kabooyah]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+
+
+
+2015-04-25 23:18:49.887: [Kabooyah]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-25 23:20:10.312: [Kabooyah]:
+Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-04-28 19:48:40.003: [Bumblebee]:
+Item[0]: Coins [995, 14000000]
+
+
+
+2015-04-28 19:51:28.633: [Bumblebee]:
+Item[0]: Coins [995, 56000000]
+
+
+
+2015-04-28 19:53:07.033: [Bumblebee]:
+Item[0]: Coins [995, 58000000]
+
+
+
+2015-05-02 10:47:53.305: [Pwrz]:
+Item[0]: Staff of light [22210, 1]
+Item[1]: Staff of light [22212, 1]
+Item[2]: Staff of light [22212, 1]
+
+
+
+2015-05-02 10:48:54.504: [Pwrz]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-05-02 10:50:47.299: [Pwrz]:
+Item[0]: Coins [995, 500000000]
+
+
+
+2015-05-02 10:55:46.715: [Pwrz]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Armadyl godsword [11694, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Corrupt vesta's longsword [13923, 1]
+Item[5]: Bandos tassets [11726, 1]
+Item[6]: Berserker ring [6737, 1]
+Item[7]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-23 19:39:07.432: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 90000000]
+Other Item[0]: Coins [995, 90000000]
+
+
+

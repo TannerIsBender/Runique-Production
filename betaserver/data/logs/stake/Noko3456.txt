@@ -1,0 +1,711 @@
+2015-04-01 14:49:11.742: [Tonka]:
+Item[0]: Coins [995, 1918000]
+
+
+
+2015-04-01 14:52:29.758: [Tonka]:
+Item[0]: Loop half of a key [987, 1]
+
+
+
+2015-04-03 16:43:03.944: [Immortal Sin]:
+Item[0]: Coins [995, 1900599]
+
+
+
+2015-04-03 19:28:47.858: [Merchendise]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Coins [995, 13000000]
+
+
+
+2015-04-03 19:29:59.258: [Merchendise]:
+Item[0]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-03 19:31:14.845: [Merchendise]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11733, 1]
+Item[2]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-03 19:32:15.445: [Merchendise]:
+Item[0]: Dragon med helm [1149, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon chainbody [3140, 1]
+Item[3]: Dragon boots [11733, 1]
+
+
+
+2015-04-03 19:33:20.220: [Merchendise]:
+Item[0]: Coins [995, 26000020]
+
+
+
+2015-04-03 19:34:28.045: [Merchendise]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon med helm [1149, 1]
+Item[2]: Dragon boots [11733, 1]
+Item[3]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-03 19:35:49.643: [Merchendise]:
+Item[0]: Coins [995, 52000020]
+
+
+
+2015-04-03 19:36:32.844: [Merchendise]:
+Item[0]: Dragon med helm [1149, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon chainbody [3140, 1]
+Item[4]: Dragon boots [11733, 1]
+
+
+
+2015-04-03 19:37:43.058: [Merchendise]:
+Item[0]: Coins [995, 26000000]
+Item[1]: Dragon boots [11733, 1]
+Item[2]: Dragon med helm [1149, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-03 19:38:37.658: [Merchendise]:
+Item[0]: Coins [995, 78000000]
+
+
+
+2015-04-03 19:39:38.858: [Merchendise]:
+Item[0]: Coins [995, 156000000]
+
+
+
+2015-04-03 19:46:33.445: [Evoty]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-03 19:51:00.458: [Evoty]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-03 22:38:56.346: [Melody]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-03 22:41:08.349: [Melody]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:41:54.558: [Melody]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-03 22:42:40.180: [Melody]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:43:20.349: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 22:44:05.958: [Melody]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:45:01.758: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 22:46:29.957: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:47:19.180: [Melody]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-03 22:47:58.780: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:48:59.980: [Melody]:
+Item[0]: Coins [995, 57000000]
+
+
+
+2015-04-03 22:49:56.958: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-03 22:50:44.365: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:51:37.158: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 22:52:37.158: [Melody]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-03 22:53:23.358: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:54:05.364: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 22:54:57.564: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 25000000]
+
+
+
+2015-04-03 22:55:48.558: [Melody]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-03 22:56:32.979: [Melody]:
+Item[0]: Coins [995, 64000000]
+
+
+
+2015-04-03 22:58:31.765: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 80000000]
+
+
+
+2015-04-03 22:59:37.764: [Melody]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Coins [995, 85000000]
+
+
+
+2015-04-03 23:01:26.965: [Melody]:
+Item[0]: Coins [995, 35000000]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-03 23:02:41.381: [Melody]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 23:03:59.964: [Melody]:
+Item[0]: Coins [995, 73000000]
+
+
+
+2015-04-03 23:05:05.365: [Melody]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-03 23:05:46.781: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-03 23:06:53.383: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-03 23:07:40.764: [Melody]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-03 23:08:28.180: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 23:09:19.183: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 23:10:08.384: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-03 23:12:14.383: [Melody]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-03 23:14:57.596: [Melody]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Coins [995, 120000000]
+
+
+
+2015-04-03 23:15:47.979: [Melody]:
+Item[0]: Coins [995, 60000000]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-03 23:16:45.593: [Melody]:
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-03 23:17:31.180: [Melody]:
+Item[0]: Coins [995, 120000000]
+
+
+
+2015-04-03 23:18:30.580: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 23:19:13.180: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-03 23:20:02.383: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 23:21:29.380: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-03 23:23:10.782: [Melody]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Coins [995, 25000000]
+
+
+
+2015-04-05 13:06:58.075: [Abu]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-05 19:17:15.675: [The J]:
+Item[0]: Dragon boots [11733, 2]
+Item[1]: Coins [995, 1789000]
+
+
+
+2015-04-05 19:18:33.675: [The J]:
+Item[0]: Coins [995, 7789000]
+Item[1]: Dragon boots [11733, 2]
+
+
+
+2015-04-05 19:19:39.675: [Expired]:
+Item[0]: Dragon chainbody [3140, 1]
+Item[1]: Dragon med helm [1149, 1]
+
+
+
+2015-04-05 19:21:40.906: [The J]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-05 19:23:02.506: [The J]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Dragon chainbody [3140, 1]
+
+
+
+2015-04-05 19:26:00.107: [The J]:
+Item[0]: Dragon bones [537, 250]
+
+
+
+2015-04-05 19:27:00.075: [The J]:
+Item[0]: Dragon bones [537, 250]
+
+
+
+2015-04-10 20:00:02.107: [King Arthur]:
+Item[0]: Vial [229, 1]
+Item[1]: Defence potion (3) [133, 1]
+Item[2]: Crimson charm [12160, 3]
+Item[3]: Green charm [12159, 4]
+Item[4]: Gold charm [12158, 7]
+
+
+
+2015-04-10 20:01:15.875: [King Arthur]:
+Item[0]: Vial [229, 1]
+Item[1]: Vial [229, 1]
+Item[2]: Vial [229, 1]
+Item[3]: Vial [229, 1]
+Item[4]: Vial [229, 1]
+Item[5]: Vial [229, 1]
+
+
+
+2015-04-10 20:04:34.507: [King Arthur]:
+
+
+
+2015-04-11 12:02:41.022: [Kn0gen]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-11 12:03:56.023: [Kn0gen]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-11 12:06:50.624: [Kn0gen]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-11 12:07:35.028: [Kn0gen]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-11 12:09:29.023: [Kn0gen]:
+Item[0]: Tooth half of a key [985, 1]
+
+
+
+2015-04-11 12:10:16.428: [Kn0gen]:
+Item[0]: Coins [995, 2000000]
+Item[1]: Tooth half of a key [985, 1]
+
+
+
+2015-04-11 12:12:02.623: [Kn0gen]:
+Item[0]: Rocktail [15273, 488]
+
+
+
+2015-04-11 17:15:17.807: [Rozza123]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-11 17:16:40.013: [Rozza123]:
+Item[0]: Coins [995, 10090000]
+
+
+
+2015-04-11 17:18:37.029: [Rozza123]:
+Item[0]: Coins [995, 1546135]
+Item[1]: Bonecrusher [18337, 1]
+
+
+
+2015-04-11 17:19:51.424: [Rozza123]:
+Item[0]: Bonecrusher [18337, 1]
+Item[1]: Coins [995, 3000000]
+
+
+
+2015-04-11 17:20:51.429: [Rozza123]:
+Item[0]: Coins [995, 8000000]
+Item[1]: Bonecrusher [18337, 1]
+
+
+
+2015-04-11 17:21:57.429: [Rozza123]:
+Item[0]: Coins [995, 3000000]
+
+
+
+2015-04-11 17:22:50.214: [Rozza123]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-11 17:23:40.625: [Rozza123]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Bonecrusher [18337, 1]
+
+
+
+2015-04-11 17:25:28.025: [Rozza123]:
+
+
+
+2015-04-11 17:27:01.013: [Rozza123]:
+Item[0]: Coins [995, 144000]
+
+
+
+2015-04-11 17:28:35.223: [Zarox]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-11 19:49:37.095: [Wtf Dog Face]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 19:51:44.907: [Wtf Dog Face]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 19:53:22.091: [Solid]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-11 19:54:49.128: [Zarox]:
+Item[0]: Abyssal whip [15441, 1]
+
+
+
+2015-04-11 23:56:36.029: [Skillsuckv2]:
+Item[0]: Coins [995, 3980114]
+
+
+
+2015-04-13 18:01:47.500: [Rozzab123]:
+Item[0]: Coins [995, 3500751]
+
+
+
+2015-04-13 18:03:28.894: [Rozzab123]:
+Item[0]: Coins [995, 7000751]
+
+
+
+2015-04-13 18:05:25.901: [Rozzab123]:
+Item[0]: Coins [995, 11000000]
+
+
+
+2015-04-14 06:06:34.131: [King Staker]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-14 18:39:58.793: [Aerial]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-14 18:42:36.563: [The J]:
+Item[0]: Coins [995, 13484888]
+Item[1]: Rocktail [15273, 200]
+Item[2]: Orange boater [10760, 1]
+
+
+
+2015-04-14 18:45:19.192: [The J]:
+Item[0]: Rocktail [15273, 665]
+
+
+
+2015-04-15 10:15:28.242: [Slumber]:
+Item[0]: Coins [995, 9687351]
+
+
+
+2015-04-15 10:16:30.043: [Slumber]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-15 10:19:45.631: [Slumber]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-15 10:20:39.047: [Slumber]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 10:21:37.231: [Slumber]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-15 10:22:42.031: [Slumber]:
+Item[0]: Coins [995, 4374351]
+Item[1]: Karil's top [4736, 1]
+
+
+
+2015-04-15 10:24:15.631: [Slumber]:
+Item[0]: Amulet of glory (t2) [10358, 1]
+
+
+
+2015-04-15 18:21:47.721: [Gfme]:
+Item[0]: Golden mining top [20791, 1]
+Item[1]: Golden mining helmet [20789, 1]
+Item[2]: Coins [995, 5148767]
+
+
+
+2015-04-15 18:24:18.931: [Gfme]:
+Item[0]: Berserker necklace [11128, 1]
+Item[1]: Strength amulet (t) [10736, 1]
+Item[2]: Amulet of glory (t1) [10360, 1]
+
+
+
+2015-04-15 18:26:30.312: [Gfme]:
+Item[0]: Coins [995, 3000000]
+Item[1]: Berserker necklace [11128, 1]
+Item[2]: Strength amulet (t) [10736, 1]
+Item[3]: Amulet of glory (t1) [10360, 1]
+
+
+
+2015-04-15 18:29:17.131: [2kk2]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 18:31:59.142: [Accel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 18:33:56.731: [Accel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 18:34:56.143: [Accel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 18:35:53.131: [Accel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 18:36:35.731: [Accel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 18:41:22.547: [Hunterxd]:
+Item[0]: Golden mining helmet [20789, 1]
+Item[1]: Berserker necklace [11128, 1]
+Item[2]: Strength amulet (t) [10736, 1]
+Item[3]: Amulet of glory (t1) [10360, 1]
+
+
+
+2015-04-15 18:42:29.747: [Hunterxd]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-15 18:47:15.944: [Porno Swag]:
+
+
+
+2015-04-15 18:47:48.947: [Porno Swag]:
+
+
+
+2015-04-16 15:38:15.484: [Finnus]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 15:40:24.516: [Finnus]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 15:41:13.694: [Finnus]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 15:42:35.894: [Finnus]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-16 15:44:08.300: [Finnus]:
+Item[0]: Coins [995, 40000020]
+
+
+
+2015-04-16 15:44:57.500: [Finnus]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-16 15:45:44.317: [Aerial]:
+
+
+
+2015-04-16 15:46:32.291: [Aerial]:
+
+
+
+2015-04-16 15:47:16.700: [Aerial]:
+
+
+
+2015-04-16 15:48:07.693: [Aerial]:
+
+
+
+2015-04-16 15:53:37.720: [Evoty]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-16 15:55:26.317: [Aerial]:
+
+
+

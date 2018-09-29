@@ -1,0 +1,25 @@
+2015-04-28 00:38:18.933: [Just Do It]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Dark bow [11235, 1]
+
+
+
+2015-04-28 00:39:21.918: [Just Do It]:
+Item[0]: Zamorakian spear [11716, 1]
+Item[1]: Dragon claws [14484, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-28 00:52:52.525: [Strawhat]:
+Item[0]: Staff of light [22210, 1]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Helm of neitiznot [10828, 1]
+Item[4]: Corrupt vesta's chainbody [13911, 1]
+Item[5]: Armadyl godsword [11694, 1]
+Item[6]: Corrupt vesta's plateskirt [13917, 1]
+Item[7]: Abyssal vine whip [21372, 1]
+
+
+

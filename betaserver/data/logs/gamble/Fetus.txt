@@ -1,0 +1,56 @@
+2015-04-15 08:17:44.356: [Cozzab123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 01:03:38.366: [Miss K]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 01:05:34.767: [Miss K]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 01:06:28.767: [Miss K]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 08:33:42.247: [St3alth Skil]:
+Item[0]: Coins [995, 7999999]
+
+
+
+2015-04-16 08:34:59.631: [Miss K]:
+Item[0]: Coins [995, 42000001]
+
+
+
+2015-04-16 08:44:18.845: [Taco Limey]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-16 08:45:59.044: [Taco Limey]:
+Item[0]: Zamorak godsword [11700, 1]
+Item[1]: Saradomin godsword [11698, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Dragon boots [11732, 1]
+
+
+
+2015-04-16 08:48:37.447: [Taco Limey]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Zamorak godsword [11700, 1]
+Item[4]: Saradomin godsword [11698, 1]
+Item[5]: Abyssal whip [15441, 1]
+Item[6]: Zamorakian spear [11716, 1]
+Item[7]: Armadyl godsword [11694, 1]
+
+
+

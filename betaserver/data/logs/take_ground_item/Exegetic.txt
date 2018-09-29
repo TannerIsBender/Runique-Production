@@ -1,0 +1,6 @@
+Item Telegrabbed: Gold charm [12158, 9 - [2678, 3718, 0]] - 2015-05-31 21:39:16.561
+Item Telegrabbed: Blue charm [12163, 1 - [2679, 3719, 0]] - 2015-05-31 21:39:20.764
+Item Telegrabbed: Grimy marrentill [202, 2 - [2681, 3718, 0]] - 2015-05-31 21:40:18.358
+Item Telegrabbed: Coins [995, 54742 - [2679, 3717, 0]] - 2015-05-31 21:50:56.758
+Item Telegrabbed: Bones [526, 1 - [2677, 3717, 0]] - 2015-05-31 21:51:08.174
+Item Telegrabbed: Coins [995, 22911 - [2675, 3717, 0]] - 2015-05-31 22:04:56.773

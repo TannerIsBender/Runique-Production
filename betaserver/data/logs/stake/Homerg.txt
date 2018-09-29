@@ -1,0 +1,653 @@
+2015-04-07 21:05:46.828: [Vip3rcouch]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-07 21:09:32.429: [Vip3rcouch]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 21:10:36.624: [Vip3rcouch]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:11:38.423: [Vip3rcouch]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 21:13:17.424: [Vip3rcouch]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:16:16.229: [Victor]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-07 21:18:06.029: [Vip3rcouch]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:19:05.429: [Vip3rcouch]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-07 21:20:12.644: [Vip3rcouch]:
+Item[0]: Coins [995, 5000000]
+Item[3]: Apprentice wand [6910, 1]
+
+
+
+2015-04-07 21:21:56.428: [Vip3rcouch]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:23:13.243: [Vip3rcouch]:
+Item[0]: Tome of frost [18346, 1]
+Item[2]: Apprentice wand [6910, 1]
+Item[3]: Coins [995, 5000000]
+
+
+
+2015-04-07 21:24:27.044: [Vip3rcouch]:
+Item[0]: Karil's coif [4732, 1]
+Item[1]: Coins [995, 5000000]
+Item[2]: Tome of frost [18346, 1]
+Item[3]: Tome of frost [18346, 1]
+
+
+
+2015-04-07 21:26:19.245: [Victor]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-07 21:27:51.042: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 21:29:22.245: [Victor]:
+Item[0]: Faithful shield [18747, 1]
+Item[1]: Tome of frost [18346, 1]
+Item[2]: Tome of frost [18346, 1]
+Item[3]: Corrupt zuriel's staff [13941, 1]
+Item[4]: Karil's coif [4732, 1]
+Item[5]: Apprentice wand [6910, 1]
+
+
+
+2015-04-07 21:30:37.845: [Victor]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Tome of frost [18346, 1]
+Item[3]: Tome of frost [18346, 1]
+Item[4]: Apprentice wand [6910, 1]
+
+
+
+2015-04-07 21:31:42.045: [Victor]:
+Item[0]: Faithful shield [18747, 1]
+Item[1]: Karil's coif [4732, 1]
+Item[2]: Corrupt zuriel's staff [13941, 1]
+
+
+
+2015-04-07 21:32:43.845: [Victor]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-07 21:33:46.244: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 21:34:55.843: [Divine Sigil]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-07 21:36:01.844: [Divine Sigil]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-07 21:37:24.645: [Victor]:
+Item[0]: Coins [995, 11000000]
+
+
+
+2015-04-07 21:38:29.444: [Victor]:
+Item[0]: Coins [995, 22000000]
+
+
+
+2015-04-07 21:41:01.845: [Vip3rcouch]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-07 21:43:51.644: [Victor]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-07 21:44:38.444: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 21:45:59.445: [Victor]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-07 21:46:53.445: [Victor]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-08 10:06:21.107: [Manz No Ownz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-08 10:07:27.707: [Manz No Ownz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-08 10:08:36.091: [Manz No Ownz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-08 10:09:33.092: [Manz No Ownz]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 10:10:40.907: [Manz No Ownz]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 10:11:40.907: [Manz No Ownz]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 10:12:39.707: [Manz No Ownz]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 10:13:45.707: [Manz No Ownz]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-04-08 10:14:32.491: [Manz No Ownz]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-08 14:06:03.242: [Zaroxmain]:
+Item[0]: Zamorak platelegs [2655, 1]
+Item[1]: Zamorak platebody [2653, 1]
+Item[2]: Zamorak full helm [2657, 1]
+Item[3]: Zamorak kiteshield [2659, 1]
+Item[4]: Coins [995, 5000000]
+
+
+
+2015-04-08 14:25:25.442: [Odds]:
+Item[0]: Coins [995, 2500521]
+
+
+
+2015-04-08 19:33:45.421: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 19:34:59.829: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 19:37:02.845: [Vip3rcouch]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-08 19:38:26.242: [Vip3rcouch]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:39:25.029: [Victor]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-08 19:40:35.829: [Vip3rcouch]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-08 19:41:26.244: [Vip3rcouch]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:42:23.244: [Vip3rcouch]:
+Item[0]: Coins [995, 9000000]
+
+
+
+2015-04-08 19:43:07.029: [Vip3rcouch]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:44:05.235: [Vip3rcouch]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-04-08 19:45:30.437: [Kn0gen]:
+Item[0]: Faithful shield [18747, 1]
+
+
+
+2015-04-08 19:46:26.844: [Vip3rcouch]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 19:47:41.845: [Vip3rcouch]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 19:56:23.828: [Cozzab123]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 19:57:22.035: [Cozzab123]:
+Item[0]: Coins [995, 50399201]
+
+
+
+2015-04-08 19:58:29.829: [Cozzab123]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-08 20:00:32.843: [Kn0gen]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+Item[1]: Apprentice wand [6910, 1]
+
+
+
+2015-04-08 20:09:40.028: [Nigel Uno]:
+
+
+
+2015-04-08 20:48:08.875: [Kn0gen]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 20:49:08.876: [Kn0gen]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-08 20:50:06.475: [Kn0gen]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 20:51:30.468: [Kn0gen]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-08 20:52:22.076: [Kn0gen]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 20:53:16.076: [Kn0gen]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-08 20:54:37.069: [Kn0gen]:
+Item[0]: Coins [995, 14000000]
+
+
+
+2015-04-08 20:56:53.868: [Kn0gen]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+Item[1]: Apprentice wand [6910, 1]
+Item[2]: Coins [995, 4000000]
+
+
+
+2015-04-08 20:58:25.668: [Kn0gen]:
+Item[0]: Zamorak kiteshield [2659, 1]
+Item[1]: Zamorak platelegs [2655, 1]
+Item[2]: Zamorak full helm [2657, 1]
+Item[3]: Zamorak platebody [2653, 1]
+Item[4]: Coins [995, 10000000]
+
+
+
+2015-04-08 20:59:34.676: [Kn0gen]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-08 21:00:40.675: [Kn0gen]:
+Item[0]: Corrupt zuriel's staff [13941, 1]
+Item[1]: Apprentice wand [6910, 1]
+Item[2]: Coins [995, 15000000]
+
+
+
+2015-04-08 21:02:28.676: [Kn0gen]:
+Item[0]: Coins [995, 42000000]
+
+
+
+2015-04-08 21:04:21.482: [Kn0gen]:
+Item[0]: Zamorak platebody [2653, 1]
+Item[1]: Zamorak kiteshield [2659, 1]
+Item[2]: Zamorak platelegs [2655, 1]
+Item[3]: Zamorak full helm [2657, 1]
+
+
+
+2015-04-08 21:10:20.291: [Kn0gen]:
+Item[0]: Zamorak kiteshield [2659, 1]
+Item[1]: Zamorak platelegs [2655, 1]
+Item[2]: Zamorak full helm [2657, 1]
+Item[3]: Zamorak platebody [2653, 1]
+Item[4]: Apprentice wand [6910, 1]
+Item[5]: Infinity boots [6920, 1]
+
+
+
+2015-04-08 21:11:20.886: [Kn0gen]:
+Item[0]: Zamorak full helm [2657, 1]
+Item[1]: Zamorak platelegs [2655, 1]
+Item[2]: Guthan's chainskirt [4730, 1]
+Item[3]: Corrupt zuriel's staff [13941, 1]
+Item[4]: Apprentice wand [6910, 1]
+Item[5]: Infinity boots [6920, 1]
+Item[6]: Verac's plateskirt [4759, 1]
+Item[7]: Ahrim's robetop [4712, 1]
+Item[8]: Karil's crossbow [4735, 2]
+Item[9]: Zamorak platebody [2653, 1]
+Item[10]: Zamorak kiteshield [2659, 1]
+Item[11]: Coins [995, 7000000]
+
+
+
+2015-04-08 21:12:52.082: [Kn0gen]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-08 21:16:40.090: [Kn0gen]:
+Item[0]: Coins [995, 82000000]
+
+
+
+2015-04-08 21:40:52.707: [Kn0gen]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-08 21:48:01.113: [Kn0gen]:
+Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-04-08 21:49:07.113: [Kn0gen]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-08 21:50:11.307: [Kn0gen]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-08 21:51:33.513: [Kn0gen]:
+Item[0]: Coins [995, 70921046]
+
+
+
+2015-04-08 21:52:53.907: [Kn0gen]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-08 21:53:47.907: [Kn0gen]:
+Item[0]: Coins [995, 75921046]
+
+
+
+2015-04-08 21:56:29.914: [Kn0gen]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-08 22:00:55.114: [Kn0gen]:
+Item[0]: Coins [995, 25921046]
+
+
+
+2015-04-08 22:07:15.529: [Armadylgs]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-08 22:08:10.729: [Armadylgs]:
+Item[0]: Coins [995, 43000000]
+
+
+
+2015-04-08 22:09:44.923: [Armadylgs]:
+Item[0]: Flared trousers [10394, 1]
+
+
+
+2015-04-09 12:17:40.044: [Ermac]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-09 16:09:32.260: [April Fools]:
+
+
+
+2015-04-09 16:10:43.655: [April Fools]:
+
+
+
+2015-04-09 16:11:36.456: [April Fools]:
+
+
+
+2015-04-09 16:12:43.669: [April Fools]:
+
+
+
+2015-04-09 16:13:40.067: [April Fools]:
+
+
+
+2015-04-09 16:28:32.893: [April Fools]:
+
+
+
+2015-04-09 16:30:03.492: [April Fools]:
+
+
+
+2015-04-09 16:31:19.707: [April Fools]:
+
+
+
+2015-04-09 16:33:49.693: [April Fools]:
+
+
+
+2015-04-14 09:20:22.679: [Victor]:
+Item[0]: White kiteshield [6633, 1]
+Item[1]: Anti-poison totem [18340, 1]
+Item[2]: Coins [995, 1529871]
+
+
+
+2015-04-14 09:21:15.485: [Victor]:
+Item[0]: Coins [995, 4529871]
+
+
+
+2015-04-14 09:22:16.679: [Victor]:
+Item[0]: White kiteshield [6633, 1]
+Item[1]: Anti-poison totem [18340, 1]
+
+
+
+2015-04-14 09:23:13.678: [Victor]:
+Item[0]: White kiteshield [6633, 1]
+Item[1]: Anti-poison totem [18340, 1]
+Item[2]: Coins [995, 2400000]
+
+
+
+2015-04-14 09:24:13.089: [Victor]:
+Item[0]: Coins [995, 6600000]
+
+
+
+2015-04-14 09:25:58.071: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-14 09:29:06.492: [Victor]:
+Item[0]: Coins [995, 14000000]
+Item[1]: Faithful shield [18747, 1]
+
+
+
+2015-04-14 09:30:07.693: [Victor]:
+Item[0]: White kiteshield [6633, 1]
+Item[1]: Anti-poison totem [18340, 1]
+
+
+
+2015-04-14 09:37:59.294: [Victor]:
+Item[0]: Corrupt dragon chainbody [13958, 1]
+Item[1]: Karil's coif [4732, 1]
+Item[2]: Dragon plateskirt [4585, 1]
+Item[3]: Karil's coif [4732, 1]
+
+
+
+2015-04-14 09:39:52.700: [Victor]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-04-14 09:40:42.500: [Victor]:
+Item[0]: Coins [995, 14000000]
+
+
+
+2015-04-14 09:41:31.094: [Victor]:
+Item[0]: Faithful shield [18747, 1]
+Item[1]: Coins [995, 10000000]
+
+
+
+2015-04-14 09:43:07.701: [Vip3rcouch]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-14 09:47:50.300: [Fleshlight]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-14 09:48:58.695: [Fleshlight]:
+Item[0]: Coins [995, 61042000]
+
+
+
+2015-04-14 09:50:26.900: [Fleshlight]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Coins [995, 70000000]
+
+
+
+2015-04-14 09:52:35.917: [Fleshlight]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Coins [995, 87042000]
+Item[2]: Dark bow [15701, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-14 09:53:46.100: [Fleshlight]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:55:23.317: [Fleshlight]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:55:59.916: [Fleshlight]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 09:56:59.901: [Fleshlight]:
+Item[0]: Coins [995, 87042000]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt vesta's longsword [13923, 1]
+Item[3]: Morrigan's leather body [13870, 1]
+Item[4]: Dark bow [15701, 1]
+Item[5]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-14 09:57:44.300: [Fleshlight]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+
+
+

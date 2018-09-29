@@ -1,0 +1,4118 @@
+2015-04-12 16:03:43.996: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-12 16:05:34.980: [Goog]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-12 16:05:55.393: [Goog]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-12 16:06:29.580: [Goog]:
+Item[0]: Coins [995, 8000000]
+
+
+
+2015-04-12 16:12:30.781: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 16:12:55.380: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 16:13:20.593: [Goog]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-12 16:13:49.396: [Goog]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-12 16:14:57.193: [Goog]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-12 16:16:31.976: [Goog]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-12 16:17:11.592: [Goog]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-12 16:17:34.381: [Goog]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-12 16:18:00.777: [Goog]:
+Item[0]: Coins [995, 36000000]
+
+
+
+2015-04-12 23:22:30.441: [Melody]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-12 23:23:40.038: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 23:24:11.843: [Melody]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-12 23:25:22.050: [Melody]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-12 23:32:37.648: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-12 23:33:26.243: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-12 23:34:02.242: [Melody]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-12 23:34:31.043: [Melody]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-12 23:35:16.650: [Melody]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-12 23:36:18.442: [Melody]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-12 23:37:05.843: [Melody]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-12 23:38:50.843: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-12 23:39:32.843: [Melody]:
+Item[0]: Coins [995, 175000000]
+
+
+
+2015-04-12 23:40:50.251: [Melody]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-12 23:46:49.649: [Melody]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-12 23:47:44.258: [Melody]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-13 15:23:40.194: [Dare]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-13 15:28:25.216: [Immortal Sin]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-13 15:35:42.601: [Prada]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Corrupt statius's platelegs [13914, 1]
+
+
+
+2015-04-13 15:38:04.831: [Prada]:
+Item[0]: Dragon full helm (sp) [19341, 1]
+Item[1]: Dragon square shield (or) [19340, 1]
+Item[2]: Dragon square shield (or) [19340, 1]
+Item[3]: Armadyl chestplate [11720, 1]
+
+
+
+2015-04-13 15:39:35.416: [Prada]:
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Blisterwood polearm [21582, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-04-13 15:40:07.817: [Prada]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Blisterwood polearm [21582, 1]
+Item[2]: Amulet of fury [6585, 1]
+
+
+
+2015-04-13 15:42:03.617: [Prada]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-13 15:43:52.231: [Prada]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-04-13 15:44:34.818: [Prada]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Amulet of fury [6585, 1]
+
+
+
+2015-04-13 15:47:05.431: [Prada]:
+Item[0]: Third-age full helmet [10350, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+Item[2]: Vesta's plateskirt [13893, 1]
+Item[3]: Statius's warhammer [13902, 1]
+Item[4]: Steadfast boots [21787, 1]
+
+
+
+2015-04-13 16:23:43.231: [Melody]:
+Item[0]: Statius's full helm [13897, 1]
+Item[2]: Statius's platebody [13885, 1]
+Item[4]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-13 16:28:28.831: [Melody]:
+Item[0]: Statius's full helm [13897, 1]
+Item[1]: Statius's platebody [13885, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Steadfast boots [21788, 1]
+
+
+
+2015-04-13 16:34:46.239: [Melody]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Statius's full helm [13897, 1]
+Item[2]: Statius's platebody [13885, 1]
+Item[3]: Statius's platelegs [13891, 1]
+Item[4]: Coins [995, 400000000]
+
+
+
+2015-04-13 16:49:45.678: [Melody]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Steadfast boots [21788, 1]
+Item[3]: Statius's full helm [13897, 1]
+Item[4]: Statius's platebody [13885, 1]
+Item[5]: Statius's platelegs [13891, 1]
+
+
+
+2015-04-13 16:54:22.246: [Melody]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Coins [995, 350000000]
+Item[2]: Divine spirit shield [13741, 1]
+
+
+
+2015-04-13 17:00:43.249: [Melody]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Coins [995, 775000000]
+Item[2]: Divine spirit shield [13741, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Steadfast boots [21788, 1]
+
+
+
+2015-04-13 17:03:09.650: [Melody]:
+Item[0]: Divine sigil [13749, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+Item[2]: Vesta's plateskirt [13894, 1]
+Item[3]: Steadfast boots [21788, 1]
+
+
+
+2015-04-13 17:04:21.051: [Melody]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-04-13 17:05:04.851: [Melody]:
+Item[0]: Blue partyhat [1042, 1]
+
+
+
+2015-04-14 03:06:28.631: [Raxxu]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 03:12:11.831: [Raxxu]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-14 04:40:37.692: [Goog]:
+Item[0]: Dragon full helm [11335, 1]
+Item[1]: Dragon plateskirt [4585, 1]
+Item[2]: Dragon square shield (or) [19340, 1]
+Item[3]: Torag's helm [4745, 1]
+
+
+
+2015-04-14 04:41:15.491: [Goog]:
+Item[0]: Dragon full helm [11335, 1]
+Item[1]: Dragon plateskirt [4585, 1]
+Item[2]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-04-14 04:43:04.092: [Goog]:
+Item[0]: Steadfast boots [21787, 1]
+Item[1]: Dragon sq shield [1187, 1]
+Item[2]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-14 04:44:19.684: [Goog]:
+Item[0]: Corrupt statius's warhammer [13927, 2]
+Item[1]: Ahrim's robeskirt [4715, 1]
+Item[2]: Karil's skirt [4739, 1]
+Item[3]: Dharok's greataxe [4719, 1]
+Item[4]: Dharok's platebody [4721, 1]
+
+
+
+2015-04-14 04:46:04.694: [Goog]:
+Item[0]: Steadfast boots [21788, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Vesta's longsword [13900, 1]
+Item[3]: Dragon pickaxe [15260, 1]
+
+
+
+2015-04-14 11:05:20.931: [Dare]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-14 11:08:55.500: [Dare]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-14 23:57:20.578: [Strawhat]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-15 13:51:36.762: [Chappy]:
+Item[0]: Armadyl godsword [11695, 1]
+Item[1]: Coins [995, 120000000]
+
+
+
+2015-04-15 13:53:16.962: [Chappy]:
+Item[0]: Coins [995, 240000000]
+
+
+
+2015-04-15 13:54:09.161: [Chappy]:
+Item[0]: Coins [995, 480000000]
+
+
+
+2015-04-15 13:55:41.567: [Chappy]:
+Item[0]: Divine spirit shield [13741, 1]
+Item[1]: Coins [995, 50000000]
+
+
+
+2015-04-15 13:59:10.363: [I Am Tommy]:
+Item[0]: Coins [995, 128000000]
+
+
+
+2015-04-15 14:00:12.778: [I Am Tommy]:
+Item[0]: Coins [995, 256000000]
+
+
+
+2015-04-15 14:07:27.164: [L2skill]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-15 14:08:45.767: [L2skill]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 14:14:19.378: [Evens]:
+Item[0]: Abyssal whip [4152, 1]
+
+
+
+2015-04-15 14:16:45.160: [Brazy]:
+Item[0]: Corrupt vesta's chainbody [13912, 2]
+
+
+
+2015-04-15 14:23:41.577: [Tokhaar]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-15 14:29:53.594: [Zyrix]:
+Item[0]: Divine spirit shield [13741, 1]
+
+
+
+2015-04-15 14:30:52.981: [Zyrix]:
+Item[0]: Elysian spirit shield [13743, 1]
+
+
+
+2015-04-15 14:31:35.582: [Zyrix]:
+Item[0]: Divine spirit shield [13741, 2]
+
+
+
+2015-04-15 14:33:55.983: [Zyrix]:
+Item[0]: Divine spirit shield [13741, 2]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Coins [995, 100000000]
+
+
+
+2015-04-15 14:40:26.593: [Zyrix]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Divine spirit shield [13741, 3]
+Item[4]: Elysian spirit shield [13743, 1]
+Item[5]: Zaryte bow [20171, 1]
+Item[6]: Spectral spirit shield [13744, 1]
+Item[7]: Coins [995, 50000000]
+
+
+
+2015-04-15 20:39:57.419: [Nostalgia]:
+Item[0]: Coins [995, 1000000000]
+Item[1]: Divine spirit shield [13741, 3]
+Item[2]: Elysian spirit shield [13743, 2]
+Item[3]: Spectral spirit shield [13745, 1]
+
+
+
+2015-04-15 20:42:01.019: [Nostalgia]:
+Item[0]: Armadyl battlestaff [21777, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+Item[2]: Berserker ring (i) [15220, 1]
+Item[3]: Vesta's chainbody [13888, 2]
+Item[4]: Vesta's plateskirt [13894, 2]
+Item[5]: Bandos chestplate [11724, 1]
+Item[6]: Bandos tassets [11726, 1]
+Item[7]: Dharok's helm [4716, 1]
+Item[8]: Dharok's platebody [4720, 1]
+Item[9]: Dharok's platelegs [4722, 1]
+Item[10]: Dharok's greataxe [4718, 1]
+Item[11]: Steadfast boots [21788, 3]
+Item[12]: Armadyl godsword [11695, 3]
+Item[13]: Dragon claws [14485, 2]
+Item[14]: Statius's full helm [13897, 1]
+Item[15]: Statius's platebody [13885, 1]
+Item[16]: Statius's platelegs [13891, 1]
+Item[18]: Corrupt vesta's chainbody [13912, 2]
+Item[19]: Corrupt vesta's plateskirt [13918, 1]
+
+
+
+2015-04-15 20:44:46.016: [Nostalgia]:
+Item[0]: Armadyl battlestaff [21777, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+Item[2]: Ahrim's robetop [4712, 1]
+Item[3]: Ahrim's robeskirt [4714, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Berserker ring (i) [15220, 1]
+Item[7]: Vesta's chainbody [13888, 2]
+Item[8]: Vesta's plateskirt [13894, 2]
+Item[9]: Bandos chestplate [11724, 1]
+Item[10]: Bandos tassets [11726, 1]
+Item[11]: Dharok's helm [4716, 1]
+Item[12]: Dharok's platebody [4720, 1]
+Item[13]: Dharok's platelegs [4722, 1]
+Item[14]: Dharok's greataxe [4718, 1]
+Item[15]: Steadfast boots [21788, 3]
+Item[16]: Armadyl godsword [11695, 3]
+Item[17]: Dragon claws [14485, 2]
+Item[18]: Statius's full helm [13897, 1]
+Item[19]: Statius's platebody [13885, 1]
+Item[20]: Statius's platelegs [13891, 1]
+
+
+
+2015-04-15 20:45:31.617: [Nostalgia]:
+Item[0]: Armadyl battlestaff [21777, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+Item[2]: Ahrim's robetop [4712, 1]
+Item[3]: Ahrim's robeskirt [4714, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Berserker ring (i) [15220, 1]
+Item[7]: Vesta's chainbody [13888, 2]
+Item[8]: Vesta's plateskirt [13894, 2]
+Item[9]: Bandos chestplate [11724, 1]
+Item[10]: Bandos tassets [11726, 1]
+Item[11]: Dharok's helm [4716, 1]
+Item[12]: Dharok's platebody [4720, 1]
+Item[13]: Dharok's platelegs [4722, 1]
+Item[14]: Dharok's greataxe [4718, 1]
+Item[15]: Steadfast boots [21788, 3]
+Item[16]: Armadyl godsword [11695, 3]
+Item[17]: Dragon claws [14485, 2]
+Item[18]: Statius's full helm [13897, 1]
+Item[19]: Statius's platebody [13885, 1]
+Item[20]: Statius's platelegs [13891, 1]
+
+
+
+2015-04-15 20:46:25.615: [Nostalgia]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Chaotic longsword [18351, 1]
+Item[5]: Armadyl battlestaff [21777, 1]
+Item[6]: Arcane stream necklace [18335, 1]
+Item[7]: Ahrim's robetop [4712, 1]
+Item[8]: Divine spirit shield [13740, 1]
+Item[9]: Divine spirit shield [13740, 1]
+Item[10]: Dharok's helm [4716, 1]
+Item[11]: Dharok's platebody [4720, 1]
+Item[12]: Dharok's platelegs [4722, 1]
+Item[13]: Dharok's greataxe [4718, 1]
+Item[14]: Vesta's chainbody [13888, 2]
+Item[15]: Vesta's plateskirt [13894, 2]
+Item[16]: Bandos chestplate [11724, 1]
+Item[17]: Bandos tassets [11726, 1]
+Item[18]: Steadfast boots [21788, 3]
+Item[19]: Korasi's sword [19780, 1]
+Item[20]: Armadyl godsword [11695, 3]
+
+
+
+2015-04-15 20:54:48.419: [Nostalgia]:
+Item[0]: Blue partyhat [1042, 1]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Divine spirit shield [13740, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Vesta's chainbody [13888, 2]
+Item[5]: Vesta's plateskirt [13894, 2]
+
+
+
+2015-04-15 20:59:38.231: [Nostalgia]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Armadyl godsword [11695, 3]
+Item[5]: Armadyl battlestaff [21777, 1]
+Item[6]: Bandos chestplate [11724, 1]
+Item[7]: Bandos tassets [11726, 1]
+Item[8]: Steadfast boots [21788, 3]
+Item[9]: Dragon claws [14485, 2]
+Item[10]: Ragefire boots [21794, 1]
+Item[11]: Arcane stream necklace [18335, 1]
+Item[12]: Berserker ring (i) [15220, 1]
+Item[13]: Korasi's sword [19780, 1]
+Item[14]: Statius's full helm [13896, 1]
+Item[15]: Statius's platebody [13884, 1]
+Item[16]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-15 21:08:08.832: [Nostalgia]:
+Item[0]: Ragefire boots [21794, 1]
+Item[1]: Steadfast boots [21788, 3]
+Item[2]: Armadyl chainskirt [11723, 1]
+Item[3]: Armadyl helmet [11719, 1]
+Item[4]: Zaryte bow [20172, 1]
+Item[5]: Arcane stream necklace [18335, 1]
+Item[6]: Dharok's platelegs [4723, 1]
+Item[7]: Dharok's platebody [4721, 1]
+Item[8]: Dharok's helm [4717, 1]
+Item[9]: Dharok's greataxe [4719, 1]
+Item[10]: Ahrim's robeskirt [4715, 1]
+Item[11]: Ahrim's robetop [4713, 1]
+Item[12]: Dragon platebody [14480, 1]
+Item[13]: Armadyl godsword [11695, 3]
+Item[14]: Dragon claws [14485, 2]
+Item[15]: Statius's full helm [13897, 1]
+Item[16]: Statius's platebody [13885, 1]
+Item[17]: Statius's platelegs [13891, 1]
+Item[18]: Berserker ring (i) [15220, 1]
+Item[19]: Bandos tassets [11726, 1]
+Item[20]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-15 21:15:43.031: [Nostalgia]:
+Item[0]: Dharok's helm [4717, 1]
+Item[1]: Dharok's platebody [4721, 1]
+Item[2]: Dharok's platelegs [4723, 1]
+Item[3]: Dharok's greataxe [4719, 1]
+Item[4]: Bandos chestplate [11724, 1]
+Item[5]: Ahrim's robeskirt [4715, 1]
+Item[6]: Ahrim's robetop [4713, 1]
+Item[7]: Bandos tassets [11727, 2]
+Item[8]: Ragefire boots [21794, 1]
+Item[9]: Arcane stream necklace [18335, 1]
+Item[10]: Armadyl battlestaff [21777, 1]
+Item[11]: Statius's full helm [13897, 1]
+Item[12]: Statius's platebody [13885, 1]
+Item[13]: Statius's platelegs [13891, 1]
+Item[14]: Armadyl helmet [11719, 1]
+Item[15]: Armadyl chestplate [11721, 1]
+Item[16]: Armadyl chainskirt [11723, 1]
+Item[17]: Korasi's sword [19780, 1]
+Item[18]: Dragon platebody [14480, 1]
+Item[19]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-15 21:17:20.833: [Nostalgia]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Armadyl battlestaff [21777, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Chaotic longsword [18351, 1]
+Item[5]: Divine spirit shield [13741, 1]
+Item[6]: Dharok's helm [4717, 1]
+Item[7]: Dharok's platelegs [4723, 1]
+Item[8]: Ahrim's robetop [4713, 1]
+Item[9]: Ahrim's robeskirt [4715, 1]
+Item[10]: Dharok's platebody [4721, 1]
+Item[11]: Bandos tassets [11727, 2]
+Item[12]: Dharok's greataxe [4719, 1]
+Item[13]: Bandos chestplate [11724, 1]
+Item[14]: Arcane stream necklace [18335, 1]
+Item[15]: Ragefire boots [21794, 1]
+Item[16]: Armadyl chestplate [11721, 1]
+Item[17]: Armadyl helmet [11719, 1]
+Item[19]: Statius's full helm [13897, 1]
+Item[20]: Statius's platebody [13885, 1]
+
+
+
+2015-04-15 21:21:07.035: [Nostalgia]:
+Item[0]: Bandos tassets [11727, 2]
+Item[1]: Bandos chestplate [11724, 1]
+Item[2]: Ragefire boots [21794, 1]
+
+
+
+2015-04-15 21:22:29.831: [Nostalgia]:
+Item[0]: Morrigan's leather chaps [13874, 1]
+Item[1]: Morrigan's leather body [13871, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Armadyl chestplate [11721, 1]
+Item[4]: Amulet of fury [6586, 1]
+Item[5]: Abyssal whip [4152, 1]
+Item[6]: Dragon pickaxe [15260, 1]
+Item[7]: Abyssal whip [15441, 1]
+
+
+
+2015-04-15 21:27:16.638: [Darkdestroyr]:
+Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-04-15 21:28:25.047: [Darkdestroyr]:
+Item[0]: Dragon boots [11733, 1]
+
+
+
+2015-04-15 21:33:53.247: [The Tyler]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 08:27:23.643: [Nostalgia]:
+Item[0]: Coins [995, 58000000]
+Item[1]: Adamant full helm (t) [2605, 1]
+
+
+
+2015-04-16 08:28:02.043: [Nostalgia]:
+Item[0]: Coins [995, 58000000]
+Item[1]: Adamant full helm (t) [2605, 1]
+
+
+
+2015-04-16 09:05:17.678: [Taco Limey]:
+Item[0]: Zamorak godsword [11700, 1]
+Item[1]: Saradomin godsword [11698, 1]
+Item[2]: Coins [995, 24000000]
+
+
+
+2015-04-16 09:09:51.868: [Taco Limey]:
+Item[0]: Corrupt statius's full helm [13921, 1]
+Item[1]: Corrupt vesta's chainbody [13912, 1]
+Item[2]: Corrupt vesta's plateskirt [13918, 1]
+Item[3]: Abyssal whip [15442, 1]
+Item[4]: Abyssal whip [15441, 1]
+
+
+
+2015-04-16 09:12:51.878: [2kk2]:
+Item[0]: Zamorak godsword [11700, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Abyssal whip [15441, 1]
+
+
+
+2015-04-16 09:14:51.260: [Miss K]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Torag's platebody [4749, 1]
+Item[4]: Torag's platelegs [4751, 1]
+
+
+
+2015-04-16 09:44:18.292: [St3alth Skil]:
+Item[0]: Statius's warhammer [13903, 1]
+Item[1]: Vesta's spear [13906, 1]
+Item[2]: Corrupt vesta's longsword [13924, 1]
+Item[3]: Corrupt vesta's spear [13930, 1]
+Item[4]: Torag's platebody [4750, 1]
+Item[5]: Torag's platelegs [4752, 1]
+Item[6]: Zamorak godsword [11701, 1]
+Item[7]: Saradomin godsword [11699, 1]
+Item[8]: Abyssal whip [15442, 1]
+Item[9]: Abyssal whip [15441, 1]
+
+
+
+2015-04-16 09:49:18.894: [Aquaa]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-16 09:51:53.094: [Strawhat]:
+Item[0]: Saradomin godsword [11699, 1]
+Item[1]: Zamorak godsword [11701, 1]
+Item[2]: Statius's warhammer [13903, 1]
+Item[3]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-04-16 09:54:48.874: [Iliblil]:
+Item[0]: Zamorak godsword [11701, 1]
+Item[1]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-16 09:55:41.693: [Iliblil]:
+Item[0]: Saradomin godsword [11699, 1]
+Item[1]: Zamorak godsword [11701, 1]
+
+
+
+2015-04-16 09:56:48.273: [Iliblil]:
+Item[0]: Torag's platebody [4750, 1]
+Item[1]: Torag's platelegs [4752, 1]
+Item[2]: Zamorak godsword [11700, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[5]: Abyssal whip [15442, 1]
+Item[6]: Abyssal whip [15441, 1]
+
+
+
+2015-04-16 09:58:09.894: [Iliblil]:
+Item[0]: Corrupt vesta's longsword [13924, 1]
+Item[1]: Corrupt vesta's spear [13930, 1]
+Item[3]: Torag's platebody [4750, 1]
+Item[4]: Corrupt zuriel's robe top [13933, 1]
+Item[5]: Corrupt statius's warhammer [13927, 1]
+Item[6]: Statius's warhammer [13903, 1]
+
+
+
+2015-04-16 10:00:33.301: [Iliblil]:
+Item[0]: Abyssal whip [15442, 1]
+Item[1]: Abyssal whip [15441, 1]
+Item[2]: Armadyl hilt [11702, 1]
+Item[3]: Armadyl helmet [11718, 1]
+Item[4]: Zamorak godsword [11700, 1]
+
+
+
+2015-04-16 10:01:45.893: [Iliblil]:
+Item[0]: Zamorak godsword [11700, 1]
+Item[1]: Zamorak godsword [11701, 1]
+Item[2]: Abyssal vine whip [21371, 1]
+Item[3]: Abyssal whip [15441, 1]
+Item[4]: Abyssal whip [15442, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Torag's platebody [4750, 1]
+Item[7]: Torag's platelegs [4752, 1]
+
+
+
+2015-04-16 10:02:38.694: [Iliblil]:
+Item[0]: Draconic visage [11286, 1]
+Item[1]: Statius's platebody [13884, 1]
+Item[2]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-16 10:06:28.494: [Slumber]:
+Item[0]: Spectral spirit shield [13745, 1]
+
+
+
+2015-04-16 10:07:48.301: [Slumber]:
+Item[0]: Corrupt vesta's spear [13930, 1]
+Item[1]: Statius's warhammer [13903, 1]
+Item[2]: Torag's platebody [4750, 1]
+Item[3]: Corrupt vesta's longsword [13924, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vesta's spear [13906, 1]
+Item[8]: Corrupt zuriel's robe top [13933, 1]
+Item[9]: Dark bow [15701, 1]
+Item[10]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-04-16 10:17:39.900: [Slumber]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Korasi's sword [19780, 1]
+Item[2]: Corrupt statius's full helm [13921, 1]
+Item[3]: Corrupt vesta's chainbody [13912, 1]
+Item[4]: Corrupt vesta's plateskirt [13918, 1]
+
+
+
+2015-04-16 10:18:33.285: [Slumber]:
+Item[0]: Chaotic staff [18355, 1]
+Item[1]: Korasi's sword [19780, 1]
+Item[2]: Corrupt statius's full helm [13921, 1]
+Item[3]: Corrupt vesta's chainbody [13912, 1]
+Item[4]: Corrupt vesta's plateskirt [13918, 1]
+
+
+
+2015-04-16 10:20:22.517: [Slumber]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-17 09:21:52.897: [Slayer Mastr]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-17 09:27:21.697: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:28:47.495: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:29:11.494: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:29:46.295: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:30:18.696: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:30:58.903: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:31:46.296: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:32:49.296: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:33:12.693: [Olleking]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-17 09:35:49.294: [Slayer Mastr]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt vesta's spear [13929, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-17 09:36:27.097: [Slayer Mastr]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt vesta's spear [13929, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-17 09:37:04.296: [Slayer Mastr]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-17 09:42:08.528: [Ch33sek1ng]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-17 09:46:48.127: [Brockinator]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-17 09:47:25.928: [Brockinator]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Coins [995, 125000000]
+
+
+
+2015-04-17 09:54:27.097: [Brockinator]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+Item[1]: Armadyl helmet [11718, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Armadyl chainskirt [11722, 1]
+Item[4]: Coins [995, 140000000]
+
+
+
+2015-04-17 11:32:32.581: [Dave]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 11:33:15.781: [Dave]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-17 11:33:56.581: [Dave]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-17 11:34:39.180: [Dave]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-17 11:35:17.580: [Dave]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-17 11:35:59.581: [Dave]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-17 11:36:42.772: [Dave]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-17 11:37:45.781: [Dave]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-17 11:38:39.195: [Dave]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-17 12:39:13.419: [That Qwerti]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-17 12:41:21.196: [That Qwerti]:
+Item[0]: Corrupt vesta's longsword [13923, 1]
+
+
+
+2015-04-17 12:42:44.612: [That Qwerti]:
+Item[0]: Zamorakian spear [11716, 1]
+
+
+
+2015-04-17 12:45:09.819: [Catch a ride]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Armadyl chainskirt [11723, 1]
+Item[2]: Armadyl helmet [11719, 1]
+Item[3]: Armadyl chestplate [11721, 1]
+Item[4]: Spectral spirit shield [13745, 1]
+
+
+
+2015-04-17 12:50:27.819: [Best Slayer]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-17 12:53:35.620: [Best Slayer]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Vesta's spear [13905, 1]
+
+
+
+2015-04-17 12:58:14.028: [Keddeflopp]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-04-17 13:04:36.828: [Keddeflopp]:
+Item[0]: Divine spirit shield [13741, 2]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic staff [18355, 1]
+Item[3]: Steadfast boots [21788, 2]
+Item[4]: Third-age amulet [10344, 1]
+Item[5]: Spectral spirit shield [13745, 1]
+
+
+
+2015-04-17 15:43:13.527: [Iron Ph]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 15:51:54.927: [Iron Ph]:
+Item[0]: Dragon full helm (or) [19336, 1]
+
+
+
+2015-04-17 15:53:37.531: [Made A Bank]:
+Item[0]: Corrupt zuriel's robe top [13932, 1]
+Item[1]: Zuriel's robe bottom [13861, 1]
+Item[2]: Abyssal whip [15441, 1]
+
+
+
+2015-04-17 15:55:02.127: [Iron Ph]:
+Item[0]: Corrupt zuriel's robe top [13932, 1]
+Item[1]: Zuriel's robe bottom [13861, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-17 15:56:24.335: [Iron Ph]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Torag's platebody [4749, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Armadyl hilt [11702, 1]
+Item[4]: Abyssal whip [15442, 1]
+Item[5]: Dragonfire shield [11283, 1]
+Item[6]: Ragefire boots [21793, 1]
+
+
+
+2015-04-17 16:02:45.940: [Iron Ph]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 16:06:12.343: [L2pk]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-17 16:10:30.344: [Melody]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[4]: Dragonfire shield [11283, 1]
+Item[5]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-17 16:15:23.725: [Drackys Bank]:
+Item[0]: Vesta's spear [13905, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-17 16:17:09.341: [Drackys Bank]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Ragefire boots [21793, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Guthan's warspear [4726, 1]
+Item[5]: Torag's platebody [4749, 1]
+Item[6]: Guthan's platebody [4728, 1]
+
+
+
+2015-04-17 16:19:17.727: [Drackys Bank]:
+Item[0]: Guthan's warspear [4726, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Fighter torso [10551, 1]
+Item[5]: Guthan's helm [4724, 1]
+Item[6]: Ahrim's hood 0 [4860, 1]
+Item[7]: Infinity boots [6920, 1]
+Item[8]: Dharok's greataxe 0 [4890, 1]
+Item[9]: Corrupt vesta's plateskirt [13917, 1]
+Item[10]: Corrupt vesta's spear [13929, 1]
+Item[11]: Corrupt vesta's spear [13929, 1]
+Item[12]: Corrupt statius's warhammer [13926, 1]
+Item[13]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-17 16:22:52.527: [Drackys Bank]:
+Item[0]: Spectral spirit shield [13744, 1]
+Item[1]: Corrupt vesta's spear [13929, 1]
+Item[2]: Corrupt vesta's spear [13929, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Guthan's platebody [4728, 1]
+Item[6]: Guthan's helm [4724, 1]
+Item[7]: Guthan's warspear [4726, 1]
+Item[8]: Armadyl chestplate [11720, 1]
+Item[9]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-17 16:33:36.350: [Tokhaar]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-17 16:34:08.750: [Tokhaar]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-17 16:58:20.159: [Gabriele]:
+Item[0]: Abyssal whip [15442, 1]
+Item[1]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-17 17:01:16.565: [Iron Ph]:
+Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-17 22:38:25.181: [Pascaladium]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Ragefire boots [21793, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-18 02:46:41.528: [Mathew]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-18 02:47:39.709: [Mathew]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-04-18 02:48:11.527: [Mathew]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic longsword [18351, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-18 02:51:21.119: [Jordanjk]:
+Item[0]: Farseer kiteshield [18363, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-18 02:53:09.728: [Jordanjk]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-18 04:26:36.182: [Jordanjk]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Corrupt vesta's plateskirt [13917, 1]
+Item[4]: Statius's platebody [13884, 1]
+Item[5]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 04:27:26.593: [Jordanjk]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Corrupt vesta's chainbody [13911, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Corrupt vesta's plateskirt [13917, 1]
+Item[4]: Statius's platebody [13884, 1]
+Item[5]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 04:29:42.197: [Jordanjk]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Corrupt statius's full helm [13920, 1]
+Item[6]: Full slayer helmet [15492, 1]
+Item[7]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-18 04:52:43.393: [Jordanjk]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Corrupt vesta's chainbody [13911, 1]
+Item[3]: Corrupt statius's full helm [13920, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Statius's platebody [13884, 1]
+Item[6]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-18 04:53:51.797: [Jordanjk]:
+Item[0]: Elysian spirit shield [13742, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-18 11:08:14.821: [Olleking]:
+Item[0]: Armadyl helmet [11719, 1]
+Item[1]: Armadyl chainskirt [11723, 1]
+
+
+
+2015-04-18 11:09:07.027: [Olleking]:
+Item[0]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-18 11:10:44.243: [Olleking]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-18 11:12:44.242: [Olleking]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-18 11:15:26.843: [Geordie Lad]:
+Item[0]: Coins [995, 49000000]
+
+
+
+2015-04-18 11:16:05.243: [Geordie Lad]:
+Item[0]: Coins [995, 98000000]
+
+
+
+2015-04-18 11:17:13.643: [Geordie Lad]:
+Item[0]: Coins [995, 196000000]
+
+
+
+2015-04-18 13:32:19.712: [Melody]:
+Item[0]: Yellow partyhat [1041, 1]
+
+
+
+2015-04-18 13:33:28.096: [Melody]:
+Item[0]: Yellow partyhat [1041, 1]
+Item[2]: Red partyhat [1039, 1]
+Item[3]: Blue partyhat [1043, 1]
+
+
+
+2015-04-18 13:33:28.127: [Melody]:
+Item[0]: Yellow partyhat [1041, 1]
+Item[2]: Red partyhat [1039, 1]
+Item[3]: Blue partyhat [1043, 1]
+
+
+
+2015-04-18 13:36:07.728: [Melody]:
+Item[0]: Black partyhat [8015, 1]
+
+
+
+2015-04-18 14:01:33.542: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:02:19.742: [The J]:
+
+
+
+2015-04-18 14:05:02.317: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:05:16.716: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:05:29.348: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:05:38.917: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:05:59.918: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:06:27.542: [The J]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-18 14:07:40.727: [The J]:
+Item[0]: Corrupt statius's warhammer [13927, 1]
+
+
+
+2015-04-19 21:58:41.355: [Melody]:
+Item[0]: White partyhat [1049, 1]
+
+
+
+2015-04-19 21:59:10.750: [Melody]:
+Item[0]: White partyhat [1049, 1]
+
+
+
+2015-04-19 21:59:37.152: [Melody]:
+Item[0]: White partyhat [1049, 1]
+
+
+
+2015-04-19 22:00:07.155: [Melody]:
+Item[0]: White partyhat [1049, 1]
+
+
+
+2015-04-19 22:03:22.739: [Melody]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Blue partyhat [1042, 1]
+
+
+
+2015-04-19 22:04:53.350: [Melody]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+Item[2]: Chaotic longsword [18351, 1]
+Item[3]: Chaotic longsword [18351, 1]
+Item[4]: Chaotic maul [18353, 1]
+Item[5]: Blue partyhat [1043, 1]
+Item[6]: Chaotic staff [18355, 1]
+Item[7]: Chaotic crossbow [18357, 1]
+Item[8]: Chaotic crossbow [18357, 1]
+Item[9]: Chaotic kiteshield [18359, 1]
+Item[10]: Spectral spirit shield [13745, 1]
+Item[11]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-19 22:06:25.751: [Melody]:
+Item[0]: Blue partyhat [1043, 1]
+Item[1]: Red partyhat [1039, 1]
+
+
+
+2015-04-19 22:07:15.555: [Melody]:
+Item[0]: Red partyhat [1039, 1]
+Item[1]: Santa hat [1051, 1]
+
+
+
+2015-04-19 22:09:12.552: [Melody]:
+Item[0]: Red partyhat [1039, 2]
+Item[2]: Chaotic rapier [18349, 1]
+Item[3]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-20 10:03:47.569: [Homer]:
+Item[0]: Chaotic staff [18355, 1]
+
+
+
+2015-04-20 10:05:49.970: [Homer]:
+Item[0]: Saradomin godsword [11699, 1]
+
+
+
+2015-04-20 13:42:16.501: [Great Attila]:
+Item[0]: Saradomin godsword [11699, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Armadyl chainskirt [11722, 1]
+Item[3]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-20 14:50:22.532: [Oi]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-20 15:23:24.961: [Pascaladium]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-20 15:25:33.967: [Pascaladium]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-20 15:58:44.200: [Iron Hydra]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-20 15:59:40.568: [Iron Hydra]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-20 16:00:11.200: [Iron Hydra]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-20 16:01:29.799: [Iron Hydra]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Coins [995, 300000000]
+
+
+
+2015-04-20 16:03:29.214: [Iron Hydra]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Statius's full helm [13896, 1]
+Item[3]: Saradomin godsword [11699, 3]
+Item[4]: Full slayer helmet [15492, 1]
+Item[5]: Full slayer helmet [15492, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Statius's platebody [13884, 1]
+Item[8]: Statius's platelegs [13890, 1]
+Item[9]: Eagle-eye kiteshield [18361, 1]
+Item[10]: Dragonfire shield [11283, 1]
+Item[11]: Coins [995, 300000000]
+
+
+
+2015-04-20 16:06:39.999: [Iron Hydra]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Chaotic staff [18355, 1]
+Item[4]: Farseer kiteshield [18363, 1]
+Item[5]: Vesta's chainbody [13887, 1]
+Item[6]: Corrupt vesta's plateskirt [13917, 1]
+Item[7]: Chaotic crossbow [18357, 1]
+Item[8]: Corrupt statius's warhammer [13926, 1]
+Item[9]: Corrupt statius's warhammer [13926, 1]
+Item[10]: Statius's platebody [13884, 1]
+Item[11]: Statius's platebody [13884, 1]
+Item[12]: Corrupt statius's platebody [13908, 1]
+Item[13]: Morrigan's leather chaps [13873, 1]
+Item[14]: Morrigan's leather body [13870, 1]
+Item[15]: Statius's full helm [13896, 1]
+Item[16]: Armadyl chainskirt [11723, 1]
+Item[17]: Armadyl helmet [11719, 1]
+Item[18]: Saradomin godsword [11699, 3]
+Item[19]: Steadfast boots [21787, 1]
+Item[20]: Coins [995, 800000000]
+
+
+
+2015-04-20 16:38:19.602: [Iron Hydra]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Armadyl helmet [11719, 1]
+Item[2]: Armadyl chestplate [11721, 1]
+Item[3]: Armadyl chainskirt [11723, 1]
+
+
+
+2015-04-20 16:39:52.601: [Iron Hydra]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+Item[4]: Armadyl helmet [11719, 1]
+Item[5]: Armadyl chestplate [11721, 1]
+Item[6]: Armadyl chainskirt [11723, 1]
+Item[7]: Coins [995, 150000000]
+
+
+
+2015-04-20 16:43:08.825: [Iron Hydra]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-20 16:44:39.424: [Iron Hydra]:
+Item[0]: Coins [995, 600000000]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Armadyl helmet [11719, 1]
+Item[4]: Armadyl chestplate [11721, 1]
+Item[5]: Armadyl chainskirt [11723, 1]
+Item[6]: Farseer kiteshield [18363, 1]
+Item[7]: Chaotic staff [18355, 1]
+Item[8]: Eagle-eye kiteshield [18361, 1]
+Item[9]: Dragonfire shield [11283, 1]
+Item[10]: Spectral sigil [13753, 1]
+Item[11]: Vesta's chainbody [13887, 1]
+Item[12]: Vesta's plateskirt [13893, 1]
+Item[13]: Statius's platebody [13885, 3]
+Item[14]: Corrupt vesta's plateskirt [13918, 2]
+Item[15]: Corrupt statius's warhammer [13927, 2]
+Item[16]: Corrupt statius's platebody [13909, 1]
+Item[17]: Steadfast boots [21788, 1]
+Item[18]: Statius's platelegs [13890, 1]
+Item[19]: Corrupt vesta's chainbody [13912, 1]
+Item[20]: Saradomin godsword [11699, 3]
+
+
+
+2015-04-20 16:45:23.230: [Iron Hydra]:
+Item[0]: Coins [995, 600000000]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Godsword shard 2 [11713, 1]
+Item[4]: Armadyl helmet [11719, 1]
+Item[5]: Armadyl chestplate [11721, 1]
+Item[6]: Armadyl chainskirt [11723, 1]
+Item[7]: Farseer kiteshield [18363, 1]
+Item[8]: Chaotic staff [18355, 1]
+Item[9]: Eagle-eye kiteshield [18361, 1]
+Item[10]: Vesta's plateskirt [13893, 1]
+Item[11]: Vesta's chainbody [13887, 1]
+Item[12]: Dragonfire shield [11283, 1]
+Item[13]: Spectral sigil [13753, 1]
+Item[14]: Statius's platebody [13885, 3]
+Item[15]: Corrupt vesta's plateskirt [13918, 2]
+Item[16]: Corrupt statius's warhammer [13927, 2]
+Item[17]: Corrupt statius's platebody [13909, 1]
+Item[18]: Steadfast boots [21788, 1]
+Item[19]: Statius's platelegs [13890, 1]
+Item[20]: Corrupt vesta's chainbody [13912, 1]
+
+
+
+2015-04-20 16:46:53.815: [Iron Hydra]:
+Item[0]: Coins [995, 223000000]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-20 16:47:46.025: [Iron Hydra]:
+Item[0]: Coins [995, 446000000]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-20 16:48:25.030: [Iron Hydra]:
+Item[0]: Coins [995, 446000000]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Vesta's chainbody [13887, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-20 16:49:33.431: [Iron Hydra]:
+Item[0]: Coins [995, 892000000]
+Item[1]: Divine spirit shield [13740, 1]
+Item[2]: Virtus robe top [20163, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Vesta's chainbody [13887, 1]
+Item[6]: Vesta's plateskirt [13893, 1]
+Item[7]: Chaotic staff [18355, 1]
+Item[8]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-20 16:50:14.830: [Iron Hydra]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-20 16:50:34.625: [Iron Hydra]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-20 19:18:37.699: [Strawhat]:
+Item[0]: Virtus robe top [20163, 1]
+
+
+
+2015-04-20 19:19:00.505: [Strawhat]:
+Item[0]: Virtus robe top [20163, 1]
+
+
+
+2015-04-20 19:24:07.727: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+
+
+
+2015-04-20 19:25:05.914: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Farseer kiteshield [18363, 1]
+Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-04-20 19:27:29.314: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Farseer kiteshield [18363, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Steadfast boots [21787, 1]
+Item[6]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 19:29:22.114: [Banklootz]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-20 19:34:09.499: [Strawhat]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[4]: Full slayer helmet [15492, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Armadyl helmet [11718, 1]
+Item[7]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-20 19:34:34.106: [Strawhat]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Full slayer helmet [15492, 1]
+Item[4]: Armadyl helmet [11718, 1]
+Item[5]: Armadyl helmet [11718, 1]
+Item[6]: Armadyl helmet [11718, 1]
+Item[7]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-20 19:37:49.126: [Pvm Giggles]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-20 19:57:40.130: [Pixel Flexin]:
+Item[0]: Coins [995, 48000000]
+
+
+
+2015-04-20 22:00:05.430: [Skillsuckv2]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-20 22:01:43.214: [Skillsuckv2]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-20 22:04:22.200: [Skillsuckv2]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-20 22:04:57.030: [Skillsuckv2]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-20 22:41:04.226: [Pvm Giggles]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-20 22:41:25.226: [Pvm Giggles]:
+Item[0]: Coins [995, 290000000]
+
+
+
+2015-04-21 13:48:53.456: [Pluto]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-21 13:49:52.856: [Pluto]:
+Item[0]: Coins [995, 2800000]
+
+
+
+2015-04-21 13:51:43.858: [Pluto]:
+Item[0]: Coins [995, 2800000]
+
+
+
+2015-04-21 13:52:10.882: [Pluto]:
+Item[0]: Coins [995, 2800000]
+
+
+
+2015-04-21 13:53:24.687: [Iron Hydra]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 13:54:09.076: [Iron Hydra]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 13:54:37.876: [Iron Hydra]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-21 13:59:10.387: [Ultima]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-21 14:00:51.203: [Iron Hydra]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-21 14:01:14.002: [Iron Hydra]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-21 14:02:54.803: [Iron Hydra]:
+Item[0]: Coins [995, 800000000]
+Item[1]: Third-age robe top [10338, 1]
+Item[2]: Third-age robe [10340, 1]
+Item[3]: Dragon claws [14484, 1]
+
+
+
+2015-04-21 14:03:27.203: [Iron Hydra]:
+Item[0]: Yellow partyhat [1040, 1]
+
+
+
+2015-04-21 14:03:50.610: [Iron Hydra]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 14:04:42.187: [Ultima]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-21 14:05:46.394: [Ultima]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-21 14:06:12.793: [Ultima]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-21 14:07:28.402: [Ultima]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-21 14:08:02.594: [Ultima]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-21 14:08:36.193: [Ultima]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-21 14:09:12.788: [Ultima]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-21 17:08:30.303: [Melee Cyrus]:
+Item[0]: Coins [995, 600000000]
+
+
+
+2015-04-21 17:10:02.695: [Melee Cyrus]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 17:10:40.525: [Melee Cyrus]:
+Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-04-21 17:14:37.525: [Melee Cyrus]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-21 17:15:09.325: [Melee Cyrus]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-21 17:17:50.707: [Melee Cyrus]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-21 17:18:53.102: [Melee Cyrus]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-21 17:21:19.503: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-21 17:21:57.305: [Melee Cyrus]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-21 17:22:23.125: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-21 17:22:44.126: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-21 17:23:12.909: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-21 17:24:02.131: [Melee Cyrus]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-21 17:24:22.525: [Melee Cyrus]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-21 17:25:21.320: [Melee Cyrus]:
+Item[0]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-21 17:27:13.525: [Banklootz]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Statius's warhammer [13902, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Armadyl godsword [11694, 1]
+Item[6]: Infinity bottoms [15604, 1]
+Item[7]: Dragonfire shield [11283, 1]
+Item[8]: Dragonfire shield [11283, 1]
+Item[9]: Steadfast boots [21787, 1]
+
+
+
+2015-04-21 17:27:59.127: [Banklootz]:
+Item[0]: Statius's warhammer [13902, 1]
+Item[1]: Statius's warhammer [13902, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Chaotic crossbow [18357, 1]
+Item[5]: Armadyl godsword [11694, 1]
+Item[6]: Infinity bottoms [15604, 1]
+Item[7]: Dragonfire shield [11283, 1]
+Item[8]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-21 17:29:00.951: [Banklootz]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Soul rune [566, 15946]
+Item[4]: Dharok's helm [4716, 1]
+Item[5]: Dragon boots [11733, 2]
+Item[6]: Zuriel's robe top [13858, 1]
+Item[7]: Zuriel's robe bottom [13861, 1]
+Item[8]: Full slayer helmet [15492, 1]
+Item[9]: Armadyl helmet [11718, 1]
+Item[10]: Armadyl helmet [11718, 1]
+Item[11]: Black beret [2635, 1]
+
+
+
+2015-04-21 17:29:58.553: [Banklootz]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Steadfast boots [21787, 1]
+Item[3]: Dragon boots [11733, 2]
+Item[4]: Zuriel's robe top [13858, 1]
+Item[5]: Zuriel's robe bottom [13861, 1]
+Item[6]: Full slayer helmet [15492, 1]
+Item[7]: Armadyl helmet [11718, 1]
+Item[8]: Armadyl helmet [11718, 1]
+Item[9]: Black beret [2635, 1]
+Item[10]: Dharok's helm [4716, 1]
+
+
+
+2015-04-21 17:31:16.529: [Banklootz]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 17:32:26.725: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Statius's warhammer [13902, 1]
+Item[5]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-21 17:33:11.151: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Statius's warhammer [13902, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-21 17:33:46.525: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+Item[3]: Corrupt statius's warhammer [13926, 1]
+Item[4]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-21 17:39:57.956: [Banklootz]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Chaotic crossbow [18357, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+Item[6]: Steadfast boots [21787, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Armadyl godsword [11694, 1]
+Item[10]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-21 17:42:18.922: [Banklootz]:
+Item[0]: Coins [995, 1200000000]
+
+
+
+2015-04-21 17:43:23.156: [Banklootz]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 17:44:57.929: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Dragonfire shield [11283, 1]
+Item[5]: Dragonfire shield [11283, 1]
+Item[6]: Vesta's plateskirt [13893, 1]
+Item[7]: Vesta's chainbody [13887, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Steadfast boots [21787, 1]
+Item[10]: Steadfast boots [21787, 1]
+
+
+
+2015-04-21 17:45:44.756: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Vesta's chainbody [13887, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+Item[6]: Dragonfire shield [11283, 1]
+Item[7]: Dragonfire shield [11283, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Steadfast boots [21787, 1]
+Item[10]: Steadfast boots [21787, 1]
+
+
+
+2015-04-21 17:47:27.329: [Banklootz]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic crossbow [18357, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Divine spirit shield [13740, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Dragonfire shield [11283, 1]
+Item[6]: Vesta's chainbody [13887, 1]
+Item[7]: Dragonfire shield [11283, 1]
+Item[8]: Steadfast boots [21787, 1]
+Item[9]: Steadfast boots [21787, 1]
+Item[10]: Steadfast boots [21787, 1]
+Item[11]: Corrupt statius's warhammer [13926, 1]
+Item[12]: Corrupt statius's warhammer [13926, 1]
+Item[13]: Armadyl godsword [11694, 1]
+Item[14]: Statius's warhammer [13902, 1]
+Item[15]: Statius's warhammer [13902, 1]
+Item[16]: Infinity bottoms [15604, 1]
+Item[17]: Full slayer helmet [15492, 1]
+Item[18]: Farseer kiteshield [18363, 1]
+Item[19]: Armadyl helmet [11718, 1]
+Item[20]: Zuriel's robe top [13858, 1]
+
+
+
+2015-04-21 17:48:30.351: [Banklootz]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-04-21 17:50:53.141: [Melee Cyrus]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Staff of light [22208, 1]
+
+
+
+2015-04-21 17:55:27.956: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 17:55:49.556: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 17:58:25.556: [Nostalgia]:
+Item[0]: Pernix cowl [20147, 1]
+Item[1]: Pernix body [20151, 1]
+Item[2]: Pernix chaps [20155, 1]
+
+
+
+2015-04-21 18:00:26.151: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:01:20.156: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:01:48.956: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:02:26.151: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:03:08.152: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:03:27.352: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:04:21.956: [Nostalgia]:
+Item[0]: Yellow partyhat [1040, 1]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Virtus robe top [20163, 1]
+Item[3]: Torva full helm [20135, 1]
+Item[4]: Coins [995, 500000000]
+Item[5]: Armadyl godsword [11694, 1]
+Item[6]: Chaotic longsword [18351, 1]
+Item[7]: Scroll of augury [18344, 1]
+Item[8]: Zuriel's robe bottom [13861, 1]
+Item[9]: Armadyl helmet [11718, 1]
+Item[10]: Chaotic staff [18355, 1]
+Item[11]: Scroll of augury [18344, 1]
+Item[12]: Armadyl godsword [11694, 1]
+Item[13]: Spectral spirit shield [13744, 1]
+Item[14]: Spectral spirit shield [13744, 1]
+Item[15]: Statius's full helm [13896, 1]
+Item[16]: Morrigan's leather body [13870, 1]
+Item[17]: Vesta's plateskirt [13893, 1]
+Item[18]: Karil's coif [4732, 1]
+Item[19]: Corrupt dragon sq shield [13964, 1]
+Item[20]: Amulet of ranging [15126, 1]
+
+
+
+2015-04-21 18:08:18.956: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Torva full helm [22315, 1]
+
+
+
+2015-04-21 18:09:16.551: [Nostalgia]:
+Item[0]: Torva full helm [22315, 1]
+Item[1]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:13:02.772: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:13:23.151: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-04-21 18:13:58.552: [Nostalgia]:
+Item[0]: Torva full helm [22315, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Pernix chaps [20155, 1]
+Item[3]: Pernix body [20151, 1]
+
+
+
+2015-04-21 18:14:23.756: [Nostalgia]:
+Item[0]: Torva full helm [22315, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Pernix body [20151, 1]
+Item[3]: Pernix chaps [20155, 1]
+
+
+
+2015-04-21 18:16:38.753: [Nostalgia]:
+Item[0]: Yellow partyhat [1040, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Pernix chaps [20155, 1]
+Item[3]: Pernix body [20151, 1]
+
+
+
+2015-04-21 18:19:10.554: [Nostalgia]:
+Item[0]: Yellow partyhat [1040, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Pernix chaps [20155, 1]
+Item[3]: Pernix body [20151, 1]
+
+
+
+2015-04-21 18:21:33.954: [Nostalgia]:
+Item[0]: Yellow partyhat [1040, 1]
+Item[1]: Pernix cowl [20147, 1]
+Item[2]: Pernix chaps [20155, 1]
+Item[3]: Pernix body [20151, 1]
+
+
+
+2015-04-21 18:22:59.156: [Nostalgia]:
+Item[0]: Torva full helm [20135, 1]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Virtus robe top [20163, 1]
+Item[3]: Third-age robe [10340, 1]
+Item[4]: Third-age robe top [10338, 1]
+Item[5]: Chaotic staff [18355, 1]
+Item[6]: Chaotic longsword [18351, 1]
+Item[7]: Statius's full helm [13896, 1]
+Item[8]: Vesta's plateskirt [13893, 1]
+Item[9]: Armadyl godsword [11694, 1]
+Item[10]: Armadyl godsword [11694, 1]
+Item[11]: Spectral spirit shield [13744, 1]
+Item[12]: Spectral spirit shield [13744, 1]
+Item[13]: Morrigan's leather body [13870, 1]
+Item[14]: Zuriel's robe bottom [13861, 1]
+
+
+
+2015-04-21 18:23:51.956: [Nostalgia]:
+Item[0]: Armadyl crossbow [11785, 1]
+Item[1]: Torva full helm [20135, 1]
+Item[2]: Third-age robe top [10338, 1]
+Item[3]: Third-age robe [10340, 1]
+Item[4]: Virtus robe top [20163, 1]
+Item[5]: Virtus robe top [20163, 1]
+Item[6]: Coins [995, 696000000]
+Item[7]: Chaotic staff [18355, 1]
+Item[8]: Chaotic longsword [18351, 1]
+Item[9]: Spectral spirit shield [13744, 1]
+Item[10]: Armadyl godsword [11694, 1]
+Item[11]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-21 18:24:37.554: [Nostalgia]:
+Item[0]: Torva full helm [20135, 1]
+Item[1]: Virtus robe top [20163, 1]
+Item[2]: Virtus robe top [20163, 1]
+Item[3]: Third-age robe [10340, 1]
+Item[4]: Third-age robe top [10338, 1]
+Item[5]: Coins [995, 696000000]
+Item[6]: Armadyl crossbow [11785, 1]
+Item[7]: Chaotic staff [18355, 1]
+Item[8]: Chaotic longsword [18351, 1]
+Item[9]: Spectral spirit shield [13744, 1]
+Item[10]: Armadyl godsword [11694, 1]
+Item[11]: Spectral spirit shield [13744, 1]
+Item[12]: Armadyl godsword [11694, 1]
+Item[13]: Vesta's plateskirt [13893, 1]
+Item[14]: Statius's full helm [13896, 1]
+
+
+
+2015-04-21 21:55:20.272: [Deth]:
+Item[0]: Coins [995, 58000000]
+
+
+
+2015-04-21 21:58:03.475: [Iron Hydra]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-21 21:58:38.901: [Bumblebee]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-21 21:59:38.889: [Iron Hydra]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-21 22:01:16.071: [Iron Hydra]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Corrupt vesta's longsword [13923, 1]
+Item[2]: Corrupt vesta's chainbody [13911, 1]
+Item[3]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-21 22:02:02.278: [Iron Hydra]:
+Item[0]: Coins [995, 175000000]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Item[3]: Corrupt vesta's longsword [13923, 1]
+Item[4]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-21 22:05:38.903: [Iron Hydra]:
+Item[0]: Dragon bones [537, 1255]
+Item[1]: Coins [995, 27985790]
+Item[2]: Dragonfire shield [11283, 1]
+Item[3]: Berserker ring [6737, 1]
+Item[4]: Vesta's spear [13905, 1]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: Amulet of fury [6585, 1]
+
+
+
+2015-04-21 23:15:46.127: [Pascaladium]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+Item[4]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-21 23:16:39.556: [Pascaladium]:
+Item[0]: Coins [995, 90000000]
+Item[1]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-21 23:17:32.323: [Pascaladium]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-21 23:18:05.324: [Pascaladium]:
+Item[0]: Coins [995, 50000000]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Morrigan's leather body [13870, 1]
+Item[4]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-21 23:20:08.925: [Pascaladium]:
+Item[0]: Fighter torso [10551, 1]
+Item[1]: Torag's platebody [4749, 1]
+Item[2]: Karil's top [4736, 1]
+Item[3]: Karil's top [4736, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+Item[5]: Dragon plateskirt [4585, 1]
+Item[6]: Archers' ring [6733, 1]
+
+
+
+2015-04-21 23:21:47.949: [Pascaladium]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-21 23:22:50.324: [Pascaladium]:
+Item[0]: Karil's top [4736, 1]
+Item[1]: Archers' ring [6733, 1]
+Item[2]: Fighter torso [10551, 1]
+Item[3]: Torag's platebody [4749, 1]
+Item[4]: Armadyl chainskirt [11722, 1]
+Item[5]: Dragon plateskirt [4585, 1]
+Item[6]: Armadyl helmet [11718, 1]
+Item[8]: Karil's top [4736, 1]
+
+
+
+2015-04-21 23:23:17.925: [Pascaladium]:
+Item[0]: Karil's top [4736, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Torag's platebody [4749, 1]
+Item[3]: Karil's top [4736, 1]
+Item[4]: Dragon plateskirt [4585, 1]
+Item[5]: Archers' ring [6733, 1]
+Item[6]: Fighter torso [10551, 1]
+Item[7]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-21 23:24:13.149: [Pascaladium]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Karil's top [4736, 1]
+Item[4]: Torag's platebody [4749, 1]
+Item[5]: Armadyl chainskirt [11722, 1]
+Item[6]: Karil's top [4736, 1]
+Item[7]: Dragon plateskirt [4585, 1]
+Item[8]: Archers' ring [6733, 1]
+Item[9]: Fighter torso [10551, 1]
+Item[10]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-22 10:46:41.525: [Pascaladium]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-22 10:47:23.533: [Pascaladium]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-22 10:48:01.933: [Pascaladium]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-22 10:48:40.314: [Pascaladium]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-22 10:53:09.114: [Pascaladium]:
+Item[0]: Black cavalier [2644, 1]
+Item[1]: Gnome scarf [9471, 1]
+Item[2]: Morrigan's leather body [13871, 1]
+Item[3]: Morrigan's leather chaps [13874, 1]
+Item[4]: Zamorakian spear [11717, 1]
+Item[5]: Dark bow [15701, 1]
+Item[6]: Red chinchompa [10034, 7290]
+
+
+
+2015-04-22 10:54:00.118: [Pascaladium]:
+Item[0]: Black cavalier [2644, 1]
+Item[1]: Gnome scarf [9471, 1]
+Item[2]: Morrigan's leather body [13871, 1]
+Item[3]: Morrigan's leather chaps [13874, 1]
+Item[4]: Red chinchompa [10034, 7290]
+Item[5]: Dark bow [15701, 1]
+
+
+
+2015-04-22 10:55:00.133: [Pascaladium]:
+Item[0]: Black cavalier [2644, 1]
+Item[1]: Gnome scarf [9471, 1]
+Item[2]: Morrigan's leather body [13871, 1]
+Item[3]: Morrigan's leather chaps [13874, 1]
+Item[4]: Red chinchompa [10034, 7290]
+Item[5]: Dark bow [15701, 1]
+Item[6]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 10:56:01.933: [Pascaladium]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+Item[3]: Statius's platelegs [13890, 1]
+Item[4]: Morrigan's leather chaps [13874, 1]
+Item[5]: Dark bow [15701, 1]
+Item[6]: Morrigan's leather body [13871, 1]
+
+
+
+2015-04-22 10:57:07.925: [Pascaladium]:
+Item[0]: Black cavalier [2644, 1]
+Item[1]: Gnome scarf [9471, 1]
+Item[2]: Zamorakian spear [11717, 1]
+Item[3]: Red chinchompa [10034, 7290]
+
+
+
+2015-04-22 10:57:54.133: [Pascaladium]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+Item[1]: Corrupt statius's platebody [13908, 1]
+Item[2]: Corrupt vesta's plateskirt [13917, 1]
+Item[3]: Morrigan's leather chaps [13874, 1]
+Item[4]: Morrigan's leather body [13871, 1]
+Item[5]: Black cavalier [2644, 1]
+Item[6]: Zamorakian spear [11717, 1]
+Item[7]: Gnome scarf [9471, 1]
+Item[8]: Dark bow [15701, 1]
+Item[9]: Red chinchompa [10034, 7290]
+
+
+
+2015-04-22 10:59:07.914: [Pascaladium]:
+Item[0]: Corrupt statius's full helm [13920, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+Item[2]: Corrupt vesta's chainbody [13911, 1]
+Item[3]: Statius's platelegs [13890, 1]
+Item[4]: Vesta's plateskirt [13893, 1]
+Item[5]: Corrupt statius's platebody [13908, 1]
+Item[6]: Glaiven boots [21790, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Ragefire boots [21793, 1]
+Item[9]: Morrigan's leather body [13871, 1]
+Item[10]: Morrigan's leather chaps [13874, 1]
+
+
+
+2015-04-22 11:05:00.133: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+Item[6]: Statius's platelegs [13890, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Glaiven boots [21790, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Corrupt statius's platebody [13908, 1]
+Item[11]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 11:05:40.925: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+Item[6]: Statius's platelegs [13890, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Glaiven boots [21790, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Corrupt statius's platebody [13908, 1]
+Item[11]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 11:06:15.731: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+Item[6]: Statius's platelegs [13890, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Glaiven boots [21790, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Corrupt statius's platebody [13908, 1]
+Item[11]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 11:06:45.715: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Corrupt vesta's plateskirt [13917, 1]
+Item[5]: Vesta's plateskirt [13893, 1]
+Item[6]: Statius's platelegs [13890, 1]
+Item[7]: Steadfast boots [21787, 1]
+Item[8]: Glaiven boots [21790, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Corrupt statius's platebody [13908, 1]
+Item[11]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 11:07:30.129: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Statius's platelegs [13890, 1]
+Item[6]: Vesta's plateskirt [13893, 1]
+Item[7]: Corrupt vesta's plateskirt [13917, 1]
+Item[8]: Glaiven boots [21790, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Corrupt statius's platebody [13908, 1]
+Item[11]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 11:08:46.925: [Pascaladium]:
+Item[0]: Chaotic crossbow [18357, 1]
+Item[1]: Chaotic staff [18355, 1]
+Item[2]: Corrupt statius's full helm [13920, 1]
+Item[3]: Corrupt vesta's chainbody [13911, 1]
+Item[4]: Steadfast boots [21787, 1]
+Item[5]: Glaiven boots [21790, 1]
+Item[6]: Corrupt vesta's plateskirt [13917, 1]
+Item[7]: Vesta's plateskirt [13893, 1]
+Item[8]: Statius's platelegs [13890, 1]
+Item[9]: Ragefire boots [21793, 1]
+Item[10]: Corrupt statius's platebody [13908, 1]
+Item[11]: Zamorakian spear [11717, 1]
+
+
+
+2015-04-22 13:59:23.034: [Pascaladium]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-22 13:59:48.226: [Pascaladium]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-22 14:00:33.225: [Pascaladium]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+Item[1]: Corrupt vesta's plateskirt [13917, 1]
+
+
+
+2015-04-22 14:01:51.833: [Pascaladium]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-22 14:04:06.234: [Pascaladium]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-22 14:04:34.433: [Pascaladium]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-22 14:06:12.225: [Pascaladium]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-22 14:07:08.026: [Pascaladium]:
+Item[3]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:41:41.833: [Pascaladium]:
+Item[3]: Abyssal whip [15444, 1]
+
+
+
+2015-04-22 19:48:46.033: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:49:12.427: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:49:36.434: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:50:01.025: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:50:33.419: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:51:07.033: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:51:28.633: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:52:04.027: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:52:38.828: [Melody]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 19:53:09.426: [Melody]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-22 19:53:47.849: [Melody]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-22 19:54:45.450: [Melody]:
+Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-22 19:55:20.227: [Melody]:
+Item[0]: Chaotic longsword [18351, 1]
+Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-04-23 11:26:06.386: [Zinc]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-23 11:52:44.802: [Oi]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-23 14:12:03.487: [Sir Sjid]:
+Item[0]: Coins [995, 3500000]
+
+
+
+2015-04-23 14:13:07.096: [Sir Sjid]:
+Item[0]: Coins [995, 3500000]
+
+
+
+2015-04-23 14:14:46.714: [Sir Sjid]:
+Item[0]: Dragon platebody [14479, 1]
+Item[1]: Faithful shield [18747, 1]
+Item[2]: Bandos boots [11728, 1]
+Item[3]: Coins [995, 20000000]
+
+
+
+2015-04-23 17:14:06.618: [T Cape]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-23 17:14:19.216: [T Cape]:
+Item[0]: Coins [995, 35000000]
+
+
+
+2015-04-23 17:15:54.033: [T Cape]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-23 17:17:47.426: [T Cape]:
+Item[0]: Coins [995, 140000000]
+
+
+
+2015-04-23 17:19:17.434: [T Cape]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-23 17:19:39.033: [T Cape]:
+Item[0]: Coins [995, 130000000]
+
+
+
+2015-04-23 17:20:16.227: [T Cape]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-04-23 17:20:46.825: [T Cape]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-23 17:21:10.218: [T Cape]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 17:22:42.028: [G3x]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 17:23:23.426: [G3x]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-23 17:26:24.028: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-23 17:27:18.627: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-23 17:28:51.627: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 17:29:58.833: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 17:30:39.027: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 17:31:14.427: [Simberj]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 17:32:04.833: [Simberj]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-23 17:33:10.827: [Simberj]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-23 17:34:19.228: [Simberj]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-23 17:34:47.428: [Simberj]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-23 17:35:47.427: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 17:36:07.828: [Simberj]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 19:10:43.312: [St3alth Skil]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 19:11:05.502: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:11:25.902: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:12:00.713: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:12:49.913: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:13:23.513: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:13:40.913: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:14:30.714: [St3alth Skil]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-23 19:15:09.702: [St3alth Skil]:
+Item[0]: Coins [995, 77000000]
+
+
+
+2015-04-23 19:19:43.918: [St3alth Skil]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+Item[3]: Black cavalier [2643, 1]
+Item[4]: Gnome scarf [9470, 1]
+
+
+
+2015-04-23 19:37:18.712: [Strawhat]:
+Item[0]: Coins [995, 800000000]
+
+
+
+2015-04-23 19:38:12.715: [Strawhat]:
+Item[0]: Coins [995, 400000000]
+
+
+
+2015-04-23 19:39:06.114: [Strawhat]:
+Item[0]: Torva platebody [20139, 1]
+
+
+
+2015-04-23 19:39:48.718: [Strawhat]:
+Item[0]: Coins [995, 800000000]
+
+
+
+2015-04-23 19:40:32.524: [Strawhat]:
+Item[0]: Torva platebody [20139, 1]
+
+
+
+2015-04-23 21:59:56.502: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:02:39.112: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:03:18.698: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:05:35.496: [Strawhat]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 22:06:11.503: [Strawhat]:
+Item[0]: Divine spirit shield [13740, 1]
+Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 22:07:32.502: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:08:33.100: [Strawhat]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-04-23 22:09:24.111: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:10:40.902: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:11:22.902: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:12:17.512: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:13:01.912: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-23 22:26:40.313: [Kabooyah]:
+Item[0]: Coins [995, 145000000]
+Item[1]: Statius's warhammer [13902, 1]
+Item[2]: Tzrek-jad [21512, 1]
+
+
+
+2015-04-23 22:40:01.909: [Strawhat]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 22:40:40.318: [Strawhat]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-23 22:41:28.917: [Strawhat]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-23 22:42:21.133: [Strawhat]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-23 22:43:25.320: [Strawhat]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-23 22:44:49.918: [Vesko]:
+
+
+
+2015-04-23 22:45:51.733: [Vesko]:
+
+
+
+2015-04-23 22:46:54.733: [Vesko]:
+
+
+
+2015-04-23 22:47:54.715: [Vesko]:
+
+
+
+2015-04-24 01:07:06.796: [Ziptie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-24 01:07:54.195: [Ziptie]:
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-24 01:08:39.202: [Ziptie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-24 01:09:47.002: [Ziptie]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Dharok's greataxe [4718, 1]
+Item[3]: Dharok's platelegs [4722, 1]
+Item[4]: Steadfast boots [21788, 2]
+
+
+
+2015-04-24 01:10:59.596: [Ziptie]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-24 01:17:20.614: [Ziptie]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+Item[4]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-24 01:17:53.002: [Ziptie]:
+Item[0]: Dharok's helm [4716, 1]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+Item[4]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-24 01:20:56.011: [Ziptie]:
+Item[0]: Abyssal whip [15444, 1]
+Item[1]: Abyssal whip [15442, 1]
+Item[2]: Abyssal whip [4151, 1]
+Item[3]: Abyssal whip [4151, 1]
+Item[4]: Abyssal whip [15441, 1]
+Item[5]: Statius's warhammer [13902, 1]
+Item[6]: Vesta's chainbody [13887, 1]
+Item[7]: Vesta's plateskirt [13893, 1]
+Item[8]: Dragon claws [14484, 1]
+Item[9]: Dragonfire shield [11283, 1]
+Item[10]: Full slayer helmet [15492, 1]
+Item[11]: Tzrek-jad [21512, 1]
+Item[12]: Zuriel's robe bottom [13862, 1]
+Item[13]: Steadfast boots [21788, 2]
+Item[15]: Arcane stream necklace [18335, 1]
+Item[16]: Amulet of fury [6586, 1]
+Item[17]: Amulet of fury [6585, 1]
+Item[18]: Hand cannon [15242, 1]
+
+
+
+2015-04-24 01:23:01.402: [Ziptie]:
+Item[0]: Dragon claws [14484, 1]
+Item[1]: Tzrek-jad [21512, 1]
+Item[2]: Amulet of fury [6586, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Zuriel's robe bottom [13862, 1]
+Item[5]: Steadfast boots [21788, 2]
+Item[6]: Abyssal whip [4151, 1]
+Item[7]: Abyssal whip [15441, 1]
+Item[8]: Abyssal whip [4151, 1]
+Item[9]: Abyssal whip [15442, 1]
+Item[10]: Abyssal whip [15444, 1]
+Item[11]: Vesta's plateskirt [13893, 1]
+Item[12]: Vesta's chainbody [13887, 1]
+Item[13]: Hand cannon [15242, 1]
+Item[14]: Full slayer helmet [15492, 1]
+Item[15]: Dragonfire shield [11283, 1]
+Item[16]: Statius's warhammer [13902, 1]
+Item[17]: Arcane stream necklace [18335, 1]
+
+
+
+2015-04-24 01:28:50.614: [Ziptie]:
+Item[0]: Steadfast boots [21788, 2]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Dragon claws [14484, 1]
+Item[3]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-24 13:46:31.875: [Oi]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-24 13:47:00.076: [Oi]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-24 13:47:30.677: [Oi]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 13:49:19.276: [Oi]:
+Item[0]: Dragon bones [537, 500]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-24 13:50:16.276: [Oi]:
+Item[0]: Coins [995, 23000000]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Abyssal whip [15444, 1]
+
+
+
+2015-04-24 13:51:07.880: [Oi]:
+Item[0]: Coins [995, 90000000]
+
+
+
+2015-04-24 13:52:33.678: [Oi]:
+Item[0]: Abyssal whip [15444, 1]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Amulet of fury [6585, 1]
+Item[4]: Coins [995, 28000000]
+
+
+
+2015-04-24 13:53:08.480: [Oi]:
+Item[0]: Dragon bones [537, 500]
+Item[1]: Amulet of fury [6585, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Abyssal whip [15444, 1]
+Item[4]: Coins [995, 11000000]
+
+
+
+2015-04-24 14:01:20.479: [Kabooyah]:
+Item[0]: Dragon bones [537, 12]
+
+
+
+2015-04-24 14:02:24.080: [Kabooyah]:
+Item[0]: Dragon bones [537, 12]
+
+
+
+2015-04-24 14:02:57.681: [Kabooyah]:
+Item[0]: Dragon bones [537, 12]
+
+
+
+2015-04-24 14:03:24.080: [Kabooyah]:
+Item[0]: Dragon bones [537, 12]
+
+
+
+2015-04-24 14:04:00.067: [Kabooyah]:
+Item[0]: Dragon bones [537, 12]
+
+
+
+2015-04-24 14:05:14.465: [Kabooyah]:
+Item[0]: Dragon bones [537, 24]
+
+
+
+2015-04-24 14:06:02.464: [Kabooyah]:
+Item[0]: Dragon bones [537, 48]
+
+
+
+2015-04-24 14:07:00.064: [Kabooyah]:
+Item[0]: Dragon bones [537, 56]
+
+
+
+2015-04-24 14:08:22.880: [Kabooyah]:
+Item[0]: Dragon bones [537, 40]
+Item[1]: Zogre bones [4812, 1]
+
+
+
+2015-04-24 14:11:48.675: [Kabooyah]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-24 14:12:28.296: [Kabooyah]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Amulet of fury [6585, 1]
+
+
+
+2015-04-24 14:13:37.883: [Kabooyah]:
+Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-04-24 14:14:13.280: [Kabooyah]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Abyssal whip [15444, 1]
+
+
+
+2015-04-24 14:15:55.300: [Kabooyah]:
+Item[0]: Dragon bones [537, 120]
+
+
+
+2015-04-24 14:17:04.285: [Kabooyah]:
+Item[0]: Dragon boots [11733, 1]
+Item[1]: Loop half of a key [987, 1]
+Item[2]: Loop half of a key [987, 1]
+Item[3]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-24 14:19:18.087: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-24 15:07:16.926: [Expired]:
+Item[0]: Coins [995, 51000000]
+
+
+
+2015-04-24 15:07:42.116: [Expired]:
+Item[0]: Coins [995, 51000000]
+
+
+
+2015-04-24 15:08:10.316: [Expired]:
+Item[0]: Statius's platelegs [13890, 1]
+Item[1]: Coins [995, 9000000]
+
+
+
+2015-04-24 15:08:30.118: [Expired]:
+Item[0]: Gilded platebody [3481, 1]
+
+
+
+2015-04-24 15:57:47.549: [Thug Life]:
+Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-24 15:58:15.149: [Thug Life]:
+Item[0]: Statius's platelegs [13890, 1]
+
+
+
+2015-04-24 15:59:03.149: [Loric]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-24 16:00:06.151: [Loric]:
+Item[0]: Coins [995, 18000000]
+
+
+
+2015-04-24 16:01:06.750: [Loric]:
+Item[0]: Coins [995, 35662743]
+
+
+
+2015-04-24 21:15:03.949: [Oi]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-24 21:17:07.551: [Oi]:
+Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-04-24 21:17:34.549: [Oi]:
+Item[0]: Abyssal whip [15444, 1]
+
+
+
+2015-04-24 23:43:17.225: [Strawhat]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-24 23:43:59.825: [Strawhat]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-24 23:46:12.424: [Strawhat]:
+Item[0]: Tzrek-jad [21512, 1]
+
+
+
+2015-04-24 23:47:41.824: [Strawhat]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Statius's warhammer [13903, 1]
+Item[2]: Dragon bones [537, 1230]
+
+
+
+2015-04-24 23:49:33.425: [Strawhat]:
+Item[0]: Abyssal whip [15442, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Abyssal whip [15441, 1]
+Item[3]: Morrigan's leather chaps [13874, 1]
+Item[4]: Morrigan's leather body [13871, 1]
+Item[5]: Arcane stream necklace [18335, 1]
+Item[6]: Zuriel's robe bottom [13862, 1]
+Item[7]: Blisterwood polearm [21582, 1]
+Item[8]: Amulet of fury [6585, 1]
+
+
+
+2015-04-24 23:50:41.827: [Strawhat]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Dragon full helm (or) [19336, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Morrigan's leather chaps [13874, 1]
+Item[4]: Abyssal whip [15441, 1]
+Item[5]: Morrigan's leather body [13871, 1]
+Item[6]: Abyssal whip [15442, 1]
+Item[7]: Arcane stream necklace [18335, 1]
+Item[8]: Zuriel's robe bottom [13862, 1]
+Item[9]: Blisterwood polearm [21582, 1]
+Item[10]: Amulet of fury [6585, 1]
+Item[11]: Dragon boots [11732, 1]
+
+
+
+2015-04-27 00:33:19.603: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-27 00:36:40.602: [Kabooyah]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 10:57:26.834: [Powerstroke]:
+Item[0]: Coins [995, 4800000]
+
+
+
+2015-04-27 10:58:14.834: [Powerstroke]:
+Item[0]: Coins [995, 4800000]
+
+
+
+2015-04-27 10:59:02.213: [Powerstroke]:
+Item[0]: Coins [995, 4800000]
+
+
+
+2015-04-27 10:59:34.614: [Powerstroke]:
+Item[0]: Coins [995, 4800000]
+
+
+
+2015-04-27 11:00:06.424: [Powerstroke]:
+Item[0]: Coins [995, 4800000]
+
+
+
+2015-04-27 11:00:53.813: [Powerstroke]:
+Item[0]: Coins [995, 4800000]
+
+
+
+2015-04-27 11:36:49.025: [I Fag I]:
+Item[0]: Third-age amulet [10344, 1]
+
+
+
+2015-04-27 11:37:55.625: [I Fag I]:
+Item[0]: Third-age amulet [10344, 1]
+
+
+
+2015-04-27 11:38:17.849: [I Fag I]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-27 14:33:29.949: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-27 14:33:58.749: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-27 14:34:34.749: [Kabooyah]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-27 14:35:11.949: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-27 14:35:46.749: [Kabooyah]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-27 14:37:00.550: [Kabooyah]:
+Item[0]: Statius's warhammer [13903, 1]
+Item[2]: Coins [995, 1000000]
+
+
+
+2015-04-27 14:39:47.359: [Kabooyah]:
+Item[0]: Dragon boots [11732, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Abyssal whip [15442, 1]
+Item[4]: Ourg bones [4835, 22]
+Item[5]: Godsword shard 2 [11713, 1]
+Item[8]: Ranger boots [2577, 1]
+Item[9]: Amulet of ranging [15126, 1]
+
+
+
+2015-04-28 12:48:32.542: [Zinc]:
+Item[0]: Coins [995, 4021077]
+
+
+
+2015-04-28 12:48:55.351: [Zinc]:
+Item[0]: Coins [995, 9021077]
+
+
+
+2015-04-28 12:49:33.750: [Zinc]:
+Item[0]: Coins [995, 19021077]
+
+
+
+2015-04-28 12:51:34.952: [Zinc]:
+Item[0]: Hand cannon [15241, 1]
+Item[1]: Hand cannon shot [15243, 200]
+
+
+
+2015-04-28 12:53:13.349: [Zinc]:
+Item[0]: Infinity hat [6918, 1]
+Item[1]: Infinity top [6916, 1]
+Item[2]: Infinity bottoms [6924, 1]
+Item[3]: Infinity boots [6920, 1]
+Item[4]: Seers' ring [6731, 1]
+Item[5]: Seers' ring [6731, 1]
+
+
+
+2015-04-28 12:53:52.349: [Zinc]:
+Item[0]: Infinity hat [6918, 1]
+Item[1]: Infinity top [6916, 1]
+Item[2]: Infinity bottoms [6924, 1]
+Item[3]: Infinity boots [6920, 1]
+Item[4]: Seers' ring [6731, 1]
+Item[5]: Seers' ring [6731, 1]
+Item[6]: Coins [995, 20000000]
+
+
+
+2015-04-28 12:54:29.538: [Zinc]:
+Item[0]: Coins [995, 14000000]
+
+
+
+2015-04-28 12:55:57.751: [Zinc]:
+Item[0]: Coins [995, 16000000]
+
+
+
+2015-04-28 12:59:18.780: [Zinc]:
+Item[0]: Coins [995, 14000000]
+
+
+
+2015-04-28 15:42:51.251: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-28 15:43:29.051: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-28 15:43:58.450: [Goog]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-28 15:44:50.651: [Goog]:
+Item[0]: Amulet of fury [6586, 5]
+
+
+
+2015-04-28 15:45:21.880: [Goog]:
+Item[0]: Amulet of fury [6586, 5]
+
+
+
+2015-04-28 15:45:55.465: [Goog]:
+Item[0]: Amulet of fury [6586, 5]
+
+
+
+2015-04-28 15:46:29.070: [Goog]:
+Item[0]: Amulet of fury [6586, 5]
+
+
+
+2015-04-28 15:47:10.465: [Goog]:
+Item[0]: Coins [995, 75000000]
+Item[1]: Amulet of fury [6586, 5]
+
+
+
+2015-04-28 15:48:12.875: [Goog]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-04-28 15:48:43.474: [Goog]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-28 15:49:11.080: [Goog]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-28 15:49:38.674: [Goog]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-28 15:50:03.281: [Goog]:
+Item[0]: Coins [995, 125000000]
+
+
+
+2015-04-28 15:52:57.867: [I Fag I]:
+Item[0]: Bandos godsword [11696, 1]
+Item[1]: Amulet of fury [6586, 1]
+
+
+
+2015-04-28 16:32:56.698: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 16:33:17.087: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 16:33:51.895: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 16:35:38.696: [Bad Pker]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-04-28 16:38:23.702: [Kabooyah]:
+Item[0]: Coins [995, 150000000]
+
+
+
+2015-04-28 16:39:59.696: [Kabooyah]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-28 16:42:09.296: [Kabooyah]:
+Item[0]: Steadfast boots [21787, 1]
+
+
+
+2015-04-28 16:45:26.696: [Yocky123]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 16:47:00.296: [Yocky123]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-04-28 16:48:04.496: [Yocky123]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 16:49:28.481: [Yocky123]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-28 16:50:16.511: [Yocky123]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 16:52:17.702: [Yocky123]:
+Item[0]: Amulet of fury [6586, 3]
+Item[1]: Steadfast boots [21787, 1]
+Item[2]: Bandos godsword [11697, 1]
+Item[3]: Steadfast boots [21787, 1]
+Item[4]: Armadyl godsword [11694, 1]
+Item[5]: Dragon claws [14484, 1]
+
+
+
+2015-04-28 22:34:13.696: [Melee Cyrus]:
+Item[0]: Coins [995, 2147483647]
+
+
+
+2015-04-28 22:35:19.715: [Melee Cyrus]:
+Item[0]: Coins [995, 900000000]
+
+
+
+2015-04-28 22:36:45.504: [Melee Cyrus]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-04-28 22:38:22.103: [Melee Cyrus]:
+Item[0]: Coins [995, 1000000000]
+
+
+
+2015-04-28 22:42:49.124: [Gibby]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-28 22:44:07.702: [Gibby]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-04-29 21:30:51.038: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Elysian spirit shield [13742, 1]
+Item[2]: Chaotic crossbow [18357, 1]
+Item[3]: Coins [995, 700000000]
+
+
+
+2015-04-29 21:32:40.240: [Melee Cyrus]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Full slayer helmet [15492, 1]
+Item[3]: Chaotic maul [18353, 1]
+
+
+
+2015-04-29 21:33:24.036: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-29 21:33:58.836: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-29 21:34:40.840: [Melee Cyrus]:
+Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-29 21:35:15.034: [Melee Cyrus]:
+Item[0]: Chaotic maul [18353, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+Item[3]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-30 20:34:12.315: [Melee Cyrus]:
+Item[0]: Coins [995, 18317601]
+
+
+
+2015-04-30 20:34:54.315: [Melee Cyrus]:
+Item[0]: Coins [995, 36317601]
+
+
+
+2015-04-30 20:35:40.515: [Melee Cyrus]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-30 20:36:23.108: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-30 20:36:50.721: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-30 20:37:16.507: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-30 20:37:48.330: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-30 20:38:27.315: [Melee Cyrus]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-30 20:38:58.515: [Melee Cyrus]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-30 20:39:36.929: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-30 20:40:31.530: [Melee Cyrus]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-04-30 20:41:09.915: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-30 20:42:03.336: [Melee Cyrus]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-30 20:42:41.730: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Morrigan's leather body [13870, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-30 20:43:34.529: [Melee Cyrus]:
+Item[0]: Morrigan's leather body [13870, 1]
+Item[1]: Morrigan's leather chaps [13873, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-30 20:44:21.330: [Melee Cyrus]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Morrigan's leather body [13870, 1]
+
+
+
+2015-05-01 11:48:11.831: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-01 11:49:10.031: [Melee Cyrus]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-01 11:49:50.831: [Melee Cyrus]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-01 11:50:34.031: [Melee Cyrus]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-01 11:55:43.630: [Genothewolf]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-01 11:56:39.430: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 25000000]
+
+
+
+2015-05-01 11:57:10.647: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-05-01 11:57:48.430: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-05-01 11:58:39.447: [Ziptie]:
+Item[0]: Korasi's sword [19780, 1]
+Item[1]: Coins [995, 50000000]
+
+
+
+2015-05-01 11:59:31.643: [Ziptie]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Coins [995, 15000000]
+
+
+
+2015-05-01 12:00:23.847: [Ziptie]:
+Item[0]: Vesta's chainbody [13888, 1]
+
+
+
+2015-05-01 12:01:59.843: [Ziptie]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-01 12:02:35.244: [Ziptie]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-01 12:03:46.630: [Zinc]:
+Item[0]: Coins [995, 13000000]
+
+
+
+2015-05-01 12:05:47.856: [Melee Cyrus]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[3]: Abyssal whip [15441, 1]
+Item[4]: Abyssal whip [4151, 1]
+
+
+
+2015-05-01 12:07:38.862: [Melee Cyrus]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[2]: Korasi's sword [19780, 1]
+
+
+
+2015-05-01 12:08:23.855: [Melee Cyrus]:
+Item[0]: Coins [995, 120000000]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-01 12:19:22.652: [Ziptie]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Glaiven boots [21790, 1]
+
+
+
+2015-05-01 12:20:05.868: [Ziptie]:
+Item[0]: Ragefire boots [21794, 1]
+Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-01 12:21:23.868: [Ziptie]:
+Item[0]: Staff of light [22212, 1]
+Item[1]: Glaiven boots [21790, 1]
+Item[2]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-01 12:23:22.062: [Ziptie]:
+Item[0]: Glaiven boots [21790, 1]
+Item[1]: Staff of light [22212, 1]
+Item[2]: Blisterwood polearm [21582, 1]
+Item[3]: Dark bow [15702, 1]
+Item[4]: Dragonfire shield [11283, 1]
+Item[5]: Ragefire boots [21794, 1]
+Item[6]: Abyssal whip [4151, 1]
+
+
+
+2015-05-01 12:24:04.061: [Ziptie]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Ragefire boots [21794, 1]
+Item[2]: Glaiven boots [21790, 1]
+Item[3]: Staff of light [22212, 1]
+Item[4]: Blisterwood polearm [21582, 1]
+Item[5]: Dark bow [15702, 1]
+Item[6]: Abyssal whip [4151, 1]
+
+
+
+2015-05-01 12:24:43.093: [Ziptie]:
+Item[0]: Dragonfire shield [11283, 1]
+Item[1]: Abyssal whip [4151, 1]
+Item[2]: Staff of light [22212, 1]
+Item[3]: Blisterwood polearm [21582, 1]
+Item[4]: Dark bow [15702, 1]
+Item[5]: Ragefire boots [21794, 1]
+Item[6]: Glaiven boots [21790, 1]
+
+
+
+2015-05-01 12:26:11.868: [Ziptie]:
+Item[0]: Glaiven boots [21790, 1]
+Item[1]: Ragefire boots [21794, 1]
+Item[2]: Staff of light [22212, 1]
+Item[3]: Blisterwood polearm [21582, 1]
+Item[4]: Dark bow [15702, 1]
+Item[5]: Abyssal whip [15441, 1]
+Item[6]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-01 12:27:07.062: [Ziptie]:
+Item[0]: Staff of light [22212, 1]
+Item[1]: Blisterwood polearm [21582, 1]
+Item[2]: Dark bow [15702, 1]
+Item[3]: Dragonfire shield [11283, 1]
+Item[4]: Ragefire boots [21794, 1]
+Item[5]: Glaiven boots [21790, 1]
+Item[6]: Abyssal whip [4151, 1]
+
+
+
+2015-05-01 12:29:59.861: [Ziptie]:
+Item[0]: Abyssal whip [15441, 1]
+Item[1]: Dragonfire shield [11283, 1]
+Item[2]: Ranger boots [2578, 1]
+Item[3]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-01 13:23:28.715: [Ziptie]:
+Item[0]: Vesta's chainbody [13888, 1]
+Item[1]: Coins [995, 100000000]
+
+
+
+2015-05-09 01:22:23.376: [Mohd200210]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-09 01:23:04.785: [Mohd200210]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-09 01:25:25.200: [Aleexk3]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-09 01:26:55.800: [Goog]:
+Item[0]: Coins [995, 85000000]
+
+
+

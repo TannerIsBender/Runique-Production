@@ -1,0 +1,24 @@
+2015-04-27 02:09:04.074: [Hacker]:
+Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-27 02:09:42.474: [Hacker]:
+Item[0]: Armadyl battlestaff [21777, 1]
+Item[1]: Coins [995, 139545]
+
+
+
+2015-04-27 02:14:13.680: [Hacker]:
+Item[0]: Golden mining gloves [20787, 1]
+
+
+
+2015-04-27 02:24:23.280: [Oi]:
+
+
+
+2015-04-27 04:22:38.496: [Billionare]:
+
+
+

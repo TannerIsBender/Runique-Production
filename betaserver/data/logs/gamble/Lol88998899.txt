@@ -1,0 +1,32 @@
+2015-05-21 18:03:06.263: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 69]
+
+
+
+2015-05-21 18:03:36.273: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 69]
+
+
+
+2015-05-22 14:14:40.223: [[Dare, yazidzidi16; 84.107.71.20, 34-23-87-D2-93-23]]:
+My Item[0]: Raw pike [349, 1]
+Other Item[0]: Manta ray [391, 1]
+
+
+
+2015-05-22 14:15:16.217: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Manta ray [391, 1]
+
+
+
+2015-05-22 14:16:57.620: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+My Item[0]: Raw pike [349, 1]
+Other Item[0]: Saradomin brew (3) [6687, 1]
+
+
+
+2015-05-22 14:18:52.817: [[Ch33sek1ng, kaaskoppen2; 82.170.67.133, 9C-2A-70-42-A1-7F]]:
+Other Item[0]: Raw pike [349, 1]
+
+
+

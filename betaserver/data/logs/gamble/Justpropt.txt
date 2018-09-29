@@ -1,0 +1,639 @@
+2015-05-03 10:58:26.084: [Candyshz]:
+Item[0]: Coins [995, 45000000]
+
+
+
+2015-05-03 13:23:37.613: [Rivers]:
+Item[0]: Coins [995, 7000000]
+
+
+
+2015-05-03 13:33:32.214: [Bamf Katie]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-03 13:35:05.817: [Ch33sek1ng]:
+Item[0]: Third-age range coif [10334, 1]
+
+
+
+2015-05-03 13:37:06.438: [Ch33sek1ng]:
+Item[0]: Coins [995, 28000000]
+
+
+
+2015-05-06 13:30:18.475: [Iron Jacob]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 13:34:02.899: [Failfish]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-06 13:37:49.706: [Coldott]:
+Item[0]: Green h'ween mask [1053, 1]
+Item[1]: Coins [995, 80000000]
+
+
+
+2015-05-06 13:41:16.722: [Coldott]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-05-06 13:44:57.515: [Coldott]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-06 13:48:08.917: [Coldott]:
+Item[0]: Coins [995, 40999890]
+
+
+
+2015-05-06 16:19:42.017: [Coldott]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 16:26:34.838: [Rozza123]:
+Item[2]: Coins [995, 27000000]
+
+
+
+2015-05-06 16:29:17.437: [Rozza123]:
+Item[0]: Onyx [6573, 1]
+Item[1]: Onyx [6573, 1]
+
+
+
+2015-05-06 16:30:06.037: [Rozza123]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-06 16:31:08.437: [Rozza123]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-06 16:36:18.039: [Rozza123]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-06 16:38:30.639: [Rozza123]:
+Item[0]: Onyx [6573, 1]
+Item[1]: Onyx [6573, 1]
+Item[2]: Coins [995, 30000000]
+
+
+
+2015-05-07 13:34:37.637: [Coldott]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-07 13:36:07.037: [Coldott]:
+Item[0]: Saradomin godsword [11698, 1]
+Item[1]: Coins [995, 30000000]
+
+
+
+2015-05-07 14:01:07.068: [Melee Cyrus]:
+Item[0]: Coins [995, 250000000]
+
+
+
+2015-05-07 16:50:45.588: [Rozza123]:
+Item[0]: Coins [995, 1000000]
+
+
+
+2015-05-07 16:51:20.387: [Rozza123]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-07 16:52:58.769: [Rozza123]:
+Item[0]: Coins [995, 2000000]
+
+
+
+2015-05-07 16:53:47.968: [Lvls]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-07 16:54:49.171: [Lvls]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-07 16:55:18.572: [Lvls]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-07 16:55:50.372: [Lvls]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-07 16:58:34.800: [Rozza123]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-07 16:59:12.588: [Rozza123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-07 16:59:48.584: [Rozza123]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-07 17:00:49.790: [Rozza123]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-07 17:01:25.175: [Rozza123]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-07 17:03:03.591: [Beanx]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-07 17:03:51.584: [Beanx]:
+
+
+
+2015-05-07 17:04:52.790: [Beanx]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-07 17:05:25.190: [Beanx]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-07 17:06:07.800: [Beanx]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-08 13:41:26.169: [Slightlyop]:
+Item[0]: Guthix body [10378, 1]
+Item[1]: Guthix chaps [10380, 1]
+
+
+
+2015-05-08 13:45:05.169: [Slightlyop]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 13:45:43.564: [Slightlyop]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 13:46:18.965: [Slightlyop]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-08 13:46:49.600: [Slightlyop]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-08 13:47:30.364: [Slightlyop]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-08 13:48:06.388: [Slightlyop]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-08 13:49:18.399: [Slightlyop]:
+Item[0]: Coins [995, 56000000]
+
+
+
+2015-05-08 13:50:04.588: [Slightlyop]:
+Item[0]: Coins [995, 106000000]
+
+
+
+2015-05-09 11:34:11.869: [My99capes]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-09 11:34:51.469: [My99capes]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-09 17:15:10.332: [Scizor]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-09 17:15:48.738: [Scizor]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-09 17:16:37.328: [Scizor]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-09 17:17:42.727: [Scizor]:
+Item[0]: Coins [995, 95000000]
+
+
+
+2015-05-09 17:20:40.922: [Scizor]:
+Item[0]: Coins [995, 75000000]
+
+
+
+2015-05-09 17:22:50.522: [Bad Pker]:
+Item[0]: Coins [995, 65000000]
+
+
+
+2015-05-09 17:24:32.537: [Bad Pker]:
+Item[0]: Coins [995, 110000000]
+
+
+
+2015-05-09 17:25:07.937: [Bad Pker]:
+Item[0]: Coins [995, 110000000]
+
+
+
+2015-05-09 17:25:46.338: [Bad Pker]:
+Item[0]: Abyssal vine whip [21371, 1]
+
+
+
+2015-05-09 17:37:25.340: [Bad Pker]:
+Item[0]: Coins [995, 30000000]
+Item[1]: Onyx [6574, 1]
+
+
+
+2015-05-09 17:37:58.328: [Bad Pker]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-09 17:38:24.141: [Bad Pker]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+
+
+
+2015-05-09 17:39:04.369: [Bad Pker]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Armadyl chestplate [11720, 1]
+Item[2]: Saradomin godsword [11698, 1]
+Item[3]: Dharok's platelegs [4723, 1]
+Item[4]: Onyx [6574, 3]
+Item[5]: Karil's coif [4732, 1]
+Item[6]: Karil's coif [4732, 1]
+Item[7]: Karil's skirt [4739, 2]
+Item[8]: Warrior ring [6736, 1]
+Item[9]: Karil's coif [4732, 1]
+Item[10]: Gold ore [445, 4066]
+Item[11]: Dragon boots [11732, 1]
+Item[12]: Fury shark [20429, 1]
+Item[13]: Fury shark [20429, 1]
+Item[14]: Guthix halo [18744, 1]
+
+
+
+2015-05-09 17:41:42.138: [Keddeflopp]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Dragon platebody [14479, 1]
+Item[2]: Abyssal whip [4151, 1]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Coins [995, 15000000]
+
+
+
+2015-05-10 09:06:31.707: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:12:07.091: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:13:27.491: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:14:05.291: [Quuel]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 09:14:57.487: [Quuel]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-10 09:17:43.106: [Quuel]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 09:18:17.906: [Quuel]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 09:19:08.890: [Quuel]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-10 09:21:17.307: [Quuel]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-10 09:27:53.915: [Quuel]:
+Item[0]: Mystic robe bottom [4094, 1]
+Item[1]: Armadyl rune [21773, 72]
+Item[3]: Splitbark legs [3389, 1]
+Item[4]: Splitbark body [3387, 1]
+Item[5]: Dragon boots [11732, 1]
+Item[6]: Splitbark helm [3385, 1]
+Item[7]: Hand cannon shot [15243, 812]
+Item[8]: Dragon platelegs (or) [19338, 1]
+Item[9]: Gold bar [2358, 72]
+Item[10]: Shards of armadyl [21776, 150]
+Item[11]: Mystic robe top [4092, 1]
+
+
+
+2015-05-10 09:28:31.110: [Quuel]:
+Item[0]: Mystic robe bottom [4094, 1]
+Item[1]: Mystic robe top [4092, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Dragon platelegs (or) [19338, 1]
+Item[4]: Gold bar [2358, 72]
+Item[5]: Shards of armadyl [21776, 150]
+Item[6]: Armadyl rune [21773, 72]
+Item[7]: Hand cannon shot [15243, 812]
+Item[8]: Splitbark helm [3385, 1]
+Item[9]: Splitbark body [3387, 1]
+Item[10]: Splitbark legs [3389, 1]
+Item[11]: Saradomin sword [11731, 1]
+
+
+
+2015-05-10 09:34:28.134: [Quuel]:
+Item[0]: Mystic robe bottom [4094, 1]
+Item[1]: Mystic robe top [4092, 1]
+Item[2]: Dragon halberd [3205, 1]
+
+
+
+2015-05-14 12:43:22.637: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-14 12:44:21.439: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-14 12:45:07.638: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-14 12:46:52.626: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-14 12:47:57.438: [[Og Scripts, dyzewihe; 172.11.156.157, C0-14-3D-CF-10-E3]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-14 12:54:55.033: [[Quuel, omg123; 87.48.69.177, 54-27-1E-50-ED-47]]:
+My Item[0]: Coins [995, 70000000]
+Other Item[0]: Abyssal vine whip [21371, 1]
+
+
+
+2015-05-14 13:11:46.645: [[Radical, Smack1down; 71.62.152.250, 68-94-23-8D-5C-45]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-14 13:13:07.646: [[Radical, Smack1down; 71.62.152.250, 68-94-23-8D-5C-45]]:
+My Item[0]: Coins [995, 80000000]
+Other Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-14 13:13:41.237: [[Radical, Smack1down; 71.62.152.250, 68-94-23-8D-5C-45]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-14 13:14:17.238: [[Radical, Smack1down; 71.62.152.250, 68-94-23-8D-5C-45]]:
+My Item[1]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-14 13:14:49.648: [[Radical, Smack1down; 71.62.152.250, 68-94-23-8D-5C-45]]:
+My Item[0]: Coins [995, 199358265]
+My Item[1]: Zamorak platelegs [2655, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-18 12:45:53.079: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 43125242]
+My Item[1]: Armadyl chainskirt [11722, 1]
+My Item[2]: Armadyl hilt [11702, 1]
+My Item[3]: Amulet of fury [6585, 1]
+My Item[4]: Steadfast boots [21787, 1]
+My Item[5]: Spirit shield [13734, 1]
+My Item[6]: Dragon chainbody [3140, 1]
+My Item[7]: Amulet of glory (t4) [10354, 1]
+My Item[8]: Armadyl chestplate [11720, 1]
+My Item[9]: Armadyl helmet [11718, 1]
+My Item[10]: Zamorakian spear [11716, 1]
+My Item[11]: Dragon boots [11733, 2]
+My Item[12]: Rune bar [2364, 180]
+My Item[13]: Gold bar [2358, 72]
+My Item[14]: Dragon sq shield [1187, 1]
+My Item[15]: Armadyl rune [21773, 15]
+Other Item[0]: Coins [995, 285000000]
+
+
+
+2015-05-18 12:49:20.673: [[Manacaymx, phase10ten; 71.180.45.243, F8-16-54-57-45-8B]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-18 12:51:03.295: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Armadyl hilt [11702, 1]
+My Item[1]: Armadyl chainskirt [11722, 1]
+My Item[2]: Steadfast boots [21787, 1]
+My Item[3]: Spirit shield [13734, 1]
+My Item[4]: Armadyl helmet [11718, 1]
+My Item[5]: Armadyl chestplate [11720, 1]
+My Item[6]: Dragon boots [11733, 2]
+My Item[7]: Gold bar [2358, 72]
+My Item[8]: Rune bar [2364, 180]
+My Item[9]: Coins [995, 43125242]
+My Item[10]: Amulet of fury [6585, 1]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-18 13:17:14.121: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Saradomin's tear [8027, 1]
+My Item[1]: Saradomin godsword [11699, 1]
+My Item[2]: Statius's warhammer [13903, 1]
+My Item[3]: Steadfast boots [21788, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Vesta's spear [13906, 1]
+Other Item[2]: Statius's warhammer [13903, 1]
+Other Item[3]: Saradomin godsword [11699, 1]
+Other Item[4]: Amulet of fury [6586, 1]
+
+
+
+2015-05-18 13:20:05.720: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Coins [995, 23125242]
+My Item[1]: Warrior ring [6736, 1]
+My Item[2]: Zamorakian spear [11717, 1]
+My Item[3]: Armadyl helmet [11719, 1]
+My Item[4]: Armadyl chainskirt [11723, 1]
+My Item[5]: Armadyl hilt [11703, 1]
+My Item[6]: Dragon boots [11733, 2]
+My Item[7]: Amulet of fury [6586, 2]
+My Item[8]: Dragon chainbody [3141, 1]
+My Item[9]: Spirit shield [13735, 1]
+My Item[10]: Amulet of glory (t4) [10355, 1]
+My Item[11]: Armadyl chestplate [11721, 1]
+My Item[12]: Guthan's helm [4725, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Saradomin's tear [8027, 1]
+Other Item[2]: Zamorak godsword [11701, 1]
+Other Item[3]: Korasi's sword [19780, 1]
+Other Item[4]: Statius's warhammer [13903, 1]
+
+
+
+2015-05-18 13:24:30.317: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Korasi's sword [19780, 1]
+My Item[1]: Saradomin's tear [8027, 1]
+My Item[2]: Saradomin's tear [8027, 1]
+My Item[3]: Zamorak godsword [11701, 2]
+My Item[4]: Armadyl hilt [11703, 1]
+My Item[5]: Warrior ring [6736, 1]
+My Item[6]: Statius's warhammer [13903, 1]
+My Item[7]: Armadyl chainskirt [11723, 1]
+My Item[8]: Armadyl helmet [11719, 4]
+My Item[9]: Zamorakian spear [11717, 1]
+My Item[10]: Vesta's spear [13906, 1]
+My Item[11]: Coins [995, 23125242]
+My Item[12]: Corrupt statius's platebody [13909, 1]
+My Item[13]: Steadfast boots [21788, 1]
+My Item[15]: Bandos godsword [11697, 1]
+My Item[16]: Spirit shield [13735, 1]
+My Item[17]: Amulet of glory (t4) [10355, 1]
+My Item[18]: Amulet of fury [6586, 2]
+My Item[19]: Dragon chainbody [3141, 1]
+My Item[20]: Guthan's helm [4725, 1]
+Other Item[0]: Third-age druidic robe [19321, 1]
+Other Item[1]: Statius's warhammer [13903, 2]
+Other Item[2]: Vesta's spear [13906, 1]
+Other Item[3]: Saradomin godsword [11699, 5]
+Other Item[4]: Full slayer helmet [15492, 1]
+Other Item[5]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-18 13:25:35.119: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Armadyl godsword [11695, 1]
+My Item[1]: Amulet of fury [6586, 1]
+My Item[2]: Vesta's chainbody [13888, 1]
+My Item[3]: Dragon boots [11733, 2]
+Other Item[0]: Saradomin godsword [11699, 3]
+Other Item[1]: Coins [995, 5000000]
+
+
+
+2015-05-18 13:26:08.720: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Saradomin godsword [11699, 3]
+My Item[1]: Armadyl godsword [11695, 1]
+My Item[2]: Dragon boots [11733, 2]
+My Item[3]: Vesta's chainbody [13888, 1]
+My Item[4]: Amulet of fury [6586, 1]
+My Item[5]: Coins [995, 5000000]
+Other Item[0]: Corrupt statius's platebody [13909, 1]
+Other Item[1]: Zamorak godsword [11701, 2]
+Other Item[2]: Statius's warhammer [13903, 2]
+Other Item[3]: Vesta's spear [13906, 1]
+Other Item[4]: Korasi's sword [19780, 1]
+Other Item[5]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-18 13:26:47.120: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Vesta's chainbody [13888, 1]
+My Item[1]: Amulet of fury [6586, 1]
+My Item[2]: Saradomin godsword [11699, 3]
+My Item[3]: Armadyl godsword [11695, 1]
+My Item[4]: Dragon boots [11733, 2]
+My Item[5]: Coins [995, 5000000]
+Other Item[0]: Saradomin godsword [11699, 1]
+Other Item[1]: Zamorak godsword [11701, 1]
+Other Item[2]: Vesta's spear [13906, 2]
+Other Item[3]: Statius's warhammer [13903, 3]
+
+
+

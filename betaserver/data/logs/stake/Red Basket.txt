@@ -1,0 +1,90 @@
+2015-04-06 02:42:58.541: [Gang Member]:
+Item[0]: Dragon full helm (or) [19336, 1]
+Item[1]: Coins [995, 40000000]
+
+
+
+2015-04-06 02:43:48.328: [Gang Member]:
+Item[0]: Coins [995, 90000000]
+Item[1]: Dragon full helm (or) [19336, 1]
+Item[2]: Anti-poison totem [18340, 1]
+
+
+
+2015-04-06 02:45:42.929: [Gang Member]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+Item[1]: Dragon chainbody [3140, 1]
+Item[2]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-07 22:31:41.460: [Victor]:
+Item[0]: Coins [995, 17000000]
+
+
+
+2015-04-07 22:32:50.460: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-07 22:33:58.270: [Vip3rcouch]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-07 22:35:30.067: [Victor]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-07 22:36:34.867: [Victor]:
+Item[0]: Coins [995, 19000000]
+
+
+
+2015-04-07 22:37:36.060: [Vip3rcouch]:
+Item[0]: Coins [995, 12000000]
+
+
+
+2015-04-07 22:38:40.270: [Victor]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-07 22:40:00.068: [Vip3rcouch]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-07 22:41:01.271: [Victor]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-07 22:42:54.697: [Victor]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-08 00:04:40.313: [Noob Killa]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-08 00:05:42.742: [Noob Killa]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-08 00:07:06.142: [Noob Killa]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-08 00:08:29.513: [Noob Killa]:
+Item[0]: Coins [995, 100000000]
+
+
+

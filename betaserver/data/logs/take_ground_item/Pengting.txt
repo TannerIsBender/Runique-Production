@@ -1,0 +1,14 @@
+Item Telegrabbed: Blood rune [565, 192 - [2525, 9465, 0]] - 2015-04-17 20:33:22.092
+Item Telegrabbed: Death rune [560, 194 - [2525, 9465, 0]] - 2015-04-17 20:33:29.297
+Item Telegrabbed: Dragon bolts (e) [9244, 26 - [2525, 9465, 0]] - 2015-04-17 20:33:34.696
+Item Telegrabbed: Dragon dagger (p++) [5698, 1 - [2525, 9465, 0]] - 2015-04-17 20:33:37.696
+Item Telegrabbed: Water rune [555, 294 - [2525, 9465, 0]] - 2015-04-17 20:33:41.297
+Item Telegrabbed: Steel of legends scroll [12825, 20 - [2525, 9465, 0]] - 2015-04-17 20:33:46.693
+Item Telegrabbed: Amulet of glory (4) [1712, 1 - [2525, 9465, 0]] - 2015-04-17 20:33:52.697
+Item Telegrabbed: Rune crossbow [9185, 1 - [2525, 9465, 0]] - 2015-04-17 20:34:06.496
+Item Telegrabbed: Super restore (4) [3024, 1 - [2525, 9465, 0]] - 2015-04-17 20:34:13.692
+Item Telegrabbed: Black d'hide chaps [2497, 1 - [2525, 9465, 0]] - 2015-04-17 20:34:20.897
+Item Telegrabbed: Black d'hide body [2503, 1 - [2525, 9465, 0]] - 2015-04-17 20:34:23.897
+Item Telegrabbed: Steel titan pouch [12790, 1 - [2525, 9465, 0]] - 2015-04-17 20:34:31.693
+Item Telegrabbed: Super restore (4) [3024, 1 - [2525, 9465, 0]] - 2015-04-17 20:34:35.297
+Item Telegrabbed: Green charm [12159, 4 - [2522, 9461, 0]] - 2015-04-17 20:34:52.696

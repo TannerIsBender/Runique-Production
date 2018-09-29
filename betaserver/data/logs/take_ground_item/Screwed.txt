@@ -1,0 +1,5 @@
+Item Taken: Gold charm [12158, 5 - position=[2677, 3714, 0]] - 2015-03-24 21:26:43.974
+Item Taken: Blue charm [12163, 1 - position=[2677, 3714, 0]] - 2015-03-24 21:26:54.180
+Item Taken: Gold charm [12158, 7 - position=[2678, 3714, 0]] - 2015-03-24 21:32:47.572
+Item Taken: Gold charm [12158, 6 - position=[2669, 3716, 0]] - 2015-03-24 21:37:59.595
+Item Taken: Gold charm [12158, 4 - position=[2670, 3716, 0]] - 2015-03-24 21:39:27.180

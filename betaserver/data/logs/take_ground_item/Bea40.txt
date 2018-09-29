@@ -1,0 +1,12 @@
+Item Taken: Clue scroll (easy) [2677, 1 - position=[2671, 3728, 0]] - 2015-03-24 11:08:30.411
+Item Taken: Coins [995, 76942 - position=[2671, 3728, 0]] - 2015-03-24 11:08:34.599
+Item Taken: Coins [995, 332809 - position=[2672, 3728, 0]] - 2015-03-24 11:10:36.396
+Item Taken: Coins [995, 312683 - position=[2673, 3728, 0]] - 2015-03-24 11:12:05.796
+Item Taken: Air rune [556, 6 - position=[3092, 3496, 0]] - 2015-03-24 11:30:25.019
+Item Taken: Coins [995, 40553 - position=[2673, 3728, 0]] - 2015-03-24 11:33:43.611
+Item Taken: Coins [995, 332950 - position=[2674, 3727, 0]] - 2015-03-24 12:09:07.058
+Item Taken: Coins [995, 104508 - position=[2670, 3727, 0]] - 2015-03-25 11:01:44.095
+Item Taken: Coins [995, 299057 - position=[2670, 3729, 0]] - 2015-03-25 11:01:48.895
+Item Taken: Coins [995, 257166 - position=[2670, 3727, 0]] - 2015-03-25 11:10:15.895
+Item Taken: Grimy tarromin [204, 5 - position=[2672, 3728, 0]] - 2015-03-25 11:18:13.496
+Item Taken: Coins [995, 370372 - position=[2671, 3729, 0]] - 2015-03-25 11:18:16.495

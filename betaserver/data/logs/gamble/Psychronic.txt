@@ -1,0 +1,72 @@
+2015-05-04 00:19:18.637: [Josh]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-04 00:26:47.421: [Josh]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 00:29:09.039: [Josh]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 00:30:19.239: [Josh]:
+Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-04 00:46:48.069: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 00:52:45.663: [Nostalgia]:
+Item[0]: Green partyhat [1044, 1]
+
+
+
+2015-05-04 19:04:26.141: [Nostalgia]:
+Item[0]: Coins [995, 800000000]
+
+
+
+2015-05-04 19:06:23.738: [Nostalgia]:
+Item[0]: Coins [995, 700000000]
+
+
+
+2015-05-04 20:56:33.431: [Dynamic]:
+Item[0]: Green partyhat [1044, 1]
+
+
+
+2015-05-04 20:58:05.230: [Dynamic]:
+Item[0]: Santa hat [1050, 1]
+Item[1]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-04 20:59:40.630: [Dynamic]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 21:04:55.022: [Dynamic]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Green partyhat [1044, 1]
+
+
+
+2015-05-04 21:12:52.636: [Dynamic]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-04 21:25:23.269: [Zoomkill]:
+Item[0]: Red partyhat [1038, 1]
+
+
+

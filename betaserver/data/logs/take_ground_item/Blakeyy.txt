@@ -1,0 +1,8 @@
+Item Taken: Bones [526, 1 - position=[2677, 3715, 0]] - 2015-03-24 00:41:04.229
+Item Taken: Bones [526, 1 - position=[2678, 3716, 0]] - 2015-03-24 00:41:07.220
+Item Taken: Bones [526, 1 - position=[2679, 3718, 0]] - 2015-03-24 00:41:10.821
+Item Taken: Bones [526, 1 - position=[2679, 3719, 0]] - 2015-03-24 00:41:12.621
+Item Taken: Bones [526, 1 - position=[2677, 3718, 0]] - 2015-03-24 00:41:14.419
+Item Taken: Bones [526, 1 - position=[2676, 3717, 0]] - 2015-03-24 00:41:17.426
+Item Taken: Bones [526, 1 - position=[2676, 3717, 0]] - 2015-03-24 00:41:18.619
+Item Taken: Bones [526, 1 - position=[2680, 3717, 0]] - 2015-03-24 00:41:22.819

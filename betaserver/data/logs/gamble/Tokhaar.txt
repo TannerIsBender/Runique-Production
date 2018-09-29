@@ -1,0 +1,243 @@
+2015-04-15 14:05:52.362: [Aurora]:
+Item[0]: Corrupt vesta's chainbody [13911, 1]
+
+
+
+2015-04-15 14:22:16.378: [Aurora]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-15 14:25:52.983: [Aurora]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 15:23:22.418: [St3alth Skil]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-15 15:25:33.232: [St3alth Skil]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-15 15:30:06.219: [Dare]:
+Item[0]: Coins [995, 60000000]
+
+
+
+2015-04-15 15:31:24.219: [Dare]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-04-15 17:28:29.700: [St3alth Skil]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-15 17:31:03.294: [Chappy]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-15 17:31:55.478: [Chappy]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-15 17:32:57.900: [Chappy]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-16 16:27:56.921: [Pascaladium]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-16 16:30:00.531: [Thug Life]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 16:31:27.532: [Thug Life]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-16 16:32:29.313: [Thug Life]:
+Item[0]: Coins [995, 15610729]
+
+
+
+2015-04-16 16:36:03.542: [Pascaladium]:
+Item[0]: Abyssal whip [15442, 1]
+Item[1]: Corrupt morrigan's leather body [13944, 1]
+Item[2]: Corrupt morrigan's coif [13950, 1]
+
+
+
+2015-04-16 16:38:20.342: [Thug Life]:
+Item[0]: Coins [995, 25000725]
+
+
+
+2015-04-16 16:42:32.342: [Thug Life]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 16:43:20.347: [Thug Life]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 16:44:29.940: [Thug Life]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 16:46:15.547: [Thug Life]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-16 16:47:01.747: [Thug Life]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 16:48:58.147: [Thug Life]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:49:38.941: [Thug Life]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:51:02.342: [Thug Life]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:51:56.941: [Thug Life]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:53:43.744: [Untouchedtea]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:54:32.947: [Thug Life]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:55:20.347: [Thug Life]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 16:57:01.144: [Thug Life]:
+Item[0]: Coins [995, 54000000]
+
+
+
+2015-04-16 16:58:40.731: [Haon]:
+Item[0]: Vote Ticket [13256, 1]
+
+
+
+2015-04-16 17:07:24.547: [Best Slayer]:
+
+
+
+2015-04-16 17:08:10.762: [Gibby]:
+Item[0]: Morrigan's leather chaps [13873, 1]
+
+
+
+2015-04-16 17:09:17.943: [Gibby]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 17:13:15.562: [Zarox]:
+Item[0]: Coins [995, 20000000]
+
+
+
+2015-04-16 17:17:02.961: [Zarox]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Coins [995, 50000000]
+
+
+
+2015-04-16 17:19:36.561: [The J]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-16 17:20:17.963: [The J]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-16 17:23:31.163: [The J]:
+Item[0]: Coins [995, 35139690]
+
+
+
+2015-04-17 18:44:49.623: [Baked Player]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-04-17 18:45:41.243: [Baked Player]:
+Item[0]: Corrupt statius's warhammer [13926, 1]
+
+
+
+2015-05-02 05:28:13.261: [Davetherave]:
+Item[0]: Gas mask [1506, 1]
+Item[1]: Corrupt zuriel's robe bottom [13935, 1]
+Item[2]: Bandos boots [11728, 1]
+Item[3]: Corrupt zuriel's staff [13941, 1]
+Item[4]: White robin hood hat [20952, 1]
+
+
+
+2015-05-02 05:39:49.884: [Davetherave]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-02 05:40:22.883: [Davetherave]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-02 05:41:32.465: [Davetherave]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-02 05:42:52.278: [Davetherave]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-24 14:09:29.865: [[Dank Bank, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[1]: Coins [995, 24000000]
+Other Item[0]: Coins [995, 24000000]
+
+
+

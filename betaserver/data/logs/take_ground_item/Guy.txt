@@ -1,0 +1,4 @@
+Item Taken: Corrupt dragon med helm [13961, 1 - position=[3093, 3496, 0]] - 2015-03-24 01:01:11.443
+Item Taken: Clue scroll (medium) [2801, 1 - position=[2672, 3716, 0]] - 2015-03-24 01:04:34.842
+Item Taken: Coins [995, 289304 - position=[2671, 3714, 0]] - 2015-03-24 01:11:32.445
+Item Taken: Big bones [532, 1 - position=[3153, 4277, 3]] - 2015-03-24 01:20:02.442

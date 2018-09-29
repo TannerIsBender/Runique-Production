@@ -1,0 +1,7 @@
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:32.758
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:33.958
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:34.545
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:35.158
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:40.558
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:42.958
+Item Taken: Iron bar [2351, 1 - position=[3106, 3499, 0]] - 2015-03-24 09:42:43.545

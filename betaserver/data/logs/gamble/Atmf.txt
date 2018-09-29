@@ -1,0 +1,30 @@
+2015-05-25 01:15:15.962: [[Webtastic, titleistboy; 73.208.100.11, 5C-F9-38-9F-78-28]]:
+My Item[0]: Coins [995, 8295380]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-26 23:05:06.880: [[Skillsuckv2, hectorockc209; 24.41.162.2, 9C-B7-0D-19-1C-95]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-26 23:05:32.090: [[Skillsuckv2, hectorockc209; 24.41.162.2, 9C-B7-0D-19-1C-95]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-26 23:10:09.295: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 12500000]
+Other Item[0]: Black ibis mask [21534, 1]
+
+
+
+2015-05-26 23:10:26.695: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Coins [995, 12500000]
+Other Item[0]: Black ibis mask [21534, 1]
+
+
+

@@ -1,0 +1,328 @@
+2015-04-01 23:29:11.458: [Noko Pk]:
+Item[0]: Gold bar [2357, 1]
+
+
+
+2015-04-01 23:30:16.258: [Noko Pk]:
+
+
+
+2015-04-01 23:30:59.458: [Noko Pk]:
+
+
+
+2015-04-01 23:37:28.842: [Noko Pk]:
+Item[0]: Gold bar [2357, 1]
+
+
+
+2015-04-01 23:38:54.648: [Noko Pk]:
+
+
+
+2015-04-01 23:41:28.242: [Noko Pk]:
+
+
+
+2015-04-02 17:46:35.526: [Noko Pk]:
+
+
+
+2015-04-02 17:48:04.927: [Noko Pk]:
+
+
+
+2015-04-02 17:49:01.895: [Noko Pk]:
+
+
+
+2015-04-02 17:49:46.927: [Noko Pk]:
+
+
+
+2015-04-02 17:51:43.926: [Noko Pk]:
+
+
+
+2015-04-02 18:20:13.919: [The J]:
+Item[0]: Coins [995, 5000500]
+
+
+
+2015-04-02 18:22:21.719: [The J]:
+Item[0]: Coins [995, 10271032]
+
+
+
+2015-04-02 18:23:20.527: [The J]:
+Item[0]: Coins [995, 15271032]
+
+
+
+2015-04-02 18:24:58.927: [The J]:
+Item[0]: Coins [995, 10000000]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 19:17:19.957: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 19:18:14.549: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 19:19:08.557: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 19:26:03.180: [Raped]:
+Item[0]: Coins [995, 15085904]
+
+
+
+2015-04-02 19:28:05.579: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Coins [995, 5085904]
+
+
+
+2015-04-02 19:32:19.980: [Raped]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-02 19:39:27.170: [Raped]:
+Item[0]: Coins [995, 15000000]
+
+
+
+2015-04-02 20:03:07.980: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:05:27.795: [Raped]:
+Item[0]: Coins [995, 25085909]
+
+
+
+2015-04-02 20:06:36.796: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:11:45.794: [Raped]:
+Item[0]: Coins [995, 1085909]
+
+
+
+2015-04-02 20:40:13.393: [Raped]:
+Item[0]: Coins [995, 5000909]
+
+
+
+2015-04-02 20:41:34.395: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:42:24.193: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:44:21.195: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:47:42.199: [Raped]:
+Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:50:50.000: [Raped]:
+Item[0]: Helm of neitiznot [10828, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Apprentice wand [6910, 1]
+Item[3]: Apprentice wand [6910, 1]
+Item[5]: Coins [995, 47735909]
+Item[6]: Dragon boots [11732, 1]
+Item[7]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:53:33.796: [Raped]:
+Item[0]: Armadyl helmet [11718, 1]
+Item[1]: Zamorakian spear [11716, 1]
+Item[2]: Coins [995, 47735909]
+Item[3]: Dragon boots [11732, 1]
+Item[4]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 20:58:59.005: [Raped]:
+Item[0]: Statius's full helm [13896, 1]
+Item[1]: Coins [995, 47735909]
+Item[2]: Armadyl helmet [11718, 1]
+Item[3]: Zamorakian spear [11716, 1]
+Item[4]: Dragon boots [11732, 1]
+Item[5]: Dragon boots [11732, 1]
+
+
+
+2015-04-02 21:01:37.411: [Raped]:
+
+
+
+2015-04-02 21:03:42.818: [Raped]:
+
+
+
+2015-04-02 21:04:45.811: [Raped]:
+
+
+
+2015-04-02 21:05:49.411: [Raped]:
+
+
+
+2015-04-02 21:08:56.027: [Noko Pk]:
+
+
+
+2015-04-02 21:09:55.412: [Noko Pk]:
+
+
+
+2015-04-10 16:05:41.544: [Manz No Ownz]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-10 16:06:27.145: [Manz No Ownz]:
+Item[0]: Coins [995, 4000000]
+
+
+
+2015-04-10 16:07:33.144: [Manz No Ownz]:
+Item[0]: Coins [995, 6000000]
+
+
+
+2015-04-10 16:11:47.543: [That Qwerti]:
+Item[0]: Coins [995, 1781595]
+Item[1]: Rune kiteshield [1201, 1]
+Item[2]: Rune kiteshield [1201, 1]
+
+
+
+2015-04-10 16:13:59.543: [That Qwerti]:
+Item[0]: Coins [995, 1500895]
+
+
+
+2015-04-10 17:17:17.591: [The J]:
+Item[0]: Coins [995, 5000000]
+
+
+
+2015-04-10 20:00:02.091: [Noko3456]:
+Item[0]: Vial [229, 1]
+Item[1]: Vial [229, 1]
+Item[2]: Vial [229, 1]
+Item[3]: Vial [229, 1]
+Item[4]: Vial [229, 1]
+Item[5]: Vial [229, 1]
+Item[6]: Vial [229, 1]
+Item[7]: Vial [229, 1]
+Item[8]: Vial [229, 1]
+Item[9]: Vial [229, 1]
+Item[10]: Vial [229, 1]
+Item[11]: Vial [229, 1]
+
+
+
+2015-04-10 20:01:15.891: [Noko3456]:
+
+
+
+2015-04-10 20:04:34.491: [Noko3456]:
+
+
+
+2015-04-11 01:16:12.475: [Try Hardz]:
+Item[0]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-04-11 01:18:00.468: [Try Hardz]:
+Item[0]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-04-11 01:33:55.091: [Try Hardz]:
+Item[1]: Dragon square shield (or) [19340, 1]
+
+
+
+2015-04-11 01:35:53.891: [Try Hardz]:
+Item[0]: Dragon full helm (sp) [19341, 1]
+
+
+
+2015-04-11 01:38:17.306: [That Qwerti]:
+Item[0]: Coins [995, 5000364]
+
+
+
+2015-04-11 01:39:21.507: [Try Hardz]:
+Item[0]: Dragon full helm (sp) [19341, 1]
+Item[1]: Dragon platebody ornament kit (sp) [19358, 1]
+
+
+
+2015-04-11 01:40:49.092: [Try Hardz]:
+Item[0]: Coins [995, 16897000]
+
+
+
+2015-04-11 01:42:40.693: [Try Hardz]:
+Item[0]: Coins [995, 25897000]
+
+
+
+2015-04-13 00:28:21.365: [To Legit]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-13 00:29:32.168: [To Legit]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-13 00:30:31.580: [To Legit]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+
+2015-04-13 00:31:36.974: [To Legit]:
+Item[0]: Coins [995, 25000000]
+
+
+
+2015-04-13 00:32:24.374: [To Legit]:
+Item[0]: Corrupt vesta's spear [13929, 1]
+
+
+

@@ -1,0 +1,9 @@
+Item Taken: Bronze hatchet [1351, 1 - position=[3095, 3502, 0]] - 2015-03-24 09:39:34.546
+Item Taken: Bones [526, 1 - position=[2711, 3727, 0]] - 2015-03-24 10:06:49.565
+Item Taken: Coins [995, 323486 - position=[2720, 3728, 0]] - 2015-03-24 10:10:40.575
+Item Taken: Coins [995, 35000 - position=[2323, 3795, 0]] - 2015-03-24 10:16:33.370
+Item Taken: Yak-hide [10818, 1 - position=[2323, 3795, 0]] - 2015-03-24 10:16:35.775
+Item Taken: Coins [995, 35000 - position=[2323, 3795, 0]] - 2015-03-24 10:19:27.380
+Item Taken: Yak-hide [10818, 1 - position=[2323, 3795, 0]] - 2015-03-24 10:19:29.180
+Item Taken: Coins [995, 35000 - position=[2323, 3795, 0]] - 2015-03-24 10:22:35.175
+Item Taken: Yak-hide [10818, 1 - position=[2323, 3795, 0]] - 2015-03-24 10:22:39.975

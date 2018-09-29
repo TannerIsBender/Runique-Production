@@ -1,0 +1,356 @@
+2015-04-17 20:01:22.089: [Deth]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 20:58:22.086: [Arasta]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-22 18:44:43.002: [Pascaladium]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-22 18:45:51.396: [Pascaladium]:
+Item[0]: Coins [995, 100000000]
+
+
+
+2015-04-25 21:57:58.849: [Kabooyah]:
+Item[0]: Chaotic rapier [18349, 1]
+Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-04-27 20:32:38.568: [Nostalgia]:
+Item[0]: Green partyhat [1045, 1]
+
+
+
+2015-05-02 11:17:46.784: [Gibby]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-02 11:21:52.183: [Gibby]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-02 11:22:27.006: [Gibby]:
+Item[0]: Coins [995, 80000000]
+
+
+
+2015-05-02 11:25:02.384: [Ch33sek1ng]:
+Item[0]: Coins [995, 70000000]
+
+
+
+2015-05-02 12:00:04.231: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+
+
+
+2015-05-02 12:02:19.215: [Nostalgia]:
+Item[0]: Red partyhat [1038, 1]
+Item[1]: Red partyhat [1038, 1]
+
+
+
+2015-05-02 12:05:31.815: [Nostalgia]:
+Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-02 12:08:38.431: [Nostalgia]:
+Item[0]: Pernix body [20152, 1]
+Item[1]: Pernix chaps [20156, 1]
+Item[2]: Pernix cowl [20148, 1]
+Item[3]: Armadyl crossbow [11786, 1]
+Item[4]: Coins [995, 1900000000]
+
+
+
+2015-05-02 12:29:55.235: [Nostalgia]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Full slayer helmet [15492, 1]
+Item[2]: Glaiven boots [21791, 3]
+Item[3]: Ragefire boots [21794, 2]
+Item[4]: Armadyl helmet [11719, 4]
+Item[5]: Dragon boots [11733, 3]
+Item[6]: Amulet of fury (or) [19335, 1]
+Item[7]: Amulet of fury (or) [19335, 1]
+Item[8]: Black cavalier [2644, 1]
+Item[9]: Corrupt vesta's longsword [13924, 1]
+Item[10]: Bandos godsword [11697, 2]
+Item[11]: Zuriel's robe top [13859, 2]
+Item[12]: Corrupt statius's platelegs [13915, 1]
+Item[13]: Statius's platebody [13885, 1]
+Item[14]: Bandos tassets [11727, 1]
+Item[15]: Dragon pickaxe [15260, 2]
+
+
+
+2015-05-02 12:31:51.062: [Nostalgia]:
+Item[0]: Amulet of ranging [15127, 2]
+Item[1]: Eagle-eye kiteshield [18361, 1]
+Item[2]: Zamorakian spear [11717, 2]
+Item[3]: Abyssal whip [15441, 1]
+Item[4]: Novite chainbody [16714, 1]
+Item[5]: Arcane stream necklace [18335, 1]
+Item[6]: Arcane stream necklace [18335, 1]
+Item[7]: Novite plateskirt [16648, 1]
+Item[8]: Novite gauntlets [16274, 1]
+Item[9]: Staff of light [22210, 1]
+Item[10]: Staff of light [22212, 1]
+Item[11]: Staff of light [22212, 1]
+Item[13]: Full slayer helmet [15492, 1]
+Item[14]: Dragon claws [14485, 1]
+Item[15]: Arcane stream necklace [18335, 1]
+Item[16]: Statius's full helm [13897, 1]
+Item[17]: Vesta's plateskirt [13894, 2]
+Item[18]: Gnome scarf [9471, 1]
+
+
+
+2015-05-02 12:33:04.862: [Nostalgia]:
+Item[0]: Divine spirit shield [13741, 2]
+Item[1]: Vesta's chainbody [13888, 2]
+Item[2]: Vesta's plateskirt [13894, 2]
+Item[3]: Novite chainbody [16714, 1]
+Item[4]: Amulet of ranging [15127, 2]
+Item[5]: Novite gauntlets [16274, 1]
+Item[6]: Novite plateskirt [16648, 1]
+Item[7]: Virtus robe legs [20168, 1]
+Item[8]: Dragon claws [14485, 1]
+Item[9]: Statius's full helm [13897, 1]
+Item[10]: Full slayer helmet [15492, 1]
+Item[11]: Zamorakian spear [11717, 2]
+Item[12]: Eagle-eye kiteshield [18361, 1]
+Item[13]: Arcane stream necklace [18335, 1]
+Item[14]: Abyssal whip [15441, 1]
+Item[15]: Arcane stream necklace [18335, 1]
+Item[16]: Fighter torso [10551, 1]
+Item[17]: Arcane stream necklace [18335, 1]
+Item[18]: Gnome scarf [9471, 1]
+Item[19]: Berserker ring [6738, 1]
+
+
+
+2015-05-02 12:34:36.062: [Nostalgia]:
+Item[0]: Glaiven boots [21791, 1]
+Item[1]: Armadyl helmet [11719, 4]
+Item[2]: Black cavalier [2644, 1]
+Item[3]: Dragon boots [11733, 3]
+Item[4]: Steadfast boots [21788, 5]
+Item[5]: Chaotic kiteshield [18359, 1]
+Item[6]: Full slayer helmet [15492, 1]
+Item[7]: Vesta's chainbody [13888, 4]
+Item[8]: Armadyl chainskirt [11723, 2]
+Item[9]: Full slayer helmet [15492, 1]
+Item[10]: Dragon full helm (or) [19336, 1]
+Item[11]: Armadyl chestplate [11721, 2]
+Item[12]: Armadyl godsword [11695, 2]
+Item[13]: Staff of light [22210, 1]
+Item[14]: Staff of light [22212, 1]
+Item[15]: Dragon platebody (or) [19337, 1]
+Item[16]: Staff of light [22212, 1]
+Item[17]: Dragon full helm (or) [19336, 1]
+Item[18]: Elysian spirit shield [13743, 1]
+Item[19]: Divine spirit shield [13741, 2]
+Item[20]: Vesta's plateskirt [13894, 2]
+
+
+
+2015-05-02 12:36:31.856: [Nostalgia]:
+Item[0]: Divine spirit shield [13741, 2]
+Item[1]: Steadfast boots [21788, 7]
+Item[2]: Vesta's plateskirt [13894, 2]
+Item[3]: Vesta's chainbody [13888, 3]
+Item[4]: Amulet of ranging [15127, 2]
+Item[5]: Novite plateskirt [16648, 1]
+Item[6]: Glaiven boots [21791, 3]
+Item[7]: Ragefire boots [21794, 2]
+Item[8]: Amulet of fury (or) [19335, 1]
+Item[9]: Elysian spirit shield [13743, 1]
+Item[10]: Armadyl chestplate [11721, 2]
+Item[11]: Armadyl chainskirt [11723, 2]
+Item[12]: Virtus robe legs [20168, 1]
+Item[13]: Novite gauntlets [16274, 1]
+Item[14]: Berserker ring [6738, 1]
+Item[15]: Gnome scarf [9471, 1]
+Item[16]: Arcane stream necklace [18335, 1]
+Item[17]: Arcane stream necklace [18335, 1]
+Item[18]: Arcane stream necklace [18335, 1]
+Item[19]: Full slayer helmet [15492, 1]
+Item[20]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-02 16:37:15.831: [Nostalgia]:
+Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-05 19:21:31.662: [Nostalgia]:
+Item[1]: Eagle-eye kiteshield [18361, 1]
+Item[2]: Staff of light [22210, 1]
+Item[3]: Dragon claws [14484, 1]
+Item[4]: Dragon platebody (or) [19337, 1]
+Item[5]: Coins [995, 28000000]
+
+
+
+2015-05-05 19:24:23.263: [Nostalgia]:
+Item[0]: Dragon platebody (or) [19337, 1]
+Item[1]: Staff of light [22210, 1]
+Item[2]: Eagle-eye kiteshield [18361, 1]
+Item[3]: Coins [995, 28000028]
+
+
+
+2015-05-05 19:25:44.863: [Nostalgia]:
+Item[0]: Dragon full helm [11335, 1]
+Item[1]: Amulet of fury [6586, 2]
+Item[2]: Red robin hood hat [20949, 1]
+Item[3]: Red robin hood hat [20949, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Vote Ticket [13256, 1]
+Item[12]: Vote Ticket [13256, 1]
+Item[13]: Vote Ticket [13256, 1]
+Item[14]: Vote Ticket [13256, 1]
+Item[15]: Vote Ticket [13256, 1]
+Item[16]: Vote Ticket [13256, 1]
+Item[17]: Vote Ticket [13256, 1]
+Item[18]: Vote Ticket [13256, 1]
+Item[19]: Vote Ticket [13256, 1]
+Item[20]: Vote Ticket [13256, 1]
+
+
+
+2015-05-05 19:26:35.868: [Nostalgia]:
+Item[0]: Fancy boots [9005, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Vote Ticket [13256, 1]
+Item[12]: Vote Ticket [13256, 1]
+Item[13]: Vote Ticket [13256, 1]
+Item[14]: Vote Ticket [13256, 1]
+Item[15]: Vote Ticket [13256, 1]
+Item[16]: Vote Ticket [13256, 1]
+Item[17]: Vote Ticket [13256, 1]
+Item[18]: Vote Ticket [13256, 1]
+Item[19]: Vote Ticket [13256, 1]
+Item[20]: Vote Ticket [13256, 1]
+
+
+
+2015-05-05 19:27:52.663: [Nostalgia]:
+Item[0]: Dragon full helm [11335, 1]
+Item[1]: Red robin hood hat [20949, 1]
+Item[2]: Red robin hood hat [20949, 1]
+Item[3]: Staff of light [22210, 1]
+Item[4]: Korasi's sword [19780, 1]
+Item[5]: Eagle-eye kiteshield [18361, 1]
+Item[6]: Dragon platebody (or) [19337, 1]
+Item[7]: Amulet of fury [6586, 2]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Vote Ticket [13256, 1]
+Item[12]: Vote Ticket [13256, 1]
+Item[13]: Vote Ticket [13256, 1]
+Item[14]: Vote Ticket [13256, 1]
+Item[15]: Vote Ticket [13256, 1]
+Item[16]: Vote Ticket [13256, 1]
+Item[17]: Vote Ticket [13256, 1]
+Item[18]: Vote Ticket [13256, 1]
+Item[19]: Vote Ticket [13256, 1]
+Item[20]: Vote Ticket [13256, 1]
+
+
+
+2015-05-05 19:31:49.663: [Nostalgia]:
+Item[0]: Coins [995, 324000000]
+Item[1]: Vesta's chainbody [13888, 1]
+Item[2]: Vesta's plateskirt [13894, 1]
+Item[3]: Amulet of fury [6586, 2]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Korasi's sword [19780, 1]
+Item[12]: Vote Ticket [13256, 1]
+
+
+
+2015-05-05 19:34:59.864: [Nostalgia]:
+Item[0]: Cooked karambwan [3145, 850]
+Item[1]: Red robin hood hat [20949, 1]
+Item[2]: Red robin hood hat [20949, 1]
+Item[3]: Dragon platebody (or) [19337, 1]
+Item[4]: Dragon full helm [11335, 1]
+Item[5]: Fancy boots [9005, 1]
+Item[6]: Vote Ticket [13256, 1]
+Item[7]: Vote Ticket [13256, 1]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Vote Ticket [13256, 1]
+Item[12]: Vote Ticket [13256, 1]
+Item[13]: Vote Ticket [13256, 1]
+Item[14]: Vote Ticket [13256, 1]
+Item[15]: Vote Ticket [13256, 1]
+Item[16]: Vote Ticket [13256, 1]
+Item[17]: Vote Ticket [13256, 1]
+Item[18]: Vote Ticket [13256, 1]
+Item[19]: Vote Ticket [13256, 1]
+Item[20]: Vote Ticket [13256, 1]
+
+
+
+2015-05-05 19:35:44.264: [Nostalgia]:
+Item[0]: Vesta's plateskirt [13894, 1]
+Item[1]: Vesta's chainbody [13888, 1]
+Item[2]: Dragon platebody (or) [19337, 1]
+Item[3]: Dragon full helm [11335, 1]
+Item[4]: Staff of light [22210, 1]
+Item[5]: Red robin hood hat [20949, 1]
+Item[6]: Red robin hood hat [20949, 1]
+Item[7]: Cooked karambwan [3145, 850]
+Item[8]: Vote Ticket [13256, 1]
+Item[9]: Vote Ticket [13256, 1]
+Item[10]: Vote Ticket [13256, 1]
+Item[11]: Vote Ticket [13256, 1]
+Item[12]: Vote Ticket [13256, 1]
+Item[13]: Vote Ticket [13256, 1]
+Item[14]: Vote Ticket [13256, 1]
+Item[15]: Vote Ticket [13256, 1]
+Item[16]: Vote Ticket [13256, 1]
+Item[17]: Vote Ticket [13256, 1]
+Item[18]: Vote Ticket [13256, 1]
+Item[19]: Vote Ticket [13256, 1]
+Item[20]: Vote Ticket [13256, 1]
+
+
+

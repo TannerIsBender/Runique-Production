@@ -1,0 +1,4 @@
+Item Taken: Bones [526, 1 - position=[2684, 3717, 0]] - 2015-03-24 12:19:15.444
+Item Taken: Bones [526, 1 - position=[2684, 3717, 0]] - 2015-03-24 12:19:23.245
+Item Taken: Bones [526, 1 - position=[2684, 3717, 0]] - 2015-03-24 12:19:31.045
+Item Taken: Babydragon bones [534, 1 - position=[2892, 9791, 0]] - 2015-03-24 12:20:24.445

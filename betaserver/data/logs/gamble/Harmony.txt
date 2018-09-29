@@ -1,0 +1,1721 @@
+2015-05-29 17:14:51.836: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Coins [995, 100000000]
+Other Item[1]: Morrigan's leather body [13871, 2]
+
+
+
+2015-05-29 17:16:17.656: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Coins [995, 100000000]
+Other Item[1]: Spectral spirit shield [13745, 1]
+
+
+
+2015-05-29 17:17:34.417: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[1]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-29 17:19:03.841: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Morrigan's leather body [13871, 2]
+My Item[1]: Chaotic rapier [18349, 1]
+Other Item[0]: Divine spirit shield [13740, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-29 17:20:47.016: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+Other Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-29 17:34:08.048: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-29 17:34:57.846: [[Kingkong, zilver1997; 77.160.36.17, 08-2E-5F-08-0B-36]]:
+My Item[0]: Chaotic staff [18355, 1]
+My Item[1]: Coins [995, 100000000]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[1]: Chaotic staff [18355, 1]
+
+
+
+2015-05-29 17:38:30.836: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Coins [995, 250000000]
+My Item[1]: Chaotic staff [18355, 1]
+My Item[2]: Chaotic maul [18353, 1]
+My Item[3]: Steadfast boots [21788, 1]
+Other Item[0]: Coins [995, 600000000]
+Other Item[1]: Spectral spirit shield [13744, 1]
+Other Item[2]: Ragefire boots [21793, 1]
+
+
+
+2015-05-29 17:40:11.033: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+My Item[2]: Ragefire boots [21793, 1]
+My Item[3]: Coins [995, 50000000]
+Other Item[0]: Arcane spirit shield [13738, 1]
+Other Item[1]: Spectral spirit shield [13744, 1]
+Other Item[2]: Steadfast boots [21788, 1]
+Other Item[3]: Coins [995, 50000000]
+Other Item[4]: Vesta's spear [13905, 1]
+Other Item[5]: Statius's warhammer [13902, 1]
+
+
+
+2015-05-29 17:40:45.237: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+My Item[2]: Ragefire boots [21793, 1]
+My Item[3]: Coins [995, 50000000]
+Other Item[0]: Steadfast boots [21788, 1]
+Other Item[1]: Coins [995, 50000000]
+Other Item[2]: Vesta's spear [13905, 1]
+Other Item[3]: Statius's warhammer [13902, 1]
+Other Item[4]: Spectral spirit shield [13744, 1]
+Other Item[5]: Arcane spirit shield [13738, 1]
+
+
+
+2015-05-29 17:44:23.037: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Statius's warhammer [13902, 1]
+My Item[3]: Vesta's spear [13905, 1]
+My Item[4]: Coins [995, 135000000]
+Other Item[0]: Vesta's chainbody [13887, 1]
+Other Item[1]: Vesta's plateskirt [13893, 1]
+Other Item[2]: Steadfast boots [21787, 1]
+Other Item[3]: Vesta's longsword [13899, 1]
+Other Item[4]: Dark bow [11236, 5]
+Other Item[5]: Ranger boots [2578, 1]
+Other Item[6]: Bandos godsword [11696, 1]
+Other Item[7]: Bandos boots [11728, 1]
+Other Item[8]: Armadyl helmet [11719, 9]
+Other Item[9]: Steadfast boots [21788, 1]
+Other Item[10]: Armadyl chainskirt [11722, 1]
+Other Item[11]: Amulet of fury [6585, 1]
+
+
+
+2015-05-29 17:47:01.437: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Vesta's spear [13905, 1]
+Other Item[2]: Statius's warhammer [13902, 1]
+Other Item[3]: Coins [995, 60000000]
+
+
+
+2015-05-29 17:49:17.046: [[Rozzab123, zxcvbnm; 90.217.225.220, 10-08-B1-B4-A2-27]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-29 18:14:26.667: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 18:32:49.490: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Coins [995, 95000000]
+Other Item[0]: Coins [995, 95000000]
+
+
+
+2015-05-29 18:33:11.091: [[Erra, mystery6; 74.77.201.75, 00-1B-77-AF-A8-CD]]:
+My Item[0]: Coins [995, 95000000]
+Other Item[0]: Coins [995, 95000000]
+
+
+
+2015-05-29 18:47:29.691: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 600000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-29 18:48:08.694: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 600000000]
+Other Item[1]: Divine spirit shield [13740, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-29 18:48:47.095: [[Gm Shawn, qwerty159; 96.23.149.23, 38-60-77-E4-DF-0B]]:
+My Item[0]: Coins [995, 600000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-29 21:31:40.611: [[G3x, appelsin8; 85.165.68.147, 48-5A-B6-19-7B-3B]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Vesta's chainbody [13887, 1]
+My Item[3]: Coins [995, 95000000]
+Other Item[0]: Divine spirit shield [13740, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+Other Item[5]: Vesta's chainbody [13887, 1]
+Other Item[6]: Coins [995, 95000000]
+
+
+
+2015-05-29 21:37:32.213: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-29 21:38:16.632: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-29 21:38:55.617: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+
+
+
+2015-05-29 21:44:22.048: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 21:45:07.038: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 22:12:05.248: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 22:12:36.448: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 22:13:14.864: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 22:13:43.663: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 22:14:28.663: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-29 22:15:13.648: [[Rust, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-30 09:50:14.201: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-30 09:56:46.633: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 09:58:50.201: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic longsword [18351, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 09:59:18.417: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic staff [18355, 1]
+My Item[1]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 09:59:48.395: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic longsword [18351, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 10:00:59.195: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+Other Item[1]: Chaotic staff [18355, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 10:01:35.195: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-30 10:02:25.601: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 10:03:11.813: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic staff [18355, 1]
+My Item[1]: Chaotic longsword [18351, 1]
+My Item[2]: Chaotic maul [18353, 1]
+My Item[3]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+Other Item[3]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-30 10:03:37.601: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 10:04:04.017: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+My Item[2]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 10:04:34.597: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-30 10:46:55.032: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-05-30 10:53:49.643: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Coins [995, 125000000]
+Other Item[0]: Korasi's sword [19780, 1]
+Other Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-05-30 10:54:13.643: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+My Item[0]: Coins [995, 125000000]
+Other Item[0]: Korasi's sword [19780, 1]
+Other Item[1]: Korasi's sword [19780, 1]
+
+
+
+2015-05-30 11:03:46.065: [[Shockzone, yellow; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-05-30 11:13:10.048: [[Shockzone, yellow; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-05-30 11:13:49.663: [[Shockzone, yellow; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-05-30 12:06:42.516: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Coins [995, 70000000]
+Other Item[0]: Coins [995, 60000000]
+Other Item[1]: Dragon boots [11733, 2]
+Other Item[2]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-30 12:08:50.917: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Dragon boots [11733, 2]
+My Item[1]: Coins [995, 25000000]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Zuriel's robe bottom [13861, 1]
+
+
+
+2015-05-30 12:09:49.716: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragon boots [11733, 2]
+Other Item[1]: Abyssal whip [4151, 1]
+Other Item[2]: Zuriel's robe bottom [13861, 1]
+Other Item[3]: Coins [995, 27521018]
+
+
+
+2015-05-30 12:09:50.317: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Dragon boots [11733, 2]
+Other Item[1]: Abyssal whip [4151, 1]
+Other Item[2]: Zuriel's robe bottom [13861, 1]
+Other Item[3]: Coins [995, 27521018]
+
+
+
+2015-05-30 12:10:19.117: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Coins [995, 60000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Dragon boots [11733, 2]
+Other Item[2]: Abyssal whip [4151, 1]
+Other Item[3]: Zuriel's robe bottom [13861, 1]
+Other Item[4]: Coins [995, 27521018]
+
+
+
+2015-05-30 12:17:28.717: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-30 12:17:53.917: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-30 12:17:55.114: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-05-30 13:35:41.357: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:36:17.995: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000002]
+
+
+
+2015-05-30 13:37:34.795: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:38:07.764: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:38:42.589: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:39:14.388: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:39:46.191: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:40:17.989: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:40:45.595: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:41:17.991: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-30 13:41:50.995: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-30 13:41:51.595: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-30 13:42:22.187: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-30 13:42:55.789: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-30 13:43:29.994: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:44:04.790: [[Shane, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 150000000]
+Other Item[0]: Coins [995, 150000000]
+
+
+
+2015-05-30 13:51:17.402: [[Farmer Joe, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-30 13:51:42.002: [[Farmer Joe, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-30 13:52:12.001: [[Farmer Joe, shaneshane; 64.19.73.181, 78-E4-00-0A-3A-42]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-30 15:08:13.267: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 45000000]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-05-30 15:08:45.048: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 45000000]
+Other Item[0]: Coins [995, 45000000]
+
+
+
+2015-05-30 15:10:06.050: [[Noko3456, Allymarrie1; 108.249.75.87, 48-D2-24-4D-EF-75]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-30 15:11:15.667: [[Noko3456, Allymarrie1; 108.249.75.87, 48-D2-24-4D-EF-75]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-30 15:12:13.248: [[Noko3456, Allymarrie1; 108.249.75.87, 48-D2-24-4D-EF-75]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-31 11:14:42.395: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Vesta's plateskirt [13893, 1]
+My Item[2]: Chaotic maul [18353, 1]
+My Item[3]: Chaotic maul [18353, 1]
+Other Item[0]: Coins [995, 450000000]
+
+
+
+2015-05-31 11:15:11.795: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Vesta's plateskirt [13893, 1]
+My Item[2]: Chaotic maul [18353, 1]
+My Item[3]: Chaotic maul [18353, 1]
+Other Item[0]: Coins [995, 450000000]
+
+
+
+2015-05-31 11:15:38.218: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-31 11:16:11.815: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 300000000]
+Other Item[0]: Coins [995, 300000000]
+
+
+
+2015-05-31 11:18:40.002: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 800000000]
+Other Item[0]: Coins [995, 800000000]
+
+
+
+2015-05-31 11:19:28.001: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1000000000]
+Other Item[0]: Coins [995, 1000000000]
+
+
+
+2015-05-31 11:21:29.801: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1000000000]
+My Item[1]: Divine spirit shield [13740, 1]
+Other Item[0]: Santa hat [1050, 1]
+Other Item[1]: Coins [995, 400000000]
+
+
+
+2015-05-31 11:22:43.017: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Santa hat [1050, 1]
+My Item[1]: Coins [995, 1000000000]
+Other Item[0]: Santa hat [1050, 1]
+Other Item[1]: Santa hat [1050, 1]
+
+
+
+2015-05-31 11:23:13.015: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Divine spirit shield [13740, 1]
+My Item[1]: Coins [995, 1000000000]
+Other Item[0]: Santa hat [1050, 1]
+Other Item[1]: Coins [995, 400000000]
+
+
+
+2015-05-31 11:23:39.401: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1500000000]
+Other Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-31 11:23:59.218: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1500000000]
+Other Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-31 11:24:19.017: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1500000000]
+Other Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-31 11:24:41.816: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1500000000]
+Other Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-31 11:25:22.017: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1400000000]
+Other Item[0]: Santa hat [1050, 1]
+Other Item[1]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-31 11:25:46.015: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 1500000000]
+Other Item[0]: Coins [995, 1500000000]
+
+
+
+2015-05-31 11:26:32.817: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Coins [995, 2000000000]
+My Item[1]: Elysian spirit shield [13742, 1]
+Other Item[2]: Coins [995, 2147483647]
+
+
+
+2015-05-31 11:28:17.218: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[1]: Chaotic rapier [18349, 1]
+Other Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-31 11:28:56.217: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Chaotic staff [18355, 1]
+Other Item[2]: Steadfast boots [21788, 3]
+
+
+
+2015-05-31 11:31:51.416: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Virtus mask [20159, 1]
+My Item[1]: Virtus robe top [20163, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Coins [995, 1000000000]
+My Item[4]: Chaotic rapier [18349, 1]
+My Item[5]: Chaotic rapier [18349, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-31 11:32:24.415: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: White partyhat [1048, 1]
+Other Item[0]: Purple partyhat [1046, 1]
+
+
+
+2015-05-31 11:32:44.816: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: White partyhat [1048, 1]
+Other Item[0]: Purple partyhat [1046, 1]
+
+
+
+2015-05-31 11:33:26.816: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Virtus mask [20159, 1]
+My Item[1]: Virtus robe top [20163, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Chaotic rapier [18349, 1]
+My Item[4]: Chaotic rapier [18349, 1]
+My Item[5]: Steadfast boots [21788, 3]
+My Item[6]: Chaotic maul [18353, 1]
+My Item[7]: Chaotic staff [18355, 1]
+My Item[8]: Coins [995, 500000000]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-31 11:34:16.618: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 500000000]
+My Item[1]: Virtus mask [20159, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Virtus robe top [20163, 1]
+My Item[4]: Chaotic rapier [18349, 1]
+My Item[5]: Chaotic rapier [18349, 1]
+My Item[6]: Steadfast boots [21788, 3]
+My Item[7]: Chaotic maul [18353, 1]
+My Item[8]: Chaotic staff [18355, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-31 11:36:08.216: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Virtus robe legs [20167, 1]
+My Item[1]: Virtus robe top [20163, 1]
+My Item[2]: Steadfast boots [21788, 3]
+My Item[3]: Chaotic staff [18355, 1]
+My Item[4]: Chaotic maul [18353, 1]
+My Item[5]: Chaotic rapier [18349, 1]
+My Item[6]: Chaotic rapier [18349, 1]
+My Item[7]: Virtus mask [20159, 1]
+My Item[8]: Coins [995, 500000000]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-31 11:36:51.432: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 500000000]
+My Item[1]: Virtus mask [20159, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Virtus robe top [20163, 1]
+My Item[4]: Chaotic maul [18353, 1]
+My Item[5]: Chaotic staff [18355, 1]
+My Item[6]: Steadfast boots [21788, 3]
+My Item[7]: Chaotic rapier [18349, 1]
+My Item[8]: Chaotic rapier [18349, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-31 11:37:22.016: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: White partyhat [1048, 1]
+Other Item[0]: Purple partyhat [1046, 1]
+
+
+
+2015-05-31 11:37:57.442: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 500000000]
+My Item[1]: Virtus mask [20159, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Virtus robe top [20163, 1]
+My Item[4]: Steadfast boots [21788, 3]
+My Item[5]: Chaotic rapier [18349, 1]
+My Item[6]: Chaotic rapier [18349, 1]
+My Item[7]: Chaotic maul [18353, 1]
+My Item[8]: Chaotic staff [18355, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-31 11:38:32.843: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: White partyhat [1048, 1]
+Other Item[0]: Purple partyhat [1046, 1]
+
+
+
+2015-05-31 11:56:34.640: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+Other Item[1]: Armadyl helmet [11719, 9]
+Other Item[2]: Armadyl chestplate [11721, 3]
+Other Item[3]: Armadyl chainskirt [11723, 6]
+
+
+
+2015-05-31 11:59:19.629: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl helmet [11719, 4]
+My Item[1]: Armadyl chestplate [11721, 3]
+My Item[2]: Armadyl chainskirt [11723, 4]
+My Item[3]: Chaotic maul [18353, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-05-31 12:00:10.629: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl chestplate [11721, 3]
+My Item[1]: Armadyl helmet [11719, 3]
+My Item[2]: Armadyl chainskirt [11723, 3]
+My Item[3]: Chaotic maul [18353, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-05-31 12:00:28.631: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Zaryte bow [20171, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-05-31 12:06:08.837: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Zaryte bow [20171, 1]
+My Item[1]: Zaryte bow [20171, 1]
+My Item[2]: Chaotic maul [18353, 1]
+Other Item[0]: Morrigan's coif [13877, 1]
+Other Item[1]: Morrigan's leather body [13871, 1]
+Other Item[2]: Morrigan's leather chaps [13874, 1]
+Other Item[3]: Glaiven boots [21791, 1]
+Other Item[4]: Full slayer helmet [15492, 1]
+Other Item[5]: Dragonfire shield [11283, 1]
+Other Item[6]: Eagle-eye kiteshield [18361, 1]
+Other Item[7]: Chaotic kiteshield [18359, 1]
+Other Item[8]: Briefcase [12335, 1]
+Other Item[9]: Briefcase [12335, 1]
+Other Item[10]: Saradomin sword [11731, 2]
+Other Item[11]: Fighter torso [10551, 1]
+Other Item[12]: Saradomin's tear [8027, 1]
+Other Item[13]: Saradomin's tear [8027, 1]
+Other Item[14]: Dharok's greataxe [4719, 3]
+Other Item[15]: Dharok's helm [4717, 3]
+Other Item[16]: Dharok's platebody [4721, 3]
+Other Item[17]: Dharok's platelegs [4723, 3]
+Other Item[18]: Zamorakian spear [11717, 2]
+
+
+
+2015-05-31 12:08:29.848: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic maul [18353, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+Other Item[1]: Zaryte bow [20171, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 12:12:43.044: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic maul [18353, 1]
+Other Item[0]: Zaryte bow [20172, 2]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 12:14:13.048: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic maul [18353, 1]
+Other Item[0]: Zaryte bow [20172, 2]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 12:16:26.837: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[2]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 12:17:06.438: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic rapier [18349, 1]
+My Item[3]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Zaryte bow [20172, 2]
+Other Item[2]: Dharok's helm [4717, 3]
+Other Item[3]: Dharok's platebody [4721, 3]
+Other Item[4]: Dharok's platelegs [4723, 3]
+Other Item[5]: Dharok's greataxe [4719, 3]
+Other Item[6]: Morrigan's coif [13877, 1]
+Other Item[7]: Morrigan's leather chaps [13874, 1]
+Other Item[8]: Morrigan's leather body [13871, 1]
+Other Item[9]: Dragonfire shield [11283, 1]
+Other Item[10]: Glaiven boots [21791, 1]
+Other Item[11]: Saradomin's tear [8027, 1]
+Other Item[12]: Saradomin's tear [8027, 1]
+Other Item[13]: Zamorakian spear [11717, 2]
+Other Item[14]: Saradomin sword [11731, 2]
+Other Item[15]: Fighter torso [10551, 1]
+Other Item[16]: Full slayer helmet [15492, 1]
+Other Item[17]: Briefcase [12335, 1]
+Other Item[18]: Briefcase [12335, 1]
+
+
+
+2015-05-31 12:17:49.039: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Chaotic maul [18353, 1]
+My Item[3]: Chaotic crossbow [18357, 1]
+Other Item[0]: Fighter torso [10551, 1]
+Other Item[1]: Full slayer helmet [15492, 1]
+Other Item[2]: Briefcase [12335, 1]
+Other Item[3]: Briefcase [12335, 1]
+Other Item[4]: Saradomin sword [11731, 2]
+Other Item[5]: Zamorakian spear [11717, 2]
+Other Item[6]: Saradomin's tear [8027, 1]
+Other Item[7]: Saradomin's tear [8027, 1]
+Other Item[8]: Morrigan's leather chaps [13874, 1]
+Other Item[9]: Morrigan's leather body [13871, 1]
+Other Item[10]: Dragonfire shield [11283, 1]
+Other Item[11]: Glaiven boots [21791, 1]
+Other Item[12]: Morrigan's coif [13877, 1]
+Other Item[13]: Dharok's greataxe [4719, 3]
+Other Item[14]: Dharok's platelegs [4723, 3]
+Other Item[15]: Dharok's platebody [4721, 3]
+Other Item[16]: Dharok's helm [4717, 3]
+Other Item[17]: Chaotic maul [18353, 1]
+Other Item[18]: Zaryte bow [20172, 2]
+
+
+
+2015-05-31 12:19:06.438: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 1000000000]
+My Item[1]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Chaotic rapier [18349, 1]
+
+
+
+2015-05-31 12:21:44.247: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Zaryte bow [20172, 2]
+Other Item[2]: Chaotic crossbow [18357, 1]
+Other Item[3]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 12:22:29.248: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic staff [18355, 1]
+Other Item[0]: Dharok's platebody [4721, 3]
+Other Item[1]: Dharok's helm [4717, 3]
+Other Item[2]: Dharok's platelegs [4723, 3]
+Other Item[3]: Dharok's greataxe [4719, 3]
+Other Item[4]: Morrigan's coif [13877, 1]
+Other Item[5]: Glaiven boots [21791, 1]
+Other Item[6]: Saradomin's tear [8027, 1]
+Other Item[7]: Morrigan's leather chaps [13874, 1]
+Other Item[8]: Morrigan's leather body [13871, 1]
+Other Item[9]: Saradomin's tear [8027, 1]
+Other Item[10]: Briefcase [12335, 1]
+Other Item[11]: Full slayer helmet [15492, 1]
+Other Item[12]: Fighter torso [10551, 1]
+Other Item[13]: Briefcase [12335, 1]
+Other Item[14]: Saradomin sword [11731, 2]
+Other Item[15]: Zamorakian spear [11717, 2]
+Other Item[16]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-31 12:23:38.857: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic staff [18355, 1]
+Other Item[0]: Zamorakian spear [11717, 2]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Saradomin sword [11731, 2]
+Other Item[3]: Briefcase [12335, 1]
+Other Item[4]: Briefcase [12335, 1]
+Other Item[5]: Fighter torso [10551, 1]
+Other Item[6]: Full slayer helmet [15492, 1]
+Other Item[7]: Morrigan's leather chaps [13874, 1]
+Other Item[8]: Morrigan's leather body [13871, 1]
+Other Item[9]: Saradomin's tear [8027, 1]
+Other Item[10]: Saradomin's tear [8027, 1]
+Other Item[11]: Glaiven boots [21791, 1]
+Other Item[12]: Morrigan's coif [13877, 1]
+Other Item[13]: Dharok's greataxe [4719, 3]
+Other Item[14]: Dharok's platebody [4721, 3]
+Other Item[15]: Dharok's helm [4717, 3]
+Other Item[16]: Dharok's platelegs [4723, 3]
+
+
+
+2015-05-31 12:24:35.249: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Zaryte bow [20172, 1]
+My Item[2]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+Other Item[1]: Chaotic maul [18353, 1]
+Other Item[2]: Chaotic staff [18355, 1]
+
+
+
+2015-05-31 12:26:53.850: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 100000000]
+My Item[1]: Chaotic crossbow [18357, 1]
+My Item[2]: Zaryte bow [20172, 1]
+My Item[3]: Chaotic staff [18355, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+Other Item[1]: Zaryte bow [20172, 1]
+Other Item[2]: Chaotic maul [18353, 1]
+
+
+
+2015-05-31 18:10:26.552: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Coins [995, 40000000]
+Other Item[0]: Coins [995, 40000000]
+
+
+
+2015-05-31 18:17:48.142: [[Trips, girard87; 96.52.42.28, 28-E3-47-AB-B2-FE]]:
+My Item[0]: Coins [995, 60000000]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-31 18:28:15.752: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Chaotic crossbow [18357, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-31 18:28:51.142: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-31 20:36:56.641: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Spectral spirit shield [13744, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 225000225]
+
+
+
+2015-05-31 20:45:08.052: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Divine spirit shield [13740, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+Other Item[2]: Chaotic crossbow [18357, 1]
+Other Item[3]: Divine spirit shield [13740, 1]
+Other Item[4]: Chaotic longsword [18351, 1]
+Other Item[5]: Spectral spirit shield [13744, 1]
+
+
+
+2015-05-31 20:50:00.851: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Virtus mask [20159, 1]
+My Item[1]: Virtus robe top [20163, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Zaryte bow [20171, 1]
+Other Item[0]: Virtus mask [20159, 1]
+Other Item[1]: Virtus robe top [20163, 1]
+Other Item[2]: Virtus robe legs [20167, 1]
+Other Item[3]: Chaotic crossbow [18357, 1]
+Other Item[4]: Chaotic longsword [18351, 1]
+
+
+
+2015-05-31 20:50:38.667: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Virtus mask [20159, 1]
+My Item[1]: Virtus robe top [20163, 1]
+My Item[2]: Virtus robe legs [20167, 1]
+My Item[3]: Zaryte bow [20171, 1]
+Other Item[0]: Virtus mask [20159, 1]
+Other Item[1]: Virtus robe legs [20167, 1]
+Other Item[2]: Virtus robe top [20163, 1]
+Other Item[3]: Chaotic longsword [18351, 1]
+Other Item[4]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-31 20:55:29.064: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Chaotic rapier [18349, 1]
+My Item[3]: Chaotic rapier [18349, 1]
+My Item[4]: Statius's full helm [13896, 1]
+My Item[5]: Vesta's chainbody [13887, 1]
+My Item[6]: Vesta's plateskirt [13893, 1]
+Other Item[0]: Armadyl crossbow [11785, 1]
+Other Item[1]: Chaotic crossbow [18357, 1]
+Other Item[2]: Armadyl godsword [11694, 1]
+Other Item[3]: Chaotic rapier [18349, 1]
+Other Item[4]: Zaryte bow [20171, 1]
+Other Item[6]: Divine spirit shield [13740, 1]
+
+
+
+2015-05-31 21:14:29.690: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Armadyl crossbow [11785, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Coins [995, 400000000]
+Other Item[0]: Coins [995, 25000000]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Virtus robe top [20163, 1]
+Other Item[3]: Virtus robe legs [20167, 1]
+Other Item[4]: Armadyl crossbow [11785, 1]
+
+
+
+2015-05-31 21:25:24.898: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Armadyl crossbow [11785, 1]
+My Item[1]: Chaotic longsword [18351, 1]
+My Item[2]: Chaotic crossbow [18357, 1]
+My Item[3]: Zaryte bow [20171, 1]
+My Item[4]: Armadyl godsword [11694, 1]
+My Item[5]: Divine spirit shield [13740, 1]
+My Item[6]: Coins [995, 400000000]
+Other Item[0]: Zaryte bow [20171, 1]
+Other Item[1]: Zaryte bow [20171, 1]
+Other Item[2]: Zaryte bow [20171, 1]
+Other Item[3]: Armadyl crossbow [11785, 1]
+Other Item[4]: Chaotic longsword [18351, 1]
+Other Item[5]: Chaotic longsword [18351, 1]
+Other Item[6]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-31 22:03:14.116: [[Shqiptar, pakokosare; 46.99.59.10, 00-1F-3C-75-90-73]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-31 22:04:14.120: [[Shqiptar, pakokosare; 46.99.59.10, 00-1F-3C-75-90-73]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-06-01 15:48:12.563: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 15:50:11.951: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Armadyl godsword [11695, 1]
+Other Item[0]: Armadyl godsword [11695, 1]
+
+
+
+2015-06-01 15:55:08.968: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 15:56:05.963: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 15:58:16.167: [[Dawned, miikavie1; 88.112.41.148, 44-6D-57-4B-31-1F]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-06-01 16:23:42.004: [[Not Katie, lillyrose1262011; 188.28.131.49, None]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-06-01 16:33:02.389: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 600000000]
+My Item[1]: Store credits (9.500 credits) [13254, 1]
+My Item[2]: Armadyl crossbow [11785, 1]
+
+
+
+2015-06-01 16:34:59.389: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Armadyl crossbow [11785, 1]
+My Item[2]: Chaotic longsword [18351, 1]
+My Item[3]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-01 16:39:13.189: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Chaotic rapier [18349, 1]
+My Item[1]: Coins [995, 400000000]
+My Item[2]: Chaotic rapier [18349, 1]
+My Item[3]: Chaotic rapier [18349, 1]
+My Item[4]: Virtus robe legs [20167, 1]
+My Item[5]: Virtus robe top [20163, 1]
+
+
+
+2015-06-01 16:40:14.389: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:42:38.405: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:43:02.410: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:45:17.999: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:46:37.201: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Coins [995, 225000000]
+Other Item[0]: Chaotic staff [18355, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-01 16:48:39.604: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:49:03.020: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:49:32.408: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:49:55.809: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:51:52.815: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:52:25.811: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:55:40.213: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+
+
+
+2015-06-01 16:57:41.421: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Coins [995, 500000000]
+Other Item[0]: Coins [995, 500000000]
+
+
+
+2015-06-01 18:26:32.503: [[Turmoil Prod, dragos10; 192.235.253.177, 7C-E9-D3-08-F6-A9]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Saradomin sword [11731, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-01 18:27:22.858: [[Turmoil Prod, dragos10; 192.235.253.177, 7C-E9-D3-08-F6-A9]]:
+My Item[0]: Chaotic maul [18353, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Saradomin sword [11731, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-06-01 18:30:45.099: [[Turmoil Prod, dragos10; 192.235.253.177, 7C-E9-D3-08-F6-A9]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+My Item[3]: Saradomin sword [11731, 1]
+My Item[4]: Abyssal whip [15441, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+Other Item[2]: Coins [995, 20000000]
+Other Item[3]: Abyssal vine whip [21375, 1]
+Other Item[4]: Morrigan's leather chaps [13873, 1]
+Other Item[5]: Morrigan's leather body [13870, 1]
+Other Item[6]: Shards of armadyl [21776, 80]
+Other Item[7]: Dragon boots [11732, 1]
+Other Item[8]: Death rune [560, 30742]
+Other Item[9]: Water rune [555, 57676]
+Other Item[10]: Blood rune [565, 27148]
+Other Item[11]: Onyx [6573, 1]
+
+
+
+2015-06-01 18:54:20.521: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 18:55:07.302: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 18:55:36.083: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 18:58:19.905: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:03:09.700: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:04:12.712: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:05:39.104: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:09:12.120: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:11:50.512: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:14:21.120: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 19:34:00.136: [[Pvm Chris, boogie98; 104.15.177.167, A4-DB-30-81-E6-CB]]:
+
+
+
+2015-06-01 21:15:50.620: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 21:16:35.620: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 21:18:42.220: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 21:19:31.436: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 21:20:00.816: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 21:20:32.621: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 120000000]
+Other Item[0]: Coins [995, 120000000]
+
+
+
+2015-06-01 21:25:09.220: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Zaryte bow [20171, 1]
+My Item[1]: Zaryte bow [20171, 1]
+
+
+
+2015-06-01 21:26:37.417: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Store credits (9.500 credits) [13254, 1]
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-06-01 21:27:28.425: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Chaotic longsword [18351, 1]
+My Item[1]: Chaotic maul [18353, 1]
+My Item[2]: Chaotic staff [18355, 1]
+Other Item[0]: Store credits (9.500 credits) [13254, 1]
+
+
+
+2015-06-01 21:28:21.819: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 350000000]
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-06-01 21:28:48.216: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 350000000]
+Other Item[0]: Zaryte bow [20171, 1]
+
+
+
+2015-06-01 21:31:54.220: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-01 21:33:53.631: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-01 23:37:32.120: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+My Item[0]: Coins [995, 1245000000]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Chaotic rapier [18349, 1]
+My Item[3]: Chaotic rapier [18349, 1]
+My Item[4]: Chaotic rapier [18349, 1]
+My Item[5]: Armadyl crossbow [11785, 1]
+My Item[6]: Chaotic longsword [18351, 1]
+Other Item[0]: Store credits (250.000 credits) [13265, 1]
+
+
+
+2015-06-01 23:40:27.315: [[Ask, minnie1; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-02 00:10:36.936: [[Get Owned, jordan1; 24.166.248.76, 84-4B-F5-46-39-7D]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-06-02 00:15:46.564: [[Get Owned, jordan1; 24.166.248.76, 84-4B-F5-46-39-7D]]:
+My Item[0]: Chaotic longsword [18351, 1]
+Other Item[0]: Korasi's sword [19780, 1]
+
+
+
+2015-06-02 06:44:08.462: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:05:01.867: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+Other Item[0]: Vesta's chainbody [13887, 1]
+
+
+
+2015-06-02 07:07:16.287: [[E E F 2, zhenfan83; 14.201.214.112, 6C-71-D9-5B-0E-95]]:
+My Item[0]: Statius's full helm [13896, 1]
+My Item[1]: Vesta's chainbody [13887, 1]
+My Item[2]: Vesta's plateskirt [13893, 1]
+My Item[3]: Vesta's chainbody [13887, 1]
+My Item[4]: Vesta's chainbody [13887, 1]
+My Item[5]: Armadyl godsword [11695, 2]
+My Item[6]: Divine spirit shield [13740, 1]
+My Item[7]: Coins [995, 700000000]
+Other Item[0]: Coins [995, 800000000]
+Other Item[1]: Vesta's chainbody [13887, 1]
+Other Item[2]: Vesta's plateskirt [13893, 1]
+Other Item[3]: Chaotic longsword [18351, 1]
+Other Item[4]: Elysian spirit shield [13742, 1]
+Other Item[5]: Divine spirit shield [13740, 1]
+
+
+
+2015-06-02 07:11:09.073: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Virtus robe top [20163, 1]
+Other Item[0]: Coins [995, 120000000]
+Other Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-02 07:11:38.499: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Virtus robe top [20163, 1]
+Other Item[0]: Coins [995, 120000000]
+Other Item[1]: Chaotic longsword [18351, 1]
+
+
+
+2015-06-02 07:17:24.699: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Coins [995, 300000000]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-06-02 07:17:49.274: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Steadfast boots [21787, 1]
+Other Item[1]: Chaotic longsword [18351, 1]
+Other Item[2]: Coins [995, 300000000]
+
+
+
+2015-06-02 07:21:55.889: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:24:52.903: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:25:48.689: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[1]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:34:28.890: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:34:55.303: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:35:34.883: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:36:09.702: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:37:35.502: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:39:24.100: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:41:25.906: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:41:48.720: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:43:45.714: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:45:46.915: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:47:32.514: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:48:48.115: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:50:07.305: [[Shockzone, gohaaaan; 98.248.248.27, 2C-33-7A-F2-3B-5F]]:
+
+
+
+2015-06-02 07:51:16.315: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:52:46.921: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 500000000]
+Other Item[0]: Divine spirit shield [13741, 1]
+Other Item[1]: Arcane spirit shield [13739, 1]
+
+
+
+2015-06-02 07:53:35.520: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:53:58.921: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:54:20.513: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:54:56.513: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Divine spirit shield [13741, 1]
+Other Item[0]: Divine spirit shield [13741, 1]
+
+
+
+2015-06-02 07:55:43.313: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Arcane spirit shield [13739, 1]
+Other Item[0]: Spectral spirit shield [13745, 2]
+
+
+
+2015-06-02 07:56:15.712: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:56:42.120: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:57:09.713: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:57:40.913: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:58:55.914: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:59:18.713: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 07:59:45.112: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 08:00:04.915: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 08:00:36.121: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 09:51:48.215: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 09:52:22.420: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 09:54:03.217: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic rapier [18349, 1]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 09:54:34.416: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 550000000]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+
+2015-06-02 09:56:11.016: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Coins [995, 550000000]
+Other Item[0]: Chaotic rapier [18349, 1]
+
+
+

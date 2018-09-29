@@ -1,0 +1,58 @@
+2015-05-29 19:47:05.748: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Zamorakian spear [11717, 1]
+
+
+
+2015-05-29 19:47:44.748: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Zamorakian spear [11717, 1]
+
+
+
+2015-05-29 19:48:29.138: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+Other Item[1]: Zamorakian spear [11717, 1]
+
+
+
+2015-05-29 19:49:13.536: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Amulet of fury [6585, 1]
+My Item[1]: Amulet of fury [6585, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-30 14:44:55.848: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Zamorakian spear [11717, 2]
+Other Item[0]: Dragon boots [11733, 4]
+Other Item[1]: Saradomin's tear [8027, 1]
+
+
+
+2015-05-30 14:45:31.848: [[Mr Coldott, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Dragon boots [11733, 1]
+My Item[1]: Armadyl chainskirt [11723, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+Other Item[1]: Dragon boots [11733, 4]
+Other Item[2]: Zamorakian spear [11717, 2]
+
+
+
+2015-05-31 14:45:37.747: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Saradomin sword [11730, 1]
+Other Item[0]: Saradomin sword [11730, 1]
+
+
+
+2015-05-31 14:48:43.149: [[Goblin King, altayeb12345; 2.122.21.140, A4-17-31-39-E7-36]]:
+My Item[0]: Corrupt zuriel's robe top [13932, 1]
+Other Item[0]: Zuriel's robe bottom [13861, 1]
+
+
+

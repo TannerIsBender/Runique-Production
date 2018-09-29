@@ -1,0 +1,206 @@
+2015-05-11 22:20:40.788: [[Bad Pker, zaqwsx; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-11 22:23:10.200: [[Bad Pker, zaqwsx; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Bandos tassets [11726, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[1]: Coins [995, 35000000]
+Other Item[2]: Full slayer helmet [15492, 1]
+Other Item[3]: Abyssal whip [15442, 1]
+
+
+
+2015-05-11 22:24:35.378: [[Bad Pker, zaqwsx; 68.1.55.222, 54-BE-F7-35-97-35]]:
+My Item[0]: Full slayer helmet [15492, 1]
+My Item[1]: Amulet of fury [6585, 1]
+My Item[2]: Fighter torso [10551, 1]
+My Item[3]: Dragon boots [11732, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+Other Item[1]: Coins [995, 35000000]
+Other Item[2]: Dragon boots [11732, 1]
+
+
+
+2015-05-13 18:10:35.991: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Novite full helm [16691, 1]
+Other Item[0]: Novite chainbody [16713, 1]
+
+
+
+2015-05-13 18:11:13.200: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Novite full helm [16691, 1]
+Other Item[0]: Novite chainbody [16713, 1]
+
+
+
+2015-05-13 18:33:01.816: [[Frisk, balintore23; 46.65.161.29, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-13 18:37:37.817: [[Frisk, balintore23; 46.65.161.29, E8-94-F6-14-7A-71]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Armadyl helmet [11718, 1]
+
+
+
+2015-05-13 18:40:05.422: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:41:04.817: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 45000000]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:41:36.014: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 45000000]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:42:03.617: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 45000000]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:43:26.422: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:44:19.221: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Coins [995, 49999090]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Coins [995, 19000000]
+
+
+
+2015-05-13 18:45:24.022: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Bandos tassets [11726, 1]
+My Item[1]: Bandos chestplate [11724, 1]
+Other Item[0]: Chaotic maul [18353, 1]
+
+
+
+2015-05-13 18:46:17.437: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-13 18:46:51.014: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-13 18:47:14.437: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-13 18:47:55.222: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-13 18:52:16.207: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-13 18:52:43.837: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Dragonfire shield [11283, 1]
+My Item[2]: Full slayer helmet [15492, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-13 18:53:09.638: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Dragonfire shield [11283, 1]
+My Item[1]: Full slayer helmet [15492, 1]
+My Item[2]: Arcane stream necklace [18335, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:53:44.438: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[1]: Armadyl godsword [11694, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-13 18:54:41.438: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Dragonfire shield [11283, 1]
+My Item[5]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-13 18:55:04.817: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Armadyl godsword [11694, 1]
+My Item[1]: Armadyl godsword [11694, 1]
+My Item[2]: Dragonfire shield [11283, 1]
+My Item[3]: Dragonfire shield [11283, 1]
+Other Item[0]: Coins [995, 200000000]
+
+
+
+2015-05-13 18:55:31.238: [[I Katie I, lillyrose9; 188.30.202.254, None]]:
+My Item[0]: Arcane stream necklace [18335, 1]
+My Item[1]: Full slayer helmet [15492, 1]
+Other Item[0]: Armadyl godsword [11694, 1]
+Other Item[1]: Dragonfire shield [11283, 1]
+
+
+
+2015-05-13 18:58:49.221: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-13 19:07:22.838: [[Slightlyop, terkarace12; 108.45.139.119, 00-23-14-6A-36-0C]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[0]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-05-13 19:08:15.038: [[My99capes, haley2388; 104.160.53.157, 74-29-AF-96-F5-8F]]:
+My Item[0]: Amulet of fury [6585, 1]
+Other Item[0]: Amulet of fury [6585, 1]
+
+
+
+2015-05-14 15:44:53.969: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Armadyl battlestaff [21777, 1]
+Other Item[0]: Saradomin's tear [8027, 1]
+
+
+

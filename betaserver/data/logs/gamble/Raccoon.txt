@@ -1,0 +1,140 @@
+2015-05-27 12:48:09.916: [[Ganja, navjot16; 65.92.125.51, 00-1D-60-64-F5-6C]]:
+My Item[0]: Dragon boots [11732, 1]
+Other Item[0]: Dragon boots [11732, 1]
+
+
+
+2015-05-27 15:54:04.063: [[Wick3dr3aper, SemperFi1; 71.218.169.121, 64-5A-04-71-AF-AC]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-27 17:45:00.565: [[Cozzab123, cozza1234; 90.205.71.209, 74-E5-43-BC-2B-14]]:
+My Item[0]: Coins [995, 5000000]
+My Item[1]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-28 02:38:45.387: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-28 02:39:40.595: [[Brazy, droidshd; 202.131.178.136, 00-30-67-48-CC-EC]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-05-28 03:33:58.038: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-28 03:35:02.848: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-28 03:35:39.448: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-28 03:36:10.038: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-28 03:49:53.832: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-28 03:50:29.848: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-28 03:51:14.835: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-28 03:51:47.838: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-28 03:52:24.439: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-28 03:52:58.048: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 25000000]
+Other Item[0]: Coins [995, 25000000]
+
+
+
+2015-05-28 03:55:17.238: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 7751484]
+My Item[1]: Dragon boots [11732, 1]
+My Item[2]: Bat mask [13111, 1]
+My Item[3]: Cat mask [13113, 1]
+My Item[4]: Cat mask [13113, 1]
+My Item[5]: Black dragon mask [19290, 1]
+My Item[6]: Beginner wand [6908, 1]
+My Item[7]: Tome of frost [18346, 1]
+Other Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-28 03:55:53.239: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Black dragon mask [19290, 1]
+My Item[1]: Beginner wand [6908, 1]
+My Item[2]: Tome of frost [18346, 1]
+My Item[3]: Cat mask [13113, 1]
+My Item[4]: Cat mask [13113, 1]
+My Item[5]: Bat mask [13111, 1]
+My Item[6]: Coins [995, 7751484]
+My Item[7]: Infinity bottoms [6924, 1]
+Other Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-28 03:56:29.848: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Coins [995, 7751484]
+My Item[1]: Bat mask [13111, 1]
+My Item[2]: Beginner wand [6908, 1]
+My Item[3]: Cat mask [13113, 1]
+My Item[4]: Black dragon mask [19290, 1]
+My Item[5]: Cat mask [13113, 1]
+My Item[6]: Tome of frost [18346, 1]
+My Item[7]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 24000000]
+
+
+
+2015-05-28 04:04:08.238: [[Forbidden, Freakshow480; 76.125.252.6, 1C-3E-84-97-D1-31]]:
+My Item[0]: Dharok's greataxe [4718, 1]
+My Item[1]: Dharok's helm [4716, 1]
+My Item[2]: Dharok's platebody [4720, 1]
+My Item[3]: Dharok's platelegs [4722, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+

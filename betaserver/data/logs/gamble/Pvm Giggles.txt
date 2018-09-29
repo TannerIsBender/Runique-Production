@@ -1,0 +1,513 @@
+2015-04-12 13:29:28.293: [Nostalgia]:
+Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-04-12 13:31:54.095: [Nostalgia]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-12 13:33:15.719: [Nostalgia]:
+Item[0]: Dragon full helm [11335, 1]
+
+
+
+2015-04-12 13:34:18.118: [Nostalgia]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+
+
+
+2015-04-12 13:37:08.496: [Nostalgia]:
+Item[0]: Vote Ticket [13256, 1]
+Item[1]: Vote Ticket [13256, 1]
+Item[2]: Vote Ticket [13256, 1]
+Item[3]: Vote Ticket [13256, 1]
+Item[4]: Vote Ticket [13256, 1]
+Item[5]: Vote Ticket [13256, 1]
+
+
+
+2015-04-12 13:43:24.127: [Nostalgia]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Corrupt statius's full helm [13920, 1]
+Item[2]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-12 13:50:10.327: [Nostalgia]:
+Item[0]: Full slayer helmet [15492, 1]
+Item[1]: Magic logs [1514, 947]
+Item[2]: Coins [995, 9914779]
+
+
+
+2015-04-17 18:25:33.428: [Nostalgia]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-17 19:06:03.443: [Nostalgia]:
+Item[0]: Pernix body [20151, 1]
+Item[1]: Pernix chaps [20155, 1]
+Item[2]: Armadyl crossbow [11785, 1]
+Item[3]: Pernix cowl [20147, 1]
+Item[4]: Armadyl battlestaff [21777, 1]
+Item[5]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-17 19:16:57.447: [Baked Player]:
+Item[0]: Bandos chestplate [11724, 1]
+Item[1]: Bandos chestplate [11724, 1]
+Item[2]: Bandos chestplate [11724, 1]
+
+
+
+2015-04-17 20:43:10.095: [Nostalgia]:
+Item[0]: Dharok's platelegs [4722, 1]
+Item[1]: Dharok's greataxe [4718, 1]
+Item[2]: Dharok's platebody [4720, 1]
+Item[3]: Dharok's helm [4716, 1]
+
+
+
+2015-04-17 20:44:47.295: [Nostalgia]:
+Item[0]: Dharok's platebody [4720, 1]
+Item[1]: Dharok's helm [4716, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+
+
+
+2015-04-17 20:52:52.717: [Nostalgia]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Dharok's helm [4716, 1]
+Item[2]: Dharok's platebody [4720, 1]
+Item[3]: Dharok's platelegs [4722, 1]
+Item[4]: Dharok's greataxe [4718, 1]
+
+
+
+2015-04-17 20:53:52.728: [Nostalgia]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Dharok's platebody [4720, 1]
+Item[2]: Dharok's platelegs [4722, 1]
+Item[3]: Dharok's greataxe [4718, 1]
+Item[4]: Dharok's helm [4716, 1]
+
+
+
+2015-04-18 19:03:30.708: [Noko3456]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-18 19:05:14.502: [Noko3456]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-18 20:19:34.402: [Nostalgia]:
+Item[0]: Divine spirit shield [13740, 1]
+
+
+
+2015-04-18 20:22:26.594: [Nostalgia]:
+Item[0]: Gilded platelegs [3483, 1]
+Item[1]: Gilded kiteshield [3488, 1]
+Item[2]: Gilded full helm [3486, 1]
+
+
+
+2015-04-18 20:25:03.802: [Nostalgia]:
+Item[0]: Gilded kiteshield [3488, 1]
+Item[1]: Gilded platelegs [3483, 1]
+Item[2]: Gilded full helm [3486, 1]
+
+
+
+2015-04-18 20:30:47.584: [Pascaladium]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-18 20:43:32.024: [Nostalgia]:
+Item[0]: Elysian spirit shield [13742, 1]
+
+
+
+2015-04-18 20:45:47.602: [Nostalgia]:
+Item[0]: Vesta's chainbody [13887, 1]
+Item[1]: Vesta's plateskirt [13893, 1]
+
+
+
+2015-04-18 20:46:47.624: [Nostalgia]:
+Item[0]: Armadyl chestplate [11720, 1]
+Item[1]: Armadyl chainskirt [11722, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Armadyl godsword [11694, 1]
+Item[5]: Armadyl helmet [11718, 1]
+
+
+
+2015-04-19 15:26:22.768: [Baked Player]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-04-19 15:54:14.389: [Ironman Load]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-19 15:56:44.992: [Ironman Load]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Zamorak godsword [11700, 1]
+Item[2]: Saradomin godsword [11698, 1]
+Item[3]: Bandos godsword [11696, 1]
+
+
+
+2015-04-19 16:00:13.792: [Ironman Load]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-04-19 16:00:41.386: [Ironman Load]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-04-19 16:02:36.593: [Ironman Load]:
+Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-04-19 16:03:08.975: [Ironman Load]:
+Item[0]: Armadyl godsword [11694, 1]
+Item[1]: Zamorak godsword [11700, 1]
+Item[2]: Bandos godsword [11696, 1]
+Item[3]: Saradomin godsword [11698, 1]
+
+
+
+2015-04-19 16:07:09.593: [Oi]:
+Item[0]: Coins [995, 11850000]
+
+
+
+2015-04-19 21:14:24.524: [Arasta]:
+Item[0]: Saradomin's tear [8027, 1]
+
+
+
+2015-04-19 21:21:13.724: [Arasta]:
+Item[0]: Statius's warhammer [13902, 1]
+
+
+
+2015-04-19 21:31:14.327: [Mvgxzero]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-19 21:34:43.728: [Iron Hydra]:
+Item[0]: Staff of light [22210, 1]
+Item[1]: Statius's platelegs [13890, 1]
+Item[2]: Berserker ring [6737, 1]
+Item[3]: Saradomin's tear [8027, 1]
+Item[4]: Amulet of ranging [15126, 1]
+Item[5]: Coins [995, 25000000]
+
+
+
+2015-04-19 21:35:35.927: [Iron Hydra]:
+Item[0]: Amulet of ranging [15126, 1]
+Item[1]: Saradomin's tear [8027, 1]
+Item[2]: Statius's platelegs [13890, 1]
+Item[3]: Berserker ring [6737, 1]
+Item[4]: Staff of light [22210, 1]
+Item[5]: Coins [995, 25000000]
+
+
+
+2015-04-19 21:36:39.524: [Iron Hydra]:
+Item[0]: Corrupt statius's platebody [13908, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+Item[2]: Armadyl battlestaff [21777, 1]
+
+
+
+2015-04-19 21:37:19.126: [Iron Hydra]:
+Item[0]: Armadyl battlestaff [21777, 1]
+Item[1]: Arcane stream necklace [18335, 1]
+Item[2]: Corrupt statius's platebody [13908, 1]
+
+
+
+2015-04-19 21:42:43.140: [Miss K]:
+Item[0]: Coins [995, 10000000]
+
+
+
+2015-04-20 16:13:24.999: [Iron Hydra]:
+Item[0]: Amulet of fury (or) [19335, 1]
+
+
+
+2015-04-20 16:14:57.399: [Iron Hydra]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-20 16:16:00.399: [Iron Hydra]:
+Item[0]: Spectral spirit shield [13744, 1]
+
+
+
+2015-04-20 16:28:23.214: [Iron Hydra]:
+Item[0]: Rune cane [13099, 1]
+
+
+
+2015-04-20 16:32:38.800: [Iron Hydra]:
+Item[0]: Armadyl hilt [11702, 1]
+
+
+
+2015-04-20 16:33:18.415: [Iron Hydra]:
+Item[0]: Armadyl hilt [11702, 1]
+Item[1]: Dragon boots [11732, 1]
+Item[2]: Dragon bones [537, 60]
+
+
+
+2015-04-20 16:49:16.024: [Melee Cyrus]:
+Item[0]: Coins [995, 2500000]
+
+
+
+2015-04-20 16:49:51.425: [Melee Cyrus]:
+Item[0]: Coins [995, 2500000]
+
+
+
+2015-04-20 16:50:41.205: [Miss K]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-20 16:51:20.799: [Miss K]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-20 16:53:01.624: [Miss K]:
+Item[0]: Coins [995, 30000000]
+
+
+
+2015-04-20 17:00:37.024: [Miss K]:
+Item[0]: Dragonfire shield [11283, 1]
+
+
+
+2015-04-20 17:01:51.424: [Miss K]:
+Item[0]: Coins [995, 40000000]
+
+
+
+2015-04-20 17:14:35.226: [Iron Hydra]:
+Item[0]: Coins [995, 1]
+
+
+
+2015-04-20 17:42:58.052: [Melee Cyrus]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-04-20 17:47:29.861: [Melee Cyrus]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-20 17:48:40.661: [Melee Cyrus]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-20 17:49:34.049: [Melee Cyrus]:
+Item[0]: Abyssal whip [4151, 1]
+
+
+
+2015-04-20 19:36:51.524: [Aurora]:
+Item[0]: Dragon bones [537, 90]
+
+
+
+2015-04-20 19:37:27.530: [Aurora]:
+Item[0]: Dragon bones [537, 90]
+
+
+
+2015-04-20 20:00:13.130: [Skillsuckv2]:
+Item[0]: Coins [995, 50000000]
+
+
+
+2015-04-20 20:29:14.961: [Pixel Flexin]:
+Item[0]: Coins [995, 57000000]
+
+
+
+2015-04-20 22:26:20.430: [Melee Cyrus]:
+Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-04-20 22:27:16.825: [Melee Cyrus]:
+Item[0]: Staff of light [22206, 1]
+
+
+
+2015-04-20 22:27:53.425: [Melee Cyrus]:
+Item[0]: Staff of light [22206, 1]
+
+
+
+2015-04-20 22:29:55.214: [Melee Cyrus]:
+Item[0]: Vesta's plateskirt [13893, 1]
+Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-04-20 22:31:53.415: [Melee Cyrus]:
+Item[0]: Coins [995, 117000000]
+
+
+
+2015-04-20 22:32:40.214: [Melee Cyrus]:
+Item[0]: Coins [995, 84000000]
+
+
+
+2015-04-20 22:33:55.825: [Melee Cyrus]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-04-20 22:34:52.230: [Melee Cyrus]:
+Item[0]: Coins [995, 170000000]
+
+
+
+2015-04-20 22:35:54.626: [Melee Cyrus]:
+Item[0]: Coins [995, 31829457]
+
+
+
+2015-04-20 22:38:28.816: [Aurora]:
+Item[0]: Third-age robe [10340, 1]
+Item[1]: Third-age robe top [10338, 1]
+
+
+
+2015-04-20 22:43:40.815: [Aurora]:
+Item[0]: Third-age robe top [10338, 1]
+Item[1]: Third-age robe [10340, 1]
+
+
+
+2015-04-20 22:44:08.425: [Aurora]:
+Item[0]: Third-age robe top [10338, 1]
+Item[1]: Third-age robe [10340, 1]
+
+
+
+2015-04-20 22:49:58.261: [Melee Cyrus]:
+Item[0]: Amulet of fury [6585, 1]
+Item[1]: Zuriel's staff [13867, 1]
+Item[2]: Dragon boots [11732, 1]
+Item[3]: Black ibis mask [21534, 1]
+Item[4]: Black ibis body [21532, 1]
+Item[5]: Black ibis legs [21533, 1]
+Item[6]: Ringmaster hat [13672, 1]
+Item[7]: Infinity gloves [6922, 1]
+Item[8]: Black platebody (t) [2583, 1]
+Item[9]: Black platelegs (t) [2585, 1]
+
+
+
+2015-04-20 22:50:49.826: [Melee Cyrus]:
+Item[0]: Dragon boots [11732, 1]
+Item[1]: Zuriel's staff [13867, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Black platebody (t) [2583, 1]
+Item[4]: Infinity gloves [6922, 1]
+Item[5]: Ringmaster hat [13672, 1]
+Item[6]: Black platelegs (t) [2585, 1]
+Item[7]: Black ibis mask [21534, 1]
+Item[8]: Black ibis legs [21533, 1]
+Item[9]: Black ibis body [21532, 1]
+
+
+
+2015-04-20 22:52:00.061: [Melee Cyrus]:
+Item[0]: Coins [995, 40000000]
+Item[1]: Zuriel's staff [13867, 1]
+Item[2]: Amulet of fury [6585, 1]
+Item[3]: Black ibis mask [21534, 1]
+Item[4]: Black platelegs (t) [2585, 1]
+Item[5]: Black ibis legs [21533, 1]
+Item[6]: Ringmaster hat [13672, 1]
+Item[7]: Black ibis body [21532, 1]
+Item[8]: Dragon boots [11732, 1]
+Item[9]: Black platebody (t) [2583, 1]
+
+
+
+2015-04-20 23:02:26.449: [Melee Cyrus]:
+Item[0]: Coins [995, 15800000]
+
+
+
+2015-04-20 23:09:24.050: [Melee Cyrus]:
+Item[0]: Coins [995, 37810000]
+
+
+
+2015-05-03 21:20:29.600: [Melee Cyrus]:
+Item[0]: Abyssal whip [4151, 1]
+Item[1]: Abyssal whip [4151, 1]
+
+
+
+2015-05-03 21:21:20.000: [Melee Cyrus]:
+Item[0]: Amulet of fury [6586, 1]
+Item[1]: Abyssal whip [4152, 1]
+Item[2]: Staff of light [22206, 1]
+
+
+
+2015-05-03 21:25:05.612: [Davetherave]:
+Item[2]: Abyssal whip [4152, 2]
+
+
+
+2015-05-03 21:37:10.412: [Melee Cyrus]:
+Item[0]: Corrupt statius's platelegs [13914, 1]
+Item[1]: Corrupt statius's warhammer [13926, 1]
+Item[2]: Armadyl chestplate [11720, 1]
+Item[3]: Vesta's spear [13905, 1]
+Item[4]: Staff of light [22206, 1]
+Item[5]: Zuriel's staff [13867, 1]
+
+
+

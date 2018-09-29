@@ -1,0 +1,8 @@
+Item Taken: Red d'hide body [2501, 1 - position=[3094, 3491, 0]] - 2015-03-23 05:24:12.071
+Item Taken: Red d'hide chaps [2495, 1 - position=[3094, 3491, 0]] - 2015-03-23 05:24:13.265
+Item Taken: Vial [230, 11 - position=[3094, 3491, 0]] - 2015-03-23 07:17:49.349
+Item Telegrabbed: Monkey nuts [4012, 1 - [3086, 3488, 0]] - 2015-04-01 00:29:02.982
+Item Telegrabbed: Monkey nuts [4012, 1 - [3084, 3489, 0]] - 2015-04-01 00:32:37.391
+Item Telegrabbed: Monkey nuts [4012, 1 - [3082, 3488, 0]] - 2015-04-01 00:32:44.593
+Item Telegrabbed: Monkey nuts [4012, 1 - [3082, 3494, 0]] - 2015-04-01 00:34:06.777
+Item Telegrabbed: Iron platebody [1115, 1 - [3086, 3492, 0]] - 2015-04-01 00:34:17.559

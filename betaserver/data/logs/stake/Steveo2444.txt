@@ -1,0 +1,11 @@
+2015-03-28 10:09:57.593: [Vip3rcouch]:
+Item[0]: Scroll of rigour [18839, 1]
+
+
+
+2015-03-28 10:13:20.380: [Vip3rcouch]:
+Item[0]: Scroll of rigour [18839, 1]
+Item[1]: Scroll of augury [18344, 1]
+
+
+

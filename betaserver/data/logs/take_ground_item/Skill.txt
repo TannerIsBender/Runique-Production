@@ -1,0 +1,2 @@
+Item Taken: Mystery box [18768, 1 - position=[3097, 3504, 0]] - 2015-03-24 17:59:35.458
+Item Taken: Iron bar [2351, 1 - position=[3097, 3504, 0]] - 2015-03-24 17:59:39.049

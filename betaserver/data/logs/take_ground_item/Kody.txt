@@ -1,0 +1,6 @@
+Item Taken: Battlefield cape [21406, 1 - position=[3097, 3496, 0]] - 2015-03-25 17:23:53.458
+Item Taken: Chisel [1755, 1 - position=[3097, 3496, 0]] - 2015-03-25 17:23:58.858
+Item Taken: White scimitar [6612, 12 - position=[3096, 3498, 0]] - 2015-03-25 17:39:38.484
+Item Taken: Iron scimitar [1324, 17 - position=[3096, 3498, 0]] - 2015-03-25 17:39:41.458
+Item Taken: Black scimitar [1328, 11 - position=[3096, 3498, 0]] - 2015-03-25 17:39:43.275
+Item Taken: Steel scimitar [1326, 14 - position=[3096, 3498, 0]] - 2015-03-25 17:39:44.471

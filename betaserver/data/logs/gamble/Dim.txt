@@ -1,0 +1,127 @@
+2015-05-19 05:52:53.286: [[Homer, bennyb11; 58.172.232.175, 20-C9-D0-DE-E6-13]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-19 06:08:24.495: [[Micky G, parkridge; 124.187.117.246, EC-55-F9-97-CA-20]]:
+My Item[0]: Coins [995, 46000000]
+Other Item[0]: Coins [995, 46000000]
+
+
+
+2015-05-19 06:10:45.502: [[Micky G, parkridge; 124.187.117.246, EC-55-F9-97-CA-20]]:
+My Item[0]: Zuriel's robe bottom [13861, 1]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-19 06:17:25.133: [[Micky G, parkridge; 124.187.117.246, EC-55-F9-97-CA-20]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-05-19 06:19:00.532: [[Micky G, parkridge; 124.187.117.246, EC-55-F9-97-CA-20]]:
+My Item[0]: Eagle-eye kiteshield [18361, 1]
+Other Item[0]: Chaotic kiteshield [18359, 1]
+
+
+
+2015-05-20 04:55:45.062: [[Newname, bigbootyhoe; 24.177.111.2, AC-B5-7D-07-83-AA]]:
+My Item[0]: Coins [995, 10000000]
+Other Item[0]: Coins [995, 10000000]
+
+
+
+2015-05-20 04:56:52.863: [[Newname, bigbootyhoe; 24.177.111.2, AC-B5-7D-07-83-AA]]:
+My Item[0]: Coins [995, 20000000]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-05-22 06:16:13.445: [[Noli Ftw, pakokosare; 46.99.37.82, 00-1F-3C-75-90-73]]:
+My Item[0]: Chaotic maul [18353, 1]
+Other Item[0]: Chaotic crossbow [18357, 1]
+
+
+
+2015-05-24 01:20:51.448: [[Ask, Office66; 180.222.70.58, 24-FD-52-BD-F6-1B]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
+2015-05-25 07:13:00.664: [[L2iron Man, sweandypandy; 213.65.218.69, 80-56-F2-4B-42-7B]]:
+My Item[0]: Full slayer helmet [15492, 1]
+Other Item[0]: Full slayer helmet [15492, 1]
+
+
+
+2015-05-25 07:49:05.489: [[Gm Shawn, qwerty159; 24.202.54.202, 00-25-64-D5-A7-C0]]:
+My Item[0]: Steadfast boots [21787, 1]
+Other Item[0]: Ragefire boots [21793, 1]
+
+
+
+2015-05-28 05:45:25.116: [[Xp Lamp, tyler1996; 74.82.232.15, 00-23-4D-A7-AD-22]]:
+My Item[0]: Coins [995, 1]
+Other Item[0]: Bonecrusher [18337, 1]
+
+
+
+2015-05-29 04:09:41.178: [[Not Katie, lillyrose1262011; 94.196.248.218, None]]:
+My Item[0]: Coins [995, 100000000]
+Other Item[0]: Coins [995, 100000000]
+
+
+
+2015-05-29 04:14:29.180: [[Not Katie, lillyrose1262011; 94.196.248.218, None]]:
+My Item[0]: Coins [995, 200000400]
+Other Item[0]: Vesta's plateskirt [13893, 1]
+Other Item[1]: Vesta's chainbody [13887, 1]
+
+
+
+2015-05-29 04:15:07.580: [[Not Katie, lillyrose1262011; 94.196.248.218, None]]:
+My Item[0]: Coins [995, 200000000]
+Other Item[0]: Coins [995, 200000400]
+
+
+
+2015-05-29 04:20:10.586: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Red partyhat [1038, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-29 04:20:44.194: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Red partyhat [1038, 1]
+Other Item[0]: White partyhat [1048, 1]
+
+
+
+2015-05-29 04:22:05.201: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 236000000]
+My Item[1]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 336000000]
+
+
+
+2015-05-29 04:23:40.595: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Coins [995, 236000000]
+My Item[1]: Armadyl godsword [11694, 1]
+Other Item[0]: Coins [995, 336000000]
+
+
+
+2015-05-29 04:26:05.195: [[Mcfly, starwars123; 110.175.11.86, 54-27-1E-EF-81-4B]]:
+My Item[0]: Vesta's chainbody [13887, 1]
+My Item[1]: Chaotic rapier [18349, 1]
+My Item[2]: Vesta's plateskirt [13893, 1]
+My Item[3]: Steadfast boots [21787, 1]
+Other Item[0]: Coins [995, 600000000]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+

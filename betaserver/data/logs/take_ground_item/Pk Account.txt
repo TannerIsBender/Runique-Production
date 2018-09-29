@@ -1,0 +1,10 @@
+Item Taken: Rune platebody [1127, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:09.445
+Item Taken: Veteran cape [20763, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:10.058
+Item Taken: Rune platelegs [1079, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:10.646
+Item Taken: Dragon dagger (p++) [5698, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:13.058
+Item Taken: Amulet of glory (4) [1712, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:13.645
+Item Taken: Ring of recoil [2550, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:14.258
+Item Taken: Super restore (4) [3024, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:14.858
+Item Taken: Super restore (4) [3024, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:15.444
+Item Taken: Super attack (3) [145, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:16.644
+Item Taken: Super strength (2) [159, 1 - position=[3092, 3524, 0]] - 2015-03-24 12:12:17.844

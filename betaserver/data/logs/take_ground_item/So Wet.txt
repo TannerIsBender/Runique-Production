@@ -1,0 +1,7 @@
+Item Telegrabbed: Overload (1) [15335, 1 - [3087, 3491, 0]] - 2015-04-01 15:32:21.970
+Item Telegrabbed: Monkey nuts [4012, 1 - [3091, 3495, 0]] - 2015-04-01 15:32:38.770
+Item Telegrabbed: Gold charm [12158, 3 - [2682, 3715, 0]] - 2015-04-01 15:34:30.958
+Item Telegrabbed: Green charm [12159, 2 - [2683, 3716, 0]] - 2015-04-01 15:34:34.549
+Item Telegrabbed: Bronze thrownaxe [800, 5 - [2681, 3716, 0]] - 2015-04-01 15:34:38.157
+Item Telegrabbed: Bones [526, 1 - [2679, 3720, 0]] - 2015-04-01 15:34:45.958
+Item Telegrabbed: Monkey nuts [4012, 1 - [3048, 9769, 0]] - 2015-04-01 16:25:45.994

@@ -1,0 +1,70 @@
+2015-06-04 15:38:56.901: [[Thanzer, joha1103; 87.58.104.127, 94-39-E5-A5-E8-27]]:
+My Item[0]: Gilded kiteshield [3488, 1]
+My Item[1]: Gilded platelegs [3483, 1]
+My Item[2]: Gilded full helm [3486, 1]
+My Item[3]: Morrigan's leather chaps [13873, 1]
+Other Item[0]: Abyssal whip [4151, 1]
+Other Item[1]: Blisterwood polearm [21582, 1]
+Other Item[2]: Blisterwood staff [21580, 1]
+Other Item[3]: Amulet of fury [6585, 1]
+Other Item[4]: Abyssal whip [15441, 1]
+Other Item[5]: Abyssal whip [15441, 1]
+
+
+
+2015-06-04 16:04:21.520: [[Dinkywink, summasnarum; 84.208.104.238, 00-71-CC-6C-9D-47]]:
+My Item[0]: Coins [995, 5000000]
+Other Item[0]: Coins [995, 5000000]
+
+
+
+2015-06-04 16:30:44.343: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Armadyl chestplate [11720, 1]
+My Item[1]: Armadyl chestplate [11720, 1]
+My Item[2]: Coins [995, 20000000]
+Other Item[0]: Dragon claws [14484, 1]
+
+
+
+2015-06-04 16:32:13.738: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Saradomin godsword [11698, 1]
+My Item[1]: Gilded kiteshield [3488, 1]
+My Item[2]: Gilded full helm [3486, 1]
+My Item[3]: Blisterwood staff [21580, 1]
+My Item[4]: Blisterwood polearm [21582, 1]
+My Item[5]: Gilded platelegs [3483, 1]
+My Item[6]: Morrigan's leather chaps [13873, 1]
+My Item[7]: Cat staff [19331, 1]
+My Item[8]: Bandos godsword [11696, 1]
+Other Item[0]: Bandos tassets [11726, 1]
+Other Item[1]: Armadyl godsword [11694, 1]
+
+
+
+2015-06-04 16:36:34.742: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Chaotic kiteshield [18359, 1]
+Other Item[0]: Ragefire boots [21793, 1]
+Other Item[2]: Steadfast boots [21787, 1]
+
+
+
+2015-06-05 08:07:18.663: [[Davetherave, panasonic123; 92.238.248.62, EC-1A-59-63-76-23]]:
+My Item[0]: Chaotic kiteshield [18359, 1]
+Other Item[0]: Eagle-eye kiteshield [18361, 1]
+
+
+
+2015-06-06 15:42:03.947: [[Nessie, nessie9; 64.121.237.177, 08-86-3B-77-B9-F8]]:
+My Item[0]: Staff of light [22208, 1]
+My Item[1]: Dragon boots [11732, 1]
+Other Item[0]: Coins [995, 20000000]
+
+
+
+2015-06-07 01:15:39.824: [[The Gambler, playman123; 64.39.181.209, AC-81-12-AE-C0-52]]:
+My Item[0]: Abyssal vine whip [21372, 1]
+Other Item[0]: Dragonfire shield [11283, 1]
+Other Item[1]: Statius's warhammer [13902, 1]
+
+
+

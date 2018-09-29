@@ -1,0 +1,50 @@
+2015-05-18 03:08:46.633: [[Newname, bigbootyhoe; 24.177.111.2, AC-B5-7D-07-83-AA]]:
+My Item[0]: Coins [995, 15000000]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-18 03:12:05.220: [[Newname, bigbootyhoe; 24.177.111.2, AC-B5-7D-07-83-AA]]:
+My Item[0]: Dark bow [15704, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-18 03:54:25.064: [[Slayer Mastr, 5kl79as; 86.85.255.221, 00-1F-3B-90-85-BD]]:
+My Item[0]: Dragon claws [14484, 1]
+Other Item[0]: Statius's warhammer [13902, 1]
+Other Item[1]: Coins [995, 5000000]
+
+
+
+2015-05-18 23:43:37.995: [[Newname, bigbootyhoe; 24.177.111.2, AC-B5-7D-07-83-AA]]:
+My Item[0]: Dark bow [15704, 1]
+Other Item[0]: Coins [995, 15000000]
+
+
+
+2015-05-23 18:13:23.548: [[Kuto, darren; 2.223.75.226, 7C-E9-D3-26-04-A7]]:
+My Item[0]: Coins [995, 30000000]
+Other Item[0]: Coins [995, 30000000]
+
+
+
+2015-05-23 19:14:13.385: [[Fanv, townhall1; 98.221.109.239, 4C-BB-58-78-E5-5D]]:
+My Item[0]: Bandos godsword [11696, 1]
+My Item[1]: Saradomin godsword [11698, 1]
+Other Item[0]: Coins [995, 60000000]
+
+
+
+2015-05-23 23:14:57.364: [[Scizor, blake2495; 75.176.169.48, 94-39-E5-46-17-FC]]:
+My Item[0]: Coins [995, 75000000]
+Other Item[0]: Armadyl godsword [11694, 1]
+
+
+
+2015-05-24 21:22:34.985: [[Homer, bennyb11; 58.172.232.175, None]]:
+My Item[0]: Coins [995, 50000000]
+Other Item[0]: Coins [995, 50000000]
+
+
+
