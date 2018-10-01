@@ -8036,7 +8036,11 @@
 		</item>
 		<item>
 			<id>50786</id>
-			<amount>100000</amount>
+			<amount>10000</amount>
+		</item>
+		<item>
+			<id>19669</id>
+			<amount>10000</amount>
 		</item>
 	</shop>
 	<shop>

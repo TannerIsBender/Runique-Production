@@ -8653,6 +8653,7 @@
 		<drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
 		<drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
 		<drop rolls="105" itemAmount="100" itemId="49580" itemAmountAddition="100" /> #rune jav head
+		<drop rolls="221" itemAmount="100" itemId="49582" itemAmountAddition="100" /> #dragon jav head
 		<drop rolls="125" itemAmount="100" itemId="49584" itemAmountAddition="100" /> #jav shaft
 		<drop rolls="500" itemAmount="1" itemId="49592" /> # ballista limbs
 		<drop rolls="550" itemAmount="1" itemId="49601" /> # ballista spring
