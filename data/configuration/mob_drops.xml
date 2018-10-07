@@ -6159,6 +6159,7 @@
    </mob>
    <mob mobId="49"> #Hellhound
       <drop rolls="0" itemAmount="1" itemId="3187" /> #Bones
+	  <drop rolls="1500" itemAmount="1" itemId="43233" /> # Smouldering stone
       <drop rolls="13" itemAmount="1" itemId="12158" /> #Gold charm
       <drop rolls="15" itemAmount="1" itemId="12159" /> #Green charm
       <drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson charm
