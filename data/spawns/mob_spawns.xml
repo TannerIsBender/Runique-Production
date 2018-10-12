@@ -1,5 +1,25 @@
 <list>
 
+	<spawn> # Pumpkin Pete
+		<id>12377</id>
+		<x>3167</x>
+		<y>3471</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Pumpkin Pete
+		<id>12377</id>
+		<x>3096</x>
+		<y>3511</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
 	<spawn> # crafting guild shop
 		<id>534</id>
 		<x>2932</x>
