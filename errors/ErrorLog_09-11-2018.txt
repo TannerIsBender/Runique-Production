@@ -1,0 +1,8 @@
+Oct 11, 2018 8:12:28 PM org.niobe.GameServer main
+INFO: Launching Niobe, please be patient while configurations are being loaded... [8 cores]
+File not found: C:\Users\Jonathan\Desktop\RQ2\Runique-Production\.\data\cache_idx\main_file_cache.dat
+Exception in thread "main" java.io.FileNotFoundException
+	at org.niobe.cache.RSCache.create(RSCache.java:13)
+	at org.niobe.GameServer.main(GameServer.java:126)
+Oct 11, 2018 8:12:28 PM org.niobe.GameServer$ShutdownHook run
+INFO: The shutdown hook is processing all required actions...

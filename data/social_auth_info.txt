@@ -1,7 +1,7 @@
 These statistics include times the auth has been entered, even if the auth has expired [used more than 15 times]
 
 facebook_auths_used: 0
-youtube_auths_used: 2
+youtube_auths_used: 0
 twitter_auths_used: 0
 rune-server_auths_used: 0
 osbot_auths_used: 0
