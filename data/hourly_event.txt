@@ -1,6 +1,6 @@
-event: 12
+event: 4
 event_timer: 0
 total_winners: 0
 event_serial: 0
-next_event: 6
+next_event: 9
 last_winner: None
