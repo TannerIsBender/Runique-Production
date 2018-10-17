@@ -725,66 +725,7 @@
             <id>1617</id>
 			<amount>10000</amount>
         </item>
-		
-		<item>
-			<id>1438</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
-			<id>1440</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
-			<id>1442</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
-			<id>1444</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
-			<id>1446</id>
-			<amount>2147483647</amount>
-		</item>
-
-		<item>
-			<id>1448</id>
-			<amount>2147483647</amount>
-		</item>
-				
-		<item>
-			<id>1450</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
-			<id>1452</id>
-			<amount>2147483647</amount>
-		</item>
-						
-		<item>
-			<id>1454</id>
-			<amount>2147483647</amount>
-		</item>
-				
-		<item>
-			<id>1456</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
-			<id>1462</id>
-			<amount>2147483647</amount>
-		</item>
-				
-		<item>
-			<id>1458</id>
-			<amount>2147483647</amount>
-		</item>
+	
 
 		<item>
 			<id>49631</id>
@@ -1554,11 +1495,6 @@
         
         <item>
             <id>7460</id>
-			<amount>2147483647</amount>
-        </item>
-        
-        <item>
-            <id>7462</id>
 			<amount>2147483647</amount>
         </item>
         
@@ -3440,68 +3376,6 @@
 		</item>
 		
 		<item>
-			<id>1438</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1440</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1442</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1444</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1446</id>
-			<amount>10000</amount>
-		</item>
-
-		<item>
-			<id>1448</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1450</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1452</id>
-			<amount>10000</amount>
-		</item>
-		
-		# Second Row
-		
-		<item>
-			<id>1454</id>
-			<amount>10000</amount>
-		</item>
-				
-		<item>
-			<id>1456</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
-			<id>1462</id>
-			<amount>10000</amount>
-		</item>
-				
-		<item>
-			<id>1458</id>
-			<amount>10000</amount>
-		</item>
-		
-		<item>
             <id>1625</id>
 			<amount>10000</amount>
         </item>
@@ -3530,9 +3404,14 @@
             <id>1619</id>
 			<amount>10000</amount>
         </item>
-        		
+		
 		<item>
             <id>1617</id>
+			<amount>10000</amount>
+        </item>
+        		
+		<item>
+            <id>1631</id>
 			<amount>10000</amount>
         </item>
 		
@@ -3540,6 +3419,68 @@
             <id>10075</id>
 			<amount>10000</amount>
         </item>
+		
+		<item>
+			<id>952</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>1755</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>2347</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>590</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>946</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>8794</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>954</id>
+			<amount>100</amount>
+		</item>
+		
+		# Second Row
+		
+		<item>
+			<id>1931</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>3727</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>1265</id>
+			<amount>1000</amount>
+		</item>
+		
+		<item>
+			<id>1351</id>
+			<amount>1000</amount>
+		</item>
+
+		<item>
+			<id>1759</id>
+			<amount>1000</amount>
+		</item>
 	</shop>
 
 	<shop>
@@ -4307,11 +4248,6 @@
 		<id>26</id>
 		<name>Merchant Point Store</name>
 		<currency>org.niobe.model.container.impl.currency.ExplicitMerchantPointsCurrency</currency>
-		
-		<item>
-            <id>7462</id>
-			<amount>10</amount>
-        </item>
 		
 		<item>
             <id>6737</id>
@@ -5342,11 +5278,6 @@
 		</item>
 		
 		<item>
-			<id>7462</id>
-			<amount>2147483647</amount>
-		</item>
-		
-		<item>
 			<id>4153</id>
 			<amount>2147483647</amount>
 		</item>
@@ -5949,11 +5880,6 @@
 		</item>
 		
 		<item>
-			<id>7462</id>
-			<amount>100000</amount>
-		</item>
-		
-		<item>
 			<id>19340</id>
 			<amount>100000</amount>
 		</item>
@@ -6492,6 +6418,10 @@
 			<id>190</id>
 			<amount>1000</amount>
 		</item>
+		<item>
+			<id>3009</id>
+			<amount>1000</amount>
+		</item>
 	</shop>
     
     <shop>
@@ -6886,27 +6816,27 @@
 		
 		<item>
 			<id>556</id>
-			<amount>10000</amount>
+			<amount>100000</amount>
 		</item>
 		
 		<item>
 			<id>555</id>
-			<amount>10000</amount>
+			<amount>100000</amount>
 		</item>
 		
 		<item>
 			<id>554</id>
-			<amount>10000</amount>
+			<amount>100000</amount>
 		</item>
 		
 		<item>
 			<id>557</id>
-			<amount>10000</amount>
+			<amount>100000</amount>
 		</item>
 		
 		<item>
 			<id>558</id>
-			<amount>15000</amount>
+			<amount>150000</amount>
 		</item>
 		
 		<item>
@@ -6933,27 +6863,27 @@
 		
 		<item>
 			<id>564</id>
-			<amount>7500</amount>
+			<amount>75000</amount>
 		</item>
 		
 		<item>
 			<id>563</id>
-			<amount>7500</amount>
+			<amount>75000</amount>
 		</item>
 		
 		<item>
 			<id>565</id>
-			<amount>15000</amount>
+			<amount>150000</amount>
 		</item>
 		
 		<item>
 			<id>561</id>
-			<amount>15000</amount>
+			<amount>150000</amount>
 		</item>
 		
 		<item>
 			<id>559</id>
-			<amount>7500</amount>
+			<amount>150000</amount>
 		</item>
 		
 		<item>
@@ -6980,27 +6910,27 @@
 		
 		<item>
 			<id>4698</id>
-			<amount>5000</amount>
+			<amount>50000</amount>
 		</item>
 		
 		<item>
 			<id>4697</id>
-			<amount>5000</amount>
+			<amount>50000</amount>
 		</item>
 		
 		<item>
 			<id>4699</id>
-			<amount>5000</amount>
+			<amount>50000</amount>
 		</item>
 		
 		<item>
 			<id>566</id>
-			<amount>7500</amount>
+			<amount>75000</amount>
 		</item>
 		
 		<item>
 			<id>9075</id>
-			<amount>7500</amount>
+			<amount>75000</amount>
 		</item>
 		
 		<item>
@@ -7027,27 +6957,27 @@
 		
 		<item>
 			<id>4694</id>
-			<amount>5000</amount>
+			<amount>50000</amount>
 		</item>
 		
 		<item>
 			<id>4695</id>
-			<amount>5000</amount>
+			<amount>50000</amount>
 		</item>
 		
 		<item>
 			<id>4696</id>
-			<amount>5000</amount>
+			<amount>50000</amount>
 		</item>
 		
 		<item>
 			<id>562</id>
-			<amount>7500</amount>
+			<amount>75000</amount>
 		</item>
 		
 		<item>
 			<id>560</id>
-			<amount>15000</amount>
+			<amount>150000</amount>
 		</item>
 		
 		<item>
@@ -7756,6 +7686,11 @@
 			<id>1759</id>
 			<amount>1000</amount>
 		</item>
+
+		<item>
+			<id>15484</id>
+			<amount>1000</amount>
+		</item>
 	</shop>
 
 	<shop>
@@ -8036,7 +7971,11 @@
 		</item>
 		<item>
 			<id>50786</id>
-			<amount>100000</amount>
+			<amount>10000</amount>
+		</item>
+		<item>
+			<id>19669</id>
+			<amount>10000</amount>
 		</item>
 	</shop>
 	<shop>
@@ -8056,7 +7995,7 @@
 			<amount>10</amount>
 		</item>
 		<item>
-			<id>19711</id>
+			<id>19712</id>
 			<amount>10</amount>
 		</item>
 		<item>
@@ -8104,6 +8043,133 @@
 			<amount>10</amount>
 		</item>
 	</shop>
+	<shop>
+        <id>1053</id>
+        <name>Agility store</name>
+        <currency>org.niobe.model.container.impl.currency.MarkOfGraceCurrency</currency>
+        <item>
+            <id>43579</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43581</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43583</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43585</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43587</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43589</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43591</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43593</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43595</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43597</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43599</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43601</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43603</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43605</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43607</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43609</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43611</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43613</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43615</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43617</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43619</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43621</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43623</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43625</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43627</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43629</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43631</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43633</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43635</id>
+            <amount>10</amount>
+        </item>
+        <item>
+            <id>43637</id>
+            <amount>10</amount>
+        </item>
+	</shop>
+	
+	
 	<shop>
         <id>1052</id>
         <name>Skilling coins store</name>

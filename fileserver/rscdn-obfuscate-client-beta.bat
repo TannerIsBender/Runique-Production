@@ -1,3 +1,3 @@
 @ECHO OFF
-java -Xms3024m -Xmx4080m -jar assets/proguard/lib/proguard.jar @assets/client-beta.obf
+java -Xms2024m -Xmx8080m -jar assets/proguard/lib/proguard.jar @assets/client-beta.obf
 pause
