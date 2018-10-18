@@ -1,5 +1,5 @@
 <list>
-	<!-- Halloween Event
+	 
 	<spawn> # Pumpkin Pete
 		<id>12377</id>
 		<x>3167</x>
@@ -18,7 +18,27 @@
 		<face>NORTH</face>
 		<walkDistance>2</walkDistance>
 		<respawnTimer>60</respawnTimer>
-	</spawn>-->
+	</spawn>
+
+	<spawn> # Agility shop
+		<id>1661</id>
+		<x>2479</x>
+		<y>3438</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Agility shop
+		<id>1661</id>
+		<x>2553</x>
+		<y>3569</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
 
 	<spawn> # crafting guild shop
 		<id>534</id>
@@ -1587,6 +1607,16 @@
 		<id>11277</id>
 		<x>3083</x>
 		<y>3493</y>
+		<z>0</z>
+		<face>EAST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Krystilia
+		<id>57663</id>
+		<x>3546</x>
+		<y>9503</y>
 		<z>0</z>
 		<face>EAST</face>
 		<walkDistance>0</walkDistance>
@@ -9401,6 +9431,16 @@
 	</spawn>
 
 	# Forinthry Dungeon
+	
+	<spawn> #Revenant imp
+		<id>13465</id>
+		<x>3105</x>
+		<y>10157</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
 
 	<spawn> #Lava dragon
 		<id>56593</id>
@@ -9471,12 +9511,31 @@
 		<walkDistance>3</walkDistance>
 		<respawnTimer>45</respawnTimer>
 	</spawn>
-	
 
 	<spawn> #Revenant knight
 		<id>13480</id>
 		<x>3120</x>
 		<y>10151</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+	
+	<spawn> #Revenant knight
+		<id>13480</id>
+		<x>3050</x>
+		<y>10128</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant knight
+		<id>13480</id>
+		<x>3064</x>
+		<y>10128</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
@@ -9493,10 +9552,50 @@
 		<respawnTimer>30</respawnTimer>
 	</spawn>
 
+	<spawn> #Revenant dark beast
+		<id>13479</id>
+		<x>3050</x>
+		<y>10140</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant dark beast
+		<id>13479</id>
+		<x>3031</x>
+		<y>10141</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
 	<spawn> #Revenant dragon
 		<id>13481</id>
 		<x>3092</x>
 		<y>10165</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant dragon
+		<id>13481</id>
+		<x>3026</x>
+		<y>10150</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant dragon
+		<id>13481</id>
+		<x>3022</x>
+		<y>10135</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
@@ -9515,8 +9614,28 @@
 
 	<spawn> #Revenant icefiend
 		<id>13470</id>
+		<x>3112</x>
+		<y>10149</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant icefiend
+		<id>13470</id>
 		<x>3102</x>
 		<y>10151</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>30</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant werewolf
+		<id>13474</id>
+		<x>3119</x>
+		<y>10141</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
@@ -15004,7 +15123,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3070</x>
 		<y>3657</y>
 		<z>0</z>
@@ -15294,7 +15413,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3109</x>
 		<y>3634</y>
 		<z>0</z>
@@ -15304,7 +15423,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3114</x>
 		<y>3628</y>
 		<z>0</z>
@@ -15314,7 +15433,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3107</x>
 		<y>3626</y>
 		<z>0</z>
@@ -15324,7 +15443,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3118</x>
 		<y>3639</y>
 		<z>0</z>
@@ -15334,7 +15453,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3119</x>
 		<y>3627</y>
 		<z>0</z>
@@ -15344,7 +15463,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3119</x>
 		<y>3604</y>
 		<z>0</z>
@@ -15354,7 +15473,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3136</x>
 		<y>3612</y>
 		<z>0</z>
@@ -15364,7 +15483,7 @@
 	</spawn>
 
 	<spawn> # Black unicorn
-		<id>133</id>
+		<id>52849</id>
 		<x>3124</x>
 		<y>3586</y>
 		<z>0</z>

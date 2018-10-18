@@ -874,6 +874,7 @@
 		<drop rolls="150" itemAmount="1" itemId="4587" /> # dragon scimitar
 	    <drop rolls="1700" itemAmount="1" itemId="19674" /> # Eye of the mage
 	    <drop rolls="1300" itemAmount="1" itemId="20667" /> # Vecna skull
+		<drop rolls="1000" itemAmount="1" itemId="51275" /> #dark claw
 	    <drop rolls="3000" itemAmount="1" itemId="51273" /> # Skotos pet
 	    <drop rolls="1500" itemAmount="1" itemId="42853" /> # Amulet of the damned
 	    <drop rolls="2000" itemAmount="1" itemId="50213" /> # Eternal cape
@@ -5221,6 +5222,7 @@
 	  <drop rolls="85" itemAmount="10" itemId="241" /> #Dragon scale dust
       <drop rolls="730" itemAmount="1" itemId="19785" /> #Elite Void Knight Top
       <drop rolls="1400" itemAmount="1" itemId="12653" /> #kbd pet
+	  <drop rolls="1000" itemAmount="1" itemId="7980" /> #KBD HEAD
       <drop rolls="900" itemAmount="1" itemId="17273" /> #Flameburst Defender
       <drop rolls="400" itemAmount="800000" itemId="995" itemAmountAddition="71450" /> #coins
       <drop rolls="850" itemAmount="100000" itemId="995" itemAmountAddition="71450" /> #Coins
