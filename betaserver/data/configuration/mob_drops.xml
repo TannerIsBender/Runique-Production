@@ -2480,7 +2480,7 @@
       <drop rolls="151" itemAmount="1" itemId="9431" /> #Runite limbs
       <drop rolls="298" itemAmount="1" itemId="1202" /> #rune kite
       <drop rolls="162" itemAmount="50" itemId="830" /> #Rune Javelin
-      <drop rolls="0" itemAmount="1" itemId="1747" /> #Black Dragonhide
+      <drop rolls="0" itemAmount="1" itemId="2363" /> #Rune bar
 	  <drop rolls="362" itemAmount="1" itemId="235" /> #unicorn horn dust
       <drop rolls="175" itemAmount="1" itemId="800" /> #grimy guam
       <drop rolls="186" itemAmount="1" itemId="202" /> #grimy marrentill
@@ -5802,10 +5802,10 @@
    <mob mobId="58059"> #Vorkath
       <drop rolls="0" itemAmount="2" itemId="52125" /> #Superior Dragon Bones
       <drop rolls="1" itemAmount="2" itemId="1752" /> #blue Dragonhide
-      <drop rolls="444" itemAmount="1" itemId="1748" itemAmountAddition="20" /> #Black Dragonhide
-	  <drop rolls="320" itemAmount="75" itemId="1750" itemAmountAddition="20" /> #Red dragonhide
-      <drop rolls="250" itemAmount="800" itemId="1754" itemAmountAddition="20" /> #Green dragonhide
-	  <drop rolls="1500" itemAmount="1" itemId="51992" /> #Vorki
+      <drop rolls="444" itemAmount="35" itemId="1748" itemAmountAddition="8" /> #Black Dragonhide
+	  <drop rolls="320" itemAmount="50" itemId="1750" itemAmountAddition="15" /> #Red dragonhide
+      <drop rolls="250" itemAmount="80" itemId="1754" itemAmountAddition="15" /> #Green dragonhide
+	  <drop rolls="4000" itemAmount="1" itemId="51992" /> #Vorki
       <drop rolls="200" itemAmount="100000" itemId="995" /> #Coins
 	  <drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
 	  <drop rolls="362" itemAmount="3" itemId="221" /> #eye of newt
@@ -5818,14 +5818,14 @@
       <drop rolls="162" itemAmount="100" itemId="384" itemAmountAddition="50" /> #raw shark
       <drop rolls="262" itemAmount="5" itemId="537" itemAmountAddition="20" /> #dragon bones
       <drop rolls="262" itemAmount="5" itemId="392" itemAmountAddition="25" /> #manta ray
-      <drop rolls="100" itemAmount="1" itemId="32425" /> #Vorkath Head
+      <drop rolls="500" itemAmount="1" itemId="32425" /> #Vorkath Head
       <drop rolls="162" itemAmount="800" itemId="565" itemAmountAddition="1450" /> #blood runes
       <drop rolls="162" itemAmount="800" itemId="560" itemAmountAddition="1450" /> #death runes
       <drop rolls="162" itemAmount="800" itemId="562" itemAmountAddition="1450" /> #chaos runes
       <drop rolls="1260" itemAmount="1" itemId="11286" /> #Draconic visage
-      <drop rolls="1500" itemAmount="1" itemId="49547" /> #Necklace of anguish
+      <drop rolls="2500" itemAmount="1" itemId="49547" /> #Necklace of anguish
       <drop rolls="1850" itemAmount="1" itemId="52006" /> #Skeletal visage
-	    <drop rolls="2000" itemAmount="1" itemId="50216" /> # Pegasian cape
+	    <drop rolls="3000" itemAmount="1" itemId="50216" /> # External cape
       
       <drop rolls="137" itemAmount="750" itemId="890" /> #Adamant arrow
       <drop rolls="133" itemAmount="250" itemId="9144" /> #Runite bolts
