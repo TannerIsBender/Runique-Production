@@ -21,8 +21,8 @@
 
 	<spawn> # Pumpkin Pete
 		<id>12377</id>
-		<x>3096</x>
-		<y>3511</y>
+		<x>3101</x>
+		<y>3502</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>2</walkDistance>
@@ -1654,11 +1654,11 @@
 
 	<spawn> # Apprentice Smith
 		<id>4904</id>
-		<x>3101</x>
-		<y>3486</y>
+		<x>3107</x>
+		<y>3496</y>
 		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>1</walkDistance>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -1674,11 +1674,11 @@
 
 	<spawn> # Diango
 		<id>970</id>
-		<x>3094</x>
-		<y>3483</y>
+		<x>3095</x>
+		<y>3498</y>
 		<z>0</z>
 		<face>NORTH</face>
-		<walkDistance>0</walkDistance>
+		<walkDistance>1</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -1714,8 +1714,8 @@
 
 	<spawn> # Wizard (Imbue Rings)
 		<id>460</id>
-		<x>3092</x>
-		<y>3483</y>
+		<x>3083</x>
+		<y>3489</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>0</walkDistance>
@@ -1754,10 +1754,10 @@
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
-	<spawn>
+	<spawn>`
 		# Doctor Orbon
 		<id>290</id>
-		<x>3083</x>
+		<x>3082</x>
 		<y>3499</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -1768,11 +1768,11 @@
 	<spawn>
 		#Sigmund The Merchant
 		<id>1282</id>
-		<x>3093</x>
-		<y>3497</y>
+		<x>3101</x>
+		<y>3493</y>
 		<z>0</z>
 		<face>SOUTH</face>
-		<walkDistance>3</walkDistance>
+		<walkDistance>5</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -1788,10 +1788,10 @@
 
 	<spawn> # Mandrith
 		<id>6537</id>
-		<x>3097</x>
-		<y>3499</y>
+		<x>3068</x>
+		<y>3516</y>
 		<z>0</z>
-		<face>WEST</face>
+		<face>SOUTH</face>
 		<walkDistance>0</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
@@ -1850,11 +1850,11 @@
 	<spawn>
 		#Make-over Mage
 		<id>599</id>
-		<x>3099</x>
-		<y>3484</y>
+		<x>3100</x>
+		<y>3506</y>
 		<z>0</z>
-		<face>EAST</face>
-		<walkDistance>3</walkDistance>
+		<face>SOUTH</face>
+		<walkDistance>0</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -1893,7 +1893,7 @@
 	<spawn>
 		#Magic Store Owner - Home Shop
 		<id>461</id>
-		<x>3099</x>
+		<x>3098</x>
 		<y>3506</y>
 		<z>0</z>
 		<face>SOUTH</face>
@@ -1904,7 +1904,7 @@
 	<spawn>
 		#Robe Store owner
 		<id>1658</id>
-		<x>3100</x>
+		<x>3099</x>
 		<y>3506</y>
 		<z>0</z>
 		<face>SOUTH</face>
@@ -1915,7 +1915,7 @@
 	<spawn>
 		#Ranged assistant
 		<id>8084</id>
-		<x>3097</x>
+		<x>3096</x>
 		<y>3506</y>
 		<z>0</z>
 		<face>SOUTH</face>
@@ -1926,7 +1926,7 @@
 	<spawn>
 		#Bow And Arrows Salesman - Home Shop
 		<id>683</id>
-		<x>3096</x>
+		<x>3095</x>
 		<y>3506</y>
 		<z>0</z>
 		<face>SOUTH</face>
@@ -1959,10 +1959,10 @@
 	<spawn>
 		# Turael
 		<id>8273</id>
-		<x>3090</x>
-		<y>3483</y>
+		<x>3083</x>
+		<y>3487</y>
 		<z>0</z>
-		<face>NORTH</face>
+		<face>EAST</face>
 		<walkDistance>0</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>

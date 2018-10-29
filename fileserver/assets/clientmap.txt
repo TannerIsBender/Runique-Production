@@ -213,6 +213,699 @@ aurelienribon.tweenengine.paths.Linear -> BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0g
     int[] streamIndicesOldschool -> j0lwcLi9yupMwSGMc6Yi
     void <init>() -> <init>
     void unpack(org.client.cache.Archive) -> zegfRrzyok7oOnZNa2bQ
+club.minnced.discord.rpc.DiscordEventHandlers -> EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.i280lUpkLge7fC1AJULi:
+    java.util.List FIELD_ORDER -> zegfRrzyok7oOnZNa2bQ
+    club.minnced.discord.rpc.DiscordEventHandlers$OnReady ready -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    java.util.List getFieldOrder() -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+club.minnced.discord.rpc.DiscordEventHandlers$OnReady -> EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.jmy4oZkNdrwtsSWkr2Jf:
+club.minnced.discord.rpc.DiscordRPC -> EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.emYY4qadEhxoNljI05xV:
+    club.minnced.discord.rpc.DiscordRPC INSTANCE -> zegfRrzyok7oOnZNa2bQ
+    void Discord_Initialize$716bbd9e() -> zegfRrzyok7oOnZNa2bQ
+    void Discord_RunCallbacks() -> o8LpqlzVuH0BWnvl7Bwf
+    void Discord_UpdatePresence$24779170() -> j0lwcLi9yupMwSGMc6Yi
+    void <clinit>() -> <clinit>
+club.minnced.discord.rpc.DiscordRichPresence -> EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rCoR0eubkX2T0fevF3r3:
+    java.util.List FIELD_ORDER -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String state -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String details -> o8LpqlzVuH0BWnvl7Bwf
+    long startTimestamp -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String largeImageKey -> j0lwcLi9yupMwSGMc6Yi
+    java.lang.String largeImageText -> ah7AfEach1iGPyGBvMVe
+    java.lang.String smallImageKey -> WmaQ5jstFwxwTqaXrTp
+    void <init>() -> <init>
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    java.util.List getFieldOrder() -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.AltCallingConvention -> com.sun.jna.i280lUpkLge7fC1AJULi:
+com.sun.jna.Callback -> com.sun.jna.jmy4oZkNdrwtsSWkr2Jf:
+    java.util.List FORBIDDEN_NAMES -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.Callback$UncaughtExceptionHandler -> com.sun.jna.emYY4qadEhxoNljI05xV:
+    void uncaughtException(com.sun.jna.Callback,java.lang.Throwable) -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+com.sun.jna.CallbackParameterContext -> com.sun.jna.rCoR0eubkX2T0fevF3r3:
+    void <init>(java.lang.Class,java.lang.reflect.Method,java.lang.Object[],int) -> <init>
+com.sun.jna.CallbackProxy -> com.sun.jna.gkZ3vwOjtbv84uCmMQCu:
+    java.lang.Object callback(java.lang.Object[]) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class[] getParameterTypes() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class getReturnType() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.CallbackReference -> com.sun.jna.BniOkbZ3rMyf6e0JYKTq:
+    java.util.Map callbackMap -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.Map directCallbackMap -> j0lwcLi9yupMwSGMc6Yi
+    java.util.Map pointerCallbackMap -> ah7AfEach1iGPyGBvMVe
+    java.util.Map allocations -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map allocatedMemory -> WmaQ5jstFwxwTqaXrTp
+    java.lang.reflect.Method PROXY_CALLBACK_METHOD -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map initializers -> GNcrRWqAjsKahmOnium
+    com.sun.jna.Pointer cbstruct -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer trampoline -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.CallbackProxy proxy -> zegfRrzyok7oOnZNa2bQ
+    java.lang.reflect.Method method -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Callback getCallback(java.lang.Class,com.sun.jna.Pointer) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Callback getCallback(java.lang.Class,com.sun.jna.Pointer,boolean) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.Callback,int,boolean) -> <init>
+    java.lang.Class getNativeType(java.lang.Class) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.reflect.Method checkMethod(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class findCallbackClass(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.reflect.Method getCallbackMethod(com.sun.jna.Callback) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.reflect.Method getCallbackMethod(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getTrampoline() -> zegfRrzyok7oOnZNa2bQ
+    void finalize() -> finalize
+    void dispose() -> o8LpqlzVuH0BWnvl7Bwf
+    void disposeAll() -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getFunctionPointer(com.sun.jna.Callback) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getFunctionPointer(com.sun.jna.Callback,boolean) -> zegfRrzyok7oOnZNa2bQ
+    boolean isAllowableNativeType(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Callback access$000(com.sun.jna.CallbackReference) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer access$100(java.lang.Object,boolean) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.CallbackReference$DefaultCallbackProxy -> com.sun.jna.KzcpEsyLU6031QYHNdcx:
+    java.lang.reflect.Method callbackMethod -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.ToNativeConverter toNative -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.FromNativeConverter[] fromNative -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String encoding -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.CallbackReference this$0 -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.CallbackReference,java.lang.reflect.Method,com.sun.jna.TypeMapper,java.lang.String) -> <init>
+    java.lang.Object invokeCallback(java.lang.Object[]) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.Object callback(java.lang.Object[]) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class[] getParameterTypes() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class getReturnType() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.CallbackReference$NativeFunctionHandler -> com.sun.jna.FEgyRkin7ex8D9ommOC2:
+    com.sun.jna.Function function -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map options -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.Pointer,int,java.util.Map) -> <init>
+    java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[]) -> invoke
+    com.sun.jna.Pointer getPointer() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.CallbackResultContext -> com.sun.jna.oooYZzg0g71HWfYdQ0Au:
+    void <init>(java.lang.reflect.Method) -> <init>
+com.sun.jna.ELFAnalyser -> com.sun.jna.N50upRPBFYnxm3ATMgmM:
+    byte[] ELF_MAGIC -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String filename -> zegfRrzyok7oOnZNa2bQ
+    boolean ELF -> zegfRrzyok7oOnZNa2bQ
+    boolean _64Bit -> o8LpqlzVuH0BWnvl7Bwf
+    boolean bigEndian -> j0lwcLi9yupMwSGMc6Yi
+    boolean armSoftFloat -> ah7AfEach1iGPyGBvMVe
+    boolean arm -> WmaQ5jstFwxwTqaXrTp
+    com.sun.jna.ELFAnalyser analyse(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    boolean isArmSoftFloat() -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.String) -> <init>
+    void <clinit>() -> <clinit>
+com.sun.jna.FromNativeContext -> com.sun.jna.WGMdVXjpjbRowG3slrG:
+    void <init>(java.lang.Class) -> <init>
+    void edits(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.FromNativeConverter -> com.sun.jna.lxKcaRMfX9mWWNmFfIC:
+    java.lang.Object fromNative(java.lang.Object,com.sun.jna.FromNativeContext) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class nativeType() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.Function -> com.sun.jna.cXWmjyoFXEHD3SJGQeiH:
+    java.lang.Integer INTEGER_TRUE -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Integer INTEGER_FALSE -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.NativeLibrary library -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String functionName -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String encoding -> o8LpqlzVuH0BWnvl7Bwf
+    int callFlags -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.Map options -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.VarArgsChecker IS_VARARGS -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.NativeLibrary,java.lang.String,int,java.lang.String) -> <init>
+    void <init>(com.sun.jna.Pointer,int,java.lang.String) -> <init>
+    void checkCallingConvention(int) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object invoke(java.lang.reflect.Method,java.lang.Class[],java.lang.Class,java.lang.Object[],java.util.Map) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object invoke(java.lang.Object[],java.lang.Class,boolean,int) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer invokePointer(int,java.lang.Object[]) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object convertArgument(java.lang.Object[],int,java.lang.reflect.Method,com.sun.jna.TypeMapper,boolean,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String invokeString(int,java.lang.Object[],boolean) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    java.lang.Object[] concatenateVarArgs(java.lang.Object[]) -> zegfRrzyok7oOnZNa2bQ
+    boolean isVarArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Boolean valueOf(boolean) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.Function$NativeMappedArray -> com.sun.jna.i6yJ27XDCrLhQnPCx6wE:
+    com.sun.jna.NativeMapped[] original -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.NativeMapped[]) -> <init>
+    void read() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.Function$PointerArray -> com.sun.jna.iEVN4W32pcuZmbe5h2YZ:
+    com.sun.jna.Pointer[] original -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.Pointer[]) -> <init>
+    void read() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.Function$PostCallRead -> com.sun.jna.w7XGBNIzBWYdu39yVIu0:
+    void read() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.FunctionMapper -> com.sun.jna.VjcyTjVaSBUPkKHvTre4:
+    java.lang.String getFunctionName$8dc45cd() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.reflect.InvocationHandler getInvocationHandler$2fdd30f0() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.FunctionParameterContext -> com.sun.jna.rf5752zBy8CCKEGfSAtO:
+    void <init>(com.sun.jna.Function,java.lang.Object[],int) -> <init>
+com.sun.jna.FunctionResultContext -> com.sun.jna.Xqvmb81tLfkaRAJmKg8:
+    void <init>(java.lang.Class,com.sun.jna.Function,java.lang.Object[]) -> <init>
+com.sun.jna.LastErrorException -> com.sun.jna.R0uLXZJwOQVONxCviIEZ:
+com.sun.jna.Library -> com.sun.jna.WX05vO6efM5i7zWlbQN8:
+com.sun.jna.Library$Handler -> com.sun.jna.P7oNZFxxKHVZdvm9VMZx:
+    java.lang.reflect.Method OBJECT_TOSTRING -> zegfRrzyok7oOnZNa2bQ
+    java.lang.reflect.Method OBJECT_HASHCODE -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.reflect.Method OBJECT_EQUALS -> j0lwcLi9yupMwSGMc6Yi
+    com.sun.jna.NativeLibrary nativeLibrary -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map options -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.FunctionMapper invocationMapper$2a951e05 -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map functions -> o8LpqlzVuH0BWnvl7Bwf
+    void <init>(java.lang.String,java.lang.Class,java.util.Map) -> <init>
+    java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[]) -> invoke
+    void <clinit>() -> <clinit>
+com.sun.jna.Library$Handler$FunctionInfo -> com.sun.jna.MvrjpQ6GsfNB4fXMifcb:
+    java.lang.reflect.InvocationHandler handler -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Function function -> zegfRrzyok7oOnZNa2bQ
+    boolean isVarArgs -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map options -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class[] parameterTypes -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.reflect.InvocationHandler,com.sun.jna.Function,java.lang.Class[],boolean,java.util.Map) -> <init>
+com.sun.jna.Memory -> com.sun.jna.x5FDE2qCytd1yJK1GV3q:
+    java.util.Map allocatedMemory -> zegfRrzyok7oOnZNa2bQ
+    long size -> zegfRrzyok7oOnZNa2bQ
+    void disposeAll() -> o8LpqlzVuH0BWnvl7Bwf
+    void <init>(long) -> <init>
+    void <init>() -> <init>
+    com.sun.jna.Pointer share(long) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer share(long,long) -> zegfRrzyok7oOnZNa2bQ
+    void finalize() -> finalize
+    void dispose() -> j0lwcLi9yupMwSGMc6Yi
+    void clear() -> ah7AfEach1iGPyGBvMVe
+    long size() -> zegfRrzyok7oOnZNa2bQ
+    void boundsCheck(long,long) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,byte[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,short[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,char[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,int[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,long[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,float[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,double[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void write(long,byte[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,short[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,char[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,int[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,long[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,float[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,double[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    byte getByte(long) -> zegfRrzyok7oOnZNa2bQ
+    char getChar(long) -> zegfRrzyok7oOnZNa2bQ
+    short getShort(long) -> zegfRrzyok7oOnZNa2bQ
+    int getInt(long) -> zegfRrzyok7oOnZNa2bQ
+    long getLong(long) -> zegfRrzyok7oOnZNa2bQ
+    float getFloat(long) -> zegfRrzyok7oOnZNa2bQ
+    double getDouble(long) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getPointer(long) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String getString(long,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String getWideString(long) -> zegfRrzyok7oOnZNa2bQ
+    void setByte(long,byte) -> zegfRrzyok7oOnZNa2bQ
+    void setChar(long,char) -> zegfRrzyok7oOnZNa2bQ
+    void setShort(long,short) -> zegfRrzyok7oOnZNa2bQ
+    void setInt(long,int) -> zegfRrzyok7oOnZNa2bQ
+    void setLong(long,long) -> o8LpqlzVuH0BWnvl7Bwf
+    void setFloat(long,float) -> zegfRrzyok7oOnZNa2bQ
+    void setDouble(long,double) -> zegfRrzyok7oOnZNa2bQ
+    void setPointer(long,com.sun.jna.Pointer) -> zegfRrzyok7oOnZNa2bQ
+    void setWideString(long,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+    void <clinit>() -> <clinit>
+com.sun.jna.Memory$SharedMemory -> com.sun.jna.cElbuD0DSDWK9kXilZge:
+    com.sun.jna.Memory this$0 -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.Memory,long,long) -> <init>
+    void dispose() -> j0lwcLi9yupMwSGMc6Yi
+    void boundsCheck(long,long) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+com.sun.jna.MethodParameterContext -> com.sun.jna.cBXZAcoqF6y50TR5JWr2:
+    void <init>(com.sun.jna.Function,java.lang.Object[],int,java.lang.reflect.Method) -> <init>
+com.sun.jna.MethodResultContext -> com.sun.jna.KFfgsJ3FCDsurUuY1BX4:
+    void <init>(java.lang.Class,com.sun.jna.Function,java.lang.Object[],java.lang.reflect.Method) -> <init>
+com.sun.jna.Native -> com.sun.jna.Native:
+    java.lang.String DEFAULT_ENCODING -> zegfRrzyok7oOnZNa2bQ
+    boolean DEBUG_LOAD -> zegfRrzyok7oOnZNa2bQ
+    boolean DEBUG_JNA_LOAD -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String jnidispatchPath -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.Map typeOptions -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map libraries -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Callback$UncaughtExceptionHandler DEFAULT_HANDLER -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Callback$UncaughtExceptionHandler callbackExceptionHandler -> o8LpqlzVuH0BWnvl7Bwf
+    int POINTER_SIZE -> zegfRrzyok7oOnZNa2bQ
+    int LONG_SIZE -> ah7AfEach1iGPyGBvMVe
+    int WCHAR_SIZE -> o8LpqlzVuH0BWnvl7Bwf
+    int MAX_ALIGNMENT -> j0lwcLi9yupMwSGMc6Yi
+    java.util.Map registeredClasses -> j0lwcLi9yupMwSGMc6Yi
+    boolean deleteLibrary(java.io.File) -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+    void initIDs() -> initIDs
+    void setProtected(boolean) -> setProtected
+    com.sun.jna.Pointer getDirectBufferPointer(java.nio.Buffer) -> zegfRrzyok7oOnZNa2bQ
+    long _getDirectBufferPointer(java.nio.Buffer) -> _getDirectBufferPointer
+    java.lang.Object loadLibrary(java.lang.String,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class findEnclosingLibraryClass(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map getLibraryOptions(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object lookupField(java.lang.Class,java.lang.String,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.TypeMapper getTypeMapper(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String getStringEncoding(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String getDefaultStringEncoding() -> zegfRrzyok7oOnZNa2bQ
+    int getStructureAlignment(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    byte[] getBytes(java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    void loadNativeDispatchLibrary() -> o8LpqlzVuH0BWnvl7Bwf
+    boolean isUnpacked(java.io.File) -> o8LpqlzVuH0BWnvl7Bwf
+    java.io.File extractFromResourcePath(java.lang.String,java.lang.ClassLoader) -> zegfRrzyok7oOnZNa2bQ
+    int sizeof(int) -> sizeof
+    java.lang.String getNativeVersion() -> getNativeVersion
+    java.lang.String getAPIChecksum() -> getAPIChecksum
+    int getLastError() -> getLastError
+    java.lang.String getWebStartLibraryPath(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.io.File getTempDir() -> zegfRrzyok7oOnZNa2bQ
+    int getNativeSize(java.lang.Class,java.lang.Object) -> zegfRrzyok7oOnZNa2bQ
+    int getNativeSize(java.lang.Class) -> o8LpqlzVuH0BWnvl7Bwf
+    boolean isSupportedNativeType(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Callback$UncaughtExceptionHandler getCallbackExceptionHandler() -> zegfRrzyok7oOnZNa2bQ
+    void unregister(java.lang.Class,long[]) -> unregister
+    java.util.Map cacheOptions(java.lang.Class,java.util.Map,java.lang.Object) -> zegfRrzyok7oOnZNa2bQ
+    void main(java.lang.String[]) -> main
+    void freeNativeCallback(long) -> freeNativeCallback
+    long createNativeCallback(com.sun.jna.Callback,java.lang.reflect.Method,java.lang.Class[],java.lang.Class,int,int,java.lang.String) -> createNativeCallback
+    int invokeInt(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokeInt
+    long invokeLong(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokeLong
+    void invokeVoid(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokeVoid
+    float invokeFloat(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokeFloat
+    double invokeDouble(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokeDouble
+    long invokePointer(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokePointer
+    void invokeStructure(com.sun.jna.Function,long,int,java.lang.Object[],long,long) -> invokeStructure
+    com.sun.jna.Structure invokeStructure(com.sun.jna.Function,long,int,java.lang.Object[],com.sun.jna.Structure) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object invokeObject(com.sun.jna.Function,long,int,java.lang.Object[]) -> invokeObject
+    long open(java.lang.String,int) -> open
+    void close(long) -> close
+    long findSymbol(long,java.lang.String) -> findSymbol
+    void read(com.sun.jna.Pointer,long,long,byte[],int,int) -> read
+    void read(com.sun.jna.Pointer,long,long,short[],int,int) -> read
+    void read(com.sun.jna.Pointer,long,long,char[],int,int) -> read
+    void read(com.sun.jna.Pointer,long,long,int[],int,int) -> read
+    void read(com.sun.jna.Pointer,long,long,long[],int,int) -> read
+    void read(com.sun.jna.Pointer,long,long,float[],int,int) -> read
+    void read(com.sun.jna.Pointer,long,long,double[],int,int) -> read
+    void write(com.sun.jna.Pointer,long,long,byte[],int,int) -> write
+    void write(com.sun.jna.Pointer,long,long,short[],int,int) -> write
+    void write(com.sun.jna.Pointer,long,long,char[],int,int) -> write
+    void write(com.sun.jna.Pointer,long,long,int[],int,int) -> write
+    void write(com.sun.jna.Pointer,long,long,long[],int,int) -> write
+    void write(com.sun.jna.Pointer,long,long,float[],int,int) -> write
+    void write(com.sun.jna.Pointer,long,long,double[],int,int) -> write
+    byte getByte(com.sun.jna.Pointer,long,long) -> getByte
+    char getChar(com.sun.jna.Pointer,long,long) -> getChar
+    short getShort(com.sun.jna.Pointer,long,long) -> getShort
+    int getInt(com.sun.jna.Pointer,long,long) -> getInt
+    long getLong(com.sun.jna.Pointer,long,long) -> getLong
+    float getFloat(com.sun.jna.Pointer,long,long) -> getFloat
+    double getDouble(com.sun.jna.Pointer,long,long) -> getDouble
+    com.sun.jna.Pointer getPointer(long) -> zegfRrzyok7oOnZNa2bQ
+    long _getPointer(long) -> _getPointer
+    java.lang.String getWideString(com.sun.jna.Pointer,long,long) -> getWideString
+    java.lang.String getString(com.sun.jna.Pointer,long,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    byte[] getStringBytes(com.sun.jna.Pointer,long,long) -> getStringBytes
+    void setMemory(com.sun.jna.Pointer,long,long,long,byte) -> setMemory
+    void setByte(com.sun.jna.Pointer,long,long,byte) -> setByte
+    void setShort(com.sun.jna.Pointer,long,long,short) -> setShort
+    void setChar(com.sun.jna.Pointer,long,long,char) -> setChar
+    void setInt(com.sun.jna.Pointer,long,long,int) -> setInt
+    void setLong(com.sun.jna.Pointer,long,long,long) -> setLong
+    void setFloat(com.sun.jna.Pointer,long,long,float) -> setFloat
+    void setDouble(com.sun.jna.Pointer,long,long,double) -> setDouble
+    void setPointer(com.sun.jna.Pointer,long,long,long) -> setPointer
+    void setWideString(com.sun.jna.Pointer,long,long,java.lang.String) -> setWideString
+    long malloc(long) -> malloc
+    void free(long) -> free
+    void access$000() -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.Native$2 -> com.sun.jna.LLJkUeM3sOWMjwa1lvfZ:
+    void <init>() -> <init>
+    void finalize() -> finalize
+com.sun.jna.Native$4 -> com.sun.jna.JbGu9Ru0WoXKDPv7V0Hn:
+    void <init>() -> <init>
+    java.lang.reflect.Method run() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object run() -> run
+com.sun.jna.Native$5 -> com.sun.jna.ffv5F3nBlkvtJEjqkXM5:
+    void <init>() -> <init>
+    boolean accept(java.io.File,java.lang.String) -> accept
+com.sun.jna.Native$7 -> com.sun.jna.ucpxzrTZqhmLOfEkjnbF:
+    void <init>() -> <init>
+    java.lang.Object initialValue() -> initialValue
+com.sun.jna.NativeLibrary -> com.sun.jna.dhBQNwHuqMl2HOSBDs0i:
+    long handle -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String libraryName -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String libraryPath -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.Map functions -> o8LpqlzVuH0BWnvl7Bwf
+    int callFlags -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String encoding -> j0lwcLi9yupMwSGMc6Yi
+    java.util.Map options -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map libraries -> j0lwcLi9yupMwSGMc6Yi
+    java.util.Map searchPaths -> ah7AfEach1iGPyGBvMVe
+    java.util.List librarySearchPath -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String functionKey(java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.String,java.lang.String,long,java.util.Map) -> <init>
+    int openFlags(java.util.Map) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.NativeLibrary loadLibrary(java.lang.String,java.util.Map) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String matchFramework(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.NativeLibrary getInstance(java.lang.String,java.util.Map) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Function getFunction(java.lang.String,java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Function getFunction(java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    long getSymbolAddress(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+    java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
+    void finalize() -> finalize
+    void disposeAll() -> zegfRrzyok7oOnZNa2bQ
+    void dispose() -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.List initPaths(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String findLibraryPath(java.lang.String,java.util.List) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String mapSharedLibraryName(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    boolean isVersionedName(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String matchLibrary(java.lang.String,java.util.List) -> o8LpqlzVuH0BWnvl7Bwf
+    double parseVersion(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.util.ArrayList getLinuxLdPaths() -> zegfRrzyok7oOnZNa2bQ
+    boolean access$000(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.NativeLibrary$1 -> com.sun.jna.P2yHvoudywI6lWmMvkwv:
+    void <init>(com.sun.jna.NativeLibrary,com.sun.jna.NativeLibrary,java.lang.String,int,java.lang.String) -> <init>
+    java.lang.Object invoke(java.lang.Object[],java.lang.Class,boolean,int) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object invoke(java.lang.reflect.Method,java.lang.Class[],java.lang.Class,java.lang.Object[],java.util.Map) -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.NativeLibrary$2 -> com.sun.jna.fgTgTxMDrMzhpxxpEQEC:
+    java.lang.String val$libName -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.String) -> <init>
+    boolean accept(java.io.File,java.lang.String) -> accept
+com.sun.jna.NativeMapped -> com.sun.jna.fuznuwiQNhk2bdOw42S3:
+    java.lang.Object fromNative$72034f4d() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object toNative() -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.Class nativeType() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.NativeMappedConverter -> com.sun.jna.ASZAdjWmhCXMyosXgjP:
+    java.util.Map converters -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class type -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class nativeType -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.NativeMapped instance -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.NativeMappedConverter getInstance(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.Class) -> <init>
+    com.sun.jna.NativeMapped defaultValue() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object fromNative(java.lang.Object,com.sun.jna.FromNativeContext) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class nativeType() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object toNative$5721824(java.lang.Object) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.NativeString -> com.sun.jna.vU3BgoJutaAJEExjqCjC:
+    com.sun.jna.Pointer pointer -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String encoding -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.String,boolean) -> <init>
+    void <init>(java.lang.String,java.lang.String) -> <init>
+    int hashCode() -> hashCode
+    boolean equals(java.lang.Object) -> equals
+    java.lang.String toString() -> toString
+    com.sun.jna.Pointer getPointer() -> zegfRrzyok7oOnZNa2bQ
+    char charAt(int) -> charAt
+    int length() -> length
+    java.lang.CharSequence subSequence(int,int) -> subSequence
+    int compareTo(java.lang.Object) -> compareTo
+com.sun.jna.NativeString$StringMemory -> com.sun.jna.eIU4EJ4IwwyCNB8ILgsZ:
+    com.sun.jna.NativeString this$0 -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.NativeString,long) -> <init>
+    java.lang.String toString() -> toString
+com.sun.jna.Platform -> com.sun.jna.E0eStcHMrujFeQRmxrZd:
+    boolean RO_FIELDS -> zegfRrzyok7oOnZNa2bQ
+    boolean HAS_BUFFERS -> o8LpqlzVuH0BWnvl7Bwf
+    boolean HAS_AWT -> j0lwcLi9yupMwSGMc6Yi
+    java.lang.String C_LIBRARY_NAME -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String RESOURCE_PREFIX -> o8LpqlzVuH0BWnvl7Bwf
+    int osType -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String ARCH -> j0lwcLi9yupMwSGMc6Yi
+    void <init>() -> <init>
+    boolean isMac() -> zegfRrzyok7oOnZNa2bQ
+    boolean isAndroid() -> o8LpqlzVuH0BWnvl7Bwf
+    boolean isLinux() -> j0lwcLi9yupMwSGMc6Yi
+    boolean isAIX() -> ah7AfEach1iGPyGBvMVe
+    boolean isWindows() -> WmaQ5jstFwxwTqaXrTp
+    boolean isSolaris() -> GNcrRWqAjsKahmOnium
+    boolean isFreeBSD() -> sUQHpmCLI7NuMrWghLKa
+    boolean isGNU() -> GL35SPonMOsEbgBVabqV
+    boolean iskFreeBSD() -> l85AzJRz6lyE4Vl88K5k
+    boolean is64Bit() -> qxgenLXCcEdxF3gyMXs9
+    boolean isIntel() -> TbzjV2hStiawKSKsFlLA
+    boolean isPPC() -> bCOkWBx1VUBUB0RCww1d
+    boolean isARM() -> lVNAbAYpHAUBn4BGO2vD
+    boolean isSPARC() -> atlY3JO2fO19pYIoHzm
+    java.lang.String getCanonicalArchitecture(java.lang.String,boolean) -> zegfRrzyok7oOnZNa2bQ
+    boolean isSoftFloat() -> yABUjhrlMPHTRQqt3Ycv
+    void <clinit>() -> <clinit>
+com.sun.jna.Pointer -> com.sun.jna.seUQxCkto8xkaJ8dSsn:
+    int SIZE -> zegfRrzyok7oOnZNa2bQ
+    long peer -> o8LpqlzVuH0BWnvl7Bwf
+    void <init>() -> <init>
+    void <init>(long) -> <init>
+    com.sun.jna.Pointer share(long) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer share(long,long) -> zegfRrzyok7oOnZNa2bQ
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    void read(long,byte[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,short[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,char[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,int[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,long[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,float[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,double[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void read(long,com.sun.jna.Pointer[],int,int) -> zegfRrzyok7oOnZNa2bQ
+    void write(long,byte[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,short[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,char[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,int[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,long[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,float[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,double[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    void write(long,com.sun.jna.Pointer[],int,int) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.Object getValue(long,java.lang.Class,java.lang.Object) -> zegfRrzyok7oOnZNa2bQ
+    void readArray(long,java.lang.Object,java.lang.Class) -> o8LpqlzVuH0BWnvl7Bwf
+    byte getByte(long) -> zegfRrzyok7oOnZNa2bQ
+    char getChar(long) -> zegfRrzyok7oOnZNa2bQ
+    short getShort(long) -> zegfRrzyok7oOnZNa2bQ
+    int getInt(long) -> zegfRrzyok7oOnZNa2bQ
+    long getLong(long) -> zegfRrzyok7oOnZNa2bQ
+    float getFloat(long) -> zegfRrzyok7oOnZNa2bQ
+    double getDouble(long) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getPointer(long) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String getWideString(long) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String getString(long,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String[] getWideStringArray(long) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String[] getStringArray(long,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    void setValue(long,java.lang.Object,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    void setMemory(long,long,byte) -> zegfRrzyok7oOnZNa2bQ
+    void setByte(long,byte) -> zegfRrzyok7oOnZNa2bQ
+    void setShort(long,short) -> zegfRrzyok7oOnZNa2bQ
+    void setChar(long,char) -> zegfRrzyok7oOnZNa2bQ
+    void setInt(long,int) -> zegfRrzyok7oOnZNa2bQ
+    void setLong(long,long) -> o8LpqlzVuH0BWnvl7Bwf
+    void setFloat(long,float) -> zegfRrzyok7oOnZNa2bQ
+    void setDouble(long,double) -> zegfRrzyok7oOnZNa2bQ
+    void setPointer(long,com.sun.jna.Pointer) -> zegfRrzyok7oOnZNa2bQ
+    void setWideString(long,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+    void <clinit>() -> <clinit>
+com.sun.jna.StringArray -> com.sun.jna.IyXGSTN4QSRJbe5bpJg2:
+    java.lang.String encoding -> zegfRrzyok7oOnZNa2bQ
+    java.util.List natives -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object[] original -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.String[],java.lang.String) -> <init>
+    void <init>(com.sun.jna.WString[]) -> <init>
+    void <init>(java.lang.Object[],java.lang.String) -> <init>
+    void read() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+com.sun.jna.Structure -> com.sun.jna.omxr9EUle99DoLkZu6rw:
+    java.util.Map layoutInfo -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map fieldOrder -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Pointer memory -> zegfRrzyok7oOnZNa2bQ
+    int size -> zegfRrzyok7oOnZNa2bQ
+    int alignType -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String encoding -> zegfRrzyok7oOnZNa2bQ
+    int actualAlignType -> j0lwcLi9yupMwSGMc6Yi
+    int structAlignment -> ah7AfEach1iGPyGBvMVe
+    java.util.Map structFields -> j0lwcLi9yupMwSGMc6Yi
+    java.util.Map nativeStrings -> ah7AfEach1iGPyGBvMVe
+    com.sun.jna.TypeMapper typeMapper -> zegfRrzyok7oOnZNa2bQ
+    boolean autoRead -> zegfRrzyok7oOnZNa2bQ
+    boolean autoWrite -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Structure[] array -> zegfRrzyok7oOnZNa2bQ
+    boolean readCalled -> j0lwcLi9yupMwSGMc6Yi
+    java.lang.ThreadLocal reads -> zegfRrzyok7oOnZNa2bQ
+    java.lang.ThreadLocal busy -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Pointer PLACEHOLDER_MEMORY -> o8LpqlzVuH0BWnvl7Bwf
+    void <init>() -> <init>
+    void <init>(int) -> <init>
+    void <init>(com.sun.jna.Pointer,int) -> <init>
+    void <init>(com.sun.jna.Pointer,int,com.sun.jna.TypeMapper) -> <init>
+    java.util.Map fields() -> zegfRrzyok7oOnZNa2bQ
+    void layoutChanged() -> GNcrRWqAjsKahmOnium
+    com.sun.jna.Memory autoAllocate(int) -> zegfRrzyok7oOnZNa2bQ
+    void useMemory(com.sun.jna.Pointer) -> zegfRrzyok7oOnZNa2bQ
+    void useMemory(com.sun.jna.Pointer,int,boolean) -> zegfRrzyok7oOnZNa2bQ
+    void ensureAllocated(boolean) -> zegfRrzyok7oOnZNa2bQ
+    void allocateMemory(boolean) -> o8LpqlzVuH0BWnvl7Bwf
+    void allocateMemory(int) -> zegfRrzyok7oOnZNa2bQ
+    int size() -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getPointer() -> zegfRrzyok7oOnZNa2bQ
+    java.util.Set busy() -> zegfRrzyok7oOnZNa2bQ
+    java.util.Map reading() -> o8LpqlzVuH0BWnvl7Bwf
+    void conditionalAutoRead() -> zegfRrzyok7oOnZNa2bQ
+    void read() -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.Object getFieldValue(java.lang.reflect.Field) -> zegfRrzyok7oOnZNa2bQ
+    void setFieldValue(java.lang.reflect.Field,java.lang.Object,boolean) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure updateStructureByReference(java.lang.Class,com.sun.jna.Structure,com.sun.jna.Pointer) -> zegfRrzyok7oOnZNa2bQ
+    void write() -> j0lwcLi9yupMwSGMc6Yi
+    java.util.List getFieldOrder() -> zegfRrzyok7oOnZNa2bQ
+    void sortFields(java.util.List,java.util.List) -> zegfRrzyok7oOnZNa2bQ
+    java.util.List getFieldList() -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.List fieldOrder() -> j0lwcLi9yupMwSGMc6Yi
+    java.util.List sort(java.util.Collection) -> zegfRrzyok7oOnZNa2bQ
+    int size(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    int size(java.lang.Class,com.sun.jna.Structure) -> zegfRrzyok7oOnZNa2bQ
+    int calculateSize(boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
+    void validateField(java.lang.String,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    void validateFields() -> sUQHpmCLI7NuMrWghLKa
+    com.sun.jna.Structure$LayoutInfo deriveLayout(boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
+    void initializeFields() -> GL35SPonMOsEbgBVabqV
+    java.lang.Object initializeField(java.lang.reflect.Field,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    int getNativeAlignment(java.lang.Class,java.lang.Object,boolean) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString() -> toString
+    java.lang.String format(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String toString(int,boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure[] toArray(com.sun.jna.Structure[]) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure[] toArray(int) -> zegfRrzyok7oOnZNa2bQ
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    com.sun.jna.Pointer getFieldTypeInfo(com.sun.jna.Structure$StructField) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer getTypeInfo() -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Structure newInstance(java.lang.Class,com.sun.jna.Pointer) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure newInstance(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure$StructField typeInfoField() -> zegfRrzyok7oOnZNa2bQ
+    void structureArrayCheck(com.sun.jna.Structure[]) -> j0lwcLi9yupMwSGMc6Yi
+    void autoRead(com.sun.jna.Structure[]) -> zegfRrzyok7oOnZNa2bQ
+    void autoRead() -> ah7AfEach1iGPyGBvMVe
+    void autoWrite(com.sun.jna.Structure[]) -> o8LpqlzVuH0BWnvl7Bwf
+    void autoWrite() -> WmaQ5jstFwxwTqaXrTp
+    void validate(java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    void access$1900(com.sun.jna.Structure,boolean) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer access$2000() -> j0lwcLi9yupMwSGMc6Yi
+    void <clinit>() -> <clinit>
+com.sun.jna.Structure$1 -> com.sun.jna.gL1iJ61MKkMZyLdkmwl7:
+    void <init>() -> <init>
+    java.util.Map initialValue() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object initialValue() -> initialValue
+com.sun.jna.Structure$2 -> com.sun.jna.zVmPkXvZW1TQoyEuzTMu:
+    void <init>() -> <init>
+    java.util.Set initialValue() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Object initialValue() -> initialValue
+com.sun.jna.Structure$3 -> com.sun.jna.YmCfWCRPEHjmNJVqMpvW:
+    void <init>(long) -> <init>
+    com.sun.jna.Pointer share(long,long) -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.Structure$AutoAllocated -> com.sun.jna.dIhiy7izlGH4XyXYycgG:
+    void <init>(int) -> <init>
+    java.lang.String toString() -> toString
+com.sun.jna.Structure$ByReference -> com.sun.jna.zXihxdlu4YFw1YfnAssJ:
+com.sun.jna.Structure$ByValue -> com.sun.jna.WxAGpTo1OVJfInnSObNE:
+com.sun.jna.Structure$FFIType -> com.sun.jna.F172i9UwVobjmqBZ5emr:
+    java.util.Map typeInfoMap -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer elements -> zegfRrzyok7oOnZNa2bQ
+    void <init>(com.sun.jna.Structure) -> <init>
+    void <init>(java.lang.Object,java.lang.Class) -> <init>
+    java.util.List getFieldOrder() -> zegfRrzyok7oOnZNa2bQ
+    void init(com.sun.jna.Pointer[]) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer get(java.lang.Object) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Pointer get(java.lang.Object,java.lang.Class) -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Pointer access$800(java.lang.Object,java.lang.Class) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+com.sun.jna.Structure$LayoutInfo -> com.sun.jna.pslPyNy4Veu9l78fbknI:
+    int size -> zegfRrzyok7oOnZNa2bQ
+    int alignment -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.Map fields -> zegfRrzyok7oOnZNa2bQ
+    int alignType -> j0lwcLi9yupMwSGMc6Yi
+    com.sun.jna.TypeMapper typeMapper -> zegfRrzyok7oOnZNa2bQ
+    boolean variable -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure$StructField typeInfoField -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+    boolean access$000(com.sun.jna.Structure$LayoutInfo) -> zegfRrzyok7oOnZNa2bQ
+    int access$100(com.sun.jna.Structure$LayoutInfo) -> zegfRrzyok7oOnZNa2bQ
+    int access$200(com.sun.jna.Structure$LayoutInfo) -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.TypeMapper access$300(com.sun.jna.Structure$LayoutInfo) -> zegfRrzyok7oOnZNa2bQ
+    int access$400(com.sun.jna.Structure$LayoutInfo) -> j0lwcLi9yupMwSGMc6Yi
+    java.util.Map access$500(com.sun.jna.Structure$LayoutInfo) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(byte) -> <init>
+    int access$202(com.sun.jna.Structure$LayoutInfo,int) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.TypeMapper access$302(com.sun.jna.Structure$LayoutInfo,com.sun.jna.TypeMapper) -> zegfRrzyok7oOnZNa2bQ
+    boolean access$002(com.sun.jna.Structure$LayoutInfo,boolean) -> zegfRrzyok7oOnZNa2bQ
+    int access$402(com.sun.jna.Structure$LayoutInfo,int) -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.Structure$StructField access$700(com.sun.jna.Structure$LayoutInfo) -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.Structure$StructField access$702(com.sun.jna.Structure$LayoutInfo,com.sun.jna.Structure$StructField) -> zegfRrzyok7oOnZNa2bQ
+    int access$102(com.sun.jna.Structure$LayoutInfo,int) -> j0lwcLi9yupMwSGMc6Yi
+com.sun.jna.Structure$StructField -> com.sun.jna.xlh3GsFoXLrxGb3KRL8y:
+    java.lang.String name -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class type -> zegfRrzyok7oOnZNa2bQ
+    java.lang.reflect.Field field -> zegfRrzyok7oOnZNa2bQ
+    int size -> zegfRrzyok7oOnZNa2bQ
+    int offset -> o8LpqlzVuH0BWnvl7Bwf
+    boolean isVolatile -> zegfRrzyok7oOnZNa2bQ
+    boolean isReadOnly -> o8LpqlzVuH0BWnvl7Bwf
+    com.sun.jna.FromNativeConverter readConverter -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.ToNativeConverter writeConverter -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.FromNativeContext context -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+    java.lang.String toString() -> toString
+com.sun.jna.Structure$StructureSet -> com.sun.jna.vG8w839Txe5OCkFsTWQf:
+    com.sun.jna.Structure[] elements -> zegfRrzyok7oOnZNa2bQ
+    int count -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+    int size() -> size
+    boolean contains(java.lang.Object) -> contains
+    int indexOf(com.sun.jna.Structure) -> zegfRrzyok7oOnZNa2bQ
+    boolean remove(java.lang.Object) -> remove
+    java.util.Iterator iterator() -> iterator
+    boolean add(java.lang.Object) -> add
+com.sun.jna.StructureReadContext -> com.sun.jna.U7dhzZr39pcNGNF4Sx8H:
+    void <init>(com.sun.jna.Structure,java.lang.reflect.Field) -> <init>
+com.sun.jna.StructureWriteContext -> com.sun.jna.H3os2AP4pyCAXA4WeqGO:
+    void <init>(com.sun.jna.Structure,java.lang.reflect.Field) -> <init>
+com.sun.jna.ToNativeContext -> com.sun.jna.wR53cMBUyuYr9DjA2Ryq:
+    void <init>() -> <init>
+com.sun.jna.ToNativeConverter -> com.sun.jna.aX6WvB0SobPULb4xBSuh:
+    java.lang.Object toNative$5721824(java.lang.Object) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.Class nativeType() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.TypeMapper -> com.sun.jna.Epc34UPfgTmIJuzLLqYw:
+    com.sun.jna.FromNativeConverter getFromNativeConverter$4e2889bd() -> zegfRrzyok7oOnZNa2bQ
+    com.sun.jna.ToNativeConverter getToNativeConverter$1edbd32() -> zegfRrzyok7oOnZNa2bQ
+com.sun.jna.Union -> com.sun.jna.hDFl9yjwgO5nccrkCbaR:
+    void <init>() -> <init>
+com.sun.jna.VarArgsChecker -> com.sun.jna.pF84I2bYUO2WiAUEA9Y1:
+    void <init>() -> <init>
+    com.sun.jna.VarArgsChecker create() -> zegfRrzyok7oOnZNa2bQ
+    boolean isVarArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    int fixedArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(byte) -> <init>
+com.sun.jna.VarArgsChecker$NoVarArgsChecker -> com.sun.jna.M8JgYzd7XoPaRIGVFR0q:
+    void <init>() -> <init>
+    boolean isVarArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    int fixedArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(byte) -> <init>
+com.sun.jna.VarArgsChecker$RealVarArgsChecker -> com.sun.jna.jYDaT5h6ZZ7Ury5GYi8g:
+    void <init>() -> <init>
+    boolean isVarArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    int fixedArgs(java.lang.reflect.Method) -> zegfRrzyok7oOnZNa2bQ
+    void <init>(byte) -> <init>
+com.sun.jna.WString -> com.sun.jna.NO7TUS417iVHB0nYJKPj:
+    java.lang.String string -> zegfRrzyok7oOnZNa2bQ
+    void <init>(java.lang.String) -> <init>
+    java.lang.String toString() -> toString
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    int compareTo(java.lang.Object) -> compareTo
+    int length() -> length
+    char charAt(int) -> charAt
+    java.lang.CharSequence subSequence(int,int) -> subSequence
+com.sun.jna.WeakMemoryHolder -> com.sun.jna.Fi4pKpLXCKqQRFjuRaC:
+    void <init>() -> <init>
+com.sun.jna.win32.DLLCallback -> com.sun.jna.BzQ40kAEwAt7WfH0gLjp.i280lUpkLge7fC1AJULi:
 org.client.Animable -> org.client.i280lUpkLge7fC1AJULi:
     int modelHeight -> zegfRrzyok7oOnZNa2bQ
     org.client.Class33[] aClass33Array1425 -> zegfRrzyok7oOnZNa2bQ
@@ -265,7 +958,18 @@ org.client.Background -> org.client.rCoR0eubkX2T0fevF3r3:
     void method357() -> zegfRrzyok7oOnZNa2bQ
     void drawBackground(int,int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Censor -> org.client.gkZ3vwOjtbv84uCmMQCu:
+org.client.Boundary -> org.client.gkZ3vwOjtbv84uCmMQCu:
+    int x -> zegfRrzyok7oOnZNa2bQ
+    int x2 -> o8LpqlzVuH0BWnvl7Bwf
+    int y -> j0lwcLi9yupMwSGMc6Yi
+    int y2 -> ah7AfEach1iGPyGBvMVe
+    int playerx -> WmaQ5jstFwxwTqaXrTp
+    int playery -> GNcrRWqAjsKahmOnium
+    int playerz -> sUQHpmCLI7NuMrWghLKa
+    void <init>(int,int,int,int,int) -> <init>
+    boolean inlocation$716158cc(int,int,org.client.Boundary) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.Censor -> org.client.BniOkbZ3rMyf6e0JYKTq:
     java.lang.String[] exceptions -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray620 -> zegfRrzyok7oOnZNa2bQ
     char[][] aCharArrayArray621 -> zegfRrzyok7oOnZNa2bQ
@@ -291,7 +995,7 @@ org.client.Censor -> org.client.gkZ3vwOjtbv84uCmMQCu:
     boolean isDigit(char) -> ah7AfEach1iGPyGBvMVe
     boolean isUpperCaseLetter(char) -> WmaQ5jstFwxwTqaXrTp
     void <clinit>() -> <clinit>
-org.client.Class11 -> org.client.BniOkbZ3rMyf6e0JYKTq:
+org.client.Class11 -> org.client.KzcpEsyLU6031QYHNdcx:
     int[][] anIntArrayArray294 -> zegfRrzyok7oOnZNa2bQ
     int anInt290 -> zegfRrzyok7oOnZNa2bQ
     int anInt291 -> o8LpqlzVuH0BWnvl7Bwf
@@ -306,7 +1010,7 @@ org.client.Class11 -> org.client.BniOkbZ3rMyf6e0JYKTq:
     void method215(int,int,boolean,int,int) -> zegfRrzyok7oOnZNa2bQ
     void method216(int,int,int,int,int,boolean) -> zegfRrzyok7oOnZNa2bQ
     void method217(int,int,int) -> o8LpqlzVuH0BWnvl7Bwf
-org.client.Class29 -> org.client.KzcpEsyLU6031QYHNdcx:
+org.client.Class29 -> org.client.FEgyRkin7ex8D9ommOC2:
     int anInt541 -> zegfRrzyok7oOnZNa2bQ
     int anInt542 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt543 -> j0lwcLi9yupMwSGMc6Yi
@@ -314,7 +1018,7 @@ org.client.Class29 -> org.client.KzcpEsyLU6031QYHNdcx:
     int anInt545 -> WmaQ5jstFwxwTqaXrTp
     void resetValues() -> zegfRrzyok7oOnZNa2bQ
     int method328(int) -> zegfRrzyok7oOnZNa2bQ
-org.client.Class30_Sub1 -> org.client.FEgyRkin7ex8D9ommOC2:
+org.client.Class30_Sub1 -> org.client.oooYZzg0g71HWfYdQ0Au:
     int anInt1291 -> zegfRrzyok7oOnZNa2bQ
     int anInt1292 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt1293 -> j0lwcLi9yupMwSGMc6Yi
@@ -328,13 +1032,13 @@ org.client.Class30_Sub1 -> org.client.FEgyRkin7ex8D9ommOC2:
     int anInt1301 -> TbzjV2hStiawKSKsFlLA
     int anInt1302 -> bCOkWBx1VUBUB0RCww1d
     void <init>() -> <init>
-org.client.Class33 -> org.client.oooYZzg0g71HWfYdQ0Au:
+org.client.Class33 -> org.client.N50upRPBFYnxm3ATMgmM:
     int anInt602 -> zegfRrzyok7oOnZNa2bQ
     int anInt603 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt604 -> j0lwcLi9yupMwSGMc6Yi
     int anInt605 -> ah7AfEach1iGPyGBvMVe
     void <init>() -> <init>
-org.client.Class39 -> org.client.N50upRPBFYnxm3ATMgmM:
+org.client.Class39 -> org.client.WGMdVXjpjbRowG3slrG:
     int[][] anIntArrayArray670 -> zegfRrzyok7oOnZNa2bQ
     float[][] aFloatArrayArray669 -> zegfRrzyok7oOnZNa2bQ
     int anInt672 -> zegfRrzyok7oOnZNa2bQ
@@ -347,7 +1051,7 @@ org.client.Class39 -> org.client.N50upRPBFYnxm3ATMgmM:
     float method543(float,int,int) -> zegfRrzyok7oOnZNa2bQ
     int method544(int,float) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Class40 -> org.client.WGMdVXjpjbRowG3slrG:
+org.client.Class40 -> org.client.lxKcaRMfX9mWWNmFfIC:
     int[] anIntArray673 -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray674 -> o8LpqlzVuH0BWnvl7Bwf
     int[] anIntArray675 -> j0lwcLi9yupMwSGMc6Yi
@@ -382,7 +1086,7 @@ org.client.Class40 -> org.client.WGMdVXjpjbRowG3slrG:
     int[][] anIntArrayArray697 -> o8LpqlzVuH0BWnvl7Bwf
     void <init>(int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,boolean) -> <init>
     void <clinit>() -> <clinit>
-org.client.Class43 -> org.client.lxKcaRMfX9mWWNmFfIC:
+org.client.Class43 -> org.client.cXWmjyoFXEHD3SJGQeiH:
     int anInt716 -> zegfRrzyok7oOnZNa2bQ
     int anInt717 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt718 -> j0lwcLi9yupMwSGMc6Yi
@@ -392,8 +1096,7 @@ org.client.Class43 -> org.client.lxKcaRMfX9mWWNmFfIC:
     boolean textured -> zegfRrzyok7oOnZNa2bQ
     boolean aBoolean721 -> o8LpqlzVuH0BWnvl7Bwf
     void <init>(int,int,int,int,int,int,boolean,boolean) -> <init>
-    void edits(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
-org.client.Class47 -> org.client.cXWmjyoFXEHD3SJGQeiH:
+org.client.Class47 -> org.client.i6yJ27XDCrLhQnPCx6wE:
     int anInt787 -> zegfRrzyok7oOnZNa2bQ
     int anInt788 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt789 -> j0lwcLi9yupMwSGMc6Yi
@@ -413,7 +1116,7 @@ org.client.Class47 -> org.client.cXWmjyoFXEHD3SJGQeiH:
     int anInt803 -> FJV2x2qTbgyiGwPlTCuj
     int anInt804 -> OVjcPaLDHGLsVlkL0f5e
     void <init>() -> <init>
-org.client.Class6 -> org.client.i6yJ27XDCrLhQnPCx6wE:
+org.client.Class6 -> org.client.iEVN4W32pcuZmbe5h2YZ:
     int[] anIntArray118 -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray119 -> o8LpqlzVuH0BWnvl7Bwf
     int[] anIntArray120 -> j0lwcLi9yupMwSGMc6Yi
@@ -428,13 +1131,15 @@ org.client.Class6 -> org.client.i6yJ27XDCrLhQnPCx6wE:
     int[] method167(int,int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
 org.client.Client -> org.client.Client:
+    org.client.RichPresence RICH_PRESENCE -> zegfRrzyok7oOnZNa2bQ
+    java.util.logging.Logger logger -> zegfRrzyok7oOnZNa2bQ
     org.client.content.RunePouch runePouch -> zegfRrzyok7oOnZNa2bQ
     float spinSpeed -> zegfRrzyok7oOnZNa2bQ
     boolean startSpin -> atlY3JO2fO19pYIoHzm
     org.client.interfaces.chatbox.ChatboxDrawing chatboxDrawing -> zegfRrzyok7oOnZNa2bQ
     int frameRevision$65a1a4b4 -> zegfRrzyok7oOnZNa2bQ
-    int tabSpriteId -> PZAN6E5sfBGkw7JdpjtF
-    int mapSpriteId -> knus2gGEJQWa11g3f0x7
+    int tabSpriteId -> p5uTukSgSG7Z2YrxDDrE
+    int mapSpriteId -> lwq0ueSd6imK3GYd2bvx
     int gameFrameId -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String gameFrameString -> zegfRrzyok7oOnZNa2bQ
     org.client.file.CacheManager spriteManager -> zegfRrzyok7oOnZNa2bQ
@@ -451,13 +1156,13 @@ org.client.Client -> org.client.Client:
     int[][] anIntArrayArray1003 -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray1204 -> o8LpqlzVuH0BWnvl7Bwf
     int[] anIntArray1019 -> l85AzJRz6lyE4Vl88K5k
-    int spellID -> ePm9uK271EJkYhDNL8p
+    int spellID -> mrnWAHEOlecVd6ReRJD
     int[] compCapeDefaultColors -> j0lwcLi9yupMwSGMc6Yi
-    int fadingTo -> p5uTukSgSG7Z2YrxDDrE
+    int fadingTo -> flZx61NfsNj1kaxsucbq
     boolean autoFog -> zh8oI0RNnWnZVLiHv2Tv
     org.client.cache.CacheIndex[] cacheIndices -> zegfRrzyok7oOnZNa2bQ
-    int hitmarks -> lwq0ueSd6imK3GYd2bvx
-    int hitmarkId -> mrnWAHEOlecVd6ReRJD
+    int hitmarks -> es7MHlWXsMmcD8TxrTW
+    int hitmarkId -> MxBpLoaC0M1XuJKYNfPs
     boolean[] xpCounterSkillDisabled -> zegfRrzyok7oOnZNa2bQ
     int clientWidth -> GNcrRWqAjsKahmOnium
     int clientHeight -> sUQHpmCLI7NuMrWghLKa
@@ -467,9 +1172,9 @@ org.client.Client -> org.client.Client:
     org.client.TextDrawingArea normalFont -> zegfRrzyok7oOnZNa2bQ
     org.client.RSFont small -> zegfRrzyok7oOnZNa2bQ
     org.client.TextDrawingArea regularText -> o8LpqlzVuH0BWnvl7Bwf
-    int hoverPos -> flZx61NfsNj1kaxsucbq
+    int hoverPos -> zWAOwEOTfwWAqJQRxgc8
     int cameraZoom -> GL35SPonMOsEbgBVabqV
-    int fogColor -> es7MHlWXsMmcD8TxrTW
+    int fogColor -> SyuSLZb9Fbx9JQSDvNFk
     int log_view_dist -> l85AzJRz6lyE4Vl88K5k
     boolean rememberMe -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String[] friendsList -> o8LpqlzVuH0BWnvl7Bwf
@@ -482,7 +1187,7 @@ org.client.Client -> org.client.Client:
     java.lang.String clanUsername -> bCOkWBx1VUBUB0RCww1d
     java.lang.String clanMessage -> lVNAbAYpHAUBn4BGO2vD
     java.lang.String clanTitle -> atlY3JO2fO19pYIoHzm
-    int channelRights -> MxBpLoaC0M1XuJKYNfPs
+    int channelRights -> nhbONIUsCU1t6BC4TN55
     boolean inputTaken -> j0lwcLi9yupMwSGMc6Yi
     int[] anIntArray1232 -> ah7AfEach1iGPyGBvMVe
     int[] easyAchAmt -> qxgenLXCcEdxF3gyMXs9
@@ -495,33 +1200,32 @@ org.client.Client -> org.client.Client:
     int[] eliteAchReq -> FJV2x2qTbgyiGwPlTCuj
     java.lang.String[] normalCursorSentences -> j0lwcLi9yupMwSGMc6Yi
     boolean consoleOpen -> ah7AfEach1iGPyGBvMVe
-    int consoleAlpha -> zWAOwEOTfwWAqJQRxgc8
-    int step -> SyuSLZb9Fbx9JQSDvNFk
+    int consoleAlpha -> AEeqCYjhMQEk2cMk2VNc
+    int step -> iXmPvhKyfNqMJVMQF7p2
     boolean switching -> xK8ZDrf4aYsrbSudjdm8
     org.client.cache.ondemand.CacheFileRequester onDemandFetcher -> zegfRrzyok7oOnZNa2bQ
     int openInterfaceID -> TbzjV2hStiawKSKsFlLA
-    int portOff -> nhbONIUsCU1t6BC4TN55
+    int portOff -> cejmDgj7ZUC34hjt8sv0
     boolean tabAreaAltered -> XgVOdK5rEJ9e7nwIJrXu
     int loopCycle -> bCOkWBx1VUBUB0RCww1d
     int anInt1211 -> lVNAbAYpHAUBn4BGO2vD
     int tabID -> atlY3JO2fO19pYIoHzm
-    int anInt849 -> AEeqCYjhMQEk2cMk2VNc
-    int anInt924 -> iXmPvhKyfNqMJVMQF7p2
-    int nodeID -> cejmDgj7ZUC34hjt8sv0
+    int anInt924 -> c3iMtA2HMvVh8yOvrpOo
+    int nodeID -> SjZu9XvzgtkxLnklvvGA
     boolean isMembers -> vvUeHCHbtoMM4m74SemE
     boolean lowMem -> KxS76HXEWZAsJhC0Xmku
-    int anInt986 -> c3iMtA2HMvVh8yOvrpOo
-    int anInt1051 -> SjZu9XvzgtkxLnklvvGA
-    int anInt1061 -> xr6qynXgSObOh91FRYeS
-    int anInt1097 -> PD5QZilOgQ6N0t4I6tob
-    int anInt1134 -> rhquBIRqA9AqLbpSYmcZ
-    int anInt1142 -> i7nhOQVIkAqNQMBV6yNt
-    int anInt1155 -> JvaBhjPEs6EE2wEJUSvJ
-    int anInt1175 -> qmSRyuCFx3zaJBVcitwN
-    int anInt1188 -> deHMOLn15PfEwXRYVnD
+    int anInt986 -> xr6qynXgSObOh91FRYeS
+    int anInt1051 -> PD5QZilOgQ6N0t4I6tob
+    int anInt1061 -> rhquBIRqA9AqLbpSYmcZ
+    int anInt1097 -> i7nhOQVIkAqNQMBV6yNt
+    int anInt1134 -> JvaBhjPEs6EE2wEJUSvJ
+    int anInt1142 -> qmSRyuCFx3zaJBVcitwN
+    int anInt1155 -> deHMOLn15PfEwXRYVnD
+    int anInt1175 -> TK0EfiRTuu7k6ywuJUUL
+    int anInt1188 -> vUdUHXtaZA540fR3aKBS
     boolean flagged -> nMxkOcan9B07yN23FB7i
-    int anInt1226 -> TK0EfiRTuu7k6ywuJUUL
-    int anInt1288 -> vUdUHXtaZA540fR3aKBS
+    int anInt1226 -> HrEJtsMCcIbq8FmUSqqq
+    int anInt1288 -> tbAMPY8YujKzjAGQ09Zq
     org.client.interfaces.impl.NotesTab notesTab -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.Interface inputFieldFocusOwner -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.InterfaceDef aClass9_1059 -> zegfRrzyok7oOnZNa2bQ
@@ -531,9 +1235,9 @@ org.client.Client -> org.client.Client:
     int[] currentExp -> xK8ZDrf4aYsrbSudjdm8
     int[] anIntArray873 -> XgVOdK5rEJ9e7nwIJrXu
     boolean[] aBooleanArray876 -> j0lwcLi9yupMwSGMc6Yi
-    int maxPlayers -> HrEJtsMCcIbq8FmUSqqq
+    int maxPlayers -> GE3WC7U6EZGEXbsnoTdj
     org.client.image.Sprite[] orbs -> j0lwcLi9yupMwSGMc6Yi
-    int myPlayerIndex -> tbAMPY8YujKzjAGQ09Zq
+    int myPlayerIndex -> OTdodytMGla5hC3BoJMH
     int[] currentStats -> vvUeHCHbtoMM4m74SemE
     long[] ignoreListAsLongs -> o8LpqlzVuH0BWnvl7Bwf
     int[] anIntArray928 -> KxS76HXEWZAsJhC0Xmku
@@ -542,7 +1246,7 @@ org.client.Client -> org.client.Client:
     java.lang.String[] chatMessages -> sUQHpmCLI7NuMrWghLKa
     int[] anIntArray965 -> r3eusMgyl3WRsGMmLXKe
     int[] compassArray1 -> ySM9kDtoo3yAYeDoFUQx
-    int anInt975 -> GE3WC7U6EZGEXbsnoTdj
+    int anInt975 -> istmpnRg23lF1pIY6tuv
     int[] anIntArray976 -> ft7hHf8eIXN3AI5mic2
     int[] anIntArray977 -> rt5vrgunjQKoxhUgwtVQ
     int[] anIntArray978 -> jFe5Rz8QzysESmfuss9p
@@ -558,7 +1262,7 @@ org.client.Client -> org.client.Client:
     int[] defaultConfigIds -> pnJZ1Dg1wWn5IcCxVjiD
     int[] anIntArray1052 -> ciEQZ5eEOLHd2fUpZaqZ
     int[] compassArray2 -> n10dG3nOWoFxVxgtPS0H
-    int barFillColor -> OTdodytMGla5hC3BoJMH
+    int barFillColor -> Vmob1PdkoeSY9m3KNdD
     int[] anIntArray1065 -> HyVa0Fs8q0dQg2PZhUeq
     int[] expectedCRCs -> WmaQ5jstFwxwTqaXrTp
     java.lang.String[] atPlayerActions -> l85AzJRz6lyE4Vl88K5k
@@ -576,24 +1280,24 @@ org.client.Client -> org.client.Client:
     boolean rsAlreadyLoaded -> ySM9kDtoo3yAYeDoFUQx
     java.lang.String[] consoleMessages -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] blockToolTip -> qxgenLXCcEdxF3gyMXs9
-    int tabOpen2 -> istmpnRg23lF1pIY6tuv
+    int tabOpen2 -> alGADYrl23bvvAJ96ZrW
     org.client.image.Sprite magicAuto -> zegfRrzyok7oOnZNa2bQ
     boolean Autocast -> ft7hHf8eIXN3AI5mic2
-    int autocastId -> Vmob1PdkoeSY9m3KNdD
-    int walkableInterfaceId -> alGADYrl23bvvAJ96ZrW
-    int colorSelected -> n1qugYVnDUwGGPe7XPc2
-    int compCapeColorEdit -> hcQtyNGO0k1F2apIPYgU
-    int oldCapeColor -> lQpN0H1lgy0484JIxwMZ
-    int oldTab -> rZlLuw98xT1yJTDFVTr
+    int autocastId -> n1qugYVnDUwGGPe7XPc2
+    int walkableInterfaceId -> hcQtyNGO0k1F2apIPYgU
+    int colorSelected -> lQpN0H1lgy0484JIxwMZ
+    int compCapeColorEdit -> rZlLuw98xT1yJTDFVTr
+    int oldCapeColor -> zSELYPlgcXUWeictgXGc
+    int oldTab -> LrIgN6EUbM1Lq4f5EYwO
     boolean poisoned -> rt5vrgunjQKoxhUgwtVQ
-    int currentAutoTrans -> zSELYPlgcXUWeictgXGc
-    int autoCastLoop -> LrIgN6EUbM1Lq4f5EYwO
-    int oldFogColor -> MlM30fiuEwMZ1VG0UXNN
+    int currentAutoTrans -> MlM30fiuEwMZ1VG0UXNN
+    int autoCastLoop -> kf9mbqPTLDa6QtTfsocg
+    int oldFogColor -> MZCsIaXMnHgTYLpxxkoG
     int[] hitmarkIds -> ePm9uK271EJkYhDNL8p
     int[] xpToggleButtons -> p5uTukSgSG7Z2YrxDDrE
     org.client.image.Sprite[] skillSprites -> WmaQ5jstFwxwTqaXrTp
     long lastAddedXp -> o8LpqlzVuH0BWnvl7Bwf
-    int totalSameTimeXps -> kf9mbqPTLDa6QtTfsocg
+    int totalSameTimeXps -> eKWTmcPOeLvji2x9PZXL
     org.client.RSFont newSmallFont -> o8LpqlzVuH0BWnvl7Bwf
     org.client.RSFont newNormalFont -> j0lwcLi9yupMwSGMc6Yi
     org.client.RSFont newRegularFont -> ah7AfEach1iGPyGBvMVe
@@ -603,55 +1307,55 @@ org.client.Client -> org.client.Client:
     org.client.TextDrawingArea boldFont -> j0lwcLi9yupMwSGMc6Yi
     org.client.TextDrawingArea fancyFont -> ah7AfEach1iGPyGBvMVe
     org.client.RSFont regular -> sUQHpmCLI7NuMrWghLKa
-    int channel -> MZCsIaXMnHgTYLpxxkoG
+    int channel -> SWlyP3GnLhYafI4yppm
     java.math.BigInteger xpCounter -> zegfRrzyok7oOnZNa2bQ
     double fillPrayer -> zegfRrzyok7oOnZNa2bQ
     double fillRun -> o8LpqlzVuH0BWnvl7Bwf
     double fillSummoning -> j0lwcLi9yupMwSGMc6Yi
     boolean canKick -> jFe5Rz8QzysESmfuss9p
-    int mapX -> eKWTmcPOeLvji2x9PZXL
-    int mapY -> SWlyP3GnLhYafI4yppm
-    int tabSelectedBankForX -> ysQoRErLdf8MdX7JBUjf
-    int slotSelectedBankForX -> kZFZGujkznESlzZ2z4TH
-    int itemSelectedBankForX -> nxMMqa7nOJIEamhf8UQy
+    int mapX -> ysQoRErLdf8MdX7JBUjf
+    int mapY -> kZFZGujkznESlzZ2z4TH
+    int tabSelectedBankForX -> nxMMqa7nOJIEamhf8UQy
+    int slotSelectedBankForX -> rqZASRxJtl9rq9hTJmUB
+    int itemSelectedBankForX -> kYsEC9aKwczJwOzuiXmw
     java.lang.String partyAdd -> zh8oI0RNnWnZVLiHv2Tv
-    int achProgress1 -> rqZASRxJtl9rq9hTJmUB
-    int achProgress2 -> kYsEC9aKwczJwOzuiXmw
+    int achProgress1 -> KdZdCYtEYfrg2R0gHPxN
+    int achProgress2 -> hZykQFMkva5n155M5JsB
     java.lang.String achThing -> FJV2x2qTbgyiGwPlTCuj
     double fillHP -> ah7AfEach1iGPyGBvMVe
-    int shopSlotX -> KdZdCYtEYfrg2R0gHPxN
-    int chatTypeView -> hZykQFMkva5n155M5JsB
-    int friendChatMode -> ZOTxEmhe5efa9CC6g7
-    int duelMode -> kFh9cdximQrJCB9Srnt7
+    int shopSlotX -> ZOTxEmhe5efa9CC6g7
+    int chatTypeView -> kFh9cdximQrJCB9Srnt7
+    int friendChatMode -> UcqlnyN0jB9eprHDTG82
+    int duelMode -> JeHW1JytXWcS56s0Rtc
     int xCameraPos -> yABUjhrlMPHTRQqt3Ycv
     int zCameraPos -> zh8oI0RNnWnZVLiHv2Tv
     int yCameraPos -> FJV2x2qTbgyiGwPlTCuj
-    int yCameraCurve -> UcqlnyN0jB9eprHDTG82
-    int xCameraCurve -> JeHW1JytXWcS56s0Rtc
+    int yCameraCurve -> n98EmIfSCki2kN8YnIDu
+    int xCameraCurve -> hX7UlyUtuE6grQNw5RU
     int[] variousSettings -> GNcrRWqAjsKahmOnium
     java.lang.String dialogueInput -> WmaQ5jstFwxwTqaXrTp
-    int currentHoveredDragSlot -> n98EmIfSCki2kN8YnIDu
-    int anInt1088 -> hX7UlyUtuE6grQNw5RU
+    int currentHoveredDragSlot -> XdbG1VNDf4ncc6hSRnkB
+    int anInt1088 -> HPxQLhdBfVaeGExrFqWD
     int[] menuActionCmd4 -> lwq0ueSd6imK3GYd2bvx
     java.lang.String[] shopAction -> TbzjV2hStiawKSKsFlLA
     boolean loggedIn -> WmaQ5jstFwxwTqaXrTp
     org.client.stream.Stream stream -> zegfRrzyok7oOnZNa2bQ
-    int inputDialogState -> XdbG1VNDf4ncc6hSRnkB
-    int drawCount -> HPxQLhdBfVaeGExrFqWD
-    int fullscreenInterfaceID -> LV3L9iIxfVseRG7uujCk
-    int anInt1044 -> STcxKXvYdAWossqLxYQU
-    int anInt1129 -> xMxcPdPPAiPrDfuHZjwo
-    int anInt1315 -> DRwZuKrWFrEjJvmn2D8F
-    int anInt1500 -> rBYx2GxIOi7YtiDrVzHu
-    int anInt1501 -> JnVYzLwo2OQEhVBlqVzy
+    int inputDialogState -> LV3L9iIxfVseRG7uujCk
+    int drawCount -> STcxKXvYdAWossqLxYQU
+    int fullscreenInterfaceID -> xMxcPdPPAiPrDfuHZjwo
+    int anInt1044 -> DRwZuKrWFrEjJvmn2D8F
+    int anInt1129 -> rBYx2GxIOi7YtiDrVzHu
+    int anInt1315 -> JnVYzLwo2OQEhVBlqVzy
+    int anInt1500 -> peKPyXe9RmI58ZMkeYEK
+    int anInt1501 -> tmUsY3FTcMaq15VzuSO
     int[] fullScreenTextureArray -> mrnWAHEOlecVd6ReRJD
     java.lang.String inputDialogueText -> OVjcPaLDHGLsVlkL0f5e
     boolean[] searchable -> o8LpqlzVuH0BWnvl7Bwf
     org.client.ItemSearch[] itemList -> zegfRrzyok7oOnZNa2bQ
     boolean coinToggle -> eI3hKv5sQBvLLAhZ9VJi
     boolean resting -> dLKI3WIsekcLc7gA5agR
-    int colorNote -> peKPyXe9RmI58ZMkeYEK
-    int oldNoteColor -> tmUsY3FTcMaq15VzuSO
+    int colorNote -> rv2Y0uZ7XdCe1JEVXlGd
+    int oldNoteColor -> pa6515tpmqOEEbUkFimn
     org.client.interfaces.Interface searchBox -> o8LpqlzVuH0BWnvl7Bwf
     boolean npcSizeNeedsUpdate -> ad5tsUpql5craIAutrnc
     org.client.npcs.Npc npcDisplay -> zegfRrzyok7oOnZNa2bQ
@@ -664,153 +1368,153 @@ org.client.Client -> org.client.Client:
     org.client.image.Sprite[] hitMark -> o8LpqlzVuH0BWnvl7Bwf
     org.client.image.Sprite[] hitStyle -> GNcrRWqAjsKahmOnium
     org.client.image.Sprite[] hitShadow -> sUQHpmCLI7NuMrWghLKa
-    int smallTabs -> rv2Y0uZ7XdCe1JEVXlGd
-    int tabHover -> pa6515tpmqOEEbUkFimn
+    int smallTabs -> NWiHpUzQuOrViRSGa0LH
+    int tabHover -> xJyOXYU9J6NKO8yKwnDb
     boolean prayClicked -> nEvgT7qqUFHI0eRdTkPV
     java.lang.String prayerBook -> xK8ZDrf4aYsrbSudjdm8
     boolean runClicked -> GNcrRWqAjsKahmOnium
     boolean counterOn -> gAElBqclZtwCEO1fG4sL
-    int gameAreaWidth -> NWiHpUzQuOrViRSGa0LH
-    int gameAreaHeight -> xJyOXYU9J6NKO8yKwnDb
-    int cButtonHPos -> r9cWc2zaiSaDwd4GwF1K
-    int cButtonCPos -> hlF8kbllGklseP4ksDyL
-    int editPreset -> QtyvAuULqATLNuZBz9q8
+    int gameAreaWidth -> r9cWc2zaiSaDwd4GwF1K
+    int gameAreaHeight -> hlF8kbllGklseP4ksDyL
+    int cButtonHPos -> QtyvAuULqATLNuZBz9q8
+    int cButtonCPos -> uczrdy0V0nedZdwFNC0j
+    int editPreset -> flJe4T1P8TSa5yLKcVBG
     java.lang.String rightClickName -> XgVOdK5rEJ9e7nwIJrXu
-    int orbX -> uczrdy0V0nedZdwFNC0j
-    int orbY -> flJe4T1P8TSa5yLKcVBG
-    int summonOrbSprite -> c7fiQSXmuS8Rcxda7I9K
+    int orbX -> c7fiQSXmuS8Rcxda7I9K
+    int orbY -> hMGbdEUFsPqjpd0NSiTu
+    int summonOrbSprite -> QSYEdDwZcWE3z68V9JhB
     org.client.image.Sprite[] banners -> GL35SPonMOsEbgBVabqV
     org.client.image.Sprite[] chatButtons -> l85AzJRz6lyE4Vl88K5k
     org.client.RSImageProducer leftFrame -> ah7AfEach1iGPyGBvMVe
     org.client.RSImageProducer topFrame -> WmaQ5jstFwxwTqaXrTp
-    int ignoreCount -> hMGbdEUFsPqjpd0NSiTu
+    int ignoreCount -> qgor4nXqGjtejUKPNdSE
     long aLong824 -> j0lwcLi9yupMwSGMc6Yi
     int[][] anIntArrayArray825 -> o8LpqlzVuH0BWnvl7Bwf
     int[] friendsNodeIDs -> flZx61NfsNj1kaxsucbq
     org.client.cache.node.Deque[][][] groundArray -> zegfRrzyok7oOnZNa2bQ
     boolean aBoolean831 -> Im91UWfMksvaDHWOw5ZZ
     java.net.Socket jaggrabSocket -> zegfRrzyok7oOnZNa2bQ
-    int loginScreenState -> QSYEdDwZcWE3z68V9JhB
+    int loginScreenState -> stBbgqwWPBjaMZA12I4
     org.client.stream.Stream aStream_834 -> o8LpqlzVuH0BWnvl7Bwf
     org.client.NpcDisplay[] npcDisplayArray -> zegfRrzyok7oOnZNa2bQ
-    int npcCount -> qgor4nXqGjtejUKPNdSE
+    int npcCount -> mdwzwOuf5LYgNbw1rwVg
     int[] npcIndices -> es7MHlWXsMmcD8TxrTW
-    int anInt839 -> stBbgqwWPBjaMZA12I4
+    int anInt839 -> rl6v2xOKTdna5JZHoxlL
     int[] anIntArray840 -> MxBpLoaC0M1XuJKYNfPs
-    int lastPacket1 -> mdwzwOuf5LYgNbw1rwVg
-    int lastPacket2 -> rl6v2xOKTdna5JZHoxlL
-    int lastPacket3 -> jgsjLeFX4Hz3EJJ5It6S
+    int lastPacket1 -> jgsjLeFX4Hz3EJJ5It6S
+    int lastPacket2 -> RiZjBiXvClJavxhaAH0Q
+    int lastPacket3 -> cLZK9pbMBUnu60zJzZfu
     java.lang.String aString844 -> vvUeHCHbtoMM4m74SemE
-    int privateChatMode -> RiZjBiXvClJavxhaAH0Q
+    int privateChatMode -> BZhLCzogVAPCuXNeJlip
     org.client.stream.Stream aStream_847 -> j0lwcLi9yupMwSGMc6Yi
     boolean aBoolean848 -> pnJZ1Dg1wWn5IcCxVjiD
-    int anInt855 -> cLZK9pbMBUnu60zJzZfu
-    int myPrivilege -> BZhLCzogVAPCuXNeJlip
+    int anInt855 -> JHC2v4BBbe8JLXrnkgVi
+    int myPrivilege -> iar4bJa9BkDULArPEMKx
     org.client.image.Sprite[] redStones -> qxgenLXCcEdxF3gyMXs9
     org.client.image.Sprite mapFlag -> j0lwcLi9yupMwSGMc6Yi
     org.client.image.Sprite mapMarker -> ah7AfEach1iGPyGBvMVe
-    int anInt874 -> JHC2v4BBbe8JLXrnkgVi
-    int weight -> iar4bJa9BkDULArPEMKx
+    int anInt874 -> ZUrVuWroiaZp7jrK0GX
+    int weight -> ByHya1Jj6xwtd9FoJekG
     org.client.MouseDetection mouseDetection -> zegfRrzyok7oOnZNa2bQ
     boolean drawFlames -> ciEQZ5eEOLHd2fUpZaqZ
     java.lang.String reportAbuseInput -> KxS76HXEWZAsJhC0Xmku
-    int unknownInt10 -> ZUrVuWroiaZp7jrK0GX
+    int unknownInt10 -> ZYcgvRA5exks4HG2nmrJ
     boolean menuOpen -> n10dG3nOWoFxVxgtPS0H
-    int anInt886 -> ByHya1Jj6xwtd9FoJekG
+    int anInt886 -> kNLqME1MNotN9LNq2N9s
     java.lang.String inputString -> GNcrRWqAjsKahmOnium
     org.client.Player[] playerArray -> zegfRrzyok7oOnZNa2bQ
-    int playerCount -> ZYcgvRA5exks4HG2nmrJ
+    int playerCount -> p3pN7lf1NcL9wQb3UkJV
     int[] playerIndices -> zWAOwEOTfwWAqJQRxgc8
-    int anInt893 -> kNLqME1MNotN9LNq2N9s
+    int anInt893 -> RhG1jtlsHYtI1VjbWwal
     int[] anIntArray894 -> SyuSLZb9Fbx9JQSDvNFk
     org.client.stream.Stream[] aStreamArray895s -> zegfRrzyok7oOnZNa2bQ
-    int anInt896 -> p3pN7lf1NcL9wQb3UkJV
-    int friendsCount -> RhG1jtlsHYtI1VjbWwal
-    int anInt900 -> qOlYuYBUxrs0dF9k8wd
+    int anInt896 -> qOlYuYBUxrs0dF9k8wd
+    int friendsCount -> cvyHdmpzw9R1PBg6txqj
+    int anInt900 -> cVCTESyzg8z6wF6ISyU7
     int[][] anIntArrayArray901 -> j0lwcLi9yupMwSGMc6Yi
     int[] aByteArray912 -> nhbONIUsCU1t6BC4TN55
-    int anInt913 -> cvyHdmpzw9R1PBg6txqj
-    int crossX -> cVCTESyzg8z6wF6ISyU7
-    int crossY -> m1fR5fS0EEEIlL4xfzyR
-    int crossIndex -> FEHAmvN66TYworYF12Rq
-    int crossType -> OdEU7SeE7OYe1MHNxIGv
-    int plane -> wfD8WbMyFyMjXum3JRvC
+    int anInt913 -> m1fR5fS0EEEIlL4xfzyR
+    int crossX -> FEHAmvN66TYworYF12Rq
+    int crossY -> OdEU7SeE7OYe1MHNxIGv
+    int crossIndex -> wfD8WbMyFyMjXum3JRvC
+    int crossType -> z0lHe3c3lKctnYJSGu
+    int plane -> OVjcPaLDHGLsVlkL0f5e
     boolean loadingError -> HyVa0Fs8q0dQg2PZhUeq
     int[][] anIntArrayArray929 -> ah7AfEach1iGPyGBvMVe
     org.client.image.Sprite aClass30_Sub2_Sub1_Sub1_931 -> WmaQ5jstFwxwTqaXrTp
     org.client.image.Sprite aClass30_Sub2_Sub1_Sub1_932 -> GNcrRWqAjsKahmOnium
-    int anInt933 -> z0lHe3c3lKctnYJSGu
-    int anInt934 -> x1rVfcOIVN089z4fk32z
-    int anInt935 -> yn1mQlMjhnK85qp3ZYc0
-    int anInt936 -> CW8jZ9XbmIbtI0YdwsRT
-    int anInt937 -> C2POUaVIvzbG5BilMF2U
-    int anInt938 -> IoRtmXfiDOVPxZJap7UN
-    int cycleTimer -> XCStPiNIYqLvDUEPL55h
+    int anInt933 -> x1rVfcOIVN089z4fk32z
+    int anInt934 -> yn1mQlMjhnK85qp3ZYc0
+    int anInt935 -> CW8jZ9XbmIbtI0YdwsRT
+    int anInt936 -> C2POUaVIvzbG5BilMF2U
+    int anInt937 -> IoRtmXfiDOVPxZJap7UN
+    int anInt938 -> XCStPiNIYqLvDUEPL55h
+    int cycleTimer -> YkeuaB04SGO34H34sZG
     org.client.WorldController worldController -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite[] sideIcons -> TbzjV2hStiawKSKsFlLA
-    int menuOffsetX -> YkeuaB04SGO34H34sZG
-    int menuOffsetY -> LAfw9TN1Q1ZXiwxS9DvJ
-    int menuWidth -> HO4scrJotS00LDJO6fi
-    int menuHeight -> yuzxK0UtykNKplv4WFNb
+    int menuOffsetX -> LAfw9TN1Q1ZXiwxS9DvJ
+    int menuOffsetY -> HO4scrJotS00LDJO6fi
+    int menuWidth -> yuzxK0UtykNKplv4WFNb
+    int menuHeight -> k4gvOiwcwVAGqUHxJKIF
     long aLong953 -> ah7AfEach1iGPyGBvMVe
     boolean aBoolean954 -> v0eBuYRa67PuHBVoYdQ
     long[] friendsListAsLongs -> j0lwcLi9yupMwSGMc6Yi
-    int currentSong -> k4gvOiwcwVAGqUHxJKIF
+    int currentSong -> bqhQLVfDYcZNDUrzoNne
     boolean drawingFlames -> wdBMuMjNSTnWy80ot7XS
-    int spriteDrawX -> bqhQLVfDYcZNDUrzoNne
-    int spriteDrawY -> deaN3lGflaPS6UWSmWzj
+    int spriteDrawX -> deaN3lGflaPS6UWSmWzj
+    int spriteDrawY -> m9U6m2tH3yfF3XXtpT7p
     boolean aBoolean972 -> MAthegM4WctyQs7Ny5IE
-    int anInt984 -> m9U6m2tH3yfF3XXtpT7p
-    int anInt985 -> zg3qAoUSTVQ7fat7v0I
-    int anInt989 -> qRNPgYeFMf6t9TN4KQaR
-    int anInt995 -> AMBDQiltXJvZLcM0dVQi
-    int anInt996 -> cxV319YU9sgwArIX7h9K
-    int anInt997 -> XM66MPQRB8uOrgnHY7TK
-    int anInt998 -> bB7pCAxPopxAjWXKoLmB
-    int anInt999 -> EaHOO7UswLcDYLyfJcJ
+    int anInt984 -> zg3qAoUSTVQ7fat7v0I
+    int anInt985 -> qRNPgYeFMf6t9TN4KQaR
+    int anInt989 -> AMBDQiltXJvZLcM0dVQi
+    int anInt995 -> cxV319YU9sgwArIX7h9K
+    int anInt996 -> XM66MPQRB8uOrgnHY7TK
+    int anInt997 -> bB7pCAxPopxAjWXKoLmB
+    int anInt998 -> EaHOO7UswLcDYLyfJcJ
+    int anInt999 -> qUDjGP4VYls2fa3DNKyM
     org.client.ISAACRandomGen encryption -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite mapEdge -> sUQHpmCLI7NuMrWghLKa
-    int daysSinceLastLogin -> qUDjGP4VYls2fa3DNKyM
-    int pktSize -> hq6PVBhS7HAjEnhcutct
-    int pktType -> VSuh3v8bmoF5MCITbJpW
-    int anInt1009 -> zBIVhQPXanbJORDNwWB
-    int anInt1010 -> cRwSGt3fG4t8vlk0KaG8
-    int anInt1011 -> i9RK5A9JGYwYENLgD6Hm
+    int daysSinceLastLogin -> hq6PVBhS7HAjEnhcutct
+    int pktSize -> VSuh3v8bmoF5MCITbJpW
+    int pktType -> zBIVhQPXanbJORDNwWB
+    int anInt1009 -> cRwSGt3fG4t8vlk0KaG8
+    int anInt1010 -> i9RK5A9JGYwYENLgD6Hm
+    int anInt1011 -> WgKVbfRZSBUSHQadOndn
     org.client.cache.node.Deque aClass19_1013 -> zegfRrzyok7oOnZNa2bQ
-    int currentCameraDisplayX -> WgKVbfRZSBUSHQadOndn
-    int currentCameraDisplayY -> IzT27SbFRAzIo2asukI6
-    int anInt1016 -> ObBlD7GZc5hnIN903vmE
+    int currentCameraDisplayX -> IzT27SbFRAzIo2asukI6
+    int currentCameraDisplayY -> ObBlD7GZc5hnIN903vmE
+    int anInt1016 -> q04DKXVH3njI1aGjWJcq
     boolean aBoolean1017 -> SAHb4OsvEFyDVabJmQ4N
-    int anInt1021 -> q04DKXVH3njI1aGjWJcq
-    int anInt1022 -> MtHFvQsy2QlA98hzL8TK
-    int loadingStage -> RBu98EBU3rdBYbUBKVX
+    int anInt1021 -> MtHFvQsy2QlA98hzL8TK
+    int anInt1022 -> RBu98EBU3rdBYbUBKVX
+    int loadingStage -> N3rUaRreFN2P3V3RIZVr
     org.client.image.Sprite scrollBar1 -> GL35SPonMOsEbgBVabqV
     org.client.image.Sprite scrollBar2 -> l85AzJRz6lyE4Vl88K5k
-    int anInt1026 -> N3rUaRreFN2P3V3RIZVr
+    int anInt1026 -> W6mMcc4apPbW1rF7I4AE
     boolean aBoolean1031 -> tu0urvakqNRdlsYXyxzI
     org.client.image.Sprite[] mapFunctions -> bCOkWBx1VUBUB0RCww1d
     org.client.image.Sprite[] mapFunctionsOldschool -> lVNAbAYpHAUBn4BGO2vD
-    int baseX -> W6mMcc4apPbW1rF7I4AE
-    int baseY -> VLZc012EpHaZg0Y4Slmd
-    int anInt1036 -> Gq8dOnJqvwyQqhV4TrBD
-    int anInt1037 -> n511sHsawv4tYUzT19i
-    int loginFailures -> OVjcPaLDHGLsVlkL0f5e
-    int anInt1039 -> Jkd9lM1l0T5QCJX8cH2
-    int dialogID -> fwLq7TnzESuJOk7Racmd
-    int anInt1046 -> nUX4eomBrjdumhgAftIf
+    int baseX -> xK8ZDrf4aYsrbSudjdm8
+    int baseY -> XgVOdK5rEJ9e7nwIJrXu
+    int anInt1036 -> VLZc012EpHaZg0Y4Slmd
+    int anInt1037 -> Gq8dOnJqvwyQqhV4TrBD
+    int loginFailures -> vvUeHCHbtoMM4m74SemE
+    int anInt1039 -> n511sHsawv4tYUzT19i
+    int dialogID -> Jkd9lM1l0T5QCJX8cH2
+    int anInt1046 -> fwLq7TnzESuJOk7Racmd
     boolean aBoolean1047 -> PZAN6E5sfBGkw7JdpjtF
-    int anInt1048 -> ABK5Jn1E99S5lJCGyvT8
+    int anInt1048 -> nUX4eomBrjdumhgAftIf
     org.client.cache.Archive titleStreamLoader -> o8LpqlzVuH0BWnvl7Bwf
-    int anInt1054 -> D2g5PZWeWm513pcdnEiO
-    int anInt1055 -> nHkCMI7ycxwRe7PDnit
+    int anInt1054 -> ABK5Jn1E99S5lJCGyvT8
+    int anInt1055 -> D2g5PZWeWm513pcdnEiO
     org.client.cache.node.Deque aClass19_1056 -> o8LpqlzVuH0BWnvl7Bwf
     org.client.Background[] mapScenes -> zegfRrzyok7oOnZNa2bQ
-    int anInt1062 -> Nf02nBvB5Et9qA78fSP
-    int friendsListAction -> dwC6PzesahiSJxhZTv
-    int lastActiveInvInterface -> rh9zq10ySFN1eUrVvkdD
-    int localX -> L66olrdIo2wVeLdNtB4
-    int localY -> xPdAkP6BFGjHrJixD7di
-    int mapIconSpriteIndex -> Rl3iPUehAU7joTM4bVZ4
+    int anInt1062 -> nHkCMI7ycxwRe7PDnit
+    int friendsListAction -> Nf02nBvB5Et9qA78fSP
+    int lastActiveInvInterface -> dwC6PzesahiSJxhZTv
+    int localX -> rh9zq10ySFN1eUrVvkdD
+    int localY -> L66olrdIo2wVeLdNtB4
+    int mapIconSpriteIndex -> xPdAkP6BFGjHrJixD7di
     int[] mapIconX -> AEeqCYjhMQEk2cMk2VNc
     int[] mapIconY -> iXmPvhKyfNqMJVMQF7p2
     int[] mapIconZ -> cejmDgj7ZUC34hjt8sv0
@@ -821,11 +1525,11 @@ org.client.Client -> org.client.Client:
     org.client.image.Sprite mapDotTeam -> atlY3JO2fO19pYIoHzm
     boolean aBoolean1080 -> knus2gGEJQWa11g3f0x7
     org.client.stream.Stream inStream -> ah7AfEach1iGPyGBvMVe
-    int hoveredInterfaceChild -> nTJtOZd3PGIUsCSv8vs
-    int hoveredInterfaceId_2 -> VLIAX2yLCYeEpR2zMlOV
-    int originalDragSlot -> ZkDNlIuYxq0uYAahmhiU
-    int activeInterfaceType -> TVaozLlgdlVvjemtOsX3
-    int anInt1087 -> nqKE06s6VbHP8jOWnZVE
+    int hoveredInterfaceChild -> Rl3iPUehAU7joTM4bVZ4
+    int hoveredInterfaceId_2 -> nTJtOZd3PGIUsCSv8vs
+    int originalDragSlot -> VLIAX2yLCYeEpR2zMlOV
+    int activeInterfaceType -> ZkDNlIuYxq0uYAahmhiU
+    int anInt1087 -> TVaozLlgdlVvjemtOsX3
     int[] menuActionCmd2 -> c3iMtA2HMvVh8yOvrpOo
     int[] menuActionCmd3 -> SjZu9XvzgtkxLnklvvGA
     int[] menuActionID -> xr6qynXgSObOh91FRYeS
@@ -835,32 +1539,32 @@ org.client.Client -> org.client.Client:
     org.client.image.Sprite[] headIcons -> atlY3JO2fO19pYIoHzm
     org.client.image.Sprite[] skullIcons -> yABUjhrlMPHTRQqt3Ycv
     org.client.image.Sprite[] headIconsHint -> zh8oI0RNnWnZVLiHv2Tv
-    int anInt1098 -> WFzoIHP4p012aMfzt7Dq
-    int anInt1099 -> w3y9TEI3sM2VYgKS4ccS
-    int anInt1100 -> jUmpXYX75gYlM3Lpw5kD
-    int anInt1101 -> KfHpKC75eOKb7IPb6ZMY
-    int anInt1102 -> FEgdPiEq9puG1BSkhmHr
-    int anInt1104 -> My3PdK3KQNmTexxGOyD7
+    int anInt1098 -> nqKE06s6VbHP8jOWnZVE
+    int anInt1099 -> WFzoIHP4p012aMfzt7Dq
+    int anInt1100 -> w3y9TEI3sM2VYgKS4ccS
+    int anInt1101 -> jUmpXYX75gYlM3Lpw5kD
+    int anInt1102 -> KfHpKC75eOKb7IPb6ZMY
+    int systemUpdateTime -> FEgdPiEq9puG1BSkhmHr
     org.client.RSImageProducer aRSImageProducer_1107 -> GNcrRWqAjsKahmOnium
     org.client.RSImageProducer titleScreenIP -> zegfRrzyok7oOnZNa2bQ
-    int membersInt -> de21XczdLMFoW8ouIhc1
+    int membersInt -> My3PdK3KQNmTexxGOyD7
     java.lang.String promptMessage -> nMxkOcan9B07yN23FB7i
     org.client.image.Sprite compass -> yABUjhrlMPHTRQqt3Ycv
     org.client.RSImageProducer aRSImageProducer_1125 -> sUQHpmCLI7NuMrWghLKa
-    int cameraOffsetY -> A3ILw8lSBw4hwmom8PiV
-    int menuActionRow -> UbSLhdbfTpmPxhfvuw3
-    int spellSelected -> nMcMPmDl4tyTwB6SytNG
-    int anInt1137 -> WxAJbYuN2tp2aQq8lOo
-    int spellUsableOn -> P99jIQlBPSQdNfUS75OI
+    int cameraOffsetY -> de21XczdLMFoW8ouIhc1
+    int menuActionRow -> A3ILw8lSBw4hwmom8PiV
+    int spellSelected -> UbSLhdbfTpmPxhfvuw3
+    int anInt1137 -> nMcMPmDl4tyTwB6SytNG
+    int spellUsableOn -> WxAJbYuN2tp2aQq8lOo
     java.lang.String spellTooltip -> r3eusMgyl3WRsGMmLXKe
     org.client.image.Sprite[] mapIconSpritesLoaded -> FJV2x2qTbgyiGwPlTCuj
     int[] mapIconRegionIds -> JvaBhjPEs6EE2wEJUSvJ
     boolean aBoolean1141 -> ePm9uK271EJkYhDNL8p
-    int energy -> Ss0xKxTxtmqNaF9h8fKo
+    int energy -> P99jIQlBPSQdNfUS75OI
     boolean aBoolean1149 -> p5uTukSgSG7Z2YrxDDrE
     org.client.image.Sprite[] crosses -> OVjcPaLDHGLsVlkL0f5e
     boolean musicEnabled -> lwq0ueSd6imK3GYd2bvx
-    int unreadMessages -> c6NutSczzWCuiRhIlFh
+    int unreadMessages -> Ss0xKxTxtmqNaF9h8fKo
     boolean canMute -> mrnWAHEOlecVd6ReRJD
     boolean builtSecondaryRegion -> flZx61NfsNj1kaxsucbq
     boolean aBoolean1160 -> es7MHlWXsMmcD8TxrTW
@@ -869,10 +1573,10 @@ org.client.Client -> org.client.Client:
     org.client.RSImageProducer gameScreenIP -> o8LpqlzVuH0BWnvl7Bwf
     org.client.entity.PlayerRights myRights -> zegfRrzyok7oOnZNa2bQ
     org.client.RSImageProducer chatAreaIP -> qxgenLXCcEdxF3gyMXs9
-    int daysSinceRecovChange -> WHojPvkecjxcimMIMEMK
+    int daysSinceRecovChange -> c6NutSczzWCuiRhIlFh
     org.client.RSSocket socketStream -> zegfRrzyok7oOnZNa2bQ
-    int anInt1169 -> ssDqZ6sXL4aLVqlU0iFY
-    int minimapInt3 -> TIGJ2OX4gDTwMUnOgk2n
+    int anInt1169 -> WHojPvkecjxcimMIMEMK
+    int minimapInt3 -> ssDqZ6sXL4aLVqlU0iFY
     long aLong1172 -> WmaQ5jstFwxwTqaXrTp
     boolean genericLoadingError -> MxBpLoaC0M1XuJKYNfPs
     org.client.cache.node.Deque aClass19_1179 -> j0lwcLi9yupMwSGMc6Yi
@@ -880,92 +1584,91 @@ org.client.Client -> org.client.Client:
     int[] anIntArray1181 -> deHMOLn15PfEwXRYVnD
     int[] anIntArray1182 -> TK0EfiRTuu7k6ywuJUUL
     byte[][] aByteArrayArray1183 -> zegfRrzyok7oOnZNa2bQ
-    int cameraRotationZ -> OoeTTxE6A901ujJ386J8
-    int viewRotation -> cfhJFVarK9EB9icvcpn1
-    int cameraRotationLeft -> nFrGBPhfvOQvazOvQPhX
-    int cameraRotationRight -> Cy2pQmj80RvsC8kyjHhf
-    int invOverlayInterfaceID -> Y2Fy8lsmFqjvRfWOBwWq
-    int anInt1193 -> ImBNXRF6kqKYPU301m
-    int splitPrivateChat -> IqVBUblSksPc2DfFKpiH
+    int cameraRotationZ -> TIGJ2OX4gDTwMUnOgk2n
+    int viewRotation -> OoeTTxE6A901ujJ386J8
+    int cameraRotationLeft -> cfhJFVarK9EB9icvcpn1
+    int cameraRotationRight -> nFrGBPhfvOQvazOvQPhX
+    int invOverlayInterfaceID -> Cy2pQmj80RvsC8kyjHhf
+    int anInt1193 -> Y2Fy8lsmFqjvRfWOBwWq
+    int splitPrivateChat -> ImBNXRF6kqKYPU301m
     org.client.Background mapBack -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] menuActionName -> lVNAbAYpHAUBn4BGO2vD
-    int minimapInt2 -> V36Mi9pt5tnUZLw1D5kN
+    int minimapInt2 -> IqVBUblSksPc2DfFKpiH
     java.lang.String promptInput -> ySM9kDtoo3yAYeDoFUQx
-    int anInt1213 -> CGkMj1n8CL634ZSMvUo7
+    int anInt1213 -> V36Mi9pt5tnUZLw1D5kN
     int[][][] intGroundArray -> o8LpqlzVuH0BWnvl7Bwf
     long aLong1215 -> GNcrRWqAjsKahmOnium
-    int loginScreenCursorPos -> xK8ZDrf4aYsrbSudjdm8
+    int loginScreenCursorPos -> KxS76HXEWZAsJhC0Xmku
     long aLong1220 -> sUQHpmCLI7NuMrWghLKa
-    int anInt1222 -> guijAQxbDk2zwwzAMuPw
-    int nextSong -> YRz5Yaf4JWpupj5mAFK
+    int anInt1222 -> CGkMj1n8CL634ZSMvUo7
+    int nextSong -> guijAQxbDk2zwwzAMuPw
     org.client.Class11[] aClass11Array1230 -> zegfRrzyok7oOnZNa2bQ
     int[] regionIds -> vUdUHXtaZA540fR3aKBS
     int[] anIntArray1235 -> HrEJtsMCcIbq8FmUSqqq
     int[] anIntArray1236 -> tbAMPY8YujKzjAGQ09Zq
     boolean aBoolean1242 -> zWAOwEOTfwWAqJQRxgc8
-    int atInventoryLoopCycle -> mh3M97egH83Z5wmBd1S
-    int constantWithdrawXValue -> r1xp69Qar12RLVRSsXor
-    int atInventoryInterface -> v95p8Oz0JdxJ8at3bdTg
-    int atInventoryIndex -> gyRLHIx9KzYkvRUFqUOv
-    int atInventoryInterfaceType -> GioqhKU7wT9opBUCTCT8
+    int atInventoryLoopCycle -> YRz5Yaf4JWpupj5mAFK
+    int constantWithdrawXValue -> mh3M97egH83Z5wmBd1S
+    int atInventoryInterface -> r1xp69Qar12RLVRSsXor
+    int atInventoryIndex -> v95p8Oz0JdxJ8at3bdTg
+    int atInventoryInterfaceType -> gyRLHIx9KzYkvRUFqUOv
     byte[][] mapData -> o8LpqlzVuH0BWnvl7Bwf
-    int tradeMode -> QMnf7y7j3HlD8bitCtEK
-    int gambleMode -> d2VdEfzVoqvLpz5yGzfn
-    int anInt1249 -> kzK9TjenaTvQjiyTDKfl
-    int anInt1251 -> yN8XQ3KWOmAyCVzdqrGD
-    int leftClickToggle -> JEBUi6XxpUkDSYzOEu4O
+    int tradeMode -> GioqhKU7wT9opBUCTCT8
+    int gambleMode -> QMnf7y7j3HlD8bitCtEK
+    int anInt1249 -> d2VdEfzVoqvLpz5yGzfn
+    int anInt1251 -> kzK9TjenaTvQjiyTDKfl
+    int leftClickToggle -> yN8XQ3KWOmAyCVzdqrGD
     boolean welcomeScreenRaised -> SyuSLZb9Fbx9JQSDvNFk
     boolean messagePromptRaised -> nhbONIUsCU1t6BC4TN55
     org.client.image.Sprite HPBarFull -> zh8oI0RNnWnZVLiHv2Tv
     org.client.image.Sprite HPBarEmpty -> FJV2x2qTbgyiGwPlTCuj
-    int anInt1257 -> aJ1MeqXhAPABOMePFYWW
+    int anInt1257 -> JEBUi6XxpUkDSYzOEu4O
     byte[][][] byteGroundArray -> zegfRrzyok7oOnZNa2bQ
-    int prevSong -> XcmTR2VJJfF5zug8e2bR
-    int destX -> RJLtyRvD5u3nYAcI3iZ5
-    int destY -> VEwAbTn4ToHzDKjZPs1m
+    int prevSong -> aJ1MeqXhAPABOMePFYWW
+    int destX -> XcmTR2VJJfF5zug8e2bR
+    int destY -> RJLtyRvD5u3nYAcI3iZ5
     org.client.image.Sprite aClass30_Sub2_Sub1_Sub1_1263 -> OVjcPaLDHGLsVlkL0f5e
-    int anInt1264 -> zCfamdN5FgX73byRUxP9
-    int anInt1265 -> Rezldd6NOTP5cGCwPpjg
+    int anInt1264 -> VEwAbTn4ToHzDKjZPs1m
+    int anInt1265 -> zCfamdN5FgX73byRUxP9
     java.lang.String loginMessage -> sUQHpmCLI7NuMrWghLKa
     java.lang.String loginDescription -> GL35SPonMOsEbgBVabqV
-    int anInt1268 -> uIKuKgL5OEbga02PRtOT
-    int anInt1269 -> E4vLq5qNHOv3OeZrD6P3
+    int anInt1268 -> Rezldd6NOTP5cGCwPpjg
+    int anInt1269 -> uIKuKgL5OEbga02PRtOT
     org.client.TextDrawingArea smallText -> WmaQ5jstFwxwTqaXrTp
     org.client.TextDrawingArea aTextDrawingArea_1271 -> GNcrRWqAjsKahmOnium
     org.client.TextDrawingArea chatTextDrawingArea -> sUQHpmCLI7NuMrWghLKa
-    int backDialogID -> XgVOdK5rEJ9e7nwIJrXu
-    int cameraOffsetX -> C4NTrA6eLFJyGRnSgGVJ
+    int backDialogID -> nMxkOcan9B07yN23FB7i
+    int cameraOffsetX -> E4vLq5qNHOv3OeZrD6P3
     int[] bigX -> GE3WC7U6EZGEXbsnoTdj
     int[] bigY -> OTdodytMGla5hC3BoJMH
-    int itemSelected -> ucJj9RCuO6MQYYrYk7PI
-    int anInt1283 -> h2TDxxL7zai7P952mK
-    int inventoryInterfaceId -> CmHUOyudvF9RTn7uCVF6
-    int anInt1285 -> BKC0Dzrm624bSeER7KEo
+    int itemSelected -> C4NTrA6eLFJyGRnSgGVJ
+    int anInt1283 -> ucJj9RCuO6MQYYrYk7PI
+    int inventoryInterfaceId -> h2TDxxL7zai7P952mK
+    int anInt1285 -> CmHUOyudvF9RTn7uCVF6
     java.lang.String selectedItemName -> ft7hHf8eIXN3AI5mic2
-    int publicChatMode -> ToEnIYvABxJKwT9118aF
-    int anInt1289 -> nHusINyEXc43i2Tebw04
+    int publicChatMode -> BKC0Dzrm624bSeER7KEo
+    int anInt1289 -> ToEnIYvABxJKwT9118aF
     java.lang.String consoleInput -> l85AzJRz6lyE4Vl88K5k
     java.lang.String tooltipText -> rt5vrgunjQKoxhUgwtVQ
-    int tooltipWidth -> ahV4ler1ewFcxcJcBddb
-    int tooltipHeight -> chTguGHm98X74x0AM4Xy
-    int tooltipXOffset -> JrWsCELbk9VZFdSPILBa
-    int tooltipYOffset -> KqlygoNfp9YU2LqZPi1b
+    int tooltipWidth -> nHusINyEXc43i2Tebw04
+    int tooltipHeight -> ahV4ler1ewFcxcJcBddb
+    int tooltipXOffset -> chTguGHm98X74x0AM4Xy
+    int tooltipYOffset -> JrWsCELbk9VZFdSPILBa
     java.util.ArrayList displayedParticles -> zegfRrzyok7oOnZNa2bQ
     java.util.ArrayList removeDeadParticles -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.StringBuilder skillTabTooltip -> zegfRrzyok7oOnZNa2bQ
-    int playerX -> AOhGsCWM3dVTAXyQzr
-    int playerY -> q0tGTDKAGUwR6bFhiB7K
-    int screenMode$25fca4e0 -> LiZrIEaIH7bxQtRn0HZa
+    int playerX -> KqlygoNfp9YU2LqZPi1b
+    int playerY -> AOhGsCWM3dVTAXyQzr
+    int screenMode$25fca4e0 -> q0tGTDKAGUwR6bFhiB7K
     java.text.DecimalFormat format -> zegfRrzyok7oOnZNa2bQ
     java.util.LinkedList gains -> zegfRrzyok7oOnZNa2bQ
     org.client.Client$XPGain totalGain -> zegfRrzyok7oOnZNa2bQ
     boolean canGainXP -> AEeqCYjhMQEk2cMk2VNc
-    int gameScreenDrawX -> Wv2EBpUD43PfBwP6UAKw
-    int gameScreenDrawY -> NTJeB435RRQhuXHi8pTO
+    int gameScreenDrawX -> LiZrIEaIH7bxQtRn0HZa
+    int gameScreenDrawY -> Wv2EBpUD43PfBwP6UAKw
     boolean gameFrameVisible -> iXmPvhKyfNqMJVMQF7p2
-    int hoverId -> mPSmwWhiDiqe1TSDplDj
+    int hoverId -> NTJeB435RRQhuXHi8pTO
     org.client.NpcDisplay interactingNpc -> zegfRrzyok7oOnZNa2bQ
-    org.client.content.GameStatusBar gameStatusBar -> zegfRrzyok7oOnZNa2bQ
     int[] redStonesX -> istmpnRg23lF1pIY6tuv
     int[] redStonesY -> Vmob1PdkoeSY9m3KNdD
     int[] redStonesId -> alGADYrl23bvvAJ96ZrW
@@ -973,7 +1676,7 @@ org.client.Client -> org.client.Client:
     java.lang.String displayText -> jFe5Rz8QzysESmfuss9p
     java.awt.image.BufferedImage[] loadingImages -> zegfRrzyok7oOnZNa2bQ
     boolean choosingLeftClick -> cejmDgj7ZUC34hjt8sv0
-    int leftClick -> IWXdSkdUT8KggQX2oew
+    int leftClick -> mPSmwWhiDiqe1TSDplDj
     java.lang.String[] leftClickNames -> atlY3JO2fO19pYIoHzm
     int[] leftClickActions -> n1qugYVnDUwGGPe7XPc2
     java.lang.String forcedTooltip -> qxgenLXCcEdxF3gyMXs9
@@ -991,33 +1694,37 @@ org.client.Client -> org.client.Client:
     boolean registering -> SjZu9XvzgtkxLnklvvGA
     org.client.accounts.AccountData currentAccount -> zegfRrzyok7oOnZNa2bQ
     boolean inDoubleXp -> xr6qynXgSObOh91FRYeS
-    int loadingStep -> mO59l1wVmBgZ8KcJWvlL
+    int loadingStep -> IWXdSkdUT8KggQX2oew
     java.lang.String loadingText -> eI3hKv5sQBvLLAhZ9VJi
-    int lastStep -> DqgunYpN95cDJxSihVr
-    int cacheDownloadingPercentage -> vvUeHCHbtoMM4m74SemE
+    int lastStep -> mO59l1wVmBgZ8KcJWvlL
+    int cacheDownloadingPercentage -> r3eusMgyl3WRsGMmLXKe
     org.client.util.StopWatch loadTimer -> zegfRrzyok7oOnZNa2bQ
-    int extraLoading -> O7Q4B53KP1HEuz2bybHr
-    int lastPercentage -> rAF4Lv5te8HwHKIuAaOv
-    int lastLoadPercent -> bl058O5vrTXmlkzuNMGb
+    int extraLoading -> DqgunYpN95cDJxSihVr
+    int lastPercentage -> O7Q4B53KP1HEuz2bybHr
+    int lastLoadPercent -> rAF4Lv5te8HwHKIuAaOv
     org.client.cache.Archive media -> zegfRrzyok7oOnZNa2bQ
     int[] runeChildren -> LrIgN6EUbM1Lq4f5EYwO
     int[] MAGIC_IDs -> MlM30fiuEwMZ1VG0UXNN
-    int currentBankTab -> KxS76HXEWZAsJhC0Xmku
+    int currentBankTab -> ySM9kDtoo3yAYeDoFUQx
     boolean searchAfterBankRefresh -> PD5QZilOgQ6N0t4I6tob
     org.client.interfaces.Interface selectedDropDownMenu -> j0lwcLi9yupMwSGMc6Yi
-    int hoverDropDownAction -> gD4aTjWr2c30AEhouwqM
-    int dropDownCurrentHeight -> PMOQTzycHZaEgjS7B6qH
+    int hoverDropDownAction -> bl058O5vrTXmlkzuNMGb
+    int dropDownCurrentHeight -> gD4aTjWr2c30AEhouwqM
     long lastChosenDropAction -> GL35SPonMOsEbgBVabqV
-    int screenGliding -> nNPChTHpuUqYlYupK6Ek
+    int screenGliding -> PMOQTzycHZaEgjS7B6qH
     org.client.image.Sprite[] moneyPouchSprites -> xK8ZDrf4aYsrbSudjdm8
     boolean pouchHover -> rhquBIRqA9AqLbpSYmcZ
     long moneyPouch -> l85AzJRz6lyE4Vl88K5k
-    boolean quickPrayers -> i7nhOQVIkAqNQMBV6yNt
+    boolean attackingnpc -> i7nhOQVIkAqNQMBV6yNt
+    boolean doingtask -> JvaBhjPEs6EE2wEJUSvJ
+    boolean quickPrayers -> qmSRyuCFx3zaJBVcitwN
     org.client.image.GameScreenFading gameScreenFading -> zegfRrzyok7oOnZNa2bQ
     boolean shiftIsDown -> GL35SPonMOsEbgBVabqV
-    boolean removeShiftDropOnMenuOpen -> JvaBhjPEs6EE2wEJUSvJ
-    int extendChatOffset -> nMxkOcan9B07yN23FB7i
+    boolean removeShiftDropOnMenuOpen -> deHMOLn15PfEwXRYVnD
+    int extendChatOffset -> ft7hHf8eIXN3AI5mic2
     org.client.content.RunePouch getRunePouch() -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String mask(java.lang.String) -> ah7AfEach1iGPyGBvMVe
+    void drawAltInputField(org.client.interfaces.Interface,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     void setGameFrame$3c41478f(int) -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite getImage(java.lang.String[]) -> zegfRrzyok7oOnZNa2bQ
     org.client.entity.FamiliarHandler getFamiliar() -> zegfRrzyok7oOnZNa2bQ
@@ -1031,7 +1738,7 @@ org.client.Client -> org.client.Client:
     void tabToReplyPm() -> atlY3JO2fO19pYIoHzm
     void changeAchButton(int) -> GNcrRWqAjsKahmOnium
     java.lang.String capitalize(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String capitalizeFirstLetter(java.lang.String) -> ah7AfEach1iGPyGBvMVe
+    java.lang.String capitalizeFirstLetter(java.lang.String) -> WmaQ5jstFwxwTqaXrTp
     org.client.Client getClient() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String intToKOrMilLongName(int) -> zegfRrzyok7oOnZNa2bQ
     java.util.AbstractMap$SimpleEntry getMostFrequentN2(java.util.ArrayList) -> zegfRrzyok7oOnZNa2bQ
@@ -1097,7 +1804,7 @@ org.client.Client -> org.client.Client:
     void processMenuClick() -> jFe5Rz8QzysESmfuss9p
     void loadRegion() -> eI3hKv5sQBvLLAhZ9VJi
     void unlinkMRUNodes() -> dLKI3WIsekcLc7gA5agR
-    void method24(int) -> lVNAbAYpHAUBn4BGO2vD
+    void renderMapScene(int) -> lVNAbAYpHAUBn4BGO2vD
     void clearInterface(int) -> atlY3JO2fO19pYIoHzm
     void spawnGroundItem(int,int) -> GNcrRWqAjsKahmOnium
     void method26(boolean) -> j0lwcLi9yupMwSGMc6Yi
@@ -1194,7 +1901,7 @@ org.client.Client -> org.client.Client:
     void drawInterface(int,int,org.client.interfaces.Interface,int) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String methodR(int) -> ah7AfEach1iGPyGBvMVe
     void drawHoverBox(int,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
-    void drawInputField(org.client.interfaces.Interface,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
+    void drawInputField(org.client.interfaces.Interface,int,int,int,int) -> o8LpqlzVuH0BWnvl7Bwf
     void method108() -> AEeqCYjhMQEk2cMk2VNc
     void processDrawing() -> GNcrRWqAjsKahmOnium
     boolean isFriendOrSelf(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
@@ -1277,26 +1984,26 @@ org.client.Client -> org.client.Client:
     int access$100(org.client.Client) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String access$200(org.client.Client) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Client$1 -> org.client.iEVN4W32pcuZmbe5h2YZ:
+org.client.Client$1 -> org.client.w7XGBNIzBWYdu39yVIu0:
     org.client.Client this$0 -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.Client) -> <init>
     void run() -> run
-org.client.Client$2 -> org.client.w7XGBNIzBWYdu39yVIu0:
+org.client.Client$2 -> org.client.VjcyTjVaSBUPkKHvTre4:
     org.client.Client this$0 -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.Client) -> <init>
     void run() -> run
-org.client.Client$3 -> org.client.VjcyTjVaSBUPkKHvTre4:
+org.client.Client$3 -> org.client.rf5752zBy8CCKEGfSAtO:
     java.lang.String val$url -> zegfRrzyok7oOnZNa2bQ
     void <init>(java.lang.String) -> <init>
     void execute() -> zegfRrzyok7oOnZNa2bQ
-org.client.Client$GameFrame -> org.client.rf5752zBy8CCKEGfSAtO:
+org.client.Client$GameFrame -> org.client.Xqvmb81tLfkaRAJmKg8:
     int FRAME_OSRS$65a1a4b4 -> zegfRrzyok7oOnZNa2bQ
     int FRAME_667$65a1a4b4 -> o8LpqlzVuH0BWnvl7Bwf
     int[] $VALUES$2840a32f -> zegfRrzyok7oOnZNa2bQ
     int[] values$78916a12() -> zegfRrzyok7oOnZNa2bQ
     int forId$c0f12dc(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Client$ScreenMode -> org.client.Xqvmb81tLfkaRAJmKg8:
+org.client.Client$ScreenMode -> org.client.R0uLXZJwOQVONxCviIEZ:
     int FIXED$25fca4e0 -> zegfRrzyok7oOnZNa2bQ
     int RESIZABLE$25fca4e0 -> o8LpqlzVuH0BWnvl7Bwf
     int FULLSCREEN$25fca4e0 -> j0lwcLi9yupMwSGMc6Yi
@@ -1304,7 +2011,7 @@ org.client.Client$ScreenMode -> org.client.Xqvmb81tLfkaRAJmKg8:
     int[] values$3dcddae6() -> zegfRrzyok7oOnZNa2bQ
     int forId$4d3cfbb8(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Client$XPGain -> org.client.R0uLXZJwOQVONxCviIEZ:
+org.client.Client$XPGain -> org.client.WX05vO6efM5i7zWlbQN8:
     int skill -> zegfRrzyok7oOnZNa2bQ
     int xp -> o8LpqlzVuH0BWnvl7Bwf
     int y -> j0lwcLi9yupMwSGMc6Yi
@@ -1321,7 +2028,7 @@ org.client.Client$XPGain -> org.client.R0uLXZJwOQVONxCviIEZ:
     boolean equals(java.lang.Object) -> equals
     int access$000(org.client.Client$XPGain) -> zegfRrzyok7oOnZNa2bQ
     int access$002(org.client.Client$XPGain,int) -> zegfRrzyok7oOnZNa2bQ
-org.client.DrawingArea -> org.client.WX05vO6efM5i7zWlbQN8:
+org.client.DrawingArea -> org.client.P7oNZFxxKHVZdvm9VMZx:
     int[] pixels -> j0lwcLi9yupMwSGMc6Yi
     int width -> j0lwcLi9yupMwSGMc6Yi
     int height -> ah7AfEach1iGPyGBvMVe
@@ -1356,7 +2063,7 @@ org.client.DrawingArea -> org.client.WX05vO6efM5i7zWlbQN8:
     void method340(int,int,int,int,int) -> sUQHpmCLI7NuMrWghLKa
     void method341(int,int,int,int) -> WmaQ5jstFwxwTqaXrTp
     void method342(int,int,int,int,int) -> GL35SPonMOsEbgBVabqV
-org.client.Entity -> org.client.P7oNZFxxKHVZdvm9VMZx:
+org.client.Entity -> org.client.MvrjpQ6GsfNB4fXMifcb:
     int[] smallX -> zegfRrzyok7oOnZNa2bQ
     int[] smallY -> o8LpqlzVuH0BWnvl7Bwf
     int[] hitCycles -> j0lwcLi9yupMwSGMc6Yi
@@ -1420,46 +2127,46 @@ org.client.Entity -> org.client.P7oNZFxxKHVZdvm9VMZx:
     void updateHitData(int,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     void moveInDir(boolean,int) -> zegfRrzyok7oOnZNa2bQ
     boolean isVisible() -> zegfRrzyok7oOnZNa2bQ
-org.client.GameRenderer -> org.client.MvrjpQ6GsfNB4fXMifcb:
+org.client.GameRenderer -> org.client.x5FDE2qCytd1yJK1GV3q:
     int[] keyArray -> sUQHpmCLI7NuMrWghLKa
     long[] aLongArray7 -> zegfRrzyok7oOnZNa2bQ
     int[] charQueue -> zegfRrzyok7oOnZNa2bQ
     boolean resizing -> l85AzJRz6lyE4Vl88K5k
-    int mouseX -> r3eusMgyl3WRsGMmLXKe
-    int mouseY -> ySM9kDtoo3yAYeDoFUQx
-    int clickMode3 -> ft7hHf8eIXN3AI5mic2
-    int saveClickX -> rt5vrgunjQKoxhUgwtVQ
-    int saveClickY -> jFe5Rz8QzysESmfuss9p
+    int mouseX -> rt5vrgunjQKoxhUgwtVQ
+    int mouseY -> jFe5Rz8QzysESmfuss9p
+    int clickMode3 -> eI3hKv5sQBvLLAhZ9VJi
+    int saveClickX -> dLKI3WIsekcLc7gA5agR
+    int saveClickY -> ad5tsUpql5craIAutrnc
     boolean isLoading -> qxgenLXCcEdxF3gyMXs9
     boolean isApplet -> TbzjV2hStiawKSKsFlLA
-    int clickType -> eI3hKv5sQBvLLAhZ9VJi
-    int releasedX -> dLKI3WIsekcLc7gA5agR
-    int releasedY -> ad5tsUpql5craIAutrnc
-    int minDelay -> Ijgt3rtBivpAoELJGffV
-    int fps -> nEvgT7qqUFHI0eRdTkPV
+    int clickType -> Ijgt3rtBivpAoELJGffV
+    int releasedX -> nEvgT7qqUFHI0eRdTkPV
+    int releasedY -> gAElBqclZtwCEO1fG4sL
+    int minDelay -> Im91UWfMksvaDHWOw5ZZ
+    int fps -> pnJZ1Dg1wWn5IcCxVjiD
     boolean shouldDebug -> zegfRrzyok7oOnZNa2bQ
-    int myWidth -> gAElBqclZtwCEO1fG4sL
-    int myHeight -> Im91UWfMksvaDHWOw5ZZ
-    int forceWidth -> pnJZ1Dg1wWn5IcCxVjiD
-    int forceHeight -> ciEQZ5eEOLHd2fUpZaqZ
+    int myWidth -> ciEQZ5eEOLHd2fUpZaqZ
+    int myHeight -> n10dG3nOWoFxVxgtPS0H
+    int forceWidth -> HyVa0Fs8q0dQg2PZhUeq
+    int forceHeight -> v0eBuYRa67PuHBVoYdQ
     java.awt.Graphics graphics -> zegfRrzyok7oOnZNa2bQ
     org.client.RSImageProducer fullGameScreen -> j0lwcLi9yupMwSGMc6Yi
     boolean awtFocus -> bCOkWBx1VUBUB0RCww1d
-    int idleTime -> n10dG3nOWoFxVxgtPS0H
+    int idleTime -> wdBMuMjNSTnWy80ot7XS
     org.client.GameWindow mainFrame -> zegfRrzyok7oOnZNa2bQ
-    int clickMode2 -> HyVa0Fs8q0dQg2PZhUeq
+    int clickMode2 -> MAthegM4WctyQs7Ny5IE
     long aLong29 -> zegfRrzyok7oOnZNa2bQ
-    int anInt4 -> v0eBuYRa67PuHBVoYdQ
+    int anInt4 -> SAHb4OsvEFyDVabJmQ4N
     int delayTime -> zegfRrzyok7oOnZNa2bQ
     int clickMode1 -> o8LpqlzVuH0BWnvl7Bwf
-    int clickX -> wdBMuMjNSTnWy80ot7XS
-    int clickY -> MAthegM4WctyQs7Ny5IE
+    int clickX -> tu0urvakqNRdlsYXyxzI
+    int clickY -> PZAN6E5sfBGkw7JdpjtF
     long clickTime -> o8LpqlzVuH0BWnvl7Bwf
     int readIndex -> j0lwcLi9yupMwSGMc6Yi
     int writeIndex -> ah7AfEach1iGPyGBvMVe
     boolean resizingChatArea -> o8LpqlzVuH0BWnvl7Bwf
-    int offsetX -> SAHb4OsvEFyDVabJmQ4N
-    int offsetY -> tu0urvakqNRdlsYXyxzI
+    int offsetX -> knus2gGEJQWa11g3f0x7
+    int offsetY -> ePm9uK271EJkYhDNL8p
     boolean canZoom -> j0lwcLi9yupMwSGMc6Yi
     int mouseWheelX -> WmaQ5jstFwxwTqaXrTp
     int mouseWheelY -> GNcrRWqAjsKahmOnium
@@ -1523,57 +2230,57 @@ org.client.GameWindow -> org.client.GameWindow:
     void <init>(org.client.GameRenderer,int,int,boolean,boolean) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
     void <clinit>() -> <clinit>
-org.client.GameWindow$1 -> org.client.x5FDE2qCytd1yJK1GV3q:
+org.client.GameWindow$1 -> org.client.cElbuD0DSDWK9kXilZge:
     void <init>(org.client.GameWindow) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$10 -> org.client.cElbuD0DSDWK9kXilZge:
+org.client.GameWindow$10 -> org.client.cBXZAcoqF6y50TR5JWr2:
     java.lang.String val$monsters -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$11 -> org.client.cBXZAcoqF6y50TR5JWr2:
+org.client.GameWindow$11 -> org.client.KFfgsJ3FCDsurUuY1BX4:
     java.lang.String val$minigames -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$12 -> org.client.KFfgsJ3FCDsurUuY1BX4:
+org.client.GameWindow$12 -> org.client.LLJkUeM3sOWMjwa1lvfZ:
     java.lang.String val$money_making -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$13 -> org.client.LLJkUeM3sOWMjwa1lvfZ:
+org.client.GameWindow$13 -> org.client.JbGu9Ru0WoXKDPv7V0Hn:
     java.lang.String val$other_guides -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$14 -> org.client.JbGu9Ru0WoXKDPv7V0Hn:
+org.client.GameWindow$14 -> org.client.ffv5F3nBlkvtJEjqkXM5:
     org.client.MapTheme val$mapTheme -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,org.client.MapTheme) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$2 -> org.client.ffv5F3nBlkvtJEjqkXM5:
+org.client.GameWindow$2 -> org.client.ucpxzrTZqhmLOfEkjnbF:
     void <init>(org.client.GameWindow) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$3 -> org.client.ucpxzrTZqhmLOfEkjnbF:
+org.client.GameWindow$3 -> org.client.dhBQNwHuqMl2HOSBDs0i:
     void <init>(org.client.GameWindow) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$4 -> org.client.dhBQNwHuqMl2HOSBDs0i:
+org.client.GameWindow$4 -> org.client.P2yHvoudywI6lWmMvkwv:
     void <init>(org.client.GameWindow) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$5 -> org.client.P2yHvoudywI6lWmMvkwv:
+org.client.GameWindow$5 -> org.client.fgTgTxMDrMzhpxxpEQEC:
     void <init>(org.client.GameWindow) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$6 -> org.client.fgTgTxMDrMzhpxxpEQEC:
+org.client.GameWindow$6 -> org.client.fuznuwiQNhk2bdOw42S3:
     void <init>(org.client.GameWindow) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$7 -> org.client.fuznuwiQNhk2bdOw42S3:
+org.client.GameWindow$7 -> org.client.ASZAdjWmhCXMyosXgjP:
     java.lang.String val$boss -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$8 -> org.client.ASZAdjWmhCXMyosXgjP:
+org.client.GameWindow$8 -> org.client.vU3BgoJutaAJEExjqCjC:
     java.lang.String val$shop -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.GameWindow$9 -> org.client.vU3BgoJutaAJEExjqCjC:
+org.client.GameWindow$9 -> org.client.eIU4EJ4IwwyCNB8ILgsZ:
     java.lang.String val$skilling -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.GameWindow,java.lang.String) -> <init>
     void actionPerformed(java.awt.event.ActionEvent) -> actionPerformed
-org.client.ISAACRandomGen -> org.client.eIU4EJ4IwwyCNB8ILgsZ:
+org.client.ISAACRandomGen -> org.client.E0eStcHMrujFeQRmxrZd:
     int[] results -> zegfRrzyok7oOnZNa2bQ
     int[] memory -> o8LpqlzVuH0BWnvl7Bwf
     int count -> zegfRrzyok7oOnZNa2bQ
@@ -1584,7 +2291,7 @@ org.client.ISAACRandomGen -> org.client.eIU4EJ4IwwyCNB8ILgsZ:
     int getNextKey() -> zegfRrzyok7oOnZNa2bQ
     void isaac() -> zegfRrzyok7oOnZNa2bQ
     void initializeKeySet() -> o8LpqlzVuH0BWnvl7Bwf
-org.client.InterfaceNPC -> org.client.E0eStcHMrujFeQRmxrZd:
+org.client.InterfaceNPC -> org.client.seUQxCkto8xkaJ8dSsn:
     int animationFrame -> zegfRrzyok7oOnZNa2bQ
     boolean updatePetAnimations -> o8LpqlzVuH0BWnvl7Bwf
     boolean isPetAnimationRunning -> zegfRrzyok7oOnZNa2bQ
@@ -1599,21 +2306,21 @@ org.client.InterfaceNPC -> org.client.E0eStcHMrujFeQRmxrZd:
     int getModelArrayLength() -> o8LpqlzVuH0BWnvl7Bwf
     int[] getModelArray() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.InterfaceNPC$1 -> org.client.seUQxCkto8xkaJ8dSsn:
+org.client.InterfaceNPC$1 -> org.client.IyXGSTN4QSRJbe5bpJg2:
     void <init>() -> <init>
     void run() -> run
-org.client.ItemDisplay -> org.client.IyXGSTN4QSRJbe5bpJg2:
+org.client.ItemDisplay -> org.client.omxr9EUle99DoLkZu6rw:
     int ID -> o8LpqlzVuH0BWnvl7Bwf
     int anInt1559 -> j0lwcLi9yupMwSGMc6Yi
     void <init>() -> <init>
     org.client.Model getRotatedModel() -> zegfRrzyok7oOnZNa2bQ
-org.client.ItemSearch -> org.client.omxr9EUle99DoLkZu6rw:
+org.client.ItemSearch -> org.client.gL1iJ61MKkMZyLdkmwl7:
     void <init>(int,java.lang.String,java.lang.String) -> <init>
-org.client.ItemSearcherData -> org.client.gL1iJ61MKkMZyLdkmwl7:
+org.client.ItemSearcherData -> org.client.zVmPkXvZW1TQoyEuzTMu:
     int[] CAN_BE_SEARCHED -> zegfRrzyok7oOnZNa2bQ
     void loadUnsearchables() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.List -> org.client.zVmPkXvZW1TQoyEuzTMu:
+org.client.List -> org.client.YmCfWCRPEHjmNJVqMpvW:
     org.client.cache.node.NodeSub emptyNodeSub -> zegfRrzyok7oOnZNa2bQ
     int initialCount -> zegfRrzyok7oOnZNa2bQ
     int spaceLeft -> o8LpqlzVuH0BWnvl7Bwf
@@ -1623,7 +2330,16 @@ org.client.List -> org.client.zVmPkXvZW1TQoyEuzTMu:
     org.client.cache.node.NodeSub insertFromCache(long) -> zegfRrzyok7oOnZNa2bQ
     void removeFromCache(org.client.cache.node.NodeSub,long) -> zegfRrzyok7oOnZNa2bQ
     void unlinkAll() -> zegfRrzyok7oOnZNa2bQ
-org.client.MapTheme -> org.client.YmCfWCRPEHjmNJVqMpvW:
+org.client.Location -> org.client.dIhiy7izlGH4XyXYycgG:
+    short x -> zegfRrzyok7oOnZNa2bQ
+    short y -> o8LpqlzVuH0BWnvl7Bwf
+    short z -> j0lwcLi9yupMwSGMc6Yi
+    void <init>() -> <init>
+    void <init>(int,int,int) -> <init>
+    int hashCode() -> hashCode
+    boolean equals(java.lang.Object) -> equals
+    java.lang.String toString() -> toString
+org.client.MapTheme -> org.client.zXihxdlu4YFw1YfnAssJ:
     org.client.MapTheme DEFAULT -> zegfRrzyok7oOnZNa2bQ
     org.client.MapTheme HALLOWEEN -> o8LpqlzVuH0BWnvl7Bwf
     org.client.MapTheme CHRISTMAS -> j0lwcLi9yupMwSGMc6Yi
@@ -1646,7 +2362,7 @@ org.client.MapTheme -> org.client.YmCfWCRPEHjmNJVqMpvW:
     byte getUnderlay() -> o8LpqlzVuH0BWnvl7Bwf
     org.client.MapTheme forId(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Model -> org.client.dIhiy7izlGH4XyXYycgG:
+org.client.Model -> org.client.WxAGpTo1OVJfInnSObNE:
     boolean[] newmodel -> zegfRrzyok7oOnZNa2bQ
     int anInt1620 -> zh8oI0RNnWnZVLiHv2Tv
     org.client.Model aModel_1621 -> zegfRrzyok7oOnZNa2bQ
@@ -1764,7 +2480,7 @@ org.client.Model -> org.client.dIhiy7izlGH4XyXYycgG:
     void method483(boolean,boolean,int,int) -> zegfRrzyok7oOnZNa2bQ
     void method484(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.ModelHeader -> org.client.zXihxdlu4YFw1YfnAssJ:
+org.client.ModelHeader -> org.client.F172i9UwVobjmqBZ5emr:
     byte[] aByteArray368 -> zegfRrzyok7oOnZNa2bQ
     int anInt369 -> zegfRrzyok7oOnZNa2bQ
     int anInt370 -> o8LpqlzVuH0BWnvl7Bwf
@@ -1783,7 +2499,7 @@ org.client.ModelHeader -> org.client.zXihxdlu4YFw1YfnAssJ:
     int anInt383 -> yABUjhrlMPHTRQqt3Ycv
     int anInt384 -> zh8oI0RNnWnZVLiHv2Tv
     void <init>() -> <init>
-org.client.MouseDetection -> org.client.WxAGpTo1OVJfInnSObNE:
+org.client.MouseDetection -> org.client.pslPyNy4Veu9l78fbknI:
     java.lang.Object syncObject -> zegfRrzyok7oOnZNa2bQ
     int[] coordsY -> zegfRrzyok7oOnZNa2bQ
     int[] coordsX -> o8LpqlzVuH0BWnvl7Bwf
@@ -1792,7 +2508,7 @@ org.client.MouseDetection -> org.client.WxAGpTo1OVJfInnSObNE:
     org.client.Client clientInstance -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.Client) -> <init>
     void run() -> run
-org.client.NpcDisplay -> org.client.F172i9UwVobjmqBZ5emr:
+org.client.NpcDisplay -> org.client.xlh3GsFoXLrxGb3KRL8y:
     org.client.npcs.Npc desc -> zegfRrzyok7oOnZNa2bQ
     int headIcon -> es7MHlWXsMmcD8TxrTW
     void <init>() -> <init>
@@ -1800,7 +2516,7 @@ org.client.NpcDisplay -> org.client.F172i9UwVobjmqBZ5emr:
     boolean isVisible() -> zegfRrzyok7oOnZNa2bQ
     int getHeadIcon() -> zegfRrzyok7oOnZNa2bQ
     void setHeadIcon(int) -> zegfRrzyok7oOnZNa2bQ
-org.client.Object1 -> org.client.pslPyNy4Veu9l78fbknI:
+org.client.Object1 -> org.client.vG8w839Txe5OCkFsTWQf:
     int newuid -> zegfRrzyok7oOnZNa2bQ
     org.client.Animable aClass30_Sub2_Sub4_278 -> zegfRrzyok7oOnZNa2bQ
     org.client.Animable aClass30_Sub2_Sub4_279 -> o8LpqlzVuH0BWnvl7Bwf
@@ -1812,7 +2528,7 @@ org.client.Object1 -> org.client.pslPyNy4Veu9l78fbknI:
     int orientation1 -> sUQHpmCLI7NuMrWghLKa
     byte aByte281 -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
-org.client.Object2 -> org.client.xlh3GsFoXLrxGb3KRL8y:
+org.client.Object2 -> org.client.U7dhzZr39pcNGNF4Sx8H:
     int newuid -> zegfRrzyok7oOnZNa2bQ
     org.client.Animable aClass30_Sub2_Sub4_504 -> zegfRrzyok7oOnZNa2bQ
     int uid -> o8LpqlzVuH0BWnvl7Bwf
@@ -1823,7 +2539,7 @@ org.client.Object2 -> org.client.xlh3GsFoXLrxGb3KRL8y:
     int anInt503 -> sUQHpmCLI7NuMrWghLKa
     byte aByte506 -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
-org.client.Object3 -> org.client.vG8w839Txe5OCkFsTWQf:
+org.client.Object3 -> org.client.H3os2AP4pyCAXA4WeqGO:
     int newuid -> zegfRrzyok7oOnZNa2bQ
     org.client.Animable aClass30_Sub2_Sub4_814 -> zegfRrzyok7oOnZNa2bQ
     int uid -> o8LpqlzVuH0BWnvl7Bwf
@@ -1832,7 +2548,7 @@ org.client.Object3 -> org.client.vG8w839Txe5OCkFsTWQf:
     int anInt813 -> WmaQ5jstFwxwTqaXrTp
     byte aByte816 -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
-org.client.Object4 -> org.client.U7dhzZr39pcNGNF4Sx8H:
+org.client.Object4 -> org.client.wR53cMBUyuYr9DjA2Ryq:
     int anInt45 -> zegfRrzyok7oOnZNa2bQ
     int anInt46 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt47 -> j0lwcLi9yupMwSGMc6Yi
@@ -1842,7 +2558,7 @@ org.client.Object4 -> org.client.U7dhzZr39pcNGNF4Sx8H:
     int uid -> ah7AfEach1iGPyGBvMVe
     int anInt52 -> WmaQ5jstFwxwTqaXrTp
     void <init>() -> <init>
-org.client.Object5 -> org.client.H3os2AP4pyCAXA4WeqGO:
+org.client.Object5 -> org.client.aX6WvB0SobPULb4xBSuh:
     org.client.Animable aClass30_Sub2_Sub4_521 -> zegfRrzyok7oOnZNa2bQ
     int anInt522 -> zegfRrzyok7oOnZNa2bQ
     int newuid -> o8LpqlzVuH0BWnvl7Bwf
@@ -1859,7 +2575,7 @@ org.client.Object5 -> org.client.H3os2AP4pyCAXA4WeqGO:
     int anInt528 -> lVNAbAYpHAUBn4BGO2vD
     byte aByte530 -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
-org.client.Player -> org.client.wR53cMBUyuYr9DjA2Ryq:
+org.client.Player -> org.client.Epc34UPfgTmIJuzLLqYw:
     org.client.List list -> zegfRrzyok7oOnZNa2bQ
     int[] equipment -> ah7AfEach1iGPyGBvMVe
     int[] appearanceColor -> WmaQ5jstFwxwTqaXrTp
@@ -1906,7 +2622,7 @@ org.client.Player -> org.client.wR53cMBUyuYr9DjA2Ryq:
     boolean isVisible() -> zegfRrzyok7oOnZNa2bQ
     org.client.Model getPlayerModel() -> j0lwcLi9yupMwSGMc6Yi
     void <clinit>() -> <clinit>
-org.client.PlayerProjectile -> org.client.aX6WvB0SobPULb4xBSuh:
+org.client.PlayerProjectile -> org.client.hDFl9yjwgO5nccrkCbaR:
     int anInt1571 -> o8LpqlzVuH0BWnvl7Bwf
     int anInt1572 -> j0lwcLi9yupMwSGMc6Yi
     int anInt1583 -> ah7AfEach1iGPyGBvMVe
@@ -1935,12 +2651,12 @@ org.client.PlayerProjectile -> org.client.aX6WvB0SobPULb4xBSuh:
     void method455(int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     org.client.Model getRotatedModel() -> zegfRrzyok7oOnZNa2bQ
     void method456(int) -> zegfRrzyok7oOnZNa2bQ
-org.client.ProfilePlayer -> org.client.Epc34UPfgTmIJuzLLqYw:
+org.client.ProfilePlayer -> org.client.pF84I2bYUO2WiAUEA9Y1:
     org.client.Player display -> zegfRrzyok7oOnZNa2bQ
     void loadDisplay(int[],int[],int,int[],int,int,boolean,boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
     void animationStep() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.RSFont -> org.client.hDFl9yjwgO5nccrkCbaR:
+org.client.RSFont -> org.client.M8JgYzd7XoPaRIGVFR0q:
     org.client.image.Sprite[] chatImages -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite[] clanImages -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String aRSString_4135 -> zegfRrzyok7oOnZNa2bQ
@@ -2003,7 +2719,7 @@ org.client.RSFont -> org.client.hDFl9yjwgO5nccrkCbaR:
     void drawTransparentCharacter$69c687c6(int,int,int,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     void drawCharacter$576cfb61(int,int,int,int,int,int) -> GNcrRWqAjsKahmOnium
     void <clinit>() -> <clinit>
-org.client.RSImageProducer -> org.client.pF84I2bYUO2WiAUEA9Y1:
+org.client.RSImageProducer -> org.client.jYDaT5h6ZZ7Ury5GYi8g:
     int[] raster -> zegfRrzyok7oOnZNa2bQ
     int width -> zegfRrzyok7oOnZNa2bQ
     int height -> o8LpqlzVuH0BWnvl7Bwf
@@ -2012,7 +2728,7 @@ org.client.RSImageProducer -> org.client.pF84I2bYUO2WiAUEA9Y1:
     void <init>(int,int,java.awt.Component) -> <init>
     void create() -> zegfRrzyok7oOnZNa2bQ
     void drawGraphics(int,java.awt.Graphics,int) -> zegfRrzyok7oOnZNa2bQ
-org.client.RSSocket -> org.client.M8JgYzd7XoPaRIGVFR0q:
+org.client.RSSocket -> org.client.NO7TUS417iVHB0nYJKPj:
     java.net.Socket socket -> zegfRrzyok7oOnZNa2bQ
     org.client.GameRenderer gameRenderer -> zegfRrzyok7oOnZNa2bQ
     java.io.InputStream inputStream -> zegfRrzyok7oOnZNa2bQ
@@ -2030,7 +2746,7 @@ org.client.RSSocket -> org.client.M8JgYzd7XoPaRIGVFR0q:
     void flushInputStream(byte[],int) -> zegfRrzyok7oOnZNa2bQ
     void queueBytes(int,byte[]) -> zegfRrzyok7oOnZNa2bQ
     void run() -> run
-org.client.Rasterizer -> org.client.jYDaT5h6ZZ7Ury5GYi8g:
+org.client.Rasterizer -> org.client.Fi4pKpLXCKqQRFjuRaC:
     org.client.RenderType renderType -> zegfRrzyok7oOnZNa2bQ
     float[] depthBuffer -> zegfRrzyok7oOnZNa2bQ
     int mipMapLevel -> FJV2x2qTbgyiGwPlTCuj
@@ -2086,7 +2802,7 @@ org.client.Rasterizer -> org.client.jYDaT5h6ZZ7Ury5GYi8g:
     void drawTexturedTriangle(int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,float,float,float) -> o8LpqlzVuH0BWnvl7Bwf
     void drawTexturedScanline(int[],int[],int,int,int,int,int,int,int,int,int,int,int,float,float) -> o8LpqlzVuH0BWnvl7Bwf
     void <clinit>() -> <clinit>
-org.client.RenderType -> org.client.NO7TUS417iVHB0nYJKPj:
+org.client.RenderType -> org.client.mFg84bDlPnM4KplPBH4q:
     org.client.RenderType DEFAULT -> zegfRrzyok7oOnZNa2bQ
     org.client.RenderType PLAYER -> o8LpqlzVuH0BWnvl7Bwf
     org.client.RenderType NPC -> j0lwcLi9yupMwSGMc6Yi
@@ -2101,14 +2817,141 @@ org.client.RenderType -> org.client.NO7TUS417iVHB0nYJKPj:
     void <init>(java.lang.String,int,double) -> <init>
     double getRenderRequirement() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.Screenshot -> org.client.Fi4pKpLXCKqQRFjuRaC:
+org.client.RichPresence -> org.client.UJYNGcpjzWAstxyl6rom:
+    club.minnced.discord.rpc.DiscordRPC lib -> zegfRrzyok7oOnZNa2bQ
+    club.minnced.discord.rpc.DiscordRichPresence presence -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String details -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String state -> j0lwcLi9yupMwSGMc6Yi
+    java.lang.String location -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+    void initiate() -> zegfRrzyok7oOnZNa2bQ
+    void updatePresence() -> j0lwcLi9yupMwSGMc6Yi
+    void SetSmallImage(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    void SetDetails(java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    void SetState(java.lang.String,java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
+    void getLocation() -> o8LpqlzVuH0BWnvl7Bwf
+    void lambda$initiate$1() -> ah7AfEach1iGPyGBvMVe
+    void lambda$initiate$0() -> WmaQ5jstFwxwTqaXrTp
+org.client.RichPresence$Locations -> org.client.t7sVfQSdeRQoIJdWrJv8:
+    org.client.RichPresence$Locations GRAND_EXCHANGE -> zegfRrzyok7oOnZNa2bQ
+    org.client.RichPresence$Locations VARROCK -> o8LpqlzVuH0BWnvl7Bwf
+    org.client.RichPresence$Locations LUMBRIDGE -> j0lwcLi9yupMwSGMc6Yi
+    org.client.RichPresence$Locations WIZARD_TOWER -> ah7AfEach1iGPyGBvMVe
+    org.client.RichPresence$Locations DRAYNOR -> WmaQ5jstFwxwTqaXrTp
+    org.client.RichPresence$Locations DRAYNOR_MANOR -> GNcrRWqAjsKahmOnium
+    org.client.RichPresence$Locations BARBARIAN_VILLAGE -> sUQHpmCLI7NuMrWghLKa
+    org.client.RichPresence$Locations HOME -> GL35SPonMOsEbgBVabqV
+    org.client.RichPresence$Locations CRAFTING_GUILD -> l85AzJRz6lyE4Vl88K5k
+    org.client.RichPresence$Locations TAVERLY -> qxgenLXCcEdxF3gyMXs9
+    org.client.RichPresence$Locations BURTHROPE -> TbzjV2hStiawKSKsFlLA
+    org.client.RichPresence$Locations WARRIORS_GUILD -> bCOkWBx1VUBUB0RCww1d
+    org.client.RichPresence$Locations CATHERBY -> lVNAbAYpHAUBn4BGO2vD
+    org.client.RichPresence$Locations SEERS_VILLAGE -> atlY3JO2fO19pYIoHzm
+    org.client.RichPresence$Locations ENTRANA -> yABUjhrlMPHTRQqt3Ycv
+    org.client.RichPresence$Locations RIMMINGTON -> zh8oI0RNnWnZVLiHv2Tv
+    org.client.RichPresence$Locations GOBLIN_VILLAGE -> FJV2x2qTbgyiGwPlTCuj
+    org.client.RichPresence$Locations PORT_SARIM -> OVjcPaLDHGLsVlkL0f5e
+    org.client.RichPresence$Locations AL_KHARID -> xK8ZDrf4aYsrbSudjdm8
+    org.client.RichPresence$Locations DUEL_ARENA -> XgVOdK5rEJ9e7nwIJrXu
+    org.client.RichPresence$Locations SHANTAY_PASS -> vvUeHCHbtoMM4m74SemE
+    org.client.RichPresence$Locations NARDAH -> KxS76HXEWZAsJhC0Xmku
+    org.client.RichPresence$Locations AGILITY_PYRAMID -> nMxkOcan9B07yN23FB7i
+    org.client.RichPresence$Locations SOPHANEM -> r3eusMgyl3WRsGMmLXKe
+    org.client.RichPresence$Locations MENAPHOS -> ySM9kDtoo3yAYeDoFUQx
+    org.client.RichPresence$Locations POLLNIVNEACH -> ft7hHf8eIXN3AI5mic2
+    org.client.RichPresence$Locations RUINS_OF_UZER -> rt5vrgunjQKoxhUgwtVQ
+    org.client.RichPresence$Locations BEDABIN_CAMP -> jFe5Rz8QzysESmfuss9p
+    org.client.RichPresence$Locations BANDIT_CAMP -> eI3hKv5sQBvLLAhZ9VJi
+    org.client.RichPresence$Locations SANDSTONE_QUARRY -> dLKI3WIsekcLc7gA5agR
+    org.client.RichPresence$Locations KHARIDIAN_DESERT -> ad5tsUpql5craIAutrnc
+    org.client.RichPresence$Locations MOS_LEHARMLESS -> Ijgt3rtBivpAoELJGffV
+    org.client.RichPresence$Locations HARMONY_ISLAND -> nEvgT7qqUFHI0eRdTkPV
+    org.client.RichPresence$Locations PORT_PHASMATYS -> gAElBqclZtwCEO1fG4sL
+    org.client.RichPresence$Locations SLAYER_TOWER -> Im91UWfMksvaDHWOw5ZZ
+    org.client.RichPresence$Locations CANIFIS -> pnJZ1Dg1wWn5IcCxVjiD
+    org.client.RichPresence$Locations BARROWS -> ciEQZ5eEOLHd2fUpZaqZ
+    org.client.RichPresence$Locations BURGH_DE_ROTT -> n10dG3nOWoFxVxgtPS0H
+    org.client.RichPresence$Locations ABANDONED_MINE -> HyVa0Fs8q0dQg2PZhUeq
+    org.client.RichPresence$Locations MORT8TON -> v0eBuYRa67PuHBVoYdQ
+    org.client.RichPresence$Locations MORYTANIA -> wdBMuMjNSTnWy80ot7XS
+    org.client.RichPresence$Locations DIGSITE -> MAthegM4WctyQs7Ny5IE
+    org.client.RichPresence$Locations EXAM_CENTRE -> SAHb4OsvEFyDVabJmQ4N
+    org.client.RichPresence$Locations MAGE_TRAINING_ARENA -> tu0urvakqNRdlsYXyxzI
+    org.client.RichPresence$Locations EAST_ARDOUGNE -> PZAN6E5sfBGkw7JdpjtF
+    org.client.RichPresence$Locations WEST_ARDOUGNE -> knus2gGEJQWa11g3f0x7
+    org.client.RichPresence$Locations BATTLEFIELD -> ePm9uK271EJkYhDNL8p
+    org.client.RichPresence$Locations PORT_KHAZARD -> p5uTukSgSG7Z2YrxDDrE
+    org.client.RichPresence$Locations FIGHT_ARENA -> lwq0ueSd6imK3GYd2bvx
+    org.client.RichPresence$Locations TREE_GNOME_VILLAGE -> mrnWAHEOlecVd6ReRJD
+    org.client.RichPresence$Locations YANILLE -> flZx61NfsNj1kaxsucbq
+    org.client.RichPresence$Locations CASTLE_WARS -> es7MHlWXsMmcD8TxrTW
+    org.client.RichPresence$Locations GU8TANOTH -> MxBpLoaC0M1XuJKYNfPs
+    org.client.RichPresence$Locations MYTHS_GUILD -> zWAOwEOTfwWAqJQRxgc8
+    org.client.RichPresence$Locations JIGGIG -> SyuSLZb9Fbx9JQSDvNFk
+    org.client.RichPresence$Locations LLETYA -> nhbONIUsCU1t6BC4TN55
+    org.client.RichPresence$Locations TYRAS_CAMP -> AEeqCYjhMQEk2cMk2VNc
+    org.client.RichPresence$Locations ELF_CAMP -> iXmPvhKyfNqMJVMQF7p2
+    org.client.RichPresence$Locations ZUL9ANDRA -> cejmDgj7ZUC34hjt8sv0
+    org.client.RichPresence$Locations PRIFDDINAS -> c3iMtA2HMvVh8yOvrpOo
+    org.client.RichPresence$Locations ARANDAR -> SjZu9XvzgtkxLnklvvGA
+    org.client.RichPresence$Locations BAXTORIAN_FALLS -> xr6qynXgSObOh91FRYeS
+    org.client.RichPresence$Locations FISHING_GUILD -> PD5QZilOgQ6N0t4I6tob
+    org.client.RichPresence$Locations LEGENDS_GUILD -> rhquBIRqA9AqLbpSYmcZ
+    org.client.RichPresence$Locations SORCERERS_TOWER -> i7nhOQVIkAqNQMBV6yNt
+    org.client.RichPresence$Locations WITCHAVEN -> JvaBhjPEs6EE2wEJUSvJ
+    org.client.RichPresence$Locations FISHING_PLATFORM -> qmSRyuCFx3zaJBVcitwN
+    org.client.RichPresence$Locations CRANDOR -> deHMOLn15PfEwXRYVnD
+    org.client.RichPresence$Locations BRIMHAVEN -> TK0EfiRTuu7k6ywuJUUL
+    org.client.RichPresence$Locations MUSA_POINT -> vUdUHXtaZA540fR3aKBS
+    org.client.RichPresence$Locations SHILO_VILLAGE -> HrEJtsMCcIbq8FmUSqqq
+    org.client.RichPresence$Locations CAIRN_ISLE -> tbAMPY8YujKzjAGQ09Zq
+    org.client.RichPresence$Locations SHIP_YARD -> GE3WC7U6EZGEXbsnoTdj
+    org.client.RichPresence$Locations TAI_BWO_WANNAI_VILLAGE -> OTdodytMGla5hC3BoJMH
+    org.client.RichPresence$Locations KHAZARI_JUNGLE -> istmpnRg23lF1pIY6tuv
+    org.client.RichPresence$Locations KARAMJA -> Vmob1PdkoeSY9m3KNdD
+    org.client.RichPresence$Locations COAL_TRUCKS -> alGADYrl23bvvAJ96ZrW
+    org.client.RichPresence$Locations BARBARIAN_OUTPOST -> n1qugYVnDUwGGPe7XPc2
+    org.client.RichPresence$Locations LIGHTHOUSE -> hcQtyNGO0k1F2apIPYgU
+    org.client.RichPresence$Locations RELLEKKA -> lQpN0H1lgy0484JIxwMZ
+    org.client.RichPresence$Locations MOUNTAIN_CAMP -> rZlLuw98xT1yJTDFVTr
+    org.client.RichPresence$Locations FREMMENIK_PROVINCE -> zSELYPlgcXUWeictgXGc
+    org.client.RichPresence$Locations PISCATORIS_FISHING_COLONY -> LrIgN6EUbM1Lq4f5EYwO
+    org.client.RichPresence$Locations WATERBIRTH_ISLAND -> MlM30fiuEwMZ1VG0UXNN
+    org.client.RichPresence$Locations NEITIZNOT -> kf9mbqPTLDa6QtTfsocg
+    org.client.RichPresence$Locations JATIZSO -> MZCsIaXMnHgTYLpxxkoG
+    org.client.RichPresence$Locations FREMMENIK_ISLES -> eKWTmcPOeLvji2x9PZXL
+    org.client.RichPresence$Locations PIRATES_COVE -> SWlyP3GnLhYafI4yppm
+    org.client.RichPresence$Locations LUNAR_ISLE -> ysQoRErLdf8MdX7JBUjf
+    org.client.RichPresence$Locations VOID_KNIGHT_OUTPOST -> kZFZGujkznESlzZ2z4TH
+    org.client.RichPresence$Locations PEST_CONTROL -> nxMMqa7nOJIEamhf8UQy
+    org.client.RichPresence$Locations APE_ATOLL -> rqZASRxJtl9rq9hTJmUB
+    org.client.RichPresence$Locations CRASH_ISLAND -> kYsEC9aKwczJwOzuiXmw
+    org.client.RichPresence$Locations FOSSIL_ISLAND -> KdZdCYtEYfrg2R0gHPxN
+    org.client.RichPresence$Locations WINTERTODT -> hZykQFMkva5n155M5JsB
+    org.client.RichPresence$Locations MOUNT_QUIDAMORTEM -> ZOTxEmhe5efa9CC6g7
+    org.client.RichPresence$Locations VORKATH -> kFh9cdximQrJCB9Srnt7
+    org.client.RichPresence$Locations ZEAH -> UcqlnyN0jB9eprHDTG82
+    org.client.RichPresence$Locations DRAGONTOOTH_ISLAND -> JeHW1JytXWcS56s0Rtc
+    org.client.RichPresence$Locations TROLLWEISS_MOUNTAIN -> n98EmIfSCki2kN8YnIDu
+    org.client.RichPresence$Locations DEATH_PLATEAU -> hX7UlyUtuE6grQNw5RU
+    org.client.RichPresence$Locations TROLL_STRONGHOLD -> XdbG1VNDf4ncc6hSRnkB
+    org.client.RichPresence$Locations TROLLHEIM -> HPxQLhdBfVaeGExrFqWD
+    org.client.RichPresence$Locations ADVENTURING -> LV3L9iIxfVseRG7uujCk
+    org.client.Boundary boundary -> zegfRrzyok7oOnZNa2bQ
+    org.client.RichPresence$Locations[] $VALUES -> zegfRrzyok7oOnZNa2bQ
+    org.client.RichPresence$Locations[] values() -> values
+    org.client.RichPresence$Locations valueOf(java.lang.String) -> valueOf
+    void <init>(java.lang.String,int,org.client.Boundary) -> <init>
+    org.client.RichPresence$Locations forArea(int,int,int) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.Screenshot -> org.client.h5I3khR3Oy2bv3f8XR6H:
     long LAST_CAPTURE -> zegfRrzyok7oOnZNa2bQ
     java.lang.String SAVE_DIRECTORY -> zegfRrzyok7oOnZNa2bQ
     void capture(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void open() -> zegfRrzyok7oOnZNa2bQ
     void editSaveDirectory() -> o8LpqlzVuH0BWnvl7Bwf
     void <clinit>() -> <clinit>
-org.client.Signlink -> org.client.mFg84bDlPnM4KplPBH4q:
+org.client.Signlink -> org.client.ZEHkG7WLuj4akjXbYW7v:
     java.io.RandomAccessFile[] cache_idx -> zegfRrzyok7oOnZNa2bQ
     int uid -> zegfRrzyok7oOnZNa2bQ
     java.io.RandomAccessFile cache_dat -> zegfRrzyok7oOnZNa2bQ
@@ -2138,7 +2981,7 @@ org.client.Signlink -> org.client.mFg84bDlPnM4KplPBH4q:
     void reportError(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     void run() -> run
     void <clinit>() -> <clinit>
-org.client.SkillConstants -> org.client.UJYNGcpjzWAstxyl6rom:
+org.client.SkillConstants -> org.client.asDBim2To0Ub1rKWqeo:
     boolean[] SKILLS_ENABLED -> zegfRrzyok7oOnZNa2bQ
     java.lang.String goalType -> zegfRrzyok7oOnZNa2bQ
     int selectedSkillId -> zegfRrzyok7oOnZNa2bQ
@@ -2152,14 +2995,14 @@ org.client.SkillConstants -> org.client.UJYNGcpjzWAstxyl6rom:
     int skillHoverIds(int) -> j0lwcLi9yupMwSGMc6Yi
     int skillButtonIds(int) -> ah7AfEach1iGPyGBvMVe
     void <clinit>() -> <clinit>
-org.client.Sounds -> org.client.t7sVfQSdeRQoIJdWrJv8:
+org.client.Sounds -> org.client.a4eDsD90DhBTrHePxDh:
     int[] anIntArray326 -> zegfRrzyok7oOnZNa2bQ
     org.client.Sounds[] aSoundsArray325s -> zegfRrzyok7oOnZNa2bQ
     org.client.Class6[] aClass6Array329 -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
     org.client.stream.Stream method241(int,int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.TextDrawingArea -> org.client.h5I3khR3Oy2bv3f8XR6H:
+org.client.TextDrawingArea -> org.client.JK0OQngz58qEoVQTmHUC:
     byte[][] aByteArrayArray1491 -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray1492 -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray1493 -> o8LpqlzVuH0BWnvl7Bwf
@@ -2181,7 +3024,7 @@ org.client.TextDrawingArea -> org.client.h5I3khR3Oy2bv3f8XR6H:
     void method388(int,java.lang.String,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
     void drawRegularText(boolean,int,int,java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
     void method392(byte[],int,int,int,int,int) -> zegfRrzyok7oOnZNa2bQ
-org.client.TextInput -> org.client.ZEHkG7WLuj4akjXbYW7v:
+org.client.TextInput -> org.client.wQXs4iabOn3jtj98NBzY:
     org.client.stream.Stream stream -> zegfRrzyok7oOnZNa2bQ
     char[] receivedText -> zegfRrzyok7oOnZNa2bQ
     char[] validCharacters -> o8LpqlzVuH0BWnvl7Bwf
@@ -2189,21 +3032,21 @@ org.client.TextInput -> org.client.ZEHkG7WLuj4akjXbYW7v:
     void writeChatboxText(java.lang.String,org.client.stream.Stream) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String processText(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.VarBit -> org.client.asDBim2To0Ub1rKWqeo:
+org.client.VarBit -> org.client.yUadI9nHpFOH9IFeYan3:
     org.client.VarBit[] cache -> zegfRrzyok7oOnZNa2bQ
     int configId -> zegfRrzyok7oOnZNa2bQ
     int leastSignificantBit -> o8LpqlzVuH0BWnvl7Bwf
     int mostSignificantBit -> j0lwcLi9yupMwSGMc6Yi
     void <init>() -> <init>
     void unpackConfig(org.client.cache.Archive) -> zegfRrzyok7oOnZNa2bQ
-org.client.Varp -> org.client.a4eDsD90DhBTrHePxDh:
+org.client.Varp -> org.client.JFZ9lKU6CGNzGzBC6U85:
     org.client.Varp[] cache -> zegfRrzyok7oOnZNa2bQ
     int anInt702 -> o8LpqlzVuH0BWnvl7Bwf
     int[] anIntArray703 -> zegfRrzyok7oOnZNa2bQ
     int anInt709 -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
     void unpackConfig(org.client.cache.Archive) -> zegfRrzyok7oOnZNa2bQ
-org.client.WorldController -> org.client.JK0OQngz58qEoVQTmHUC:
+org.client.WorldController -> org.client.gh6hHfQj1A8sepY0XYj2:
     int[] anIntArray463 -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray464 -> o8LpqlzVuH0BWnvl7Bwf
     int[] anIntArray465 -> j0lwcLi9yupMwSGMc6Yi
@@ -2325,10 +3168,16 @@ org.client.accounts.AccountData -> org.client.BzQ40kAEwAt7WfH0gLjp.i280lUpkLge7f
     java.lang.String username -> zegfRrzyok7oOnZNa2bQ
     java.lang.String password -> o8LpqlzVuH0BWnvl7Bwf
     int privateMessageColour -> zegfRrzyok7oOnZNa2bQ
-    int[] PM_COLORS -> zegfRrzyok7oOnZNa2bQ
+    int clanTagColorId -> o8LpqlzVuH0BWnvl7Bwf
+    int clanMessageColorId -> j0lwcLi9yupMwSGMc6Yi
+    int[] COLORS -> zegfRrzyok7oOnZNa2bQ
     void <init>(java.lang.String,java.lang.String) -> <init>
-    void viewColour(int) -> zegfRrzyok7oOnZNa2bQ
+    void viewPrivateMessageColor(int) -> zegfRrzyok7oOnZNa2bQ
+    void viewTagColor(int) -> o8LpqlzVuH0BWnvl7Bwf
+    void viewClanMessageColor(int) -> j0lwcLi9yupMwSGMc6Yi
     int setPrivateMessageColour(int) -> zegfRrzyok7oOnZNa2bQ
+    void setTagColor(int) -> ah7AfEach1iGPyGBvMVe
+    void setClanMessageColor(int) -> WmaQ5jstFwxwTqaXrTp
     int getPmColor() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
 org.client.accounts.AccountManager -> org.client.BzQ40kAEwAt7WfH0gLjp.jmy4oZkNdrwtsSWkr2Jf:
@@ -2729,17 +3578,7 @@ org.client.content.CombatType -> org.client.tL3AmLOiN2VWx4yJhl2z.jmy4oZkNdrwtsSW
     void <init>(java.lang.String,int,int) -> <init>
     int getSpriteId() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.content.GameStatusBar -> org.client.tL3AmLOiN2VWx4yJhl2z.emYY4qadEhxoNljI05xV:
-    int displayType$66069da9 -> zegfRrzyok7oOnZNa2bQ
-    void <init>(org.client.Client) -> <init>
-    boolean isHoveringEntity() -> zegfRrzyok7oOnZNa2bQ
-org.client.content.GameStatusBar$DisplayType -> org.client.tL3AmLOiN2VWx4yJhl2z.rCoR0eubkX2T0fevF3r3:
-    int INVISIBLE$66069da9 -> zegfRrzyok7oOnZNa2bQ
-    int SHOW$66069da9 -> o8LpqlzVuH0BWnvl7Bwf
-    int HIDE$66069da9 -> j0lwcLi9yupMwSGMc6Yi
-    int[] $VALUES$5c64fb72 -> zegfRrzyok7oOnZNa2bQ
-    void <clinit>() -> <clinit>
-org.client.content.RunePouch -> org.client.tL3AmLOiN2VWx4yJhl2z.gkZ3vwOjtbv84uCmMQCu:
+org.client.content.RunePouch -> org.client.tL3AmLOiN2VWx4yJhl2z.emYY4qadEhxoNljI05xV:
     org.client.items.ItemReal slot1 -> zegfRrzyok7oOnZNa2bQ
     org.client.items.ItemReal slot2 -> o8LpqlzVuH0BWnvl7Bwf
     org.client.items.ItemReal slot3 -> j0lwcLi9yupMwSGMc6Yi
@@ -3182,15 +4021,14 @@ org.client.image.CacheSpriteLoader -> org.client.FzERYckv0qukAGrZxNT.i280lUpkLge
     org.client.image.Sprite getCacheSprite(int) -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite getCacheSprite(int,boolean) -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite getCacheSprite2(int) -> o8LpqlzVuH0BWnvl7Bwf
+    org.client.image.Sprite getCacheNewSprite2(int) -> j0lwcLi9yupMwSGMc6Yi
     org.client.image.Sprite getCacheSprite2(int,boolean) -> o8LpqlzVuH0BWnvl7Bwf
     void loadCachedSpriteDefinitions(org.client.cache.Archive) -> zegfRrzyok7oOnZNa2bQ
     void loadCachedSpriteDefinitions2() -> zegfRrzyok7oOnZNa2bQ
     org.client.image.Sprite decodeSprite(int,boolean) -> j0lwcLi9yupMwSGMc6Yi
     org.client.image.Sprite decodeSprite2(int,boolean) -> ah7AfEach1iGPyGBvMVe
     void <clinit>() -> <clinit>
-org.client.image.FullscreenFading -> org.client.FzERYckv0qukAGrZxNT.jmy4oZkNdrwtsSWkr2Jf:
-    void <init>(org.client.Client) -> <init>
-org.client.image.GameScreenFading -> org.client.FzERYckv0qukAGrZxNT.emYY4qadEhxoNljI05xV:
+org.client.image.GameScreenFading -> org.client.FzERYckv0qukAGrZxNT.jmy4oZkNdrwtsSWkr2Jf:
     org.client.Client client -> zegfRrzyok7oOnZNa2bQ
     byte state -> zegfRrzyok7oOnZNa2bQ
     byte seconds -> o8LpqlzVuH0BWnvl7Bwf
@@ -3198,7 +4036,7 @@ org.client.image.GameScreenFading -> org.client.FzERYckv0qukAGrZxNT.emYY4qadEhxo
     org.client.util.StopWatch watch -> zegfRrzyok7oOnZNa2bQ
     void <init>(org.client.Client,java.lang.String,byte,byte) -> <init>
     void draw() -> zegfRrzyok7oOnZNa2bQ
-org.client.image.Sprite -> org.client.FzERYckv0qukAGrZxNT.rCoR0eubkX2T0fevF3r3:
+org.client.image.Sprite -> org.client.FzERYckv0qukAGrZxNT.emYY4qadEhxoNljI05xV:
     java.lang.String location -> zegfRrzyok7oOnZNa2bQ
     int[] myPixels -> zegfRrzyok7oOnZNa2bQ
     int myWidth -> zegfRrzyok7oOnZNa2bQ
@@ -3242,7 +4080,7 @@ org.client.image.Sprite -> org.client.FzERYckv0qukAGrZxNT.rCoR0eubkX2T0fevF3r3:
     void drawCenteredARGBSprite(int,int,int) -> WmaQ5jstFwxwTqaXrTp
     void drawARGBSprite(int,int) -> GNcrRWqAjsKahmOnium
     void drawARGBSprite(int,int,int) -> GNcrRWqAjsKahmOnium
-org.client.image.Sprite$1 -> org.client.FzERYckv0qukAGrZxNT.gkZ3vwOjtbv84uCmMQCu:
+org.client.image.Sprite$1 -> org.client.FzERYckv0qukAGrZxNT.rCoR0eubkX2T0fevF3r3:
     int markerRGB -> zegfRrzyok7oOnZNa2bQ
     java.awt.Color val$color -> zegfRrzyok7oOnZNa2bQ
     void <init>(java.awt.Color) -> <init>
@@ -3359,6 +4197,7 @@ org.client.interfaces.Interface -> org.client.RVywWX1KDevJLt7SiV10.i280lUpkLge7f
     int[] showChangeExclamationTimer -> FJV2x2qTbgyiGwPlTCuj
     boolean[] showChangeExclamation -> zegfRrzyok7oOnZNa2bQ
     java.lang.String displayText -> o8LpqlzVuH0BWnvl7Bwf
+    long lastKeyPressed -> zegfRrzyok7oOnZNa2bQ
     boolean displayAsterisks -> vvUeHCHbtoMM4m74SemE
     int characterLimit -> lwq0ueSd6imK3GYd2bvx
     boolean isInFocus -> KxS76HXEWZAsJhC0Xmku
@@ -3603,6 +4442,8 @@ org.client.interfaces.Interface -> org.client.RVywWX1KDevJLt7SiV10.i280lUpkLge7f
     int[] getSecondaryInventory() -> yABUjhrlMPHTRQqt3Ycv
     void setSecondaryInventory(int[]) -> yABUjhrlMPHTRQqt3Ycv
     void setDisplayText(java.lang.String) -> sUQHpmCLI7NuMrWghLKa
+    long getLastKeyPressed() -> zegfRrzyok7oOnZNa2bQ
+    void setLastKeyPressed(long) -> zegfRrzyok7oOnZNa2bQ
     boolean isDisplayAsterisks() -> vvUeHCHbtoMM4m74SemE
     void setDisplayAsterisks(boolean) -> xK8ZDrf4aYsrbSudjdm8
     int getCharacterLimit() -> SAHb4OsvEFyDVabJmQ4N
@@ -3641,7 +4482,8 @@ org.client.interfaces.InterfaceDef -> org.client.RVywWX1KDevJLt7SiV10.jmy4oZkNdr
     void addRectangle(int,int,int,boolean,int,int) -> zegfRrzyok7oOnZNa2bQ
     void addSpriteLoaderSprite(int,int,int,int) -> ah7AfEach1iGPyGBvMVe
     void addSpriteLoaderSprite(int,int,boolean) -> zegfRrzyok7oOnZNa2bQ
-    void addSpriteLoaderHoverButton(int,int,java.lang.String,int,int[]) -> zegfRrzyok7oOnZNa2bQ
+    void addSpriteLoaderNewSprite(int,int,boolean) -> o8LpqlzVuH0BWnvl7Bwf
+    void addSpriteLoaderHoverButton2(int,int,java.lang.String,int,int[]) -> zegfRrzyok7oOnZNa2bQ
     void addNpc(int,int,int) -> GNcrRWqAjsKahmOnium
     void itemGroup$57654112(int,int,int,int,int,boolean) -> zegfRrzyok7oOnZNa2bQ
     void addButton(int,int,java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
@@ -3659,6 +4501,7 @@ org.client.interfaces.InterfaceDef -> org.client.RVywWX1KDevJLt7SiV10.jmy4oZkNdr
     org.client.image.Sprite getSprite(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     int[] getPresetColorCoords(int,int) -> zegfRrzyok7oOnZNa2bQ
     void addColorBox(int,int,int,int) -> WmaQ5jstFwxwTqaXrTp
+    void addClickableText(int,java.lang.String,org.client.TextDrawingArea[],int,int,boolean,boolean,int) -> zegfRrzyok7oOnZNa2bQ
     void addClickableText(int,java.lang.String,org.client.TextDrawingArea[],int,int,boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
     void addClickableText(int,java.lang.String,java.lang.String,org.client.TextDrawingArea[],int,int,boolean,boolean,int) -> zegfRrzyok7oOnZNa2bQ
     void addHoverButton(int,java.lang.String,int,int,int,java.lang.String,int,int,int) -> zegfRrzyok7oOnZNa2bQ
@@ -3721,7 +4564,8 @@ org.client.interfaces.InterfaceDef -> org.client.RVywWX1KDevJLt7SiV10.jmy4oZkNdr
     void addItemContainer(int,int[],int[],java.lang.String[],boolean) -> zegfRrzyok7oOnZNa2bQ
     void addGeOfferSprite(int,int,int,java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void addSpriteLoaderHoverButtonWithTooltip(int,int,java.lang.String,int,int) -> o8LpqlzVuH0BWnvl7Bwf
-    void addSpriteLoaderHoverButton(int,int,java.lang.String,int) -> ah7AfEach1iGPyGBvMVe
+    void addSpriteLoaderHoverButton2(int,int,java.lang.String,int) -> ah7AfEach1iGPyGBvMVe
+    void addSpriteLoaderHoverButton(int,int,java.lang.String,int) -> WmaQ5jstFwxwTqaXrTp
     void setBoundry(int,int,int,int,org.client.interfaces.Interface) -> o8LpqlzVuH0BWnvl7Bwf
     void drawRune(int,int) -> yABUjhrlMPHTRQqt3Ycv
     void addLunar3RunesSmallBox(int,int,int,int,int,int,int,int,int,int,java.lang.String,java.lang.String,org.client.TextDrawingArea[],int,int,int) -> zegfRrzyok7oOnZNa2bQ
@@ -4277,32 +5121,31 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport -> org.
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] FLETCHING_OPTIONS -> j0lwcLi9yupMwSGMc6Yi
     java.awt.Dimension WOODCUTTING_DIMENSION -> ah7AfEach1iGPyGBvMVe
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] WOODCUTTING_OPTIONS -> ah7AfEach1iGPyGBvMVe
-    java.awt.Dimension DUNGEONEERING_DIMENSION -> WmaQ5jstFwxwTqaXrTp
-    java.awt.Dimension CONSTRUCTION_DIMENSION -> GNcrRWqAjsKahmOnium
+    java.awt.Dimension CONSTRUCTION_DIMENSION -> WmaQ5jstFwxwTqaXrTp
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] CONSTRUCTION_OPTIONS -> WmaQ5jstFwxwTqaXrTp
-    java.awt.Dimension AGILITY_DIMENSION -> sUQHpmCLI7NuMrWghLKa
+    java.awt.Dimension AGILITY_DIMENSION -> GNcrRWqAjsKahmOnium
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] AGILITY_OPTIONS -> GNcrRWqAjsKahmOnium
-    java.awt.Dimension COOKING_DIMENSION -> GL35SPonMOsEbgBVabqV
+    java.awt.Dimension COOKING_DIMENSION -> sUQHpmCLI7NuMrWghLKa
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] COOKING_OPTIONS -> sUQHpmCLI7NuMrWghLKa
-    java.awt.Dimension CRAFTING_DIMENSION -> l85AzJRz6lyE4Vl88K5k
+    java.awt.Dimension CRAFTING_DIMENSION -> GL35SPonMOsEbgBVabqV
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] CRAFTING_OPTIONS -> GL35SPonMOsEbgBVabqV
-    java.awt.Dimension FIREMAKING_DIMENSION -> qxgenLXCcEdxF3gyMXs9
+    java.awt.Dimension FIREMAKING_DIMENSION -> l85AzJRz6lyE4Vl88K5k
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] FIREMAKING_OPTIONS -> l85AzJRz6lyE4Vl88K5k
-    java.awt.Dimension HERBLORE_DIMENSION -> TbzjV2hStiawKSKsFlLA
+    java.awt.Dimension HERBLORE_DIMENSION -> qxgenLXCcEdxF3gyMXs9
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] HERBLORE_OPTIONS -> qxgenLXCcEdxF3gyMXs9
-    java.awt.Dimension HUNTER_DIMENSION -> bCOkWBx1VUBUB0RCww1d
+    java.awt.Dimension HUNTER_DIMENSION -> TbzjV2hStiawKSKsFlLA
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] HUNTER_OPTIONS -> TbzjV2hStiawKSKsFlLA
-    java.awt.Dimension RUNECRAFT_DIMENSION -> lVNAbAYpHAUBn4BGO2vD
+    java.awt.Dimension RUNECRAFT_DIMENSION -> bCOkWBx1VUBUB0RCww1d
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] RUNECRAFT_OPTIONS -> bCOkWBx1VUBUB0RCww1d
-    java.awt.Dimension SLAYER_DIMENSION -> atlY3JO2fO19pYIoHzm
+    java.awt.Dimension SLAYER_DIMENSION -> lVNAbAYpHAUBn4BGO2vD
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] SLAYER_OPTIONS -> lVNAbAYpHAUBn4BGO2vD
-    java.awt.Dimension SMITHING_DIMENSION -> yABUjhrlMPHTRQqt3Ycv
+    java.awt.Dimension SMITHING_DIMENSION -> atlY3JO2fO19pYIoHzm
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] SMITHING_OPTIONS -> atlY3JO2fO19pYIoHzm
-    java.awt.Dimension SUMMONING_DIMENSION -> zh8oI0RNnWnZVLiHv2Tv
+    java.awt.Dimension SUMMONING_DIMENSION -> yABUjhrlMPHTRQqt3Ycv
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] SUMMONING_OPTIONS -> yABUjhrlMPHTRQqt3Ycv
-    java.awt.Dimension THIEVING_DIMENSION -> FJV2x2qTbgyiGwPlTCuj
+    java.awt.Dimension THIEVING_DIMENSION -> zh8oI0RNnWnZVLiHv2Tv
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] THIEVING_OPTIONS -> zh8oI0RNnWnZVLiHv2Tv
-    java.awt.Dimension FARMING_DIMENSION -> OVjcPaLDHGLsVlkL0f5e
+    java.awt.Dimension FARMING_DIMENSION -> FJV2x2qTbgyiGwPlTCuj
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] FARMING_OPTIONS -> FJV2x2qTbgyiGwPlTCuj
     void <init>() -> <init>
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
@@ -4345,7 +5188,6 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport -> org.
     java.awt.Dimension access$3900() -> zh8oI0RNnWnZVLiHv2Tv
     java.awt.Dimension access$4000() -> FJV2x2qTbgyiGwPlTCuj
     java.awt.Dimension access$4100() -> OVjcPaLDHGLsVlkL0f5e
-    java.awt.Dimension access$4200() -> xK8ZDrf4aYsrbSudjdm8
     void <clinit>() -> <clinit>
 org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$10 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.R0uLXZJwOQVONxCviIEZ:
     void <init>() -> <init>
@@ -4747,7 +5589,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$55 -> o
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
     int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$56 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.a4eDsD90DhBTrHePxDh:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$6 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.a4eDsD90DhBTrHePxDh:
     void <init>() -> <init>
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
@@ -4755,7 +5597,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$56 -> o
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
     int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$6 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.JK0OQngz58qEoVQTmHUC:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$7 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.JK0OQngz58qEoVQTmHUC:
     void <init>() -> <init>
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
@@ -4763,7 +5605,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$6 -> or
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
     int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$7 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.wQXs4iabOn3jtj98NBzY:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$8 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.wQXs4iabOn3jtj98NBzY:
     void <init>() -> <init>
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
@@ -4771,7 +5613,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$7 -> or
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
     int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$8 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.yUadI9nHpFOH9IFeYan3:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$9 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.yUadI9nHpFOH9IFeYan3:
     void <init>() -> <init>
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
@@ -4779,15 +5621,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$8 -> or
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
     int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$9 -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.JFZ9lKU6CGNzGzBC6U85:
-    void <init>() -> <init>
-    java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
-    int getShortcutKey() -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
-    int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
-    org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.gh6hHfQj1A8sepY0XYj2:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.JFZ9lKU6CGNzGzBC6U85:
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option AGILITY -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option COOKING -> o8LpqlzVuH0BWnvl7Bwf
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option CRAFTING -> j0lwcLi9yupMwSGMc6Yi
@@ -4821,7 +5655,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option 
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
     int access$2500(org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SkillingTeleport$Option) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.geeUxHWOQJdBYdjFK8c:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.gh6hHfQj1A8sepY0XYj2:
     void <init>() -> <init>
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
@@ -4829,7 +5663,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport -> org.
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
     void <init>(byte) -> <init>
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport$Option -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.AorzLtN1OhxZ2DwxAd3:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport$Option -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.geeUxHWOQJdBYdjFK8c:
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport$Option ROCK_CRAB -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport$Option YAKS -> o8LpqlzVuH0BWnvl7Bwf
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport$Option DESERT_BANDITS -> j0lwcLi9yupMwSGMc6Yi
@@ -4851,13 +5685,13 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$TrainingTeleport$Option 
     int[] getIndex() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.zko32P9ybx9LSkWBzjbi:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.AorzLtN1OhxZ2DwxAd3:
     java.awt.Dimension getDimension() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
     int getShortcutKey() -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.HierarchyOption[] getOptions() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getDescription() -> o8LpqlzVuH0BWnvl7Bwf
-org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses$Option -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.Kyr68xmRDnd8Y09DpliF:
+org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses$Option -> org.client.RVywWX1KDevJLt7SiV10.EvlUTT1Uzja6e2xMrh0.BzQ40kAEwAt7WfH0gLjp.zko32P9ybx9LSkWBzjbi:
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses$Option KING_BLACK_DRAGON -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses$Option CHAOS_ELEMENTAL -> o8LpqlzVuH0BWnvl7Bwf
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$WildernessBosses$Option WILDY_WYRM -> j0lwcLi9yupMwSGMc6Yi
@@ -4942,11 +5776,11 @@ org.client.interfaces.construction.ChapelWindowBuilder -> org.client.RVywWX1KDev
     void create$71055db6() -> zegfRrzyok7oOnZNa2bQ
     void create() -> o8LpqlzVuH0BWnvl7Bwf
     void create(org.client.TextDrawingArea[]) -> zegfRrzyok7oOnZNa2bQ
-    void fixDrops() -> j0lwcLi9yupMwSGMc6Yi
 org.client.interfaces.construction.ChartBuilder -> org.client.RVywWX1KDevJLt7SiV10.f3JP55n7FfvXm80QGSy8.iEVN4W32pcuZmbe5h2YZ:
     void create$71055db6() -> zegfRrzyok7oOnZNa2bQ
     void create() -> o8LpqlzVuH0BWnvl7Bwf
     void create(org.client.TextDrawingArea[]) -> zegfRrzyok7oOnZNa2bQ
+    void fixDrops() -> j0lwcLi9yupMwSGMc6Yi
 org.client.interfaces.construction.ClockBuilder -> org.client.RVywWX1KDevJLt7SiV10.f3JP55n7FfvXm80QGSy8.w7XGBNIzBWYdu39yVIu0:
     void create$71055db6() -> zegfRrzyok7oOnZNa2bQ
     void create() -> o8LpqlzVuH0BWnvl7Bwf
@@ -5018,6 +5852,7 @@ org.client.interfaces.construction.FormalBigPlantTypeBuilder -> org.client.RVywW
     void create(org.client.TextDrawingArea[]) -> zegfRrzyok7oOnZNa2bQ
 org.client.interfaces.construction.FormalSmallPlantType2Builder -> org.client.RVywWX1KDevJLt7SiV10.f3JP55n7FfvXm80QGSy8.fgTgTxMDrMzhpxxpEQEC:
     void create$71055db6() -> zegfRrzyok7oOnZNa2bQ
+    void create(org.client.TextDrawingArea[]) -> zegfRrzyok7oOnZNa2bQ
 org.client.interfaces.construction.FormalSmallPlantTypeBuilder -> org.client.RVywWX1KDevJLt7SiV10.f3JP55n7FfvXm80QGSy8.fuznuwiQNhk2bdOw42S3:
     void create$71055db6() -> zegfRrzyok7oOnZNa2bQ
 org.client.interfaces.construction.GameBuilder -> org.client.RVywWX1KDevJLt7SiV10.f3JP55n7FfvXm80QGSy8.ASZAdjWmhCXMyosXgjP:
@@ -5140,19 +5975,24 @@ org.client.interfaces.container.TextSearch -> org.client.RVywWX1KDevJLt7SiV10.is
     java.lang.String[] CLAN_RESULT_NAMES -> o8LpqlzVuH0BWnvl7Bwf
     int[] CLAN_RESULT_IDS -> WmaQ5jstFwxwTqaXrTp
     int CURRENT_CLAN_RESULT -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String[] CLAN_MEMBERS_RESULT_NAMES -> j0lwcLi9yupMwSGMc6Yi
+    int[] CLAN_MEMBERS_RESULT_IDS -> GNcrRWqAjsKahmOnium
+    int CURRENT_CLAN_MEMBERS_RESULT -> j0lwcLi9yupMwSGMc6Yi
     int[] BANK_SEARCH_ID -> zegfRrzyok7oOnZNa2bQ
-    int[] BANK_SEARCH_AMOUNT -> GNcrRWqAjsKahmOnium
+    int[] BANK_SEARCH_AMOUNT -> sUQHpmCLI7NuMrWghLKa
     int[] BANK_SEARCH_SLOT -> o8LpqlzVuH0BWnvl7Bwf
     int[] BANK_SEARCH_INTERFACE_ID -> j0lwcLi9yupMwSGMc6Yi
-    int CURRENT_BANK_SEARCH_RESULT -> j0lwcLi9yupMwSGMc6Yi
+    int CURRENT_BANK_SEARCH_RESULT -> ah7AfEach1iGPyGBvMVe
     java.util.ArrayList ITEM_PRICES -> zegfRrzyok7oOnZNa2bQ
     void searchPlayer(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void searchClans(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
-    void searchPrices(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
+    void searchClanMembers(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
+    void searchPrices(java.lang.String) -> ah7AfEach1iGPyGBvMVe
     void clearPriceInterface() -> zegfRrzyok7oOnZNa2bQ
     int getRealPlayerButton(int) -> zegfRrzyok7oOnZNa2bQ
     int getRealClanButton(int) -> o8LpqlzVuH0BWnvl7Bwf
-    void searchBankItem(java.lang.String) -> ah7AfEach1iGPyGBvMVe
+    int getRealClanMemberButton(int) -> j0lwcLi9yupMwSGMc6Yi
+    void searchBankItem(java.lang.String) -> WmaQ5jstFwxwTqaXrTp
     void <clinit>() -> <clinit>
 org.client.interfaces.dropdown.Dropdown -> org.client.RVywWX1KDevJLt7SiV10.HVcQWlICnIXDIH4FaeEg.i280lUpkLge7fC1AJULi:
     org.client.interfaces.dropdown.Dropdown F_KEY_SELECTION -> j0lwcLi9yupMwSGMc6Yi
@@ -6855,12 +7695,6 @@ org.client.security.JSerial -> org.client.CUQPFD0H87s191K23w.i280lUpkLge7fC1AJUL
     void start() -> zegfRrzyok7oOnZNa2bQ
     int getTotalSafeDirectories() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.security.MacAddress -> org.client.CUQPFD0H87s191K23w.jmy4oZkNdrwtsSWkr2Jf:
-    java.lang.String macAddress -> zegfRrzyok7oOnZNa2bQ
-    void <init>() -> <init>
-    org.client.security.MacAddress create() -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String retain() -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String toString() -> toString
 org.client.settings.Config -> org.client.kw9P9Zcdd6kvIyl3TYw6.i280lUpkLge7fC1AJULi:
     java.io.File CONFIG_FILE -> zegfRrzyok7oOnZNa2bQ
     void saveConfig() -> zegfRrzyok7oOnZNa2bQ
@@ -6929,13 +7763,12 @@ org.client.settings.Configuration -> org.client.kw9P9Zcdd6kvIyl3TYw6.jmy4oZkNdrw
     int[] HITSPLAT_REVISION -> zegfRrzyok7oOnZNa2bQ
     int hitsplatRevisionIndex -> WmaQ5jstFwxwTqaXrTp
     int getHitsplatRevision() -> zegfRrzyok7oOnZNa2bQ
-    int setShowStatusBar$9df6569(int) -> zegfRrzyok7oOnZNa2bQ
-    int setHitsplatIndex(int) -> o8LpqlzVuH0BWnvl7Bwf
+    int setHitsplatIndex(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
 org.client.settings.Configuration$StatusBarType -> org.client.kw9P9Zcdd6kvIyl3TYw6.emYY4qadEhxoNljI05xV:
-    int SELF_STATUS$6f9f793 -> zegfRrzyok7oOnZNa2bQ
-    int INTERACTION_STATUS$6f9f793 -> o8LpqlzVuH0BWnvl7Bwf
-    int NONE$6f9f793 -> j0lwcLi9yupMwSGMc6Yi
+    int SELF_STATUS$6f9f793 -> j0lwcLi9yupMwSGMc6Yi
+    int INTERACTION_STATUS$6f9f793 -> zegfRrzyok7oOnZNa2bQ
+    int NONE$6f9f793 -> o8LpqlzVuH0BWnvl7Bwf
     int[] $VALUES$1fabea8e -> zegfRrzyok7oOnZNa2bQ
     int[] values$248c07cd() -> zegfRrzyok7oOnZNa2bQ
     int forId$19b53e45(int) -> zegfRrzyok7oOnZNa2bQ
@@ -7138,15 +7971,16 @@ org.client.util.StopWatch -> org.client.YeKUsdboMz7uvvrflN2r.gkZ3vwOjtbv84uCmMQC
     boolean elapsed(long) -> zegfRrzyok7oOnZNa2bQ
 org.client.util.TextClass -> org.client.YeKUsdboMz7uvvrflN2r.BniOkbZ3rMyf6e0JYKTq:
     char[] validChars -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String uppercaseFirstLetter(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] split(org.client.RSFont,java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] split(org.client.RSFont,java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] split(org.client.TextDrawingArea,java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String mask(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
+    java.lang.String mask(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     long longForName(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String nameForLong(long) -> zegfRrzyok7oOnZNa2bQ
     long method585(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String method586(int) -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String fixName(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
+    java.lang.String fixName(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
     void <clinit>() -> <clinit>
 org.imgscalr.Scalr -> org.BzQ40kAEwAt7WfH0gLjp.i280lUpkLge7fC1AJULi:
     boolean DEBUG -> zegfRrzyok7oOnZNa2bQ
