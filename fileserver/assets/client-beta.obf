@@ -1,6 +1,10 @@
 -injars ../client_beta.jar
 -outjars ../src/archives/code/code_beta.jar
 
+-keep class darwin.** { *; }
+-keep class club.** { *; }
+-keep class com.** { *; }
+
 -libraryjars 'C:\Program Files\Java\jre1.8.0_91\lib\rt.jar'
 
 -printmapping clientmap.txt
