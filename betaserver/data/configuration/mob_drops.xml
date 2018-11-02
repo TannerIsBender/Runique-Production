@@ -5646,7 +5646,7 @@
       <drop rolls="30" itemAmount="1" itemId="12160" /> #Crimson Charm
       <drop rolls="50" itemAmount="1" itemId="12163" /> #Blue Charm
    </mob>
-   <mob mobId="1931"> #Desert Bandits
+   <mob mobId="1931"> #Desert Bandits <!-- L57 In Training Teleport -->
       <drop rolls="0" itemAmount="1" itemId="526" /> #Bones
       <drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
       <drop rolls="350" itemAmount="1" itemId="405" /> #Casket
@@ -5685,6 +5685,87 @@
       <drop rolls="30" itemAmount="1" itemId="12160" /> #Crimson Charm
       <drop rolls="50" itemAmount="1" itemId="12163" /> #Blue Charm
    </mob>
+
+	<mob mobId="1926"> #Desert Bandits <!-- L74 In Training Teleport -->
+		<drop rolls="0" itemAmount="1" itemId="526" /> #Bones
+		<drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
+		<drop rolls="350" itemAmount="1" itemId="405" /> #Casket
+		<drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
+		<drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
+		<drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
+		<drop rolls="186" itemAmount="1" itemId="204" itemAmountAddition="4" /> #grimy tarromin
+		<drop rolls="186" itemAmount="1" itemId="206" itemAmountAddition="4" /> #grimy harralander
+		<drop rolls="188" itemAmount="1" itemId="210" itemAmountAddition="4" /> #grimy irit
+		<drop rolls="178" itemAmount="1" itemId="212" itemAmountAddition="2" /> #grimy avantoe
+		<drop rolls="800" itemAmount="1" itemId="214" itemAmountAddition="2" /> #grimy kwuarm
+		<drop rolls="280" itemAmount="1" itemId="216" itemAmountAddition="2" /> #grimy cadantine
+		<drop rolls="362" itemAmount="1" itemId="1951" /> #RedBerries
+		<drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
+		<drop rolls="362" itemAmount="1" itemId="221" /> #eye of newt
+		<drop rolls="282" itemAmount="1" itemId="218" itemAmountAddition="2" /> #grimy dwarf weed
+		<drop rolls="263" itemAmount="1" itemId="208" itemAmountAddition="2" /> #grimy ranarr
+		<drop rolls="270" itemAmount="1" itemId="2486" itemAmountAddition="1" /> #grimy lantadyme
+		<drop rolls="152" itemAmount="1" itemId="5297" itemAmountAddition="2" /> #irit seed
+		<drop rolls="340" itemAmount="1" itemId="5296" itemAmountAddition="1" /> #toadflax seed
+		<drop rolls="800" itemAmount="1" itemId="5298" itemAmountAddition="2" /> #avantoe seed
+		<drop rolls="286" itemAmount="1" itemId="5299" itemAmountAddition="2" /> #kwuarm seed
+		<drop rolls="172" itemAmount="1" itemId="5301" itemAmountAddition="2" /> #cadantine seed
+		<drop rolls="460" itemAmount="1" itemId="5302" itemAmountAddition="1" /> #lantadyme seed
+		<drop rolls="850" itemAmount="1" itemId="5800" /> #snapdragon seed
+		<drop rolls="290" itemAmount="1" itemId="5303" itemAmountAddition="2" /> #dwarf weed seed
+		<drop rolls="490" itemAmount="1" itemId="5304" /> #torstol seed
+		<drop rolls="50" itemAmount="1" itemId="2677" /> #Clue Scroll(easy)
+		<drop rolls="350" itemAmount="1" itemId="2801" /> #Clue Scroll(medium)
+		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+		<drop rolls="18" itemAmount="2" itemId="12158" /> #Gold Charm
+		<drop rolls="20" itemAmount="2" itemId="12159" /> #Green Charm
+		<drop rolls="23" itemAmount="3" itemId="12158" /> #Gold Charm
+		<drop rolls="27" itemAmount="4" itemId="12158" /> #Gold Charm
+		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+		<drop rolls="30" itemAmount="1" itemId="12160" /> #Crimson Charm
+		<drop rolls="50" itemAmount="1" itemId="12163" /> #Blue Charm
+	</mob>
+
+	<mob mobId="50690"> #Desert Bandits <!-- L74 In EZone -->
+		<drop rolls="0" itemAmount="1" itemId="526" /> #Bones
+		<drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
+		<drop rolls="350" itemAmount="1" itemId="405" /> #Casket
+		<drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
+		<drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
+		<drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
+		<drop rolls="186" itemAmount="1" itemId="204" itemAmountAddition="4" /> #grimy tarromin
+		<drop rolls="186" itemAmount="1" itemId="206" itemAmountAddition="4" /> #grimy harralander
+		<drop rolls="188" itemAmount="1" itemId="210" itemAmountAddition="4" /> #grimy irit
+		<drop rolls="178" itemAmount="1" itemId="212" itemAmountAddition="2" /> #grimy avantoe
+		<drop rolls="800" itemAmount="1" itemId="214" itemAmountAddition="2" /> #grimy kwuarm
+		<drop rolls="280" itemAmount="1" itemId="216" itemAmountAddition="2" /> #grimy cadantine
+		<drop rolls="362" itemAmount="1" itemId="1951" /> #RedBerries
+		<drop rolls="261" itemAmount="1" itemId="261" /> #Avantoe
+		<drop rolls="362" itemAmount="1" itemId="221" /> #eye of newt
+		<drop rolls="282" itemAmount="1" itemId="218" itemAmountAddition="2" /> #grimy dwarf weed
+		<drop rolls="263" itemAmount="1" itemId="208" itemAmountAddition="2" /> #grimy ranarr
+		<drop rolls="270" itemAmount="1" itemId="2486" itemAmountAddition="1" /> #grimy lantadyme
+		<drop rolls="152" itemAmount="1" itemId="5297" itemAmountAddition="2" /> #irit seed
+		<drop rolls="340" itemAmount="1" itemId="5296" itemAmountAddition="1" /> #toadflax seed
+		<drop rolls="800" itemAmount="1" itemId="5298" itemAmountAddition="2" /> #avantoe seed
+		<drop rolls="286" itemAmount="1" itemId="5299" itemAmountAddition="2" /> #kwuarm seed
+		<drop rolls="172" itemAmount="1" itemId="5301" itemAmountAddition="2" /> #cadantine seed
+		<drop rolls="460" itemAmount="1" itemId="5302" itemAmountAddition="1" /> #lantadyme seed
+		<drop rolls="850" itemAmount="1" itemId="5800" /> #snapdragon seed
+		<drop rolls="290" itemAmount="1" itemId="5303" itemAmountAddition="2" /> #dwarf weed seed
+		<drop rolls="490" itemAmount="1" itemId="5304" /> #torstol seed
+		<drop rolls="50" itemAmount="1" itemId="2677" /> #Clue Scroll(easy)
+		<drop rolls="350" itemAmount="1" itemId="2801" /> #Clue Scroll(medium)
+		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+		<drop rolls="18" itemAmount="2" itemId="12158" /> #Gold Charm
+		<drop rolls="20" itemAmount="2" itemId="12159" /> #Green Charm
+		<drop rolls="23" itemAmount="3" itemId="12158" /> #Gold Charm
+		<drop rolls="27" itemAmount="4" itemId="12158" /> #Gold Charm
+		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+		<drop rolls="30" itemAmount="1" itemId="12160" /> #Crimson Charm
+		<drop rolls="50" itemAmount="1" itemId="12163" /> #Blue Charm
+	</mob>
+
    <mob mobId="8133"> #Corporeal Beast
 	  <drop rolls="1000" itemAmount="1" itemId="20085" /> # IT Ticket
 
