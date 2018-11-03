@@ -2279,8 +2279,38 @@
 		<face>NORTH</face>
 		<walkDistance>10</walkDistance>
 		<respawnTimer>60</respawnTimer>
-	</spawn>	
-	
+	</spawn>
+
+	<spawn> # Bandit Ezone
+		<id>50690</id>
+		<x>2903</x>
+		<y>2713</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Bandit Ezone
+		<id>50690</id>
+		<x>2906</x>
+		<y>2710</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Bandit Ezone
+		<id>50690</id>
+		<x>2901</x>
+		<y>2714</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
 	<spawn> # Bandit Ezone
 		<id>50690</id>
 		<x>2903</x>
@@ -2289,8 +2319,38 @@
 		<face>NORTH</face>
 		<walkDistance>10</walkDistance>
 		<respawnTimer>60</respawnTimer>
-	</spawn>	
-	
+	</spawn>
+
+	<spawn> # Bandit Ezone
+		<id>50690</id>
+		<x>2914</x>
+		<y>2700</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Bandit Ezone
+		<id>50690</id>
+		<x>2916</x>
+		<y>2703</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Bandit Ezone
+		<id>50690</id>
+		<x>2919</x>
+		<y>2706</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
 	<spawn> # Bandit Ezone
 		<id>50690</id>
 		<x>2911</x>
