@@ -8447,6 +8447,16 @@
 
 	<spawn> # Black demon
 		<id>84</id>
+		<x>2866</x>
+		<y>9782</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Black demon
+		<id>84</id>
 		<x>2875</x>
 		<y>9776</y>
 		<z>0</z>
@@ -9389,6 +9399,46 @@
 		<respawnTimer>30</respawnTimer>
 	</spawn>
 
+	<spawn> # Red spider
+		<id>63</id>
+		<x>3242</x>
+		<y>10079</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Red spider
+		<id>63</id>
+		<x>3243</x>
+		<y>10085</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Red spider
+		<id>63</id>
+		<x>3240</x>
+		<y>10092</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Red spider
+		<id>63</id>
+		<x>3242</x>
+		<y>10100</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
 	<spawn> #Lava dragon
 		<id>56593</id>
 		<x>3217</x>
@@ -9403,6 +9453,26 @@
 		<id>56593</id>
 		<x>3292</x>
 		<y>10139</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Lava dragon
+		<id>56593</id>
+		<x>3231</x>
+		<y>10135</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Lava dragon
+		<id>56593</id>
+		<x>3216</x>
+		<y>10130</y>
 		<z>0</z>
 		<face>SOUTH</face>
 		<walkDistance>3</walkDistance>
@@ -9646,7 +9716,27 @@
 		<y>10090</y>
 		<z>0</z>
 		<face>WEST</face>
-		<walkDistance>30</walkDistance>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant imp
+		<id>13465</id>
+		<x>3211</x>
+		<y>10092</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> #Revenant imp
+		<id>13465</id>
+		<x>3207</x>
+		<y>10088</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -9656,7 +9746,27 @@
 		<y>10100</y>
 		<z>0</z>
 		<face>WEST</face>
-		<walkDistance>30</walkDistance>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Revenant Goblin
+		<id>13466</id>
+		<x>3213</x>
+		<y>10103</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Revenant Goblin
+		<id>13466</id>
+		<x>3213</x>
+		<y>10098</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -9664,6 +9774,16 @@
 		<id>14301</id>
 		<x>3202</x>
 		<y>10170</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> #Glacor
+		<id>14301</id>
+		<x>3205</x>
+		<y>10165</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
@@ -9702,6 +9822,36 @@
 
 	<spawn> #Rune dragon
 		<id>58031</id>
+		<x>3164</x>
+		<y>10155</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Rune dragon
+		<id>58031</id>
+		<x>3175</x>
+		<y>10158</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Rune dragon
+		<id>58031</id>
+		<x>3187</x>
+		<y>10151</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Rune dragon
+		<id>58031</id>
 		<x>3183</x>
 		<y>10164</y>
 		<z>0</z>
@@ -9722,8 +9872,28 @@
 
 	<spawn> #Hellhound
 		<id>49</id>
+		<x>3197</x>
+		<y>10068</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Hellhound
+		<id>49</id>
 		<x>3202</x>
 		<y>10065</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Hellhound
+		<id>49</id>
+		<x>3204</x>
+		<y>10075</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
@@ -9744,6 +9914,16 @@
 		<id>1615</id>
 		<x>3229</x>
 		<y>10066</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Abyssal Demon
+		<id>1615</id>
+		<x>3228</x>
+		<y>10075</y>
 		<z>0</z>
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
