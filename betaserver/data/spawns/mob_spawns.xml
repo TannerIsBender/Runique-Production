@@ -971,7 +971,7 @@
 
 	<spawn> # Boss points - Sigbert - Edge
 		<id>37</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3495</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -991,7 +991,7 @@
 
 	<spawn> # Guildsmaster lars - Edge
 		<id>57236</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3497</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -1614,7 +1614,7 @@
 
 	<spawn> # Guildmaster
 		<id>11277</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3493</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -1634,7 +1634,7 @@
 
 	<spawn> # Thorvald Edge
 		<id>1289</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3491</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -1714,7 +1714,7 @@
 
 	<spawn> # Wizard (Imbue Rings)
 		<id>460</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3489</y>
 		<z>0</z>
 		<face>NORTH</face>
@@ -1757,7 +1757,7 @@
 	<spawn>`
 		# Doctor Orbon
 		<id>290</id>
-		<x>3082</x>
+		<x>3083</x>
 		<y>3499</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -1828,7 +1828,7 @@
 
 	<spawn> # Larry
 		<id>1780</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3518</y>
 		<z>0</z>
 		<face>EAST</face>
@@ -1959,7 +1959,7 @@
 	<spawn>
 		# Turael
 		<id>8273</id>
-		<x>3083</x>
+		<x>3084</x>
 		<y>3487</y>
 		<z>0</z>
 		<face>EAST</face>
