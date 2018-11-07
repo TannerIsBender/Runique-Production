@@ -9,6 +9,7 @@
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 	 
+	 <!-- Pumpking Pete for Halloween Event
 	<spawn> # Pumpkin Pete
 		<id>12377</id>
 		<x>3167</x>
@@ -27,7 +28,7 @@
 		<face>NORTH</face>
 		<walkDistance>2</walkDistance>
 		<respawnTimer>60</respawnTimer>
-	</spawn>
+	</spawn> -->
 
 	<spawn> # Agility shop
 		<id>1661</id>
