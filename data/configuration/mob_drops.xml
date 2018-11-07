@@ -995,7 +995,6 @@
 		<drop rolls="520" itemAmount="50" itemId="226" /> # Limpwurt root
 		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
-		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
 		<drop rolls="420" itemAmount="300" itemId="445" /> # Gold Ore
 		<drop rolls="450" itemAmount="250" itemId="2" /> # Cannon Ball
@@ -1173,7 +1172,6 @@
    </mob>
    <mob mobId="8528"> # Nomad
       <drop rolls="1000" itemAmount="1" itemId="20093" /> # IT Ticket
-   
       <drop rolls="0" itemAmount="1" itemId="22310" /> # accursed ashes
       <drop rolls="0" itemAmount="5" itemAMountAddition="10" itemId="21776" /> # shards of armadyl
       <drop rolls="1000" itemAmount="1" itemId="17745" /> # pet nomad
@@ -1190,13 +1188,10 @@
       <drop rolls="100" itemAmount="250" itemId="392" itemAmountAddition="50" /> # manta rays
       <drop rolls="100" itemAmount="150" itemId="565" itemAmountAddition="50" /> # blood runes
       <drop rolls="100" itemAmount="10" itemId="2364" itemAmountAddition="12" /> # rune bars
-     
       <drop rolls="600" itemAmount="1" itemId="15126" /> # amulet of ranging
       <drop rolls="175" itemAmount="1" itemId="3204" /> # dragon halberd
-      
       <drop rolls="600" itemAmount="15" itemId="2362" itemAmountAddition="5" /> # addy bars
       <drop rolls="150" itemAmount="1" itemId="4835" itemAmountAddition="1" /> # ourg bones
-      <drop rolls="250" itemAmount="2" itemId="4835" itemAmountAddition="2" /> # ourg bones
       <drop rolls="900" itemAmount="1" itemId="11732" /> # dragon boots
       <drop rolls="500" itemAmount="1" itemId="11133" /> # regen bracelet
       <drop rolls="900" itemAmount="1" itemId="6585" /> # amulet of fury
