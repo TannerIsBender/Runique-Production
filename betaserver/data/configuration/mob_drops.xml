@@ -939,7 +939,6 @@
 		<drop rolls="520" itemAmount="1" itemId="5289" /> # Palm tree Seed
 		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
-		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
 		<drop rolls="450" itemAmount="250" itemId="2" /> # Cannon Ball
 		<drop rolls="520" itemAmount="100" itemId="1514" /> # Magic Logs
@@ -1103,7 +1102,6 @@
 		<drop rolls="520" itemAmount="50" itemId="226" /> # Limpwurt root
 		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
-		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
 		<drop rolls="420" itemAmount="300" itemId="445" /> # Gold Ore
 		<drop rolls="450" itemAmount="250" itemId="2" /> # Cannon Ball

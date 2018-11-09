@@ -8,6 +8,27 @@
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
+	
+	<!-- Thanksgiving Event -->
+	<spawn> # Cooks Brother
+		<id>8500</id>
+		<x>3167</x>
+		<y>3471</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Cooks Brother
+		<id>8500</id>
+		<x>3101</x>
+		<y>3502</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
 	 
 	 <!-- Pumpking Pete for Halloween Event
 	<spawn> # Pumpkin Pete
@@ -2255,6 +2276,36 @@
 	<spawn> # Net fishing spot Ezone
 		<id>53418</id>
 		<x>2973</x>
+		<y>2698</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # fishing spot Ezone
+		<id>51513</id>
+		<x>2972</x>
+		<y>2698</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # fishing spot Ezone
+		<id>51514</id>
+		<x>2971</x>
+		<y>2698</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # fishing spot Ezone
+		<id>51511</id>
+		<x>2970</x>
 		<y>2698</y>
 		<z>0</z>
 		<face>NORTH</face>
