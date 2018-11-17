@@ -708,7 +708,6 @@
 	</mob>
 
 	<mob mobId="56618"> # Crazy Arch
-		<drop rolls="350" itemAmount="1" itemId="408" /> #Casket
 		<drop rolls="110" itemAmount="1" itemId="1275" /> # Rune Pickaxe
 		<drop rolls="1250" itemAmount="1" itemId="11929" /> # Odium shard 2
 		<drop rolls="1800" itemAmount="1" itemId="12603" /> # Tyrannical ring
@@ -747,7 +746,6 @@
 	</mob>
 
 	<mob mobId="56610"> # Venenatis
-		<drop rolls="350" itemAmount="1" itemId="408" /> #Casket
 		<drop rolls="110" itemAmount="1" itemId="1275" /> # Rune Pickaxe
 	    <drop rolls="1300" itemAmount="1" itemId="19672" /> # Eye of the ranger
 	    <drop rolls="1200" itemAmount="1" itemId="17764" /> # Venenatis Spiderling pet
@@ -790,7 +788,6 @@
 	</mob>
 	
 	<mob mobId="56615"> # Scorpia
-		<drop rolls="350" itemAmount="1" itemId="408" /> #Casket
 		<drop rolls="150" itemAmount="1" itemId="4587" /> # dragon scimitar
 	    <drop rolls="1200" itemAmount="1" itemId="17763" /> # Scorpia's offspring (pet)
 	    <drop rolls="1400" itemAmount="1" itemId="19673" /> # Eye of the warrior
@@ -887,7 +884,6 @@
 	</mob>
 	
 	<mob mobId="56609"> # Callisto
-		<drop rolls="350" itemAmount="1" itemId="408" /> #Casket
 		<drop rolls="1200" itemAmount="1" itemId="17765" /> # Callisto Cub pet
 		<drop rolls="1500" itemAmount="1" itemId="11933" /> # Malediction shard 3
 		<drop rolls="0" itemAmount="1" itemId="532" /> # big bones
@@ -937,7 +933,6 @@
 	</mob>		
 	
 	<mob mobId="56611"> # Vet'ion
-		<drop rolls="350" itemAmount="1" itemId="408" /> #Casket
 		<drop rolls="900" itemAmount="1" itemId="17766" /> # Vet'ion jr. pet
 		<drop rolls="1500" itemAmount="1" itemId="11928" /> # Odium shard 1
 		<drop rolls="3000" itemAmount="1" itemId="12002" /> # Occult necklace
@@ -995,7 +990,6 @@
 	</mob>
 
 	<mob mobId="56619"> # Chaos fanatic
-		<drop rolls="350" itemAmount="1" itemId="408" /> #Casket
 		<drop rolls="900" itemAmount="1" itemId="51018" /> # Ancestral hat
 		<drop rolls="1100" itemAmount="1" itemId="51021" /> # Ancestral robe top
 		<drop rolls="1300" itemAmount="1" itemId="51024" /> # Ancestral robe bottom
@@ -1139,7 +1133,6 @@
       <drop rolls="100" itemAmount="10" itemId="12163" itemAmountAddition="5" /> # blue charms
    </mob>
    <mob mobId="8528"> # Nomad
-	   <drop rolls="350" itemAmount="1" itemId="408" /> #Casket
       <drop rolls="1000" itemAmount="1" itemId="20093" /> # IT Ticket
       <drop rolls="0" itemAmount="1" itemId="22310" /> # accursed ashes
       <drop rolls="0" itemAmount="5" itemAMountAddition="10" itemId="21776" /> # shards of armadyl
@@ -1691,7 +1684,6 @@
    </mob>
 
    <mob mobId="13465"> # Revenant Imp
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="1450" itemAmount="53400" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="5" itemAmount="1" itemId="365" itemAmountAddition="2" /> # bass
       <drop rolls="10" itemAmount="1" itemId="7946" itemAmountAddition="2" /> # monkfish
@@ -1706,7 +1698,6 @@
    </mob>
 
    <mob mobId="13466"> # Revenant goblin
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="145000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="7946" itemAmountAddition="1" /> # monkfish
       <drop rolls="15" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1720,7 +1711,6 @@
    </mob>
 
    <mob mobId="13470"> # Revenant icefiend
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="99000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1736,7 +1726,6 @@
    </mob>
 
    <mob mobId="13471"> # Revenant pyrefiend
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="145000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1752,7 +1741,6 @@
    </mob>
 
    <mob mobId="13472"> # Revenant hobgoblin
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="120000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1766,7 +1754,6 @@
    </mob>
 
    <mob mobId="13473"> # Revenant vampyre
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="145000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1780,7 +1767,6 @@
    </mob>
 
    <mob mobId="13474"> # Revenant werewolf
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="300000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1794,7 +1780,6 @@
    </mob>
 
    <mob mobId="13475"> # Revenant cyclops
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="155000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1811,7 +1796,6 @@
    </mob>
 
    <mob mobId="13476"> # Revenant hellhound
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="252010" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1829,7 +1813,6 @@
    </mob>
 
    <mob mobId="13477"> # Revenant demon
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="502300" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1847,7 +1830,6 @@
    </mob>
 
    <mob mobId="13478"> # Revenant ork
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="50" itemAmount="576000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1865,7 +1847,6 @@
    </mob>
 
    <mob mobId="13479"> # Revenant dark beast
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="850" itemAmount="590000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1884,7 +1865,6 @@
    </mob>
 
    <mob mobId="13480"> # Revenant knight
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="50" itemAmount="550000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -1903,7 +1883,6 @@
    </mob>
 
    <mob mobId="13481"> # Revenant Dragon
-	   <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="50" itemAmount="700000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
       <drop rolls="15" itemAmount="1" itemId="385" itemAmountAddition="1" /> # shark
@@ -2460,7 +2439,6 @@
       <drop rolls="800" itemAmount="1" itemId="537" /> #Dragon bones
       <drop rolls="800" itemAmount="1" itemId="537" itemAmountAddition="2" /> #Dragon bones
       <drop rolls="850" itemAmount="2" itemId="537" itemAmountAddition="3" /> #Dragon bones
-      <drop rolls="900" itemAmount="1" itemId="4141" /> #abyssal whip
       <drop rolls="420" itemAmount="1" itemId="4087" /> #Dragon Platelegs
       <drop rolls="562" itemAmount="1" itemId="4585" /> #Dragon plateskirt
       <drop rolls="1800" itemAmount="1" itemId="14479" /> #dragon platebody
@@ -5600,10 +5578,9 @@
       <drop rolls="17" itemAmount="1" itemId="12160" /> #crimson charm
       <drop rolls="22" itemAmount="1" itemId="12163" /> #blue charm
    </mob>
-   <mob mobId="1265"> #Rock Crabs
+   <mob mobId="1265"> #Rock Crab
       <drop rolls="0" itemAmount="1" itemId="526" /> #Bones
       <drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-      <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
       <drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
       <drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5642,7 +5619,6 @@
    <mob mobId="1931"> #Desert Bandits <!-- L57 In Training Teleport -->
       <drop rolls="0" itemAmount="1" itemId="526" /> #Bones
       <drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-      <drop rolls="350" itemAmount="1" itemId="407" /> #Casket
       <drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
       <drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
       <drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5682,7 +5658,6 @@
 	<mob mobId="1926"> #Desert Bandits <!-- L74 In Training Teleport -->
 		<drop rolls="0" itemAmount="1" itemId="526" /> #Bones
 		<drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-		<drop rolls="350" itemAmount="1" itemId="407" /> #Casket
 		<drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
 		<drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
 		<drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5722,7 +5697,6 @@
 	<mob mobId="50690"> #Desert Bandits <!-- L74 In EZone -->
 		<drop rolls="0" itemAmount="1" itemId="526" /> #Bones
 		<drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-		<drop rolls="350" itemAmount="1" itemId="407" /> #Casket
 		<drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
 		<drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
 		<drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -8016,7 +7990,6 @@
    </mob>
 
    <mob mobId="3334"> #WildyWyrm
-	   <drop rolls="350" itemAmount="1" itemId="408" /> #Casket
       <drop rolls="1000" itemAmount="1" itemId="17752" /> # pet wildywyrm
       <drop rolls="1000" itemAmount="1" itemId="51295" /> # infernal cape
       <drop rolls="1000" itemAmount="1" itemId="42771" /> # volcanic whip mix
