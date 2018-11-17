@@ -115,7 +115,6 @@
 	</mob>
 
 	<mob mobId="1158"> # Kalphite Queen
-	 
 		<drop rolls="2000" itemAmount="1" itemId="20084" /> #GOLDEN HAMMER
 		  <drop rolls="300" itemAmount="2" itemId="14415" /> #SUPER RESTORE
 		  <drop rolls="1000" itemAmount="1" itemId="7981" /> #KQ HEAD
@@ -187,7 +186,6 @@
 
 	<mob mobId="52042"> # Zulrah
 		<drop rolls="0" itemAmount="100" itemAmountAddition="900" itemId="12934" /> #Zulrah scales
-		
 		<drop rolls="2000" itemAmount="1" itemId="12924" /> # Toxic Blowpipe
 		<drop rolls="1024" itemAmount="1" itemId="12932" /> # Magic fang
 		<drop rolls="1024" itemAmount="1" itemId="12927" /> # Serpentine visage
@@ -280,7 +278,6 @@
 	<mob mobId="3264"> # Goblin
 		<drop rolls="0" itemAmount="1" itemId="526" /> # bones
 		<drop rolls="1" itemAmount="2500" itemAmountAddition="7500" itemId="995" /> # coins
-		
 		<drop rolls="300" itemAmount="1" itemId="288" /> # goblin mail
 		<drop rolls="600" itemAmount="1" itemId="286" /> # orange goblin mail
 		<drop rolls="600" itemAmount="1" itemId="287" /> # blue goblin mail
@@ -291,12 +288,10 @@
 		<drop rolls="362" itemAmount="1" itemId="1951" /> #RedBerries	
 		<drop rolls="6000" itemAmount="1" itemId="12251" /> # goblin mask
 		<drop rolls="362" itemAmount="1" itemId="221" /> #eye of newt
-		
 		<drop rolls="20" itemAmount="5" itemAmountAddition="10" itemId="556" /> # air runes
 		<drop rolls="20" itemAmount="5" itemAmountAddition="10" itemId="555" /> # water runes
 		<drop rolls="20" itemAmount="5" itemAmountAddition="10" itemId="554" /> # fire runes
-		<drop rolls="20" itemAmount="5" itemAmountAddition="10" itemId="557" /> # earth 
-		
+		<drop rolls="20" itemAmount="5" itemAmountAddition="10" itemId="557" /> # earth
 		<drop rolls="60" itemAmount="1" itemId="1381" /> # staff of air
 		<drop rolls="60" itemAmount="1" itemId="1383" /> # staff of water
 		<drop rolls="60" itemAmount="1" itemId="1385" /> # staff of earth
@@ -306,7 +301,6 @@
 	<mob mobId="3265"> # Goblin
 		<drop rolls="0" itemAmount="1" itemId="526" /> # bones
 		<drop rolls="1" itemAmount="2500" itemAmountAddition="7500" itemId="995" /> # coins
-		
 		<drop rolls="300" itemAmount="1" itemId="288" /> # goblin mail
 		<drop rolls="600" itemAmount="1" itemId="286" /> # orange goblin mail
 		<drop rolls="600" itemAmount="1" itemId="287" /> # blue goblin mail
@@ -314,14 +308,11 @@
 		<drop rolls="600" itemAmount="1" itemId="9055" /> # black goblin mail
 		<drop rolls="600" itemAmount="1" itemId="9056" /> # yellow goblin mail
 		<drop rolls="600" itemAmount="1" itemId="9057" /> # green goblin mail
-		
 		<drop rolls="6000" itemAmount="1" itemId="12251" /> # goblin mask
-		
 		<drop rolls="30" itemAmount="5" itemAmountAddition="10" itemId="556" /> # air runes
 		<drop rolls="30" itemAmount="5" itemAmountAddition="10" itemId="555" /> # water runes
 		<drop rolls="30" itemAmount="5" itemAmountAddition="10" itemId="554" /> # fire runes
-		<drop rolls="30" itemAmount="5" itemAmountAddition="10" itemId="557" /> # earth 
-		
+		<drop rolls="30" itemAmount="5" itemAmountAddition="10" itemId="557" /> # earth
 		<drop rolls="60" itemAmount="1" itemId="1381" /> # staff of air
 		<drop rolls="60" itemAmount="1" itemId="1383" /> # staff of water
 		<drop rolls="60" itemAmount="1" itemId="1385" /> # staff of earth
@@ -336,13 +327,11 @@
 
 	<mob mobId="5666"> # Barrelchest
 	   <drop rolls="1000" itemAmount="1" itemId="20097" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="532" /> # big bones
 		<drop rolls="250" itemAmount="100000" itemId="995" /> # coins
 		<drop rolls="1000" itemAmount="1" itemId="17754" /> #BarrelChest pet
 		<drop rolls="4760" itemAmount="1" itemId="20883" /> # Fishbow and net
 		<drop rolls="760" itemAmount="1" itemId="10887" /> # barrelchest anchor
-		
 		<drop rolls="1250" itemAmount="1" itemId="16273" /> # novite gaunlets
 		<drop rolls="1250" itemAmount="1" itemId="16339" /> # novite boots
 		<drop rolls="1450" itemAmount="1" itemId="16647" /> # novite plateskirt
@@ -368,11 +357,9 @@
 	
 	<mob mobId="10141"> # Bal'lak the Pummeller
 	    <drop rolls="1000" itemAmount="1" itemId="20098" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="22310" /> # accursed ashes
 	    <drop rolls="1000" itemAmount="1" itemId="17755" /> #Bal Boss pet
 		<drop rolls="1420" itemAmount="1" itemId="18349" /> # chaotic rapier
-	
 		<drop rolls="2250" itemAmount="1" itemId="16273" /> # novite gaunlets
 		<drop rolls="2240" itemAmount="1" itemId="16339" /> # novite boots
 		<drop rolls="1450" itemAmount="1" itemId="16647" /> # novite plateskirt
@@ -380,7 +367,6 @@
 		<drop rolls="2101" itemAmount="1" itemId="16691" /> # novite full helm
 		<drop rolls="1550" itemAmount="1" itemId="16713" /> # novite chainbody
 		<drop rolls="2550" itemAmount="1" itemId="17239" /> # novite platebody
-		
 		<drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
@@ -398,13 +384,11 @@
 	
 	<mob mobId="9964"> # Gluttonous Behemoth
 	    <drop rolls="1000" itemAmount="1" itemId="20099" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="4812" /> # zogre bones
 	    <drop rolls="1000" itemAmount="1" itemId="17756" /> # Gluttonous Boss pet
 		<drop rolls="1480" itemAmount="1" itemId="18355" /> # chaotic staff
 		<drop rolls="3250" itemAmount="1" itemId="18364" /> # farseer kiteshield
 		<drop rolls="1001" itemAmount="1" itemId="15486" /> # Staff of light
-	
 		<drop rolls="1750" itemAmount="1" itemId="16275" /> # bathus gaunlets
 		<drop rolls="1750" itemAmount="1" itemId="16341" /> # bathus boots
 		<drop rolls="1850" itemAmount="1" itemId="16649" /> # bathus plateskirt
@@ -412,7 +396,6 @@
 		<drop rolls="1750" itemAmount="1" itemId="16693" /> # bathus full helm
 		<drop rolls="1550" itemAmount="1" itemId="16715" /> # bathus chainbody
 		<drop rolls="2550" itemAmount="1" itemId="17241" /> # bathus platebody
-		
 		<drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
@@ -430,11 +413,9 @@
 	
 	<mob mobId="9780"> # Rammernaut
 	    <drop rolls="1000" itemAmount="1" itemId="20100" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="22310" /> # accursed ashes
 		<drop rolls="1000" itemAmount="1" itemId="17757" /> # Boss pet
 		<drop rolls="3420" itemAmount="1" itemId="18353" /> # chaotic maul
-	
 		<drop rolls="2250" itemAmount="1" itemId="16277" /> # marmaros gaunlets
 		<drop rolls="2250" itemAmount="1" itemId="16343" /> # marmaros boots
 		<drop rolls="2450" itemAmount="1" itemId="16651" /> # marmaros plateskirt
@@ -442,7 +423,6 @@
 		<drop rolls="2350" itemAmount="1" itemId="16695" /> # marmaros full helm
 		<drop rolls="2550" itemAmount="1" itemId="16717" /> # marmaros chainbody
 		<drop rolls="3550" itemAmount="1" itemId="17243" /> # marmaros platebody
-		
 		<drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
@@ -460,7 +440,6 @@
 	
 	<mob mobId="9752"> # Night-Gazer
 	    <drop rolls="1000" itemAmount="1" itemId="20101" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="22310" /> # zogre bones
 		<drop rolls="1000" itemAmount="1" itemId="17758" /> #Night-Gazer Boss Pet
 		<drop rolls="3560" itemAmount="1" itemId="18357" /> # chaotic crossbow
@@ -468,7 +447,6 @@
 		<drop rolls="1560" itemAmount="1" itemId="2581" /> # robin hood hat
 		<drop rolls="1560" itemAmount="1" itemId="2577" /> # ranger boots
 		<drop rolls="1260" itemAmount="1" itemId="15126" /> # amulet of range
-	
 		<drop rolls="1250" itemAmount="1" itemId="16273" /> # novite gaunlets
 		<drop rolls="1250" itemAmount="1" itemId="16339" /> # novite boots
 		<drop rolls="1450" itemAmount="1" itemId="16647" /> # novite plateskirt
@@ -476,7 +454,6 @@
 		<drop rolls="1350" itemAmount="1" itemId="16691" /> # novite full helm
 		<drop rolls="1550" itemAmount="1" itemId="16713" /> # novite chainbody
 		<drop rolls="2550" itemAmount="1" itemId="17239" /> # novite platebody
-		
 		<drop rolls="1750" itemAmount="1" itemId="16275" /> # bathus gaunlets
 		<drop rolls="1750" itemAmount="1" itemId="16341" /> # bathus boots
 		<drop rolls="1850" itemAmount="1" itemId="16649" /> # bathus plateskirt
@@ -484,7 +461,6 @@
 		<drop rolls="1750" itemAmount="1" itemId="16693" /> # bathus full helm
 		<drop rolls="1550" itemAmount="1" itemId="16715" /> # bathus chainbody
 		<drop rolls="2550" itemAmount="1" itemId="17241" /> # bathus platebody
-		
 		<drop rolls="2250" itemAmount="1" itemId="16277" /> # marmaros gaunlets
 		<drop rolls="2250" itemAmount="1" itemId="16343" /> # marmaros boots
 		<drop rolls="2450" itemAmount="1" itemId="16651" /> # marmaros plateskirt
@@ -496,7 +472,6 @@
 	
 	<mob mobId="10127"> # Unholy Cursebearer
 	    <drop rolls="1000" itemAmount="1" itemId="20102" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="22310" /> # zogre bones
 		<drop rolls="1000" itemAmount="1" itemId="17759" /> # Boss Pet
 		<drop rolls="2500" itemAmount="1" itemId="20115" /> # ancient ceremonial hood
@@ -504,9 +479,7 @@
 		<drop rolls="3000" itemAmount="1" itemId="20117" /> # ancient ceremonial legs
 		<drop rolls="1500" itemAmount="1" itemId="20118" /> # ancient ceremonial gloves
 		<drop rolls="1000" itemAmount="1" itemId="20119" /> # ancient ceremonial boots
-	
 		<drop rolls="850" itemAmount="1" itemId="18346" /> # tome of frost
-	
 		<drop rolls="1250" itemAmount="1" itemId="16273" /> # novite gaunlets
 		<drop rolls="1250" itemAmount="1" itemId="16339" /> # novite boots
 		<drop rolls="1450" itemAmount="1" itemId="16647" /> # novite plateskirt
@@ -514,7 +487,6 @@
 		<drop rolls="1350" itemAmount="1" itemId="16691" /> # novite full helm
 		<drop rolls="1550" itemAmount="1" itemId="16713" /> # novite chainbody
 		<drop rolls="2550" itemAmount="1" itemId="17239" /> # novite platebody
-		
 		<drop rolls="1750" itemAmount="1" itemId="16275" /> # bathus gaunlets
 		<drop rolls="1750" itemAmount="1" itemId="16341" /> # bathus boots
 		<drop rolls="1850" itemAmount="1" itemId="16649" /> # bathus plateskirt
@@ -522,7 +494,6 @@
 		<drop rolls="1750" itemAmount="1" itemId="16693" /> # bathus full helm
 		<drop rolls="1550" itemAmount="1" itemId="16715" /> # bathus chainbody
 		<drop rolls="2550" itemAmount="1" itemId="17241" /> # bathus platebody
-		
 		<drop rolls="2250" itemAmount="1" itemId="16277" /> # marmaros gaunlets
 		<drop rolls="2250" itemAmount="1" itemId="16343" /> # marmaros boots
 		<drop rolls="2450" itemAmount="1" itemId="16651" /> # marmaros plateskirt
@@ -530,7 +501,6 @@
 		<drop rolls="2350" itemAmount="1" itemId="16695" /> # marmaros full helm
 		<drop rolls="2550" itemAmount="1" itemId="16717" /> # marmaros chainbody
 		<drop rolls="3550" itemAmount="1" itemId="17243" /> # marmaros platebody
-		
 		<drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
@@ -548,7 +518,6 @@
 	
 	<mob mobId="12841"> # Kal'ger the warmonger
 	   <drop rolls="1000" itemAmount="1" itemId="20103" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="22310" /> # accursed ashes
 	    <drop rolls="1000" itemAmount="1" itemId="17760" /> # Boss Pet
 		<drop rolls="2400" itemAmount="1" itemId="18351" /> # chaotic longsword
@@ -597,15 +566,12 @@
 	    <drop rolls="1000" itemAmount="1" itemId="20104" /> # IT Ticket
 	
 		<drop rolls="0" itemAmount="1" itemId="4812" /> # zogre bones
-
 		<drop rolls="5000" itemAmount="1" itemId="19673" /> # eye of warrior
 		<drop rolls="4000" itemAmount="1" itemId="18786" /> # korasi
 		<drop rolls="3000" itemAmount="1" itemId="11724" /> # bandos
 		<drop rolls="3000" itemAmount="1" itemId="11726" /> # bandos
 		<drop rolls="2420" itemAmount="1" itemId="18349" /> # chaotic rapier
 		<drop rolls="2420" itemAmount="1" itemId="18353" /> # chaotic rapier
-
-		
 		<drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
@@ -623,9 +589,7 @@
 
 	<mob mobId="8597"> # Avatar of Creation
 	    <drop rolls="1000" itemAmount="1" itemId="20105" /> # IT Ticket
-	
 		<drop rolls="0" itemAmount="1" itemId="4812" /> # zogre bones
-
 		<drop rolls="5000" itemAmount="1" itemId="19672" /> # eye of the range
 		<drop rolls="5000" itemAmount="1" itemId="19674" /> # eye of the mage
 		<drop rolls="3500" itemAmount="1" itemId="51018" /> # ancestral hat
@@ -1641,8 +1605,8 @@
       <drop rolls="70" itemAmount="2" itemId="12159" itemAmountAddition="2" /> # green charms
       <drop rolls="140" itemAmount="2" itemId="12163" /> # blue charms
    </mob>
-	<mob mobId="55886"> # Abyssal Sire
 
+	<mob mobId="55886"> # Abyssal Sire
 		<drop rolls="1300" itemAmount="1" itemId="43262" /> # sire pet
 		<drop rolls="1033" itemAmount="1" itemId="43271" /> # abyssal dagger
 		<drop rolls="980" itemAmount="1" itemId="43263" /> # bludgeon
@@ -1710,6 +1674,7 @@
 		<drop rolls="70" itemAmount="2" itemId="12159" itemAmountAddition="2" /> # green charms
 		<drop rolls="140" itemAmount="2" itemId="12163" /> # blue charms
 	</mob>
+
    <mob mobId="4940"> # Angry giant rat
       <drop rolls="0" itemAmount="10000" itemId="995" itemAmountAddition="114500" /> # gold coins
       <drop rolls="0" itemAmount="1" itemId="2134" /> # raw meat
@@ -1717,6 +1682,7 @@
       <drop rolls="50" itemAmount="1" itemId="12158" itemAmountAddition="2" /> # gold charms
       <drop rolls="70" itemAmount="1" itemId="12159" itemAmountAddition="1" /> # green charms
    </mob>
+
    <mob mobId="13465"> # Revenant Imp
       <drop rolls="1450" itemAmount="53400" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="5" itemAmount="1" itemId="365" itemAmountAddition="2" /> # bass
@@ -1730,6 +1696,7 @@
       <drop rolls="80" itemAmount="1" itemId="12160" itemAmountAddition="5" /> # crimson charms
       <drop rolls="140" itemAmount="1" itemId="12163" itemAmountAddition="2" /> # blue charms
    </mob>
+
    <mob mobId="13466"> # Revenant goblin
       <drop rolls="850" itemAmount="145000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="7946" itemAmountAddition="1" /> # monkfish
@@ -1742,6 +1709,7 @@
       <drop rolls="40" itemAmount="1" itemId="12160" itemAmountAddition="5" /> # crimson charms
       <drop rolls="80" itemAmount="1" itemId="12163" itemAmountAddition="2" /> # blue charms
    </mob>
+
    <mob mobId="13470"> # Revenant icefiend
       <drop rolls="850" itemAmount="99000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1756,6 +1724,7 @@
       <drop rolls="40" itemAmount="1" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="80" itemAmount="1" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13471"> # Revenant pyrefiend
       <drop rolls="850" itemAmount="145000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1770,6 +1739,7 @@
       <drop rolls="40" itemAmount="1" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="80" itemAmount="1" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13472"> # Revenant hobgoblin
       <drop rolls="850" itemAmount="120000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1782,6 +1752,7 @@
       <drop rolls="40" itemAmount="2" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="80" itemAmount="1" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13473"> # Revenant vampyre
       <drop rolls="850" itemAmount="145000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1794,6 +1765,7 @@
       <drop rolls="40" itemAmount="2" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="60" itemAmount="1" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13474"> # Revenant werewolf
       <drop rolls="850" itemAmount="300000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1806,6 +1778,7 @@
       <drop rolls="40" itemAmount="2" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="60" itemAmount="2" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13475"> # Revenant cyclops
       <drop rolls="850" itemAmount="155000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1821,6 +1794,7 @@
       <drop rolls="40" itemAmount="2" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="60" itemAmount="2" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13476"> # Revenant hellhound
       <drop rolls="850" itemAmount="252010" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1837,6 +1811,7 @@
       <drop rolls="100" itemAmount="2" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="150" itemAmount="2" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13477"> # Revenant demon
       <drop rolls="850" itemAmount="502300" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1853,6 +1828,7 @@
       <drop rolls="100" itemAmount="3" itemId="12160" itemAmountAddition="8" /> # crimson charms
       <drop rolls="150" itemAmount="2" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13478"> # Revenant ork
       <drop rolls="50" itemAmount="576000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1869,6 +1845,7 @@
       <drop rolls="100" itemAmount="3" itemId="12160" itemAmountAddition="12" /> # crimson charms
       <drop rolls="150" itemAmount="2" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13479"> # Revenant dark beast
       <drop rolls="850" itemAmount="590000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1886,6 +1863,7 @@
       <drop rolls="100" itemAmount="3" itemId="12160" itemAmountAddition="12" /> # crimson charms
       <drop rolls="150" itemAmount="3" itemId="12163" itemAmountAddition="3" /> # blue charms
    </mob>
+
    <mob mobId="13480"> # Revenant knight
       <drop rolls="50" itemAmount="550000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -1903,6 +1881,7 @@
       <drop rolls="10" itemAmount="3" itemId="12160" itemAmountAddition="15" /> # crimson charms
       <drop rolls="25" itemAmount="3" itemId="12163" itemAmountAddition="5" /> # blue charms
    </mob>
+
    <mob mobId="13481"> # Revenant Dragon
       <drop rolls="50" itemAmount="700000" itemId="995" itemAmountAddition="1145000" /> # gold coins
       <drop rolls="10" itemAmount="1" itemId="391" itemAmountAddition="1" /> # manta ray
@@ -2460,7 +2439,6 @@
       <drop rolls="800" itemAmount="1" itemId="537" /> #Dragon bones
       <drop rolls="800" itemAmount="1" itemId="537" itemAmountAddition="2" /> #Dragon bones
       <drop rolls="850" itemAmount="2" itemId="537" itemAmountAddition="3" /> #Dragon bones
-      <drop rolls="900" itemAmount="1" itemId="4141" /> #abyssal whip
       <drop rolls="420" itemAmount="1" itemId="4087" /> #Dragon Platelegs
       <drop rolls="562" itemAmount="1" itemId="4585" /> #Dragon plateskirt
       <drop rolls="1800" itemAmount="1" itemId="14479" /> #dragon platebody
@@ -5600,10 +5578,9 @@
       <drop rolls="17" itemAmount="1" itemId="12160" /> #crimson charm
       <drop rolls="22" itemAmount="1" itemId="12163" /> #blue charm
    </mob>
-   <mob mobId="1265"> #Rock Crabs
+   <mob mobId="1265"> #Rock Crab
       <drop rolls="0" itemAmount="1" itemId="526" /> #Bones
       <drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-      <drop rolls="350" itemAmount="1" itemId="405" /> #Casket
       <drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
       <drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
       <drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5642,7 +5619,6 @@
    <mob mobId="1931"> #Desert Bandits <!-- L57 In Training Teleport -->
       <drop rolls="0" itemAmount="1" itemId="526" /> #Bones
       <drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-      <drop rolls="350" itemAmount="1" itemId="405" /> #Casket
       <drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
       <drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
       <drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5682,7 +5658,6 @@
 	<mob mobId="1926"> #Desert Bandits <!-- L74 In Training Teleport -->
 		<drop rolls="0" itemAmount="1" itemId="526" /> #Bones
 		<drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-		<drop rolls="350" itemAmount="1" itemId="405" /> #Casket
 		<drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
 		<drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
 		<drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5722,7 +5697,6 @@
 	<mob mobId="50690"> #Desert Bandits <!-- L74 In EZone -->
 		<drop rolls="0" itemAmount="1" itemId="526" /> #Bones
 		<drop rolls="30" itemAmount="14500" itemId="995" itemAmountAddition="41500" /> #Coins
-		<drop rolls="350" itemAmount="1" itemId="405" /> #Casket
 		<drop rolls="25" itemAmount="1" itemId="401" /> #Seaweed
 		<drop rolls="175" itemAmount="1" itemId="800" itemAmountAddition="4" /> #grimy guam
 		<drop rolls="186" itemAmount="1" itemId="202" itemAmountAddition="4" /> #grimy marrentill
@@ -5761,8 +5735,6 @@
 
    <mob mobId="8133"> #Corporeal Beast
 	  <drop rolls="1000" itemAmount="1" itemId="20085" /> # IT Ticket
-
-   
 	  <drop rolls="1500" itemAmount="1" itemId="17746" /> #Pet corporeal beast
 	  <drop rolls="200" itemAmount="1" itemAmountAddition="6" itemId="8788" /> #magic stone
 	  <drop rolls="1250" itemAmount="1" itemId="11716" /> # zamorak spear
@@ -8016,6 +7988,7 @@
       <drop rolls="17" itemAmount="1" itemId="12160" /> #crimson charm
       <drop rolls="22" itemAmount="1" itemId="12163" /> #blue charm
    </mob>
+
    <mob mobId="3334"> #WildyWyrm
       <drop rolls="1000" itemAmount="1" itemId="17752" /> # pet wildywyrm
       <drop rolls="1000" itemAmount="1" itemId="51295" /> # infernal cape
@@ -8081,6 +8054,7 @@
       <drop rolls="800" itemAmount="50" itemId="12160" /> #crimson charm
       <drop rolls="85" itemAmount="10" itemId="12163" /> #blue charm
    </mob>
+
    <mob mobId="6232"> #Avansie
       <drop rolls="0" itemAmount="1" itemId="526" /> #bones
       <drop rolls="3" itemAmount="7" itemId="314" /> #feather

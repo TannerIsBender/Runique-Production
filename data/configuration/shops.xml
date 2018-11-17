@@ -6129,135 +6129,151 @@
 		<currency>org.niobe.model.container.impl.currency.VotePointCurrency</currency>
 		
 		<item>
-			<id>13754</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13740</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13742</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13905</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13899</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13902</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13734</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13744</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>13738</id>
-			<amount>100</amount>
-		</item>
-		# Second row
-		<item>
-			<id>1959</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>14484</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>11283</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>15017</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>6583</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>11235</id>
-			<amount>100</amount>
-		</item>
-		# Third row
-		<item>
-			<id>11694</id>
-			<amount>100</amount>
-		</item>
-		<item>
 			<id>6570</id>
-			<amount>100</amount>
+			<amount>10</amount>
+		</item>		
+		<item>
+			<id>20036</id>
+			<amount>10</amount>
 		</item>
 		<item>
-			<id>1053</id>
-			<amount>100</amount>
+			<id>6500</id>
+			<amount>10</amount>
 		</item>
 		<item>
-			<id>1055</id>
-			<amount>100</amount>
+			<id>41941</id>
+			<amount>10</amount>
 		</item>
 		<item>
-			<id>1057</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>18768</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>21437</id>
-			<amount>100</amount>
+			<id>42791</id>
+			<amount>10</amount>
 		</item>
 		<item>
 			<id>15332</id>
 			<amount>100</amount>
 		</item>
-		# Fourth row
 		<item>
 			<id>15300</id>
 			<amount>100</amount>
-		</item>
+		</item>	
 		<item>
-			<id>6500</id>
+			<id>42695</id>
 			<amount>100</amount>
-		</item>
-		<item>
-			<id>41941</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>42791</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>20008</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>2568</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>15069</id>
-			<amount>100</amount>
-		</item>
-		<item>
-			<id>15071</id>
-			<amount>100</amount>
-		</item>
+		</item>	
 		<item>
 			<id>4447</id>
-			<amount>100</amount>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>14745</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>14749</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>14769</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>14791</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>6666</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21126</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21127</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21128</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21129</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>13101</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21130</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21131</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21132</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21133</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>22206</id>
+			<amount>10</amount>
+		</item>
+		
+		<item>
+			<id>22208</id>
+			<amount>10</amount>
+		</item>
+		
+		<item>
+			<id>22210</id>
+			<amount>10</amount>
+		</item>
+		
+		<item>
+			<id>22212</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21509</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21508</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21510</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21503</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21505</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21507</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21389</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21390</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>21391</id>
+			<amount>10</amount>
 		</item>
 	</shop>
 
@@ -6336,7 +6352,24 @@
 		<item>
 			<id>11856</id>
 			<amount>10</amount>
+		</item>	
+		<item>
+			<id>9472</id>
+			<amount>10</amount>
 		</item>
+		<item>
+			<id>7534</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>7535</id>
+			<amount>10</amount>
+		</item>
+		<item>
+			<id>20716</id>
+			<amount>10</amount>
+		</item>
+		
 	</shop>
 
 	<shop>
