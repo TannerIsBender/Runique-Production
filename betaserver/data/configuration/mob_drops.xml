@@ -190,41 +190,31 @@
 		<drop rolls="1024" itemAmount="1" itemId="12932" /> # Magic fang
 		<drop rolls="1024" itemAmount="1" itemId="12927" /> # Serpentine visage
 		<drop rolls="512" itemAmount="1" itemId="6571" /> # Uncut onyx
-		
 		<drop rolls="2500" itemAmount="1" itemId="19955" /> # Tanzanite mutagen
 		<drop rolls="2500" itemAmount="1" itemId="19956" /> # Magma mutagen
-		
-		
 		<drop rolls="4000" itemAmount="1" itemId="12921" /> # Pet snakeling
-		
 		<drop rolls="1250" itemAmount="1" itemId="11931" /> # Malediction shard 1
 		<drop rolls="1250" itemAmount="1" itemId="11933" /> # Malediction shard 3
 		<drop rolls="1250" itemAmount="1" itemId="11928" /> # Odium shard 1
 		<drop rolls="1250" itemAmount="1" itemId="11930" /> # Odium shard 3
-		
 		<drop rolls="100" itemAmount="1" itemId="11942" /> # Ecumenical Key
 		<drop rolls="100" itemAmount="1" itemAmountAddition="2" itemId="11936" /> # Dark crab
-
 		<drop rolls="300" itemAmount="1" itemId="1149" /> # Dragon Med helm
 		<drop rolls="300" itemAmount="1" itemId="526" /> # Dragon Halberd
-
 		<drop rolls="50" itemAmount="200" itemId="563" /> # Law rune
 		<drop rolls="100" itemAmount="300" itemId="560" /> # Death rune
 		<drop rolls="100" itemAmount="500" itemId="562" /> # Chaos rune
 		<drop rolls="100" itemAmount="1500" itemId="7937" /> # Pure essence
-
 		<drop rolls="50" itemAmount="20" itemId="2999" /> # Toadflax
 		<drop rolls="100" itemAmount="20" itemId="3001" /> # Snapdragon
 		<drop rolls="100" itemAmount="20" itemId="268" /> # Dwarf weed
 		<drop rolls="100" itemAmount="20" itemId="270" /> # Torstol
-
 		<drop rolls="150" itemAmount="1000" itemId="1780" /> # Flax
 		<drop rolls="50" itemAmount="35" itemId="6290" /> # Snakeskin
 		<drop rolls="50" itemAmount="12" itemId="9193" /> # Dragon bolt tips
 		<drop rolls="50" itemAmount="100" itemId="1514" /> # Magic logs
 		<drop rolls="100" itemAmount="300" itemId="454" /> # Coal
 		<drop rolls="100" itemAmount="10" itemId="452" /> # Runite ore
-
 		<drop rolls="100" itemAmount="1" itemId="5316" /> # Magic seed
 		<drop rolls="100" itemAmount="2" itemId="5290" /> # Calquat tree seed	
 		<drop rolls="200" itemAmount="2" itemId="5288" /> # Papaya tree seed
@@ -235,8 +225,7 @@
 		<drop rolls="200" itemAmount="1" itemId="5304" /> # Torstol seed
 		<drop rolls="200" itemAmount="2" itemId="5317" /> # Spirit seed
 		<drop rolls="200" itemAmount="1" itemId="4208" /> # Crystal seed
-
-		<drop rolls="50" itemAmount="1" itemId="537" /> # Dragon bones
+		<drop rolls="50" itemAmount="12" itemId="537" /> # Dragon bones
 		<drop rolls="500" itemAmount="2" itemAmountAddition="8" itemId="12934" /> # Zulrah scales
 		<drop rolls="100" itemAmount="10" itemId="1392" /> # Battlestaff
 		<drop rolls="100" itemAmount="25" itemId="384" /> # Raw Shark
