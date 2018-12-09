@@ -256,4 +256,11 @@
 	<item id="1917" x="3492" y="3474" z="0"/> # Beer - Canafis
 	<item id="1917" x="3491" y="3475" z="0"/> # Beer - Canafis
 	<item id="1917" x="3491" y="3474" z="0"/> # Beer - Canafis
+
+	<item id="231" x="2905" y="3229" z="0"/> # Snape Grass
+	<item id="231" x="2909" y="3287" z="0"/> # Snape Grass
+	<item id="231" x="2908" y="3282" z="0"/> # Snape Grass
+	<item id="231" x="2912" y="3281" z="0"/> # Snape Grass
+	<item id="231" x="2913" y="3275" z="0"/> # Snape Grass
+	<item id="231" x="2916" y="3268" z="0"/> # Snape Grass
 </ground_items>

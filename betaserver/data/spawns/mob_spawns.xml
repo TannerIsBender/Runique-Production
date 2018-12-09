@@ -8,8 +8,26 @@
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
-	
-	<!-- Thanksgiving Event -->
+	<spawn> # Santa
+		<id>8540</id>
+		<x>3167</x>
+		<y>3471</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Santa
+		<id>8540</id>
+		<x>3101</x>
+		<y>3502</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	<!-- Thanksgiving Event 
 	<spawn> # Cooks Brother
 		<id>8500</id>
 		<x>3167</x>
@@ -28,7 +46,7 @@
 		<face>NORTH</face>
 		<walkDistance>2</walkDistance>
 		<respawnTimer>60</respawnTimer>
-	</spawn>
+	</spawn> -->
 	 
 	 <!-- Pumpking Pete for Halloween Event
 	<spawn> # Pumpkin Pete
@@ -240,6 +258,350 @@
 		<walkDistance>2</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
+
+	<!-- EDGEVILE WILDERNESS AREA START -->
+	<spawn> # Chaos Druid
+		<id>7966</id>
+		<x>3113</x>
+		<y>9927</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Chaos Druid
+		<id>7966</id>
+		<x>3115</x>
+		<y>9929</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Chaos Druid
+		<id>7966</id>
+		<x>3110</x>
+		<y>9929</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Chaos Druid
+		<id>7966</id>
+		<x>3111</x>
+		<y>9933</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Chaos Druid
+		<id>7966</id>
+		<x>3109</x>
+		<y>9934</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Skeleton
+		<id>3291</id>
+		<x>3107</x>
+		<y>9942</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Skeleton
+		<id>3291</id>
+		<x>3098</x>
+		<y>9564</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Skeleton
+		<id>3291</id>
+		<x>3103</x>
+		<y>9562</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Skeleton
+		<id>3291</id>
+		<x>3107</x>
+		<y>9942</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Skeleton
+		<id>3291</id>
+		<x>3115</x>
+		<y>9567</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3124</x>
+		<y>9950</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3126</x>
+		<y>9952</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3121</x>
+		<y>9954</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3123</x>
+		<y>9956</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3119</x>
+		<y>9957</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3117</x>
+		<y>9955</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3118</x>
+		<y>9950</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> # Deadly Red Spider
+		<id>63</id>
+		<x>3127</x>
+		<y>9955</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>40</respawnTimer>
+	</spawn>
+
+	<spawn> #Thug
+		<id>7106</id>
+		<x>3128</x>
+		<y>9930</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Thug
+		<id>7106</id>
+		<x>3131</x>
+		<y>9930</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Thug
+		<id>7106</id>
+		<x>3131</x>
+		<y>9933</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Black Demon
+		<id>84</id>
+		<x>3089</x>
+		<y>9960</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Black Demon
+		<id>84</id>
+		<x>3085</x>
+		<y>9957</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Poison Spider
+		<id>134</id>
+		<x>3089</x>
+		<y>9940</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Poison Spider
+		<id>134</id>
+		<x>3086</x>
+		<y>9939</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Poison Spider
+		<id>134</id>
+		<x>3087</x>
+		<y>9949</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Poison Spider
+		<id>134</id>
+		<x>3090</x>
+		<y>9951</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>101881</id>
+		<x>3118</x>
+		<y>9974</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>10181</id>
+		<x>3118</x>
+		<y>9974</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>10181</id>
+		<x>3123</x>
+		<y>9976</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>10181</id>
+		<x>3120</x>
+		<y>9980</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>10181</id>
+		<x>3119</x>
+		<y>9987</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>10181</id>
+		<x>3123</x>
+		<y>9988</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+	<spawn> #Earth Warrior
+		<id>10181</id>
+		<x>3124</x>
+		<y>9993</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>2</walkDistance>
+		<respawnTimer>25</respawnTimer>
+	</spawn>
+
+
+	<!-- EDGEVILE WILDERNESS AREA END -->
 
 	<spawn> # Abyssal Sire
 		<id>55886</id>
@@ -1078,6 +1440,76 @@
 		<z>0</z>
 		<face>SOUTH</face>
 		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Wizard (Wizard Tower)
+		<id>13</id>
+		<x>3113</x>
+		<y>3170</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Wizard (Wizard Tower)
+		<id>13</id>
+		<x>3110</x>
+		<y>3169</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Wizard (Wizard Tower)
+		<id>13</id>
+		<x>3111</x>
+		<y>3165</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Wizard (Wizard Tower)
+		<id>13</id>
+		<x>3112</x>
+		<y>3160</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Wizard (Wizard Tower)
+		<id>13</id>
+		<x>3109</x>
+		<y>3158</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Wizard (Wizard Tower)
+		<id>13</id>
+		<x>3107</x>
+		<y>3163</y>
+		<z>1</z>
+		<face>SOUTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Lesser Demon
+		<id>82</id>
+		<x>3109</x>
+		<y>3156</y>
+		<z>2</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -20127,6 +20559,80 @@
 	</spawn>
 
 	<spawn>
+		<id>6247</id>
+		<x>2898</x>
+		<y>5266</y>
+		<z>8</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+	<spawn>
+		<id>6248</id>
+		<x>2901</x>
+		<y>5271</y>
+		<z>8</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+	<spawn>
+		<id>6250</id>
+		<x>2903</x>
+		<y>5261</y>
+		<z>8</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+	<spawn>
+		<id>6252</id>
+		<x>2902</x>
+		<y>5267</y>
+		<z>8</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+
+	<spawn>
+		<id>6247</id>
+		<x>2898</x>
+		<y>5266</y>
+		<z>12</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+	<spawn>
+		<id>6248</id>
+		<x>2901</x>
+		<y>5271</y>
+		<z>12</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+	<spawn>
+		<id>6250</id>
+		<x>2903</x>
+		<y>5261</y>
+		<z>12</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+	<spawn>
+		<id>6252</id>
+		<x>2902</x>
+		<y>5267</y>
+		<z>12</z>
+		<face>WEST</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>55</respawnTimer>
+	</spawn>
+
+	<spawn>
 		<id>6260</id>
 		<x>2870</x>
 		<y>5359</y>
@@ -20449,6 +20955,56 @@
 		<id>4927</id>
 		<x>3126</x>
 		<y>9863</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Giant rat
+		<id>4927</id>
+		<x>2316</x>
+		<y>3180</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Giant rat
+		<id>4927</id>
+		<x>3199</x>
+		<y>3185</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Giant rat
+		<id>4927</id>
+		<x>3184</x>
+		<y>3180</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Giant rat
+		<id>4927</id>
+		<x>3177</x>
+		<y>3190</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Giant rat
+		<id>4927</id>
+		<x>3176</x>
+		<y>3197</y>
 		<z>0</z>
 		<face>WEST</face>
 		<walkDistance>3</walkDistance>
