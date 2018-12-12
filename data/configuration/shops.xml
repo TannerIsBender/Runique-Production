@@ -8212,6 +8212,10 @@
         <name>Skilling coins store</name>
         <currency>org.niobe.model.container.impl.currency.SkillingCoinCurrency</currency>
         <item>
+            <id>21817</id>
+            <amount>10000</amount>
+        </item>
+		<item>
             <id>14936</id>
             <amount>10</amount>
         </item>

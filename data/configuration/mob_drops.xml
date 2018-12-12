@@ -234,11 +234,12 @@
 		<drop rolls="100" itemAmount="10" itemId="6686" /> # Saradomin brew
 		<drop rolls="100" itemAmount="25" itemId="2362" /> # Adamantite bar
 		<drop rolls="75" itemAmount="1" itemId="19043" /> # Clue scroll (elite)
+        <drop rolls="75" itemAmount="10" itemId="6694" /> # Crushed Nest (Noted)
 	</mob>
 
 	<mob mobId="7966"> # Chaos Druid
 		<drop rolls="1" itemAmount="1" itemId="526" /> #bones
-		<drop rolls="175" itemAmount="5" itemId="199" itemAmountAddition="20" /> #grimy guam
+		<drop rolls="175" itemAmount="5" itemId="200" itemAmountAddition="20" /> #grimy guam
 		<drop rolls="10" itemAmount="5" itemId="202" itemAmountAddition="10" /> #grimy marrentill
 		<drop rolls="50" itemAmount="5" itemId="204" itemAmountAddition="10" /> #grimy tarromin
 		<drop rolls="100" itemAmount="10" itemId="206" itemAmountAddition="34" /> #grimy harralander
@@ -263,6 +264,34 @@
 	  	<drop rolls="500" itemAmount="1" itemId="12175" itemAmountAddition="2" /> #grimy spirit weed
 	   	<drop rolls="750" itemAmount="1" itemId="14837" itemAmountAddition="2" /> #grimy wergali
 	</mob>
+
+    <mob mobId="181"> # Chaos Druid
+        <drop rolls="1" itemAmount="1" itemId="526" /> #bones
+        <drop rolls="175" itemAmount="5" itemId="199" itemAmountAddition="20" /> #grimy guam
+        <drop rolls="10" itemAmount="5" itemId="202" itemAmountAddition="10" /> #grimy marrentill
+        <drop rolls="50" itemAmount="5" itemId="204" itemAmountAddition="10" /> #grimy tarromin
+        <drop rolls="100" itemAmount="10" itemId="206" itemAmountAddition="34" /> #grimy harralander
+        <drop rolls="125" itemAmount="10" itemId="210" itemAmountAddition="34" /> #grimy irit
+        <drop rolls="178" itemAmount="5" itemId="212" itemAmountAddition="20" /> #grimy avantoe
+        <drop rolls="200" itemAmount="2" itemId="214" itemAmountAddition="12" /> #grimy kwuarm
+        <drop rolls="280" itemAmount="1" itemId="216" itemAmountAddition="20" /> #grimy cadantine
+        <drop rolls="282" itemAmount="1" itemId="218" itemAmountAddition="20" /> #grimy dwarf weed
+        <drop rolls="300" itemAmount="1" itemId="1526" /> # Snake Weed
+        <drop rolls="100" itemAmount="5" itemId="232" /> #snape grass
+        <drop rolls="263" itemAmount="1" itemId="208" itemAmountAddition="25" /> #grimy ranarr
+        <drop rolls="270" itemAmount="2" itemId="2486" itemAmountAddition="10" /> #grimy lantadyme
+        <drop rolls="340" itemAmount="1" itemId="3050" itemAmountAddition="3" /> #grimy toadflax
+        <drop rolls="362" itemAmount="1" itemId="1951" /> #RedBerries
+        <drop rolls="362" itemAmount="1" itemId="221" /> #eye of newt
+        <drop rolls="500" itemAmount="1" itemId="212" itemAmountAddition="12" /> #grimy avantoe
+        <drop rolls="286" itemAmount="1" itemId="214" itemAmountAddition="2" /> #grimy kwuarm
+        <drop rolls="172" itemAmount="3" itemId="216" itemAmountAddition="2" /> #grimy cadantine
+        <drop rolls="460" itemAmount="1" itemId="2486" itemAmountAddition="1" /> #grimy lantadyme
+        <drop rolls="290" itemAmount="1" itemId="218" itemAmountAddition="2" /> #grimy dwarf weed
+        <drop rolls="800" itemAmount="1" itemId="220" itemAmountAddition="2" /> #grimy torsol
+        <drop rolls="500" itemAmount="1" itemId="12175" itemAmountAddition="2" /> #grimy spirit weed
+        <drop rolls="750" itemAmount="1" itemId="14837" itemAmountAddition="2" /> #grimy wergali
+    </mob>
 
 	<mob mobId="3264"> # Goblin
 		<drop rolls="0" itemAmount="1" itemId="526" /> # bones
@@ -586,7 +615,6 @@
 		<drop rolls="3500" itemAmount="1" itemId="51024" /> # ancestral legs
 		<drop rolls="2420" itemAmount="1" itemId="18355" /> # chaotic staff
 		<drop rolls="2740" itemAmount="1" itemId="18357" /> # chaotic crossbow
-		
 		<drop rolls="0" itemAmount="5" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="10" itemId="12163" /> #Blue charm
 		<drop rolls="800" itemAmount="30" itemId="12158" /> #Gold charm
@@ -683,7 +711,7 @@
 		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="275" itemAmount="10" itemId="182" /> # Super Antipoison 3
-		<drop rolls="50" itemAmount="15000" itemId="995" itemAmountAddition="5000"  /> # Coins
+		<drop rolls="200" itemAmount="150000" itemId="995" itemAmountAddition="500000"  /> # Coins
 		<drop rolls="330" itemAmount="60" itemId="9194" /> # Onyx bolt tips
 		<drop rolls="200" itemAmount="1" itemId="19043" /> # clue scroll elite
 		<drop rolls="2500" itemAmount="1" itemId="15353" /> # Eek pet
@@ -721,7 +749,7 @@
 		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="275" itemAmount="10" itemId="182" /> # Super Antipoison 3
-		<drop rolls="50" itemAmount="15000" itemId="995" itemAmountAddition="5000"  /> # Coins
+		<drop rolls="100" itemAmount="120000" itemId="995" itemAmountAddition="180000"  /> # Coins
 		<drop rolls="330" itemAmount="60" itemId="9194" /> # Onyx bolt tips
 		<drop rolls="200" itemAmount="1" itemId="19043" /> # clue scroll elite
 		<drop rolls="2500" itemAmount="1" itemId="15353" /> # Eek pet
@@ -762,7 +790,7 @@
 		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="275" itemAmount="10" itemId="182" /> # Super Antipoison 3
-		<drop rolls="50" itemAmount="15000" itemId="995" itemAmountAddition="5000"  /> # Coins
+		<drop rolls="100" itemAmount="120000" itemId="995" itemAmountAddition="180000"  /> # Coins
 		<drop rolls="330" itemAmount="60" itemId="9194" /> # Onyx bolt tips
 		<drop rolls="200" itemAmount="1" itemId="19043" /> # clue scroll elite
 		<drop rolls="2500" itemAmount="1" itemId="15353" /> # Eek pet
@@ -890,7 +918,7 @@
 		<drop rolls="520" itemAmount="1" itemId="5315" /> # Yew Seed
 		<drop rolls="520" itemAmount="1" itemId="5316" /> # Magic Seed
 		<drop rolls="520" itemAmount="1" itemId="5289" /> # Palm tree Seed
-		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
+		<drop rolls="100" itemAmount="120000" itemId="995" itemAmountAddition="180000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
 		<drop rolls="450" itemAmount="250" itemId="2" /> # Cannon Ball
@@ -945,7 +973,7 @@
 		<drop rolls="300" itemAmount="1" itemId="1526" /> # Snake Weed
 		<drop rolls="520" itemAmount="1" itemId="5289" /> # Palm tree Seed
 		<drop rolls="520" itemAmount="50" itemId="226" /> # Limpwurt root
-		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
+		<drop rolls="100" itemAmount="120000" itemId="995" itemAmountAddition="180000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
 		<drop rolls="420" itemAmount="300" itemId="445" /> # Gold Ore
@@ -953,7 +981,6 @@
 		<drop rolls="500" itemAmount="300" itemId="8779" /> #Oak planks
 		<drop rolls="520" itemAmount="100" itemId="1514" /> # Magic Logs
 		<drop rolls="520" itemAmount="100" itemId="3050" /> # Grimy Toadflax
-		<drop rolls="520" itemAmount="100" itemId="6035" /> # Limpwurt root
 		<drop rolls="320" itemAmount="75" itemId="1750" /> #Red dragonhide
 		<drop rolls="296" itemAmount="400" itemId="6334" /> #Mahogany logs
 		<drop rolls="800" itemAmount="1" itemId="19043" /> # Elite clue scroll
@@ -976,6 +1003,7 @@
 		<drop rolls="800" itemAmount="1" itemId="988" /> # Crystal loop key piece
 		<drop rolls="800" itemAmount="1" itemId="986" /> # Crystal tooth key piece	
 		<drop rolls="150" itemAmount="100" itemId="537" /> # dragon bones
+        <drop rolls="150" itemAmount="100" itemId="2971" /> # Mort Myre Fungus
 	</mob>
 
 	<mob mobId="56619"> # Chaos fanatic
@@ -998,7 +1026,7 @@
 		<drop rolls="300" itemAmount="1" itemId="1526" /> # Snake Weed
 		<drop rolls="520" itemAmount="1" itemId="5289" /> # Palm tree Seed
 		<drop rolls="520" itemAmount="50" itemId="226" /> # Limpwurt root
-		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
+		<drop rolls="100" itemAmount="120000" itemId="995" itemAmountAddition="180000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="520" itemAmount="1" itemId="1631" /> # Uncut Dragonstone
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
@@ -1053,7 +1081,7 @@
 		<drop rolls="300" itemAmount="1" itemId="1526" /> # Snake Weed
 		<drop rolls="520" itemAmount="1" itemId="5289" /> # Palm tree Seed
 		<drop rolls="520" itemAmount="50" itemId="226" /> # Limpwurt root
-		<drop rolls="50" itemAmount="12000" itemId="995" itemAmountAddition="8000"  /> # Coins
+		<drop rolls="50" itemAmount="120000" itemId="995" itemAmountAddition="180000"  /> # Coins
 		<drop rolls="200" itemAmount="3" itemId="3025" /> # Super Restore 4
 		<drop rolls="250" itemAmount="10" itemId="1618" /> # Uncut Diamond
 		<drop rolls="420" itemAmount="300" itemId="445" /> # Gold Ore
@@ -1088,7 +1116,6 @@
 	
    <mob mobId="3847"># Sea Troll Queen
       <drop rolls="1000" itemAmount="1" itemId="20094" /> # IT Ticket
-   
       <drop rolls="1500" itemAmount="1" itemId="11929" /> # Odium shard 2
       <drop rolls="1750" itemAmount="1" itemId="11908" /> # Uncharged trident of the seas
       <drop rolls="0" itemAmount="1" itemId="4812" /> # zogre bones
@@ -1224,7 +1251,7 @@
    </mob>
    <mob mobId="14304"> # Glacyte
       <drop rolls="0" itemAmount="1" itemId="22310" /> # accursed ashes
-      <drop rolls="20" itemAmount="80000" itemId="995" itemAmountAddition="80000" /> # coins
+      <drop rolls="20" itemAmount="80000" itemId="995" itemAmountAddition="100000" /> # coins
       <drop rolls="1200" itemAmount="1" itemId="21787" /> # steadfast boots
       <drop rolls="1000" itemAmount="1" itemId="21790" /> # glaiven boots
       <drop rolls="900" itemAmount="1" itemId="21793" /> # ragefire boots
@@ -1244,14 +1271,13 @@
    </mob>
    <mob mobId="8549"> # Phoenix
       <drop rolls="1000" itemAmount="1" itemId="20096" /> # IT Ticket
-   
       <drop rolls="0" itemAmount="1" itemId="20264" /> # impious ashes
       <drop rolls="0" itemAmount="1" itemId="2950" /> # golden feather
 	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
 	  <drop rolls="1000" itemAmount="1" itemId="17743" /> # pet phoenix
 	  <drop rolls="350" itemAmount="1" itemAmountAddition="4" itemId="8785" /> #gold leaf
 	  <drop rolls="100" itemAmount="10" itemAmountAddition="10" itemId="1776" /> #molten glass
-      <drop rolls="100" itemAmount="1450000" itemId="995" itemAmountAddition="1145000" /> # coins
+      <drop rolls="100" itemAmount="105000" itemId="995" itemAmountAddition="150000" /> # coins
       <drop rolls="50" itemAmount="1" itemId="1583" itemAmountAddition="1" /> # fire feather
       <drop rolls="200" itemAmount="50" itemId="529" itemAmountAddition="50" /> # burnt bones
       <drop rolls="150" itemAmount="50" itemId="3439" itemAmountAddition="25" /> # pyre logs
@@ -1295,7 +1321,7 @@
       <drop rolls="1000" itemAmount="1" itemId="17750" /> # pet bork
       <drop rolls="0" itemAmount="1" itemId="4834" /> # ourg bones
       <drop rolls="800" itemAmount="2" itemId="4831" itemAmountAddition="1" /> # fayrg
-      <drop rolls="800" itemAmount="1450000" itemId="995" itemAmountAddition="1145000" /> # coins
+      <drop rolls="800" itemAmount="1145000" itemId="995" itemAmountAddition="1450000" /> # coins
       <drop rolls="600" itemAmount="1" itemId="7807" /> # anger battleaxe
       <drop rolls="100" itemAmount="1" itemId="4153" /> # granite maul
       <drop rolls="100" itemAmount="1" itemId="14679" /> # granite mace
@@ -1361,7 +1387,6 @@
 	   <drop rolls="162" itemAmount="20" itemId="563" itemAmountAddition="25" /> #law rune
 	   <drop rolls="372" itemAmount="10" itemId="565" itemAmountAddition="10" /> #blood rune
 	   <drop rolls="800" itemAmount="100" itemId="565" itemAmountAddition="100" /> #blood rune
-	   <drop rolls="800" itemAmount="80000" itemId="995" itemAmountAddition="14500" /> #coins
    </mob>
    <mob mobId="56767"> # Lizardman Shaman
       <drop rolls="3000" itemAmount="1" itemId="33002" /> # pet shaman
@@ -1431,7 +1456,7 @@
    <mob mobId="2881"> # Dagannoth Supreme
       <drop rolls="0" itemAmount="1" itemId="6729" /> # dagannoth bones
       <drop rolls="0" itemAmount="1" itemId="6155" /> # dagannoth hide
-      <drop rolls="800" itemAmount="145000" itemId="995" itemAmountAddition="214500" /> # gold coins
+      <drop rolls="400" itemAmount="145000" itemId="995" itemAmountAddition="214500" /> # gold coins
       <drop rolls="80" itemAmount="2" itemId="385" itemAmountAddition="1" /> # shark
       <drop rolls="800" itemAmount="1" itemId="988" /> # loop
       <drop rolls="800" itemAmount="1" itemId="986" /> # tooth
@@ -1465,7 +1490,7 @@
    <mob mobId="2882"> # Dagannoth Prime
       <drop rolls="0" itemAmount="1" itemId="6729" /> # dagannoth bones
       <drop rolls="0" itemAmount="1" itemId="6155" /> # dagannoth hide
-      <drop rolls="800" itemAmount="145000" itemId="995" itemAmountAddition="214500" /> # gold coins
+      <drop rolls="400" itemAmount="145000" itemId="995" itemAmountAddition="214500" /> # gold coins
       <drop rolls="80" itemAmount="2" itemId="385" itemAmountAddition="1" /> # shark
       <drop rolls="800" itemAmount="1" itemId="988" /> # loop
       <drop rolls="800" itemAmount="1" itemId="986" /> # tooth
@@ -1481,7 +1506,6 @@
       <drop rolls="96" itemAmount="1" itemId="3042" /> # Super magic potion (3)
       <drop rolls="1450" itemAmount="1" itemId="6739" /> # dragon hatchet
       <drop rolls="800" itemAmount="1" itemId="15018" /> # seers' ring (i)
-  
       <drop rolls="800" itemAmount="1" itemId="3755" /> # farseer helm
       <drop rolls="800" itemAmount="1" itemId="2579" /> # wizard boots
       <drop rolls="305" itemAmount="1" itemId="577" /> # wizard robe top
@@ -1497,7 +1521,7 @@
    <mob mobId="2883"> # Dagannoth Rex
       <drop rolls="0" itemAmount="1" itemId="6729" /> # dagannoth bones
       <drop rolls="0" itemAmount="1" itemId="6155" /> # dagannoth hide
-      <drop rolls="800" itemAmount="145000" itemId="995" itemAmountAddition="214500" /> # gold coins
+      <drop rolls="400" itemAmount="145000" itemId="995" itemAmountAddition="214500" /> # gold coins
       <drop rolls="80" itemAmount="2" itemId="385" itemAmountAddition="1" /> # shark
       <drop rolls="1000" itemAmount="1" itemId="7857" /> # dagannoth ribs
       <drop rolls="150" itemAmount="2" itemId="2364" itemAmountAddition="1" /> # rune bar
@@ -5954,6 +5978,7 @@
       <drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charms
       <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charms
    </mob>
+
    <mob mobId="3478"> #Cyclossus
       <drop rolls="1000" itemAmount="1" itemId="17749" /> # pet cyclossus
       <drop rolls="0" itemAmount="1" itemId="532" /> #big bones
@@ -6024,13 +6049,14 @@
       <drop rolls="363" itemAmount="105" itemId="9245" itemAmountAddition="50" /> #onyx bolts (e)
       <drop rolls="463" itemAmount="5" itemId="2364" itemAmountAddition="5" /> #rune bars
       <drop rolls="48" itemAmount="3" itemId="3052" /> #Grimy snapdragon
-      <drop rolls="11450" itemAmount="1" itemId="6585" /> #fury
+      <drop rolls="1450" itemAmount="1" itemId="6585" /> #fury
       <drop rolls="1100" itemAmount="1" itemId="11710" /> #Godsword shard 1
       <drop rolls="1100" itemAmount="1" itemId="11712" /> #Godsword shard 2
       <drop rolls="1100" itemAmount="1" itemId="11714" /> #Godsword shard 3
       <drop rolls="358" itemAmount="1" itemId="2722" /> #Clue scroll (hard)
       <drop rolls="361" itemAmount="1" itemId="12163" /> #Blue charm
    </mob>
+
    <mob mobId="6261"> #Sergeant Strongstack
       <drop rolls="0" itemAmount="1" itemId="532" /> #Big bones
       <drop rolls="0" itemAmount="14500" itemId="995" itemAmountAddition="8000" /> #Coins
@@ -6149,6 +6175,7 @@
    </mob>
    <mob mobId="6247"> #Commander Zilyana
       <drop rolls="1000" itemAmount="1" itemId="20088" /> # IT Ticket
+      <drop rolls="2000" itemAmount="1" itemId="10858" /> # Shadow sword
    
       <drop rolls="0" itemAmount="1" itemId="526" /> #Bones
       <drop rolls="850" itemAmount="1" itemId="12651" /> #pet zilyana
@@ -6271,9 +6298,8 @@
    </mob>
    <mob mobId="13447"> # Nex
       <drop rolls="1000" itemAmount="1" itemId="20090" /> # IT Ticket
-   
       <drop rolls="850" itemAmount="1" itemId="17753" /> #pet
-      <drop rolls="150" itemAmount="1000000" itemId="995" /> #coins
+      <drop rolls="150" itemAmount="2000000" itemId="995" /> #coins
       <drop rolls="0" itemAmount="1" itemId="532" /> #Big bones
       <drop rolls="100" itemAmount="100" itemId="533" /> #Big bones
       <drop rolls="50" itemAmount="3" itemId="536" /> #Dragon bones
@@ -6288,7 +6314,6 @@
       <drop rolls="850" itemAmount="90" itemId="9244" itemAmountAddition="3" /> #Dragon bolts (e)
       <drop rolls="850" itemAmount="100" itemId="537" itemAmountAddition="23" /> #Dragon bones
       <drop rolls="40" itemAmount="1" itemId="15335" itemAmountAddition="1" /> #Overload (1)
-      <drop rolls="800" itemAmount="800000" itemId="995" /> #coins
       <drop rolls="180" itemAmount="10" itemId="1624" /> #uncut sapphire
       <drop rolls="800" itemAmount="1" itemId="987" /> #loop
       <drop rolls="800" itemAmount="1" itemId="985" /> #tooth
@@ -6405,6 +6430,7 @@
       <drop rolls="363" itemAmount="3639" itemId="995" itemAmountAddition="13430" /> #coins
       <drop rolls="50" itemAmount="1" itemId="2722" /> # clue scroll (hard)
    </mob>
+
    <mob mobId="1648"> #Crawling Hand
       <drop rolls="0" itemAmount="1" itemId="526" /> #bones
       <drop rolls="363" itemAmount="8000" itemId="995" itemAmountAddition="13430" /> #coins
@@ -6423,7 +6449,7 @@
       <drop rolls="117" itemAmount="1" itemId="12160" /> #crimson charm
       <drop rolls="122" itemAmount="1" itemId="12163" /> #blue charm
       <drop rolls="161" itemAmount="1" itemId="1635" /> #gold ring
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="162" itemAmount="1" itemId="1637" /> #sapphire ring
       <drop rolls="163" itemAmount="1" itemId="1639" /> #emerald ring
       <drop rolls="163" itemAmount="1" itemId="1641" /> #ruby ring
@@ -6476,7 +6502,7 @@
       <drop rolls="362" itemAmount="114500" itemId="995" /> #coins
       <drop rolls="200" itemAmount="2" itemAmountAddition="4" itemId="568" /> # unpowered orb
       <drop rolls="362" itemAmount="1" itemId="3053" /> #lava battlestaff
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
 	  <drop rolls="0" itemAmount="1" itemId="592" /> #ashes
 	  <drop rolls="180" itemAmount="5" itemId="12539" /> #Grenwall spikes
       <drop rolls="362" itemAmount="1" itemId="1073" /> #addy platelegs
@@ -6570,7 +6596,7 @@
 	   <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
       <drop rolls="364" itemAmount="1" itemId="215" /> #grimy cadantine
       <drop rolls="58" itemAmount="1" itemId="217" /> #grimy dwarf weed
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="58" itemAmount="1" itemId="207" /> #grimy ranarr
       <drop rolls="58" itemAmount="1" itemId="2485" /> #grimy lantadyme
       <drop rolls="361" itemAmount="61450" itemId="995" /> #coins
@@ -6687,7 +6713,7 @@
 	  <drop rolls="362" itemAmount="1" itemId="3138" /> #Potato cactus
       <drop rolls="363" itemAmount="36" itemId="555" /> #water rune
       <drop rolls="361" itemAmount="10" itemId="556" /> #air rune
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="362" itemAmount="7" itemId="560" /> #death rune
 	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
       <drop rolls="362" itemAmount="18" itemId="565" /> #blood rune
@@ -6709,7 +6735,7 @@
       <drop rolls="363" itemAmount="1" itemId="1325" /> #Steel scimitar
 	  <drop rolls="186" itemAmount="1" itemId="2970" /> #Mort Myre Fungus
 	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
 	    <drop rolls="180" itemAmount="1" itemId="9594" /> #Ground mud runes
       <drop rolls="361" itemAmount="1" itemId="1181" /> #Mithril sq shield
 	    <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
@@ -6787,7 +6813,7 @@
       <drop rolls="362" itemAmount="1" itemId="562" /> #chaos rune
 	  <drop rolls="362" itemAmount="1" itemId="3138" /> #Potato cactus
 	  <drop rolls="186" itemAmount="1" itemId="10111" /> #Kebbit Teeth Dust
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="363" itemAmount="1" itemId="560" /> #death rune
 	  <drop rolls="362" itemAmount="1" itemId="245" /> #Wine of Zamorak
 	  <drop rolls="102" itemAmount="1" itemId="1581" /> #Blamish Snail Sline
@@ -6890,17 +6916,17 @@
       <drop rolls="363" itemAmount="1000" itemId="995" /> #coins
 	  <drop rolls="186" itemAmount="1" itemId="11525" /> #Whimpy Feather
 	  <drop rolls="186" itemAmount="1" itemId="10111" /> #Kebbit Teeth Dust
-	     <drop rolls="180" itemAmount="1" itemId="6049" /> #Yew Roots
+       <drop rolls="180" itemAmount="1" itemId="6049" /> #Yew Roots
 	  <drop rolls="102" itemAmount="1" itemId="1581" /> #Blamish Snail Sline
-	    <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
-		  <drop rolls="180" itemAmount="1" itemId="9594" /> #Ground mud runes
+       <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
+       <drop rolls="180" itemAmount="1" itemId="9594" /> #Ground mud runes
       <drop rolls="363" itemAmount="1" itemId="2357" /> #Gold bar
 	  <drop rolls="362" itemAmount="1" itemId="3138" /> #Potato cactus
       <drop rolls="362" itemAmount="1" itemId="4540" /> #Oil lantern frame
 	  <drop rolls="300" itemAmount="1" itemId="1526" /> # Snake Weed
 	   <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
       <drop rolls="363" itemAmount="1" itemId="1452" /> #Lantern lens
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
 	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
       <drop rolls="60" itemAmount="1" itemId="2677" /> #Clue scroll (easy)
 	  <drop rolls="362" itemAmount="1" itemId="245" /> #Wine of Zamorak
@@ -6965,7 +6991,7 @@
       <drop rolls="361" itemAmount="1" itemId="5321" /> #Watermelon Seed
       <drop rolls="363" itemAmount="1" itemId="199" /> #Grimy Guam
 	  <drop rolls="186" itemAmount="1" itemId="2970" /> #Mort Myre Fungus
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
 	   <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
 	  <drop rolls="87" itemAmount="1" itemId="247" /> #Jangerberries
 	  <drop rolls="362" itemAmount="1" itemId="245" /> #Wine of Zamorak
@@ -7049,7 +7075,7 @@
 	    <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
       <drop rolls="58" itemAmount="1" itemId="199" /> #grimy guam
 	  <drop rolls="362" itemAmount="1" itemId="3138" /> #Potato cactus
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="46" itemAmount="1" itemId="201" /> #grimy marrentill
 	  <drop rolls="200" itemAmount="1" itemId="267" /> #Dwarf Weed
 	   <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
@@ -7128,7 +7154,7 @@
 	  <drop rolls="87" itemAmount="1" itemId="247" /> #Jangerberries
 	  <drop rolls="186" itemAmount="1" itemId="2970" /> #Mort Myre Fungus
 	  <drop rolls="200" itemAmount="1" itemId="2481" /> #Lantadyme
-	  <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
 	   <drop rolls="180" itemAmount="1" itemId="6016" /> #Cactus Spine
 	   <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
 	     <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
@@ -7627,8 +7653,8 @@
 	  <drop rolls="300" itemAmount="1" itemId="2152" /> # Toad legs
 	  <drop rolls="186" itemAmount="1" itemId="5004" /> #frog spawn
       <drop rolls="46" itemAmount="1" itemId="201" /> #grimy marrentill
-	    <drop rolls="180" itemAmount="1" itemId="11205" /> #Shrunk Ogleroot
-		  <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
+	   <drop rolls="180" itemAmount="1" itemId="11205" /> #Shrunk Ogleroot
+	   <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
 	  <drop rolls="200" itemAmount="1" itemId="2481" /> #Lantadyme
       <drop rolls="46" itemAmount="1" itemId="203" /> #grimy tarromin
 	  <drop rolls="186" itemAmount="1" itemId="2970" /> #Mort Myre Fungus
@@ -8938,7 +8964,7 @@
       <drop rolls="117" itemAmount="1" itemId="12160" /> #crimson charm
       <drop rolls="122" itemAmount="1" itemId="12163" /> #blue charm
       <drop rolls="161" itemAmount="1" itemId="1635" /> #gold ring
-      <drop rolls="300" itemAmount="1" itemId="1975" /> #Chocolate Dust
+      <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="162" itemAmount="1" itemId="1637" /> #sapphire ring
       <drop rolls="163" itemAmount="1" itemId="1639" /> #emerald ring
       <drop rolls="163" itemAmount="1" itemId="1641" /> #ruby ring
@@ -9411,7 +9437,6 @@
       <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
    </mob>
    
-   
 	<mob mobId="57548"> #Scavenger Beast
       <drop rolls="2" itemAmount="15"  itemAmountAddition="5" itemId="50912" /> #Cicely
       <drop rolls="5" itemAmount="20"  itemAmountAddition="5" itemId="50911" /> #Endarkened juice
@@ -9419,5 +9444,71 @@
       <drop rolls="8" itemAmount="1"  itemAmountAddition="1" itemId="51036" /> #Mallignum root plank
       <drop rolls="1" itemAmount="1" itemId="2347" /> #hammer
    </mob>
+
+    <mob mobId="63"> #Deadly Red Spider
+        <drop rolls="1" itemAmount="1" itemId="526" /> #bones
+        <drop rolls="1" itemAmount="1" itemId="223" /> #Red Spiders' Egg
+        <drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+        <drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+        <drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+        <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+    </mob>
+
+    <mob mobId="134"> #Poison Spiders
+        <drop rolls="1" itemAmount="1" itemId="526" /> #bones
+        <drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+        <drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+        <drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+        <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+    </mob>
+
+    <mob mobId="10181"> #Earth Warrior
+        <drop rolls="1" itemAmount="1" itemId="526" /> #bones
+        <drop rolls="5" itemAmount="1" itemId="2350" /> #Bronze Bar
+        <drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+        <drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+        <drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+        <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+    </mob>
+
+	<mob mobId="1195"> #Grizzly Bear
+		<drop rolls="1" itemAmount="1" itemId="526" /> #bones
+		<drop rolls="5" itemAmount="1" itemId="948" /> #Bear Fur
+		<drop rolls="5" itemAmount="1" itemId="2136" /> #Raw Bear Meat
+		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+		<drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+		<drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+	</mob>
+
+	<mob mobId="4927"> #Giant Rat
+		<drop rolls="1" itemAmount="1" itemId="526" /> #bones
+		<drop rolls="5" itemAmount="1" itemId="2134" /> #Raw Rat Meat
+		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+		<drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+		<drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+	</mob>
+
+	<mob mobId="82"> #Lesser Demon
+		<drop rolls="1" itemAmount="1" itemId="592" /> #Ashes
+		<drop rolls="15" itemAmount="50" itemAmountAddition="150" itemId="563" /> #Law Rune
+		<drop rolls="25" itemAmount="80" itemAmountAddition="190" itemId="560" /> #Death Rune
+		<drop rolls="5" itemAmount="150" itemAmountAddition="250" itemId="554" /> #Fire Rune
+		<drop rolls="35" itemAmount="70" itemAmountAddition="120" itemId="565" /> #Blood Rune
+		<drop rolls="15" itemAmount="100" itemAmountAddition="150" itemId="562" /> #Chaos Rune
+		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+		<drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+		<drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+	</mob>
+
+	<mob mobId="8645"> #Shade
+		<drop rolls="1" itemAmount="1" itemId="592" /> #Ashes
+		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
+		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
+		<drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
+		<drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
+	</mob>
    
 </mob_drops>
