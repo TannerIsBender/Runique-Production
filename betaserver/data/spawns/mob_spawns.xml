@@ -20,6 +20,16 @@
 
 	<spawn> # Santa
 		<id>8540</id>
+		<x>2782</x>
+		<y>3774</y>
+		<z>0</z>
+		<face>EAST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Santa
+		<id>8540</id>
 		<x>3101</x>
 		<y>3502</y>
 		<z>0</z>
