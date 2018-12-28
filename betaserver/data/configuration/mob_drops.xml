@@ -5767,10 +5767,13 @@
       <drop rolls="162" itemAmount="800" itemId="560" itemAmountAddition="1450" /> #death runes
       <drop rolls="162" itemAmount="800" itemId="562" itemAmountAddition="1450" /> #chaos runes
       <drop rolls="0" itemAmount="1" itemId="592" /> #Ashes
+	  
       <drop rolls="1051" itemAmount="1" itemId="13752" /> #Spectral sigil
       <drop rolls="2050" itemAmount="1" itemId="13746" /> #Arcane sigil
       <drop rolls="1460" itemAmount="1" itemId="13750" /> #Elysian sigil
       <drop rolls="4985" itemAmount="1" itemId="13748" /> #Divine sigil
+	  
+      <drop rolls="9945" itemAmount="1" itemId="21104" /> #Bloodbone spirit shield
       <drop rolls="850" itemAmount="1" itemId="13734" /> #Spirit shield
      
       <drop rolls="400" itemAmount="1" itemId="18335" /> #arcane stream necklace
