@@ -81,7 +81,7 @@
 		<drop rolls="800" itemAmount="1" itemId="1347" /> # rune warhammer
 		<drop rolls="274" itemAmount="1" itemId="1248" /> #rune spear
 		<drop rolls="362" itemAmount="1" itemId="1289" /> #Rune sword
-		<drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+		<drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 		<drop rolls="50" itemAmount="5000" itemId="995" itemAmountAddition="15500" />
 		<drop rolls="462" itemAmount="20" itemId="1784" /> #Bucket of Sand
 		<drop rolls="462" itemAmount="10" itemId="6017" /> #Cactus Spine
@@ -239,8 +239,8 @@
 
 	<mob mobId="7966"> # Chaos Druid
 		<drop rolls="1" itemAmount="1" itemId="526" /> #bones
-		<drop rolls="175" itemAmount="5" itemId="200" itemAmountAddition="20" /> #grimy guam
-		<drop rolls="10" itemAmount="5" itemId="202" itemAmountAddition="10" /> #grimy marrentill
+		<drop rolls="10" itemAmount="5" itemId="200" itemAmountAddition="20" /> #grimy guam
+		<drop rolls="25" itemAmount="5" itemId="202" itemAmountAddition="10" /> #grimy marrentill
 		<drop rolls="50" itemAmount="5" itemId="204" itemAmountAddition="10" /> #grimy tarromin
 		<drop rolls="100" itemAmount="10" itemId="206" itemAmountAddition="34" /> #grimy harralander
 		<drop rolls="125" itemAmount="10" itemId="210" itemAmountAddition="34" /> #grimy irit
@@ -818,7 +818,7 @@
 		<drop rolls="800" itemAmount="1" itemId="1347" /> # rune warhammer
 		<drop rolls="274" itemAmount="1" itemId="1248" /> #rune spear
 		<drop rolls="362" itemAmount="1" itemId="1289" /> #Rune sword
-		<drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+		<drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 		<drop rolls="50" itemAmount="5000" itemId="995" itemAmountAddition="15500" />
 		<drop rolls="462" itemAmount="20" itemId="1784" /> #Bucket of Sand
 		<drop rolls="462" itemAmount="10" itemId="6017" /> #Cactus Spine
@@ -960,7 +960,7 @@
 		<drop rolls="185" itemAmount="1" itemId="1319" /> # rune 2h sword
 		<drop rolls="995" itemAmount="1" itemId="15259" /> #dragon pickaxe
 		<drop rolls="800" itemAmount="1" itemId="7158" /> # Dragon 2h
-		<drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+		<drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 		<drop rolls="1001" itemAmount="1" itemId="12601" /> # Ring of the Gods
 		<drop rolls="300" itemAmount="250" itemId="566" itemAmountAddition="7" /> #soul rune
 		<drop rolls="310" itemAmount="300" itemId="560" itemAmountAddition="20" /> #death rune
@@ -1273,7 +1273,7 @@
       <drop rolls="1000" itemAmount="1" itemId="20096" /> # IT Ticket
       <drop rolls="0" itemAmount="1" itemId="20264" /> # impious ashes
       <drop rolls="0" itemAmount="1" itemId="2950" /> # golden feather
-	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+	  <drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 	  <drop rolls="1000" itemAmount="1" itemId="17743" /> # pet phoenix
 	  <drop rolls="350" itemAmount="1" itemAmountAddition="4" itemId="8785" /> #gold leaf
 	  <drop rolls="100" itemAmount="10" itemAmountAddition="10" itemId="1776" /> #molten glass
@@ -6900,7 +6900,7 @@
       <drop rolls="361" itemAmount="10" itemId="556" /> #air rune
 	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
       <drop rolls="362" itemAmount="7" itemId="560" /> #death rune
-	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+	  <drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
       <drop rolls="362" itemAmount="18" itemId="565" /> #blood rune
       <drop rolls="362" itemAmount="4" itemId="566" /> #soul rune
 	  <drop rolls="100" itemAmount="5" itemId="232" /> #Snape Grass
@@ -6919,7 +6919,7 @@
 	  <drop rolls="186" itemAmount="1" itemId="5004" /> #frog spawn
       <drop rolls="363" itemAmount="1" itemId="1325" /> #Steel scimitar
 	  <drop rolls="186" itemAmount="1" itemId="2970" /> #Mort Myre Fungus
-	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+	  <drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
 	    <drop rolls="180" itemAmount="1" itemId="9594" /> #Ground mud runes
       <drop rolls="361" itemAmount="1" itemId="1181" /> #Mithril sq shield
@@ -6993,7 +6993,7 @@
       <drop rolls="363" itemAmount="1" itemId="4153" /> #granite maul
       <drop rolls="361" itemAmount="1" itemId="554" /> #fire rune
 	     <drop rolls="180" itemAmount="1" itemId="6049" /> #Yew Roots
-	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+	  <drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 	    <drop rolls="180" itemAmount="1" itemId="6051" /> #magic roots
       <drop rolls="362" itemAmount="1" itemId="562" /> #chaos rune
 	  <drop rolls="362" itemAmount="1" itemId="3138" /> #Potato cactus
@@ -7059,7 +7059,7 @@
       <drop rolls="364" itemAmount="1" itemId="213" /> #grimy kwuarm
 	  <drop rolls="186" itemAmount="1" itemId="2970" /> #Mort Myre Fungus
 	  <drop rolls="186" itemAmount="1" itemId="11525" /> #Whimpy Feather
-	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+	  <drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
 	  <drop rolls="186" itemAmount="1" itemId="10111" /> #Kebbit Teeth Dust
 	  <drop rolls="102" itemAmount="1" itemId="1581" /> #Blamish Snail Sline
 	  <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
@@ -7112,7 +7112,7 @@
 	   <drop rolls="180" itemAmount="5" itemId="4255" /> #Bonemeal
       <drop rolls="363" itemAmount="1" itemId="1452" /> #Lantern lens
 	  <drop rolls="300" itemAmount="2" itemId="1976" /> #Chocolate Dust
-	  <drop rolls="50" itemAmount="5" itemId="4261" /> #phoenix feather
+	  <drop rolls="50" itemAmount="5" itemId="4621" /> #phoenix feather
       <drop rolls="60" itemAmount="1" itemId="2677" /> #Clue scroll (easy)
 	  <drop rolls="362" itemAmount="1" itemId="245" /> #Wine of Zamorak
       <drop rolls="13" itemAmount="1" itemId="12158" /> #Gold charm
@@ -9183,11 +9183,6 @@
       <drop rolls="162" itemAmount="1" itemId="1249" /> #dragon spear
    </mob>
    <mob mobId="130"> #Ganodermic Beast
-
-	  <drop rolls="25000" itemAmount="1" itemId="1588" /> #Flaming skull
-	  <drop rolls="25000" itemAmount="1" itemId="1589" /> #Flaming skull
-	  <drop rolls="25000" itemAmount="1" itemId="1590" /> #Flaming skull
-	  <drop rolls="25000" itemAmount="1" itemId="1591" /> #Flaming skull
 	  <drop rolls="5000" itemAmount="1" itemId="17767" /> #Ganodermic beast pet
 	  <drop rolls="2500" itemAmount="1" itemId="1585" /> #Ganodermic visor
 	  <drop rolls="2500" itemAmount="1" itemId="1586" /> #Ganodermic poncho

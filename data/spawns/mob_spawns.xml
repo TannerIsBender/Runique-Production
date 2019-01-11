@@ -1,4 +1,22 @@
 <list>
+	<!-- C<spawn> # Loyalty shop edge
+		<id>56780</id>
+		<x>3090</x>
+		<y>3499</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	<spawn> # Loyalty shop varrock
+		<id>56780</id>
+		<x>3195</x>
+		<y>3434</y>
+		<z>0</z>
+		<face>EAST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
 	<spawn> # Torfinn
 		<id>58131</id>
 		<x>2273</x>
@@ -8,6 +26,9 @@
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
+	
+	-->
+	<!-- Christmas Event
 	<spawn> # Santa
 		<id>8540</id>
 		<x>3167</x>
@@ -37,6 +58,8 @@
 		<walkDistance>2</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
+	-->
+	
 	<!-- Thanksgiving Event 
 	<spawn> # Cooks Brother
 		<id>8500</id>
@@ -1263,6 +1286,16 @@
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
+	<spawn> # Sigmund The Merchant - Staffzone
+		<id>1282</id>
+		<x>3694</x>
+		<y>3471</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
 	<spawn> # Sigmund The Merchant - Ezone
 		<id>1282</id>
 		<x>2973</x>
@@ -1437,6 +1470,16 @@
 		<id>970</id>
 		<x>3189</x>
 		<y>3431</y>
+		<z>0</z>
+		<face>SOUTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # Diango - Staffzone
+		<id>970</id>
+		<x>3693</x>
+		<y>3471</y>
 		<z>0</z>
 		<face>SOUTH</face>
 		<walkDistance>0</walkDistance>
@@ -6013,6 +6056,16 @@
 		<y>3803</y>
 		<z>0</z>
 		<face>SOUTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn> #Gambler
+		<id>2998</id>
+		<x>2456</x>
+		<y>3095</y>
+		<z>0</z>
+		<face>EAST</face>
 		<walkDistance>0</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
