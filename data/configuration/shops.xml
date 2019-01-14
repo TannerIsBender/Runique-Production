@@ -14,8 +14,117 @@
 	</shop>
 
 	<shop>
+		<id>70</id>
+		<name>Loyalty Cosmetics Store</name>
+		<currency>org.niobe.model.container.impl.currency.LoyaltyPointCurrency</currency>
+		
+        <item>
+            <id>4632</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>4633</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>4634</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>14078</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>14079</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>14080</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>50773</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>50775</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>50777</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>39925</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>39924</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>39923</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>39922</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>39921</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>43288</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>43283</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>43284</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>43285</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>43286</id>
+			<amount>2147483647</amount>
+        </item>
+		
+        <item>
+            <id>43287</id>
+			<amount>2147483647</amount>
+        </item>
+		
+	</shop>
+	
+        
+
+	<shop>
 		<id>68</id>
-		<name>Loyalty Benefits Store</name>
+		<name>Loyalty Point Exchange Store</name>
 		<currency>org.niobe.model.container.impl.currency.LoyaltyPointCurrency</currency>
 	
         
@@ -129,6 +238,56 @@
         
         <item>
             <id>20105</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15465</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15466</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15467</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15468</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15469</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15470</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15471</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15472</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15473</id>
+			<amount>2147483647</amount>
+        </item>
+        
+        <item>
+            <id>15474</id>
 			<amount>2147483647</amount>
         </item>
 	</shop>
@@ -7768,6 +7927,16 @@
 		</item>
 		
 		<item>
+			<id>2570</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>11090</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
 			<id>952</id>
 			<amount>100</amount>
 		</item>
@@ -8387,26 +8556,6 @@
             <amount>10</amount>
         </item>
         <item>
-            <id>43328</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43141</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43142</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43143</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43144</id>
-            <amount>10</amount>
-        </item>`
-        <item>
             <id>775</id>
             <amount>100</amount>
         </item>
@@ -8420,14 +8569,6 @@
         </item>
         <item>
             <id>6500</id>
-            <amount>100</amount>
-        </item>
-        <item>
-            <id>41941</id>
-            <amount>100</amount>
-        </item>
-        <item>
-            <id>42791</id>
             <amount>100</amount>
         </item>
         <item>
@@ -8458,6 +8599,12 @@
             <id>22218</id>
             <amount>100</amount>
         </item>
+		
+		<item>
+			<id>2949</id>
+			<amount>100</amount>
+		</item>
+		
 		<item>
 			<id>21410</id>
 			<amount>100</amount>
@@ -8499,7 +8646,22 @@
 		</item>	
 		
 		<item>
-			<id>4447</id>
+			<id>51028</id>
+			<amount>10</amount>
+		</item>
+		
+		<item>
+			<id>41735</id>
+			<amount>100</amount>
+		</item>	
+		
+		<item>
+			<id>41736</id>
+			<amount>100</amount>
+		</item>	
+		
+		<item>
+			<id>41737</id>
 			<amount>100</amount>
 		</item>
 		
