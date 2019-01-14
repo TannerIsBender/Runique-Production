@@ -196,8 +196,6 @@ aurelienribon.tweenengine.paths.CatmullRom -> BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7W
     void <init>() -> <init>
     void unpack(org.client.cache.Archive) -> zegfRrzyok7oOnZNa2bQ
     void edits(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
-    void checkDirectory() -> zegfRrzyok7oOnZNa2bQ
-    void save() -> o8LpqlzVuH0BWnvl7Bwf
 aurelienribon.tweenengine.paths.Linear -> BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.jmy4oZkNdrwtsSWkr2Jf:
     org.client.objects.Objects[] cache -> zegfRrzyok7oOnZNa2bQ
     org.client.stream.Stream dataStream -> zegfRrzyok7oOnZNa2bQ
@@ -761,7 +759,7 @@ org.client.Client -> org.client.Client:
     int spriteDrawY -> bqhQLVfDYcZNDUrzoNne
     boolean aBoolean972 -> wdBMuMjNSTnWy80ot7XS
     int anInt984 -> deaN3lGflaPS6UWSmWzj
-    int anInt985 -> m9U6m2tH3yfF3XXtpT7p
+    int lastPlane -> m9U6m2tH3yfF3XXtpT7p
     int anInt989 -> zg3qAoUSTVQ7fat7v0I
     int anInt995 -> qRNPgYeFMf6t9TN4KQaR
     int anInt996 -> AMBDQiltXJvZLcM0dVQi
@@ -773,9 +771,9 @@ org.client.Client -> org.client.Client:
     int daysSinceLastLogin -> EaHOO7UswLcDYLyfJcJ
     int pktSize -> qUDjGP4VYls2fa3DNKyM
     int pktType -> hq6PVBhS7HAjEnhcutct
-    int anInt1009 -> VSuh3v8bmoF5MCITbJpW
+    int netIdleCycles -> VSuh3v8bmoF5MCITbJpW
     int anInt1010 -> zBIVhQPXanbJORDNwWB
-    int anInt1011 -> cRwSGt3fG4t8vlk0KaG8
+    int logoutCycle -> cRwSGt3fG4t8vlk0KaG8
     org.client.cache.node.Deque aClass19_1013 -> zegfRrzyok7oOnZNa2bQ
     int currentCameraDisplayX -> i9RK5A9JGYwYENLgD6Hm
     int currentCameraDisplayY -> WgKVbfRZSBUSHQadOndn
@@ -965,15 +963,21 @@ org.client.Client -> org.client.Client:
     int[] redStonesY -> Vmob1PdkoeSY9m3KNdD
     int[] redStonesId -> alGADYrl23bvvAJ96ZrW
     boolean buildingMode -> sUQHpmCLI7NuMrWghLKa
+    long timeBlackScreen -> GL35SPonMOsEbgBVabqV
+    boolean blackScreenSaved -> iXmPvhKyfNqMJVMQF7p2
+    long timeReceivedPacket -> l85AzJRz6lyE4Vl88K5k
     java.lang.String displayText -> jFe5Rz8QzysESmfuss9p
+    boolean disconnected -> cejmDgj7ZUC34hjt8sv0
+    long timeDisconnected -> qxgenLXCcEdxF3gyMXs9
+    long timeDroppedClient -> TbzjV2hStiawKSKsFlLA
     java.awt.image.BufferedImage[] loadingImages -> zegfRrzyok7oOnZNa2bQ
     int lastPosition -> Wv2EBpUD43PfBwP6UAKw
-    boolean choosingLeftClick -> iXmPvhKyfNqMJVMQF7p2
+    boolean choosingLeftClick -> c3iMtA2HMvVh8yOvrpOo
     int leftClick -> NTJeB435RRQhuXHi8pTO
     java.lang.String[] leftClickNames -> atlY3JO2fO19pYIoHzm
     int[] leftClickActions -> n1qugYVnDUwGGPe7XPc2
     java.lang.String forcedTooltip -> qxgenLXCcEdxF3gyMXs9
-    boolean forcedTooltipHover -> cejmDgj7ZUC34hjt8sv0
+    boolean forcedTooltipHover -> SjZu9XvzgtkxLnklvvGA
     int[] CONTINUE_IDS -> hcQtyNGO0k1F2apIPYgU
     java.util.ArrayList achievements -> j0lwcLi9yupMwSGMc6Yi
     int[] tabIds -> lQpN0H1lgy0484JIxwMZ
@@ -985,9 +989,9 @@ org.client.Client -> org.client.Client:
     org.client.login.LoginScreenHovers loginScreenHovers -> zegfRrzyok7oOnZNa2bQ
     org.client.login.LoginScreenInput loginScreenInput -> zegfRrzyok7oOnZNa2bQ
     org.client.login.LoginScreen loginScreen -> zegfRrzyok7oOnZNa2bQ
-    boolean registering -> c3iMtA2HMvVh8yOvrpOo
+    boolean registering -> xr6qynXgSObOh91FRYeS
     org.client.accounts.AccountData currentAccount -> zegfRrzyok7oOnZNa2bQ
-    boolean inDoubleXp -> SjZu9XvzgtkxLnklvvGA
+    boolean inDoubleXp -> PD5QZilOgQ6N0t4I6tob
     int loadingStep -> mPSmwWhiDiqe1TSDplDj
     java.lang.String loadingText -> eI3hKv5sQBvLLAhZ9VJi
     int lastStep -> IWXdSkdUT8KggQX2oew
@@ -1001,22 +1005,26 @@ org.client.Client -> org.client.Client:
     int[] runeChildren -> MlM30fiuEwMZ1VG0UXNN
     int[] MAGIC_IDs -> kf9mbqPTLDa6QtTfsocg
     int currentBankTab -> nMxkOcan9B07yN23FB7i
-    boolean searchAfterBankRefresh -> xr6qynXgSObOh91FRYeS
+    boolean searchAfterBankRefresh -> rhquBIRqA9AqLbpSYmcZ
     org.client.interfaces.Interface selectedDropDownMenu -> j0lwcLi9yupMwSGMc6Yi
     int hoverDropDownAction -> rAF4Lv5te8HwHKIuAaOv
     int dropDownCurrentHeight -> bl058O5vrTXmlkzuNMGb
-    long lastChosenDropAction -> GL35SPonMOsEbgBVabqV
+    long lastChosenDropAction -> bCOkWBx1VUBUB0RCww1d
     int dialogueOptionUsed -> gD4aTjWr2c30AEhouwqM
     int screenGliding -> PMOQTzycHZaEgjS7B6qH
+    int currentSpec -> nNPChTHpuUqYlYupK6Ek
+    int specRequired -> F5cmyh40QyViiXbCpzA
+    boolean specActivated -> i7nhOQVIkAqNQMBV6yNt
+    boolean hasSpecWeapon -> JvaBhjPEs6EE2wEJUSvJ
     org.client.image.Sprite[] moneyPouchSprites -> xK8ZDrf4aYsrbSudjdm8
-    boolean pouchHover -> PD5QZilOgQ6N0t4I6tob
-    long moneyPouch -> l85AzJRz6lyE4Vl88K5k
-    boolean attackingnpc -> rhquBIRqA9AqLbpSYmcZ
-    boolean doingtask -> i7nhOQVIkAqNQMBV6yNt
-    boolean quickPrayers -> JvaBhjPEs6EE2wEJUSvJ
+    boolean pouchHover -> qmSRyuCFx3zaJBVcitwN
+    long moneyPouch -> lVNAbAYpHAUBn4BGO2vD
+    boolean attackingnpc -> deHMOLn15PfEwXRYVnD
+    boolean doingtask -> TK0EfiRTuu7k6ywuJUUL
+    boolean quickPrayers -> vUdUHXtaZA540fR3aKBS
     org.client.image.GameScreenFading gameScreenFading -> zegfRrzyok7oOnZNa2bQ
     boolean shiftIsDown -> GL35SPonMOsEbgBVabqV
-    boolean removeShiftDropOnMenuOpen -> qmSRyuCFx3zaJBVcitwN
+    boolean removeShiftDropOnMenuOpen -> HrEJtsMCcIbq8FmUSqqq
     int extendChatOffset -> r3eusMgyl3WRsGMmLXKe
     org.client.content.RunePouch getRunePouch() -> zegfRrzyok7oOnZNa2bQ
     void setGameFrame$3c41478f(int) -> zegfRrzyok7oOnZNa2bQ
@@ -1030,7 +1038,7 @@ org.client.Client -> org.client.Client:
     void addParticle(org.client.graphics.particles.Particle) -> zegfRrzyok7oOnZNa2bQ
     void <init>() -> <init>
     void tabToReplyPm() -> atlY3JO2fO19pYIoHzm
-    void changeAchButton(int) -> GNcrRWqAjsKahmOnium
+    void changeAchButton(int) -> sUQHpmCLI7NuMrWghLKa
     java.lang.String capitalize(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String capitalizeFirstLetter(java.lang.String) -> ah7AfEach1iGPyGBvMVe
     org.client.Client getClient() -> zegfRrzyok7oOnZNa2bQ
@@ -1042,18 +1050,18 @@ org.client.Client -> org.client.Client:
     void sendFrame126(java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
     int random(int) -> o8LpqlzVuH0BWnvl7Bwf
     void setTab(int) -> o8LpqlzVuH0BWnvl7Bwf
-    void getColorFromCoords(int) -> sUQHpmCLI7NuMrWghLKa
+    void getColorFromCoords(int) -> GL35SPonMOsEbgBVabqV
     void updateCompCapeColors() -> yABUjhrlMPHTRQqt3Ycv
     void randomColor(org.client.interfaces.Interface) -> o8LpqlzVuH0BWnvl7Bwf
     void putEquipmentOnMatcher() -> zh8oI0RNnWnZVLiHv2Tv
     void clearEquipmentMatcher() -> FJV2x2qTbgyiGwPlTCuj
-    void loadMatcherColors(int) -> GL35SPonMOsEbgBVabqV
+    void loadMatcherColors(int) -> l85AzJRz6lyE4Vl88K5k
     int getAutoCastTrans() -> GNcrRWqAjsKahmOnium
     void setFog(int,int) -> j0lwcLi9yupMwSGMc6Yi
     void setSidebarInterface(int,int) -> ah7AfEach1iGPyGBvMVe
-    void clickToggle(int) -> l85AzJRz6lyE4Vl88K5k
-    void loadCapePreset(int) -> qxgenLXCcEdxF3gyMXs9
-    void saveCapePreset(int) -> TbzjV2hStiawKSKsFlLA
+    void clickToggle(int) -> qxgenLXCcEdxF3gyMXs9
+    void loadCapePreset(int) -> TbzjV2hStiawKSKsFlLA
+    void saveCapePreset(int) -> bCOkWBx1VUBUB0RCww1d
     org.client.interfaces.Interface getColorBox(int) -> zegfRrzyok7oOnZNa2bQ
     org.client.interfaces.Interface getInterface(int) -> o8LpqlzVuH0BWnvl7Bwf
     void updateFogStatus() -> OVjcPaLDHGLsVlkL0f5e
@@ -1062,13 +1070,13 @@ org.client.Client -> org.client.Client:
     void saveNote(int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void saveNoteDelete(int) -> j0lwcLi9yupMwSGMc6Yi
     void saveNoteDeleteAll() -> zegfRrzyok7oOnZNa2bQ
-    void processTabAreaTooltips(int) -> bCOkWBx1VUBUB0RCww1d
+    void processTabAreaTooltips(int) -> lVNAbAYpHAUBn4BGO2vD
     boolean inWorldMap() -> qxgenLXCcEdxF3gyMXs9
     java.lang.String getClipboardContents() -> zegfRrzyok7oOnZNa2bQ
     void processMinimapActionsOSRS() -> vvUeHCHbtoMM4m74SemE
     void processMinimapActions667() -> KxS76HXEWZAsJhC0Xmku
-    void saveGoals(java.lang.String) -> ah7AfEach1iGPyGBvMVe
-    void loadGoals(java.lang.String) -> WmaQ5jstFwxwTqaXrTp
+    void saveGoals(java.lang.String) -> WmaQ5jstFwxwTqaXrTp
+    void loadGoals(java.lang.String) -> GNcrRWqAjsKahmOnium
     int getOrbX(int) -> j0lwcLi9yupMwSGMc6Yi
     int getOrbY(int) -> ah7AfEach1iGPyGBvMVe
     org.client.login.LoginScreenDisplay getLoginScreenDisplay() -> zegfRrzyok7oOnZNa2bQ
@@ -1078,6 +1086,7 @@ org.client.Client -> org.client.Client:
     boolean isFixed() -> zegfRrzyok7oOnZNa2bQ
     boolean isResizable() -> TbzjV2hStiawKSKsFlLA
     boolean isFullscreen() -> o8LpqlzVuH0BWnvl7Bwf
+    void setScreenMode$104e7895(int) -> ah7AfEach1iGPyGBvMVe
     void setResizing(boolean) -> o8LpqlzVuH0BWnvl7Bwf
     void addXP(int,int) -> WmaQ5jstFwxwTqaXrTp
     java.lang.String capitalizeWords(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
@@ -1097,8 +1106,8 @@ org.client.Client -> org.client.Client:
     void processMenuClick() -> rt5vrgunjQKoxhUgwtVQ
     void loadRegion() -> jFe5Rz8QzysESmfuss9p
     void unlinkMRUNodes() -> eI3hKv5sQBvLLAhZ9VJi
-    void renderMapScene(int) -> lVNAbAYpHAUBn4BGO2vD
-    void clearInterface(int) -> atlY3JO2fO19pYIoHzm
+    void renderMapScene(int) -> atlY3JO2fO19pYIoHzm
+    void clearInterface(int) -> yABUjhrlMPHTRQqt3Ycv
     void spawnGroundItem(int,int) -> GNcrRWqAjsKahmOnium
     void method26(boolean) -> j0lwcLi9yupMwSGMc6Yi
     void summoningActions(java.lang.String,int,int) -> zegfRrzyok7oOnZNa2bQ
@@ -1108,7 +1117,7 @@ org.client.Client -> org.client.Client:
     void drawScrollbar(int,int,int,int,int,boolean,boolean) -> zegfRrzyok7oOnZNa2bQ
     void updateNPCs(org.client.stream.Stream,int) -> zegfRrzyok7oOnZNa2bQ
     void processChatModeClick667() -> dLKI3WIsekcLc7gA5agR
-    void toggleConfig(int) -> yABUjhrlMPHTRQqt3Ycv
+    void toggleConfig(int) -> zh8oI0RNnWnZVLiHv2Tv
     void updateEntities() -> ad5tsUpql5craIAutrnc
     void delFriend(long) -> zegfRrzyok7oOnZNa2bQ
     void drawTabArea() -> Ijgt3rtBivpAoELJGffV
@@ -1116,7 +1125,7 @@ org.client.Client -> org.client.Client:
     void drawMenu(int,int) -> sUQHpmCLI7NuMrWghLKa
     void addFriend(long) -> o8LpqlzVuH0BWnvl7Bwf
     int method42(int,int,int) -> zegfRrzyok7oOnZNa2bQ
-    void resetLogout() -> gAElBqclZtwCEO1fG4sL
+    void logOutUpdate() -> gAElBqclZtwCEO1fG4sL
     void method45() -> Im91UWfMksvaDHWOw5ZZ
     void method46(int,org.client.stream.Stream) -> zegfRrzyok7oOnZNa2bQ
     void processGameLoop() -> j0lwcLi9yupMwSGMc6Yi
@@ -1124,11 +1133,12 @@ org.client.Client -> org.client.Client:
     boolean promptUserForInput(org.client.interfaces.Interface) -> zegfRrzyok7oOnZNa2bQ
     void method49(org.client.stream.Stream) -> zegfRrzyok7oOnZNa2bQ
     void method50(int,int,int,int,int) -> o8LpqlzVuH0BWnvl7Bwf
-    void showInterface(int) -> ah7AfEach1iGPyGBvMVe
+    void showInterface(int) -> WmaQ5jstFwxwTqaXrTp
     void displayLoading(java.lang.String[]) -> zegfRrzyok7oOnZNa2bQ
     java.applet.AppletContext getAppletContext() -> getAppletContext
     void processOnDemandQueue() -> pnJZ1Dg1wWn5IcCxVjiD
-    void openInterface(int) -> zh8oI0RNnWnZVLiHv2Tv
+    void openInterface(int) -> FJV2x2qTbgyiGwPlTCuj
+    boolean isDisconnected() -> bCOkWBx1VUBUB0RCww1d
     void mainGameProcessor() -> ciEQZ5eEOLHd2fUpZaqZ
     void method63() -> n10dG3nOWoFxVxgtPS0H
     void resetImageProducers() -> HyVa0Fs8q0dQg2PZhUeq
@@ -1136,7 +1146,7 @@ org.client.Client -> org.client.Client:
     boolean calculateGameObjectPath(int,int,int,int) -> ah7AfEach1iGPyGBvMVe
     org.client.cache.Archive getArchive$2b012487(int,java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
     void dropClient() -> v0eBuYRa67PuHBVoYdQ
-    void doAction(int) -> FJV2x2qTbgyiGwPlTCuj
+    void doAction(int) -> OVjcPaLDHGLsVlkL0f5e
     int getRegionId() -> sUQHpmCLI7NuMrWghLKa
     void selectDropDownAction(org.client.interfaces.Interface,int) -> zegfRrzyok7oOnZNa2bQ
     void setConfig(int,int) -> GL35SPonMOsEbgBVabqV
@@ -1152,15 +1162,15 @@ org.client.Client -> org.client.Client:
     boolean contains(java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void sendString(int,java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
     void searchBank(long) -> j0lwcLi9yupMwSGMc6Yi
-    void buildFriendChat(int) -> OVjcPaLDHGLsVlkL0f5e
-    void buildDuelorTrade(int) -> xK8ZDrf4aYsrbSudjdm8
-    void buildChatAreaMenu(int) -> XgVOdK5rEJ9e7nwIJrXu
+    void buildFriendChat(int) -> xK8ZDrf4aYsrbSudjdm8
+    void buildDuelorTrade(int) -> XgVOdK5rEJ9e7nwIJrXu
+    void buildChatAreaMenu(int) -> vvUeHCHbtoMM4m74SemE
     void drawFriendsListOrWelcomeScreen(org.client.interfaces.Interface) -> j0lwcLi9yupMwSGMc6Yi
     void drawSplitPrivateChat() -> tu0urvakqNRdlsYXyxzI
     void pushMessage(java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void pushMessage$a27b1e1(java.lang.String,java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void pushMessage$7e73afc2(java.lang.String,int,java.lang.String,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
-    void clickTab(int) -> vvUeHCHbtoMM4m74SemE
+    void clickTab(int) -> KxS76HXEWZAsJhC0Xmku
     void check() -> PZAN6E5sfBGkw7JdpjtF
     void resetImageProducers2() -> knus2gGEJQWa11g3f0x7
     void method81(org.client.image.Sprite,int,int) -> zegfRrzyok7oOnZNa2bQ
@@ -1178,7 +1188,7 @@ org.client.Client -> org.client.Client:
     void setBanners() -> mrnWAHEOlecVd6ReRJD
     void drawLoadingText(int,java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     void drawLoad(java.lang.String,int) -> o8LpqlzVuH0BWnvl7Bwf
-    void load(java.lang.String) -> GNcrRWqAjsKahmOnium
+    void load(java.lang.String) -> sUQHpmCLI7NuMrWghLKa
     org.client.objects.RemoveLocalObjects getRemoveLocalObjects() -> zegfRrzyok7oOnZNa2bQ
     void startUp() -> GNcrRWqAjsKahmOnium
     boolean isDeveloper() -> j0lwcLi9yupMwSGMc6Yi
@@ -1235,32 +1245,32 @@ org.client.Client -> org.client.Client:
     void sendPacket185(int,int,int) -> o8LpqlzVuH0BWnvl7Bwf
     void sendFrame36(int,int) -> qxgenLXCcEdxF3gyMXs9
     void openOptionsInterface() -> i7nhOQVIkAqNQMBV6yNt
-    void processObj(java.lang.String) -> sUQHpmCLI7NuMrWghLKa
+    void processObj(java.lang.String) -> GL35SPonMOsEbgBVabqV
     void sendFrame248(int,int) -> TbzjV2hStiawKSKsFlLA
-    boolean parsePacket() -> bCOkWBx1VUBUB0RCww1d
+    boolean parsePacket() -> lVNAbAYpHAUBn4BGO2vD
     boolean cheapHaxPacket(java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
     void changeSprite(int,int,int,int[]) -> zegfRrzyok7oOnZNa2bQ
     void menuActionsRow(java.lang.String,int,int,int) -> zegfRrzyok7oOnZNa2bQ
-    void handleAchievementDescription(java.lang.String) -> GL35SPonMOsEbgBVabqV
+    void handleAchievementDescription(java.lang.String) -> l85AzJRz6lyE4Vl88K5k
     void sendShopBuy(int,int) -> bCOkWBx1VUBUB0RCww1d
     void sendShopSell(int,int) -> lVNAbAYpHAUBn4BGO2vD
-    void sendShopValue(int) -> KxS76HXEWZAsJhC0Xmku
-    void sendShopSellValue(int) -> nMxkOcan9B07yN23FB7i
+    void sendShopValue(int) -> nMxkOcan9B07yN23FB7i
+    void sendShopSellValue(int) -> r3eusMgyl3WRsGMmLXKe
     void renderParticles() -> JvaBhjPEs6EE2wEJUSvJ
-    void animateTextures(int) -> r3eusMgyl3WRsGMmLXKe
+    void animateTextures(int) -> ySM9kDtoo3yAYeDoFUQx
     void clearTopInterfaces() -> TbzjV2hStiawKSKsFlLA
     void summoningInterfaceUpdate(java.lang.String,int) -> ah7AfEach1iGPyGBvMVe
     void uLinkNodes() -> bCOkWBx1VUBUB0RCww1d
     void executeInput(int,int) -> atlY3JO2fO19pYIoHzm
-    void setText(java.lang.String) -> l85AzJRz6lyE4Vl88K5k
-    boolean chatStateCheck() -> lVNAbAYpHAUBn4BGO2vD
+    void setText(java.lang.String) -> qxgenLXCcEdxF3gyMXs9
+    boolean chatStateCheck() -> atlY3JO2fO19pYIoHzm
     void drawChatArea() -> qmSRyuCFx3zaJBVcitwN
     boolean isAdministrator() -> ah7AfEach1iGPyGBvMVe
     boolean isServerSupport() -> WmaQ5jstFwxwTqaXrTp
     boolean isModerator() -> GNcrRWqAjsKahmOnium
     boolean isHeadModerator() -> sUQHpmCLI7NuMrWghLKa
     boolean isOwner() -> GL35SPonMOsEbgBVabqV
-    void detectCursor(int) -> ySM9kDtoo3yAYeDoFUQx
+    void detectCursor(int) -> ft7hHf8eIXN3AI5mic2
     boolean hovered(org.client.interfaces.Interface) -> j0lwcLi9yupMwSGMc6Yi
     org.client.MapTheme getMapTheme() -> zegfRrzyok7oOnZNa2bQ
     void setMapTheme(org.client.MapTheme) -> zegfRrzyok7oOnZNa2bQ
@@ -1268,10 +1278,10 @@ org.client.Client -> org.client.Client:
     void depositBank(int,int,int) -> j0lwcLi9yupMwSGMc6Yi
     void drawConsoleArea() -> deHMOLn15PfEwXRYVnD
     void consoleMessage(java.lang.String,boolean) -> zegfRrzyok7oOnZNa2bQ
-    void performCommand(java.lang.String) -> qxgenLXCcEdxF3gyMXs9
+    void performCommand(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
     void drawTooltipHover$255f295() -> TK0EfiRTuu7k6ywuJUUL
-    void launchURL(java.lang.String) -> o8LpqlzVuH0BWnvl7Bwf
-    void openUrl(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
+    void launchURL(java.lang.String) -> j0lwcLi9yupMwSGMc6Yi
+    void openUrl(java.lang.String) -> ah7AfEach1iGPyGBvMVe
     boolean isRegistering() -> l85AzJRz6lyE4Vl88K5k
     void lambda$parsePacket$0(long,org.nikkii.alertify4j.ui.AlertifyWindow) -> zegfRrzyok7oOnZNa2bQ
     int access$100(org.client.Client) -> zegfRrzyok7oOnZNa2bQ
@@ -1473,7 +1483,7 @@ org.client.GameRenderer -> org.client.MvrjpQ6GsfNB4fXMifcb:
     void updateGraphics(boolean) -> zegfRrzyok7oOnZNa2bQ
     void run() -> run
     void exit() -> lVNAbAYpHAUBn4BGO2vD
-    void method4(int) -> WmaQ5jstFwxwTqaXrTp
+    void method4(int) -> GNcrRWqAjsKahmOnium
     void start() -> start
     void stop() -> stop
     void destroy() -> destroy
@@ -1628,9 +1638,9 @@ org.client.List -> org.client.zVmPkXvZW1TQoyEuzTMu:
     void removeFromCache(org.client.cache.node.NodeSub,long) -> zegfRrzyok7oOnZNa2bQ
     void unlinkAll() -> zegfRrzyok7oOnZNa2bQ
 org.client.MapTheme -> org.client.YmCfWCRPEHjmNJVqMpvW:
-    org.client.MapTheme DEFAULT -> o8LpqlzVuH0BWnvl7Bwf
-    org.client.MapTheme HALLOWEEN -> j0lwcLi9yupMwSGMc6Yi
-    org.client.MapTheme CHRISTMAS -> zegfRrzyok7oOnZNa2bQ
+    org.client.MapTheme DEFAULT -> zegfRrzyok7oOnZNa2bQ
+    org.client.MapTheme HALLOWEEN -> o8LpqlzVuH0BWnvl7Bwf
+    org.client.MapTheme CHRISTMAS -> j0lwcLi9yupMwSGMc6Yi
     org.client.MapTheme DARK -> ah7AfEach1iGPyGBvMVe
     org.client.MapTheme SKY -> WmaQ5jstFwxwTqaXrTp
     org.client.MapTheme AUTUMN -> GNcrRWqAjsKahmOnium
@@ -2699,13 +2709,16 @@ org.client.commands.impl.DumpRegionsForList -> org.client.sNABdcybf00D4XEqb6yd.B
 org.client.commands.impl.ReloadInterfaceDefs -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.lxKcaRMfX9mWWNmFfIC:
     void <init>(org.client.entity.PlayerRights) -> <init>
     void execute(java.lang.String[],org.client.entity.PlayerRights) -> zegfRrzyok7oOnZNa2bQ
-org.client.commands.impl.SetSetting -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
+org.client.commands.impl.ResetTimers -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
     void <init>(org.client.entity.PlayerRights) -> <init>
     void execute(java.lang.String[],org.client.entity.PlayerRights) -> zegfRrzyok7oOnZNa2bQ
-org.client.commands.impl.TestingCommand -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
+org.client.commands.impl.SetSetting -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
     void <init>(org.client.entity.PlayerRights) -> <init>
     void execute(java.lang.String[],org.client.entity.PlayerRights) -> zegfRrzyok7oOnZNa2bQ
-org.client.commands.impl.ToggleData -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
+org.client.commands.impl.TestingCommand -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
+    void <init>(org.client.entity.PlayerRights) -> <init>
+    void execute(java.lang.String[],org.client.entity.PlayerRights) -> zegfRrzyok7oOnZNa2bQ
+org.client.commands.impl.ToggleData -> org.client.sNABdcybf00D4XEqb6yd.BzQ40kAEwAt7WfH0gLjp.w7XGBNIzBWYdu39yVIu0:
     void <init>(org.client.entity.PlayerRights) -> <init>
     void execute(java.lang.String[],org.client.entity.PlayerRights) -> zegfRrzyok7oOnZNa2bQ
 org.client.content.BoxRewards -> org.client.tL3AmLOiN2VWx4yJhl2z.i280lUpkLge7fC1AJULi:
@@ -4250,6 +4263,7 @@ org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SafeBosses$Option -> org
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SafeBosses$Option CURSEBEARER -> atlY3JO2fO19pYIoHzm
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SafeBosses$Option GANODERMIC_BEAST -> yABUjhrlMPHTRQqt3Ycv
     org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SafeBosses$Option KALPHITE_QUEEN -> zh8oI0RNnWnZVLiHv2Tv
+    org.client.interfaces.chatbox.hierarchy.TeleportChatbox$SafeBosses$Option BARRELCHEST -> FJV2x2qTbgyiGwPlTCuj
     int shortcutKey -> zegfRrzyok7oOnZNa2bQ
     java.lang.String name -> zegfRrzyok7oOnZNa2bQ
     java.lang.String description -> o8LpqlzVuH0BWnvl7Bwf
@@ -5218,6 +5232,7 @@ org.client.interfaces.impl.NotesTab -> org.client.RVywWX1KDevJLt7SiV10.sNABdcybf
     int countNoteLines(int) -> o8LpqlzVuH0BWnvl7Bwf
     int getNoteLine(int) -> j0lwcLi9yupMwSGMc6Yi
     int getNoteId(int) -> ah7AfEach1iGPyGBvMVe
+    java.lang.String getNoteText$47921032() -> sUQHpmCLI7NuMrWghLKa
     void updateNoteAmounts() -> o8LpqlzVuH0BWnvl7Bwf
     void addNote(org.client.Client,java.lang.String,int,boolean) -> zegfRrzyok7oOnZNa2bQ
     void selectNote(int) -> c3iMtA2HMvVh8yOvrpOo
@@ -5227,7 +5242,6 @@ org.client.interfaces.impl.NotesTab -> org.client.RVywWX1KDevJLt7SiV10.sNABdcybf
     void setEdittedNote(java.lang.String) -> l85AzJRz6lyE4Vl88K5k
     void deleteNote() -> ah7AfEach1iGPyGBvMVe
     void deleteNotes() -> WmaQ5jstFwxwTqaXrTp
-    void deleteNote(int) -> SjZu9XvzgtkxLnklvvGA
     void handleButtons(org.client.Client,int,int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
 org.client.interfaces.impl.NpcTracker -> org.client.RVywWX1KDevJLt7SiV10.sNABdcybf00D4XEqb6yd.cXWmjyoFXEHD3SJGQeiH:
@@ -5350,13 +5364,14 @@ org.client.items.Item -> org.client.kkk8LpX7kQCcAAtAkeZn.i280lUpkLge7fC1AJULi:
     int scaleX -> r3eusMgyl3WRsGMmLXKe
     int scaleY -> ySM9kDtoo3yAYeDoFUQx
     int scaleZ -> ft7hHf8eIXN3AI5mic2
-    int modelLighting -> rt5vrgunjQKoxhUgwtVQ
-    int modelShadowing -> jFe5Rz8QzysESmfuss9p
-    int team -> eI3hKv5sQBvLLAhZ9VJi
-    int lendId -> dLKI3WIsekcLc7gA5agR
-    int lendTemplateId -> ad5tsUpql5craIAutrnc
+    int equipScale -> rt5vrgunjQKoxhUgwtVQ
+    int modelLighting -> jFe5Rz8QzysESmfuss9p
+    int modelShadowing -> eI3hKv5sQBvLLAhZ9VJi
+    int team -> dLKI3WIsekcLc7gA5agR
+    int lendId -> ad5tsUpql5craIAutrnc
+    int lendTemplateId -> Ijgt3rtBivpAoELJGffV
     boolean lentItem -> j0lwcLi9yupMwSGMc6Yi
-    int dataType$4672f2dd -> Ijgt3rtBivpAoELJGffV
+    int dataType$4672f2dd -> nEvgT7qqUFHI0eRdTkPV
     void <init>() -> <init>
     void setModelId(int) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
@@ -5443,6 +5458,8 @@ org.client.items.Item -> org.client.kkk8LpX7kQCcAAtAkeZn.i280lUpkLge7fC1AJULi:
     void imitate(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     int getDataType$4c68d53c() -> ySM9kDtoo3yAYeDoFUQx
     void setDataType$6f837a3e(int) -> Ijgt3rtBivpAoELJGffV
+    int getEquipScale() -> ft7hHf8eIXN3AI5mic2
+    void setEquipScale(int) -> nEvgT7qqUFHI0eRdTkPV
 org.client.items.ItemDef -> org.client.kkk8LpX7kQCcAAtAkeZn.jmy4oZkNdrwtsSWkr2Jf:
     org.client.List oldschoolList2 -> zegfRrzyok7oOnZNa2bQ
     org.client.List rs742List2 -> o8LpqlzVuH0BWnvl7Bwf
@@ -5695,336 +5712,352 @@ org.client.items.impl.InfernalCape -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwA
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.InfernalMask -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.vG8w839Txe5OCkFsTWQf:
+org.client.items.impl.InfernalMaxCape -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.vG8w839Txe5OCkFsTWQf:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.InfernalMaxCape -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.U7dhzZr39pcNGNF4Sx8H:
+org.client.items.impl.KnightsLamp -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.U7dhzZr39pcNGNF4Sx8H:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.InfernalPlatebody -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.H3os2AP4pyCAXA4WeqGO:
+org.client.items.impl.LimeWhip -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.H3os2AP4pyCAXA4WeqGO:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.InfernalPlatelegs -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.wR53cMBUyuYr9DjA2Ryq:
+org.client.items.impl.LimeWhipMix -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.wR53cMBUyuYr9DjA2Ryq:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.KnightsLamp -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aX6WvB0SobPULb4xBSuh:
+org.client.items.impl.MagmaBlowpipe -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aX6WvB0SobPULb4xBSuh:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.LimeWhip -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Epc34UPfgTmIJuzLLqYw:
+org.client.items.impl.MarbleBlock -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Epc34UPfgTmIJuzLLqYw:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.LimeWhipMix -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.hDFl9yjwgO5nccrkCbaR:
+org.client.items.impl.MbowImbue -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.hDFl9yjwgO5nccrkCbaR:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.MagmaBlowpipe -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.pF84I2bYUO2WiAUEA9Y1:
-    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
-    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
-    void <clinit>() -> <clinit>
-org.client.items.impl.MarbleBlock -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.M8JgYzd7XoPaRIGVFR0q:
-    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
-    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
-    void <clinit>() -> <clinit>
-org.client.items.impl.MbowImbue -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.jYDaT5h6ZZ7Ury5GYi8g:
-    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
-    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
-    void <clinit>() -> <clinit>
-org.client.items.impl.ModelPriorities -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.NO7TUS417iVHB0nYJKPj:
+org.client.items.impl.ModelPriorities -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.pF84I2bYUO2WiAUEA9Y1:
     int[] ITEM_IDS -> zegfRrzyok7oOnZNa2bQ
     void edits(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.MysteryBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Fi4pKpLXCKqQRFjuRaC:
+org.client.items.impl.MysteryBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.M8JgYzd7XoPaRIGVFR0q:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.NotedItems -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.mFg84bDlPnM4KplPBH4q:
+org.client.items.impl.NotedItems -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.jYDaT5h6ZZ7Ury5GYi8g:
     int[][] ITEM_CONVERSION -> zegfRrzyok7oOnZNa2bQ
     void edits(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.OSRSItemConversion -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.UJYNGcpjzWAstxyl6rom:
+org.client.items.impl.OSRSItemConversion -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.NO7TUS417iVHB0nYJKPj:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.OculusOrb -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.t7sVfQSdeRQoIJdWrJv8:
+org.client.items.impl.OculusOrb -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Fi4pKpLXCKqQRFjuRaC:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.OldschoolHatFixes -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.h5I3khR3Oy2bv3f8XR6H:
+org.client.items.impl.OldschoolHatFixes -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.mFg84bDlPnM4KplPBH4q:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.OldschoolWeaponFixes -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.ZEHkG7WLuj4akjXbYW7v:
+org.client.items.impl.OldschoolWeaponFixes -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.UJYNGcpjzWAstxyl6rom:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.PegasianBody -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.asDBim2To0Ub1rKWqeo:
+org.client.items.impl.PegasianBody -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.t7sVfQSdeRQoIJdWrJv8:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.PegasianChaps -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.a4eDsD90DhBTrHePxDh:
+org.client.items.impl.PegasianChaps -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.h5I3khR3Oy2bv3f8XR6H:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.PegasianCoif -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.JK0OQngz58qEoVQTmHUC:
+org.client.items.impl.PegasianCoif -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.ZEHkG7WLuj4akjXbYW7v:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.PrisonSoap -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.wQXs4iabOn3jtj98NBzY:
+org.client.items.impl.PrisonSoap -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.asDBim2To0Ub1rKWqeo:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.RCHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.yUadI9nHpFOH9IFeYan3:
+org.client.items.impl.RCHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.a4eDsD90DhBTrHePxDh:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.RingOfWealthImbued -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.JFZ9lKU6CGNzGzBC6U85:
+org.client.items.impl.RingOfWealthImbued -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.JK0OQngz58qEoVQTmHUC:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.RuniqueMysteryBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.gh6hHfQj1A8sepY0XYj2:
+org.client.items.impl.RuniqueMysteryBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.wQXs4iabOn3jtj98NBzY:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SaraBlessedFull -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.geeUxHWOQJdBYdjFK8c:
+org.client.items.impl.SaraBlessedFull -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.yUadI9nHpFOH9IFeYan3:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SaraTear -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.AorzLtN1OhxZ2DwxAd3:
+org.client.items.impl.SaraTear -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.JFZ9lKU6CGNzGzBC6U85:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SaraWhip -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.zko32P9ybx9LSkWBzjbi:
+org.client.items.impl.SaraWhip -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.gh6hHfQj1A8sepY0XYj2:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.ShadowWhip -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Kyr68xmRDnd8Y09DpliF:
+org.client.items.impl.SecondaryBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.geeUxHWOQJdBYdjFK8c:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SilverBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.LApgMXWDKoclpQlJOrAU:
+org.client.items.impl.ShadowWhip -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.AorzLtN1OhxZ2DwxAd3:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SirOwen -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.UpDIVtyyEj43hDv3x6M6:
+org.client.items.impl.SilverBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.zko32P9ybx9LSkWBzjbi:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SkeletonSetBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Ttvq8ATDU1Unp1BP604p:
+org.client.items.impl.SirOwen -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Kyr68xmRDnd8Y09DpliF:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SkillingCoins -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.cjVFQst9FLcZywKLWyk4:
+org.client.items.impl.SkeletonSetBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.LApgMXWDKoclpQlJOrAU:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.SkillingCoins -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.UpDIVtyyEj43hDv3x6M6:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     int[][] STACK_IDS -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SlayerHelmets -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.g1A1bGsQUsVmch0N4Yqy:
+org.client.items.impl.SlayerHelmets -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Ttvq8ATDU1Unp1BP604p:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SlayerScroll -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aZe8AVJl8e0V3LCIOaSb:
+org.client.items.impl.SlayerScroll -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.cjVFQst9FLcZywKLWyk4:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SmickersAmulet -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.RCGmCLXKLV88ikZGUoWf:
+org.client.items.impl.SmickersAmulet -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.g1A1bGsQUsVmch0N4Yqy:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SpicyStew -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aKbz39jz61YaH4kqcS3C:
+org.client.items.impl.SpicyStew -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aZe8AVJl8e0V3LCIOaSb:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SuperiorAmulet -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.WVaNiHvdecMJCTHpUajz:
+org.client.items.impl.SuperiorAmulet -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.RCGmCLXKLV88ikZGUoWf:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.SuperiorAmuletPink -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.p6QAPIr4l54xObGZZAyZ:
+org.client.items.impl.SuperiorAmuletPink -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aKbz39jz61YaH4kqcS3C:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TaskMasterKey -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Q0a9cDE3PLNiIoUXcw1:
+org.client.items.impl.TaskMasterKey -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.WVaNiHvdecMJCTHpUajz:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TestItem -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.RGjebp7upFiPdMBCVyL:
+org.client.items.impl.TestItem -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.p6QAPIr4l54xObGZZAyZ:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.ThanksgivingBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.NRS1TW0KIEsXv6x0Fryk:
+org.client.items.impl.ThanksgivingBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Q0a9cDE3PLNiIoUXcw1:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.ThanksgivingPie -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.cJwNlxH5mFyHiR16mJF5:
+org.client.items.impl.ThanksgivingPie -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.RGjebp7upFiPdMBCVyL:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.ThirdAgeBow -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.vMX18kWqlgEcULNnjqvA:
+org.client.items.impl.ThirdAgeBow -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.NRS1TW0KIEsXv6x0Fryk:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.ThirdAgeSword -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.ma14vac5YzjzDhTPaJy:
+org.client.items.impl.ThirdAgeSword -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.cJwNlxH5mFyHiR16mJF5:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.ThirdAgeWand -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.zrgxVCWU5MeUhsZBJ6x:
+org.client.items.impl.ThirdAgeWand -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.vMX18kWqlgEcULNnjqvA:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TokHaarKal -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.r1Qyxp7JF07pf9FYrWFs:
+org.client.items.impl.TokHaarKal -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.ma14vac5YzjzDhTPaJy:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TrustedDice -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aLjpkB6QyMzJNkSRLLUl:
+org.client.items.impl.TrustedToken -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.zrgxVCWU5MeUhsZBJ6x:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TrustedSeeds -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.irR363BXVzjJu7Gs12CJ:
+org.client.items.impl.TylersClaws -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.r1Qyxp7JF07pf9FYrWFs:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TrustedToken -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.muFnS16KBijdioaXwI8:
+org.client.items.impl.UniqueBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.aLjpkB6QyMzJNkSRLLUl:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TylersClaws -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.y7OuKoeYfLkU7q2iQGiG:
+org.client.items.impl.VoteBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.irR363BXVzjJu7Gs12CJ:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.UniqueBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.AaVFf0kgynAC0OOkIvM3:
+org.client.items.impl.WrappedCandy -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.muFnS16KBijdioaXwI8:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.VoteBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.IGYIEFORU2jkncqMu5fG:
+org.client.items.impl.master_wizard.MasterWizardBottoms -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.i280lUpkLge7fC1AJULi:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.WrappedCandy -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.B9cY6bGs2Jkue1ddtc:
+org.client.items.impl.master_wizard.MasterWizardHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.jmy4oZkNdrwtsSWkr2Jf:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.AquaDefender -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.i280lUpkLge7fC1AJULi:
+org.client.items.impl.master_wizard.MasterWizardTop -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.emYY4qadEhxoNljI05xV:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.AquaHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.jmy4oZkNdrwtsSWkr2Jf:
+org.client.items.impl.rares.AquaDefender -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.i280lUpkLge7fC1AJULi:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.AquaPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.emYY4qadEhxoNljI05xV:
+org.client.items.impl.rares.AquaHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.jmy4oZkNdrwtsSWkr2Jf:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BlackBoxingGloves -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rCoR0eubkX2T0fevF3r3:
+org.client.items.impl.rares.AquaPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.emYY4qadEhxoNljI05xV:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BlackDefender -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.gkZ3vwOjtbv84uCmMQCu:
+org.client.items.impl.rares.BlackBoxingGloves -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.rCoR0eubkX2T0fevF3r3:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BlackHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BniOkbZ3rMyf6e0JYKTq:
+org.client.items.impl.rares.BlackDefender -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.gkZ3vwOjtbv84uCmMQCu:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BlackPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.KzcpEsyLU6031QYHNdcx:
+org.client.items.impl.rares.BlackHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.BniOkbZ3rMyf6e0JYKTq:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BlackSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.FEgyRkin7ex8D9ommOC2:
+org.client.items.impl.rares.BlackPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.KzcpEsyLU6031QYHNdcx:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BlueSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.oooYZzg0g71HWfYdQ0Au:
+org.client.items.impl.rares.BlackSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.FEgyRkin7ex8D9ommOC2:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.BronzePartyhat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.N50upRPBFYnxm3ATMgmM:
+org.client.items.impl.rares.BlueSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.oooYZzg0g71HWfYdQ0Au:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.GreenSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.WGMdVXjpjbRowG3slrG:
+org.client.items.impl.rares.BronzePartyhat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.N50upRPBFYnxm3ATMgmM:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.LavaHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.lxKcaRMfX9mWWNmFfIC:
+org.client.items.impl.rares.GreenSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.WGMdVXjpjbRowG3slrG:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.LavaPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
+org.client.items.impl.rares.LavaHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.lxKcaRMfX9mWWNmFfIC:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.LavaSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
+org.client.items.impl.rares.LavaPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.cXWmjyoFXEHD3SJGQeiH:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.LimeHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
+org.client.items.impl.rares.LavaSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.i6yJ27XDCrLhQnPCx6wE:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PartyHatSpecsBlack -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.w7XGBNIzBWYdu39yVIu0:
+org.client.items.impl.rares.LimeHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.iEVN4W32pcuZmbe5h2YZ:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PartyHatSpecsPink -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.VjcyTjVaSBUPkKHvTre4:
+org.client.items.impl.rares.PartyHatSpecsBlack -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.w7XGBNIzBWYdu39yVIu0:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PartyHatSpecsRed -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rf5752zBy8CCKEGfSAtO:
+org.client.items.impl.rares.PartyHatSpecsPink -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.VjcyTjVaSBUPkKHvTre4:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PinkDefender -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.Xqvmb81tLfkaRAJmKg8:
+org.client.items.impl.rares.PartyHatSpecsRed -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.rf5752zBy8CCKEGfSAtO:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PinkHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.R0uLXZJwOQVONxCviIEZ:
+org.client.items.impl.rares.PinkDefender -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.Xqvmb81tLfkaRAJmKg8:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PinkPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.WX05vO6efM5i7zWlbQN8:
+org.client.items.impl.rares.PinkHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.R0uLXZJwOQVONxCviIEZ:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PinkSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.P7oNZFxxKHVZdvm9VMZx:
+org.client.items.impl.rares.PinkPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.WX05vO6efM5i7zWlbQN8:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PurpleHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.MvrjpQ6GsfNB4fXMifcb:
+org.client.items.impl.rares.PinkSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.P7oNZFxxKHVZdvm9VMZx:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.PurpleSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.x5FDE2qCytd1yJK1GV3q:
+org.client.items.impl.rares.PurpleHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.MvrjpQ6GsfNB4fXMifcb:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.SantasSack -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.cElbuD0DSDWK9kXilZge:
+org.client.items.impl.rares.PurpleSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.x5FDE2qCytd1yJK1GV3q:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.SkyPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.cBXZAcoqF6y50TR5JWr2:
+org.client.items.impl.rares.SantasSack -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.cElbuD0DSDWK9kXilZge:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.WhiteHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.KFfgsJ3FCDsurUuY1BX4:
+org.client.items.impl.rares.SkyPartyHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.cBXZAcoqF6y50TR5JWr2:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.WhiteSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.LLJkUeM3sOWMjwa1lvfZ:
+org.client.items.impl.rares.WhiteHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.KFfgsJ3FCDsurUuY1BX4:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.YellowHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.JbGu9Ru0WoXKDPv7V0Hn:
+org.client.items.impl.rares.WhiteSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.LLJkUeM3sOWMjwa1lvfZ:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.rares.YellowSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.ffv5F3nBlkvtJEjqkXM5:
+org.client.items.impl.rares.YellowHween -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.JbGu9Ru0WoXKDPv7V0Hn:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.rares.YellowSantaHat -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.EvlUTT1Uzja6e2xMrh0.ffv5F3nBlkvtJEjqkXM5:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.skeleton.RedSkeletonBoots -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.f3JP55n7FfvXm80QGSy8.i280lUpkLge7fC1AJULi:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.skeleton.RedSkeletonGloves -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.f3JP55n7FfvXm80QGSy8.jmy4oZkNdrwtsSWkr2Jf:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.skeleton.RedSkeletonLeggings -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.f3JP55n7FfvXm80QGSy8.emYY4qadEhxoNljI05xV:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.skeleton.RedSkeletonMask -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.f3JP55n7FfvXm80QGSy8.rCoR0eubkX2T0fevF3r3:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.skeleton.RedSkeletonShirt -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.f3JP55n7FfvXm80QGSy8.gkZ3vwOjtbv84uCmMQCu:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6415,59 +6448,63 @@ org.client.npcs.impl.NpcInterfaceZoom -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kA
     int[][] PET_ZOOM -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Priestess -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.vU3BgoJutaAJEExjqCjC:
+org.client.npcs.impl.Piliar -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.vU3BgoJutaAJEExjqCjC:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.PumpkinPete -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.eIU4EJ4IwwyCNB8ILgsZ:
+org.client.npcs.impl.Priestess -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.eIU4EJ4IwwyCNB8ILgsZ:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.ReferralReferee -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.E0eStcHMrujFeQRmxrZd:
+org.client.npcs.impl.PumpkinPete -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.E0eStcHMrujFeQRmxrZd:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.RocktailFishingSpot -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.seUQxCkto8xkaJ8dSsn:
+org.client.npcs.impl.ReferralReferee -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.seUQxCkto8xkaJ8dSsn:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.RuniqueGuide -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.IyXGSTN4QSRJbe5bpJg2:
+org.client.npcs.impl.RocktailFishingSpot -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.IyXGSTN4QSRJbe5bpJg2:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Santa -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.omxr9EUle99DoLkZu6rw:
+org.client.npcs.impl.RuniqueGuide -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.omxr9EUle99DoLkZu6rw:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Sigmund -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.gL1iJ61MKkMZyLdkmwl7:
+org.client.npcs.impl.Santa -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.gL1iJ61MKkMZyLdkmwl7:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.SirSphishyus -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.zVmPkXvZW1TQoyEuzTMu:
+org.client.npcs.impl.Sigmund -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.zVmPkXvZW1TQoyEuzTMu:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.SlayerGetTask -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.YmCfWCRPEHjmNJVqMpvW:
+org.client.npcs.impl.SirSphishyus -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.YmCfWCRPEHjmNJVqMpvW:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Thorvald -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.dIhiy7izlGH4XyXYycgG:
+org.client.npcs.impl.SlayerGetTask -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.dIhiy7izlGH4XyXYycgG:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.TormentedDemonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.zXihxdlu4YFw1YfnAssJ:
+org.client.npcs.impl.Thorvald -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.zXihxdlu4YFw1YfnAssJ:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.TradeOption -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.WxAGpTo1OVJfInnSObNE:
+org.client.npcs.impl.TormentedDemonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.WxAGpTo1OVJfInnSObNE:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.TutGuard -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.F172i9UwVobjmqBZ5emr:
+org.client.npcs.impl.TradeOption -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.F172i9UwVobjmqBZ5emr:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.Zulrah -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.pslPyNy4Veu9l78fbknI:
+org.client.npcs.impl.TutGuard -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.pslPyNy4Veu9l78fbknI:
+    int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
+    org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.npcs.impl.Zulrah -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.xlh3GsFoXLrxGb3KRL8y:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6475,91 +6512,95 @@ org.client.npcs.impl.pets.AkrisaePet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAE
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.BorkPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.jmy4oZkNdrwtsSWkr2Jf:
+org.client.npcs.impl.pets.BarrelchestPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.jmy4oZkNdrwtsSWkr2Jf:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.BullakTheSmackerPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.emYY4qadEhxoNljI05xV:
+org.client.npcs.impl.pets.BorkPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.emYY4qadEhxoNljI05xV:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.CyclopsPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rCoR0eubkX2T0fevF3r3:
+org.client.npcs.impl.pets.BullakTheSmackerPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rCoR0eubkX2T0fevF3r3:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.DesertStrykewyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.gkZ3vwOjtbv84uCmMQCu:
+org.client.npcs.impl.pets.CyclopsPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.gkZ3vwOjtbv84uCmMQCu:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.FrostDragonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BniOkbZ3rMyf6e0JYKTq:
+org.client.npcs.impl.pets.DesertStrykewyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.BniOkbZ3rMyf6e0JYKTq:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.GanodermicBeastPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.KzcpEsyLU6031QYHNdcx:
+org.client.npcs.impl.pets.FrostDragonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.KzcpEsyLU6031QYHNdcx:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.GlacorPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.FEgyRkin7ex8D9ommOC2:
+org.client.npcs.impl.pets.GanodermicBeastPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.FEgyRkin7ex8D9ommOC2:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.GluttonousMaximumJr -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.oooYZzg0g71HWfYdQ0Au:
+org.client.npcs.impl.pets.GlacorPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.oooYZzg0g71HWfYdQ0Au:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.IceStrykewyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.N50upRPBFYnxm3ATMgmM:
+org.client.npcs.impl.pets.GluttonousMaximumJr -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.N50upRPBFYnxm3ATMgmM:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.JungleStrykewyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.WGMdVXjpjbRowG3slrG:
+org.client.npcs.impl.pets.IceStrykewyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.WGMdVXjpjbRowG3slrG:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.LavaDragonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.lxKcaRMfX9mWWNmFfIC:
+org.client.npcs.impl.pets.JungleStrykewyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.lxKcaRMfX9mWWNmFfIC:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.Mininaut -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
+org.client.npcs.impl.pets.LavaDragonPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.NexPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
+org.client.npcs.impl.pets.Mininaut -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.PetUnholyCursebearer -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
+org.client.npcs.impl.pets.NexPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.PeteyJr -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.w7XGBNIzBWYdu39yVIu0:
+org.client.npcs.impl.pets.PetUnholyCursebearer -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.w7XGBNIzBWYdu39yVIu0:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.SantaClausPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.VjcyTjVaSBUPkKHvTre4:
+org.client.npcs.impl.pets.PeteyJr -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.VjcyTjVaSBUPkKHvTre4:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.ShamanPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rf5752zBy8CCKEGfSAtO:
+org.client.npcs.impl.pets.SantaClausPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.rf5752zBy8CCKEGfSAtO:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.SkillingPets -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.Xqvmb81tLfkaRAJmKg8:
+org.client.npcs.impl.pets.ShamanPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.Xqvmb81tLfkaRAJmKg8:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.StarSpriteJr -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.R0uLXZJwOQVONxCviIEZ:
+org.client.npcs.impl.pets.SkillingPets -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.R0uLXZJwOQVONxCviIEZ:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.SunsetGazer -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.WX05vO6efM5i7zWlbQN8:
+org.client.npcs.impl.pets.StarSpriteJr -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.WX05vO6efM5i7zWlbQN8:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.TurkeyPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.P7oNZFxxKHVZdvm9VMZx:
+org.client.npcs.impl.pets.SunsetGazer -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.P7oNZFxxKHVZdvm9VMZx:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.pets.WildyWyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.MvrjpQ6GsfNB4fXMifcb:
+org.client.npcs.impl.pets.TurkeyPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.MvrjpQ6GsfNB4fXMifcb:
+    int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
+    org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.npcs.impl.pets.WildyWyrmPet -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.BzQ40kAEwAt7WfH0gLjp.x5FDE2qCytd1yJK1GV3q:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6590,7 +6631,7 @@ org.client.objects.ObjectManager -> org.client.LXgQAAv9vqveaoedKUgL.emYY4qadEhxo
     int[] anIntArray140 -> sUQHpmCLI7NuMrWghLKa
     int[] anIntArray144 -> GL35SPonMOsEbgBVabqV
     int[] anIntArray152 -> l85AzJRz6lyE4Vl88K5k
-    int anInt131 -> zegfRrzyok7oOnZNa2bQ
+    int buildPlane -> zegfRrzyok7oOnZNa2bQ
     int anInt145 -> o8LpqlzVuH0BWnvl7Bwf
     boolean lowMem -> zegfRrzyok7oOnZNa2bQ
     int[] anIntArray124 -> zegfRrzyok7oOnZNa2bQ
@@ -6788,88 +6829,88 @@ org.client.objects.impl.ChampionsBoard -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40k
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.ChristmasTrees -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.KzcpEsyLU6031QYHNdcx:
+org.client.objects.impl.ClueCrate -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.KzcpEsyLU6031QYHNdcx:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.ClueCrate -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.FEgyRkin7ex8D9ommOC2:
+org.client.objects.impl.ConveyerBelt -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.FEgyRkin7ex8D9ommOC2:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.ConveyerBelt -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.oooYZzg0g71HWfYdQ0Au:
+org.client.objects.impl.CursedMagicTrees -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.oooYZzg0g71HWfYdQ0Au:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.CursedMagicTrees -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.N50upRPBFYnxm3ATMgmM:
+org.client.objects.impl.DangerousPortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.N50upRPBFYnxm3ATMgmM:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.DangerousPortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.WGMdVXjpjbRowG3slrG:
+org.client.objects.impl.DragonChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.WGMdVXjpjbRowG3slrG:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.DragonChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.lxKcaRMfX9mWWNmFfIC:
+org.client.objects.impl.EdgevilleBankChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.lxKcaRMfX9mWWNmFfIC:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EdgevilleBankChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
+org.client.objects.impl.EntranaCrate -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.cXWmjyoFXEHD3SJGQeiH:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EntranaCrate -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
+org.client.objects.impl.EntranaFishingBowl -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.i6yJ27XDCrLhQnPCx6wE:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EntranaFishingBowl -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
+org.client.objects.impl.EntranaPotato -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.iEVN4W32pcuZmbe5h2YZ:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EntranaPotato -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.w7XGBNIzBWYdu39yVIu0:
+org.client.objects.impl.EntranaSandPit -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.w7XGBNIzBWYdu39yVIu0:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EntranaSandPit -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.VjcyTjVaSBUPkKHvTre4:
+org.client.objects.impl.EzoneBoat -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.VjcyTjVaSBUPkKHvTre4:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EzoneBoat -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.rf5752zBy8CCKEGfSAtO:
+org.client.objects.impl.EzonePOS -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.rf5752zBy8CCKEGfSAtO:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.EzonePOS -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.Xqvmb81tLfkaRAJmKg8:
+org.client.objects.impl.GrandExchangeBooth -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.Xqvmb81tLfkaRAJmKg8:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.GrandExchangeBooth -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.R0uLXZJwOQVONxCviIEZ:
-    int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
-    void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
-    void <clinit>() -> <clinit>
-org.client.objects.impl.Load667Objects -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.WX05vO6efM5i7zWlbQN8:
+org.client.objects.impl.Load667Objects -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.R0uLXZJwOQVONxCviIEZ:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     int[] NOT_667_OBJECTS -> o8LpqlzVuH0BWnvl7Bwf
     boolean isObject(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.MahoganyTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.P7oNZFxxKHVZdvm9VMZx:
+org.client.objects.impl.MahoganyTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.WX05vO6efM5i7zWlbQN8:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.MarbleFireplace -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.MvrjpQ6GsfNB4fXMifcb:
+org.client.objects.impl.MarbleFireplace -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.P7oNZFxxKHVZdvm9VMZx:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.OakTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.x5FDE2qCytd1yJK1GV3q:
+org.client.objects.impl.OakTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.MvrjpQ6GsfNB4fXMifcb:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.ObjectTest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.cElbuD0DSDWK9kXilZge:
+org.client.objects.impl.ObjectTest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.x5FDE2qCytd1yJK1GV3q:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.PileOfLogs -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.cBXZAcoqF6y50TR5JWr2:
+org.client.objects.impl.PileOfLogs -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.cElbuD0DSDWK9kXilZge:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.PortalDevice -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.KFfgsJ3FCDsurUuY1BX4:
+org.client.objects.impl.PortalDevice -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.cBXZAcoqF6y50TR5JWr2:
+    int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.objects.impl.RegularGamblePortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.KFfgsJ3FCDsurUuY1BX4:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6877,47 +6918,51 @@ org.client.objects.impl.RuniquePortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kA
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.SafePortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.JbGu9Ru0WoXKDPv7V0Hn:
+org.client.objects.impl.SafeGamblePortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.JbGu9Ru0WoXKDPv7V0Hn:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.SilverChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ffv5F3nBlkvtJEjqkXM5:
+org.client.objects.impl.SafePortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ffv5F3nBlkvtJEjqkXM5:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.SlayerMasterPortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ucpxzrTZqhmLOfEkjnbF:
+org.client.objects.impl.SilverChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ucpxzrTZqhmLOfEkjnbF:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.TaskmasterChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.dhBQNwHuqMl2HOSBDs0i:
+org.client.objects.impl.SlayerMasterPortal -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.dhBQNwHuqMl2HOSBDs0i:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.TeakTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.P2yHvoudywI6lWmMvkwv:
+org.client.objects.impl.TaskmasterChest -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.P2yHvoudywI6lWmMvkwv:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.TestObject -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.fgTgTxMDrMzhpxxpEQEC:
+org.client.objects.impl.TeakTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.fgTgTxMDrMzhpxxpEQEC:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.ToyStall -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.fuznuwiQNhk2bdOw42S3:
+org.client.objects.impl.TestObject -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.fuznuwiQNhk2bdOw42S3:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.TreasureChests -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ASZAdjWmhCXMyosXgjP:
+org.client.objects.impl.ToyStall -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.ASZAdjWmhCXMyosXgjP:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.WallBrightness -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.vU3BgoJutaAJEExjqCjC:
+org.client.objects.impl.TreasureChests -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.vU3BgoJutaAJEExjqCjC:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.WallTriangleFixes -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.eIU4EJ4IwwyCNB8ILgsZ:
+org.client.objects.impl.WallBrightness -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.eIU4EJ4IwwyCNB8ILgsZ:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.objects.impl.WillowTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.E0eStcHMrujFeQRmxrZd:
+org.client.objects.impl.WallTriangleFixes -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.E0eStcHMrujFeQRmxrZd:
+    int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.objects.impl.WillowTree -> org.client.LXgQAAv9vqveaoedKUgL.BzQ40kAEwAt7WfH0gLjp.seUQxCkto8xkaJ8dSsn:
     int[] OBJECT_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.objects.Objects) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6946,7 +6991,7 @@ org.client.settings.Configuration -> org.client.kw9P9Zcdd6kvIyl3TYw6.jmy4oZkNdrw
     boolean LOCAL_JAGCACH -> ah7AfEach1iGPyGBvMVe
     java.lang.String JAGCACHED_HOST -> GNcrRWqAjsKahmOnium
     boolean FILE_SERVER_ENABLED -> WmaQ5jstFwxwTqaXrTp
-    boolean DEVELOPER_FILE_SERVER -> p5uTukSgSG7Z2YrxDDrE
+    boolean DEVELOPER_FILE_SERVER -> lwq0ueSd6imK3GYd2bvx
     boolean DEVELOPER_MODE -> GNcrRWqAjsKahmOnium
     boolean ITEM_EDITING -> sUQHpmCLI7NuMrWghLKa
     int JAGGRAB_PORT -> zegfRrzyok7oOnZNa2bQ
@@ -6981,17 +7026,18 @@ org.client.settings.Configuration -> org.client.kw9P9Zcdd6kvIyl3TYw6.jmy4oZkNdrw
     boolean ROOFS_OFF -> Im91UWfMksvaDHWOw5ZZ
     boolean TWEENING -> pnJZ1Dg1wWn5IcCxVjiD
     boolean TRANSPARENT_CHARACTERS -> ciEQZ5eEOLHd2fUpZaqZ
-    boolean HIDE_PRIVATE_CHAT -> n10dG3nOWoFxVxgtPS0H
-    boolean TRANSPARENT_NPCS -> HyVa0Fs8q0dQg2PZhUeq
-    boolean GLOSSY_MODELS -> v0eBuYRa67PuHBVoYdQ
-    boolean RIGHT_CLICK_PROFILES -> wdBMuMjNSTnWy80ot7XS
-    boolean HOVER_TOOL_TIPS -> MAthegM4WctyQs7Ny5IE
+    boolean QUICK_SPECIAL -> n10dG3nOWoFxVxgtPS0H
+    boolean HIDE_PRIVATE_CHAT -> HyVa0Fs8q0dQg2PZhUeq
+    boolean TRANSPARENT_NPCS -> v0eBuYRa67PuHBVoYdQ
+    boolean GLOSSY_MODELS -> wdBMuMjNSTnWy80ot7XS
+    boolean RIGHT_CLICK_PROFILES -> MAthegM4WctyQs7Ny5IE
+    boolean HOVER_TOOL_TIPS -> SAHb4OsvEFyDVabJmQ4N
     double BRIGHTNESS -> zegfRrzyok7oOnZNa2bQ
-    boolean SHOW_MAIN_BANK_TABS -> SAHb4OsvEFyDVabJmQ4N
-    boolean ACCEPT_AID -> tu0urvakqNRdlsYXyxzI
-    boolean OLDSCHOOL_CHARACTERS -> PZAN6E5sfBGkw7JdpjtF
-    boolean DROP_OVERLAYS -> knus2gGEJQWa11g3f0x7
-    boolean PM_NOTIFICATIONS -> ePm9uK271EJkYhDNL8p
+    boolean SHOW_MAIN_BANK_TABS -> tu0urvakqNRdlsYXyxzI
+    boolean ACCEPT_AID -> PZAN6E5sfBGkw7JdpjtF
+    boolean OLDSCHOOL_CHARACTERS -> knus2gGEJQWa11g3f0x7
+    boolean DROP_OVERLAYS -> ePm9uK271EJkYhDNL8p
+    boolean PM_NOTIFICATIONS -> p5uTukSgSG7Z2YrxDDrE
     int statusBarType$6f9f793 -> j0lwcLi9yupMwSGMc6Yi
     int CONSOLE_COLOR -> ah7AfEach1iGPyGBvMVe
     int hitsplatRevision -> GNcrRWqAjsKahmOnium
@@ -7023,7 +7069,13 @@ org.client.settings.SettingIdentifier -> org.client.kw9P9Zcdd6kvIyl3TYw6.gkZ3vwO
     void update(boolean) -> zegfRrzyok7oOnZNa2bQ
     void onLogin() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.settings.VariousSettings -> org.client.kw9P9Zcdd6kvIyl3TYw6.BniOkbZ3rMyf6e0JYKTq:
+org.client.settings.Settings -> org.client.kw9P9Zcdd6kvIyl3TYw6.BniOkbZ3rMyf6e0JYKTq:
+    org.client.util.Stopwatch2 saveTimer -> zegfRrzyok7oOnZNa2bQ
+    void checkDirectory() -> j0lwcLi9yupMwSGMc6Yi
+    void save() -> zegfRrzyok7oOnZNa2bQ
+    void load() -> o8LpqlzVuH0BWnvl7Bwf
+    void <clinit>() -> <clinit>
+org.client.settings.VariousSettings -> org.client.kw9P9Zcdd6kvIyl3TYw6.KzcpEsyLU6031QYHNdcx:
     int[] SAVE_CONFIG -> zegfRrzyok7oOnZNa2bQ
     boolean isConfig(int) -> zegfRrzyok7oOnZNa2bQ
     void checkDirectory() -> j0lwcLi9yupMwSGMc6Yi
@@ -7120,7 +7172,11 @@ org.client.task.TaskManager -> org.client.gTTpmjJYvULFsq994B.jmy4oZkNdrwtsSWkr2J
     void <clinit>() -> <clinit>
 org.client.timers.TimerManager -> org.client.EsEWhPeUiqgRAGj5QU0y.i280lUpkLge7fC1AJULi:
     java.util.Map timers -> zegfRrzyok7oOnZNa2bQ
+    int xAddition -> zegfRrzyok7oOnZNa2bQ
+    int yAddition -> o8LpqlzVuH0BWnvl7Bwf
+    org.client.timers.TimerType dragging -> zegfRrzyok7oOnZNa2bQ
     void updateTimer(int,int) -> zegfRrzyok7oOnZNa2bQ
+    void handleDragging(org.client.timers.TimerType,int,int) -> zegfRrzyok7oOnZNa2bQ
     void draw() -> zegfRrzyok7oOnZNa2bQ
     void toggleTimer(int) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String secondsToHours(int) -> zegfRrzyok7oOnZNa2bQ
@@ -7145,6 +7201,10 @@ org.client.timers.TimerType -> org.client.EsEWhPeUiqgRAGj5QU0y.jmy4oZkNdrwtsSWkr
     int height -> ah7AfEach1iGPyGBvMVe
     boolean hovered -> zegfRrzyok7oOnZNa2bQ
     boolean active -> o8LpqlzVuH0BWnvl7Bwf
+    int fixedPositionX -> WmaQ5jstFwxwTqaXrTp
+    int fixedPositionY -> GNcrRWqAjsKahmOnium
+    int resizablePositionX -> sUQHpmCLI7NuMrWghLKa
+    int resizablePositionY -> GL35SPonMOsEbgBVabqV
     java.lang.String timerName -> zegfRrzyok7oOnZNa2bQ
     org.client.timers.TimerType[] $VALUES -> zegfRrzyok7oOnZNa2bQ
     org.client.timers.TimerType[] values() -> values
@@ -7161,6 +7221,14 @@ org.client.timers.TimerType -> org.client.EsEWhPeUiqgRAGj5QU0y.jmy4oZkNdrwtsSWkr
     boolean isHovered() -> o8LpqlzVuH0BWnvl7Bwf
     void setHovered(boolean) -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String getTimerName() -> zegfRrzyok7oOnZNa2bQ
+    int getFixedPositionX() -> WmaQ5jstFwxwTqaXrTp
+    int getFixedPositionY() -> GNcrRWqAjsKahmOnium
+    void setFixedPositionX(int) -> o8LpqlzVuH0BWnvl7Bwf
+    void setFixedPositionY(int) -> j0lwcLi9yupMwSGMc6Yi
+    int getResizablePositionX() -> sUQHpmCLI7NuMrWghLKa
+    void setResizablePositionX(int) -> ah7AfEach1iGPyGBvMVe
+    int getResizablePositionY() -> GL35SPonMOsEbgBVabqV
+    void setResizablePositionY(int) -> WmaQ5jstFwxwTqaXrTp
     void <clinit>() -> <clinit>
 org.client.util.FileOperations -> org.client.YeKUsdboMz7uvvrflN2r.i280lUpkLge7fC1AJULi:
     int TotalRead -> zegfRrzyok7oOnZNa2bQ
@@ -7204,7 +7272,12 @@ org.client.util.StopWatch -> org.client.YeKUsdboMz7uvvrflN2r.gkZ3vwOjtbv84uCmMQC
     long getNanoTime() -> zegfRrzyok7oOnZNa2bQ
     long getStartTime() -> o8LpqlzVuH0BWnvl7Bwf
     boolean elapsed(long) -> zegfRrzyok7oOnZNa2bQ
-org.client.util.TextClass -> org.client.YeKUsdboMz7uvvrflN2r.BniOkbZ3rMyf6e0JYKTq:
+org.client.util.Stopwatch2 -> org.client.YeKUsdboMz7uvvrflN2r.BniOkbZ3rMyf6e0JYKTq:
+    long time -> zegfRrzyok7oOnZNa2bQ
+    org.client.util.Stopwatch2 reset() -> zegfRrzyok7oOnZNa2bQ
+    long elapsed() -> zegfRrzyok7oOnZNa2bQ
+    void <init>() -> <init>
+org.client.util.TextClass -> org.client.YeKUsdboMz7uvvrflN2r.KzcpEsyLU6031QYHNdcx:
     char[] validChars -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] split(org.client.RSFont,java.lang.String,int,java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     java.lang.String[] split(org.client.RSFont,java.lang.String,int) -> zegfRrzyok7oOnZNa2bQ
