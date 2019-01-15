@@ -1699,6 +1699,11 @@
             <id>1837</id>
 			<amount>2147483647</amount>
         </item>
+		
+		<item>
+            <id>12938</id>
+			<amount>2147483647</amount>
+        </item>
 	</shop>
 
 	<shop>
@@ -8394,6 +8399,51 @@
 		<item>
 			<id>18337</id>
 			<amount>10</amount>
+		</item>
+		
+		<item>
+			<id>41735</id>
+			<amount>100</amount>
+		</item>	
+		
+		<item>
+			<id>41736</id>
+			<amount>100</amount>
+		</item>	
+		
+		<item>
+			<id>41737</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12158</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12159</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12160</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12163</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12168</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>11188</id>
+			<amount>100</amount>
 		</item>
 	</shop>
 	<shop>
