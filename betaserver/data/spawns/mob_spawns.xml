@@ -1,5 +1,6 @@
 <list>
-	<!-- C<spawn> # Loyalty shop edge
+
+	<spawn> # Loyalty shop edge
 		<id>56780</id>
 		<x>3090</x>
 		<y>3499</y>
@@ -8,6 +9,7 @@
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
+	
 	<spawn> # Loyalty shop varrock
 		<id>56780</id>
 		<x>3195</x>
@@ -17,6 +19,7 @@
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
+	
 	<spawn> # Torfinn
 		<id>58131</id>
 		<x>2273</x>
@@ -27,7 +30,6 @@
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 	
-	-->
 	<!-- Christmas Event
 	<spawn> # Santa
 		<id>8540</id>
