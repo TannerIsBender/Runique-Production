@@ -9622,6 +9622,8 @@
       <drop rolls="5" itemAmount="20"  itemAmountAddition="5" itemId="50911" /> #Endarkened juice
       <drop rolls="3" itemAmount="15"  itemAmountAddition="5" itemId="50910" /> #Stinkhorn mushroom
       <drop rolls="8" itemAmount="1"  itemAmountAddition="1" itemId="51036" /> #Mallignum root plank
+      <drop rolls="10" itemAmount="10"  itemAmountAddition="25" itemId="50853" /> #cave worms
+      <drop rolls="3" itemAmount="1" itemId="307" /> #fishing rod
       <drop rolls="1" itemAmount="1" itemId="2347" /> #hammer
    </mob>
 
