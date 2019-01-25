@@ -1,22 +1,5 @@
 <list>
-	<!-- C<spawn> # Loyalty shop edge
-		<id>56780</id>
-		<x>3090</x>
-		<y>3499</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>0</walkDistance>
-		<respawnTimer>60</respawnTimer>
-	</spawn>
-	<spawn> # Loyalty shop varrock
-		<id>56780</id>
-		<x>3195</x>
-		<y>3434</y>
-		<z>0</z>
-		<face>EAST</face>
-		<walkDistance>0</walkDistance>
-		<respawnTimer>60</respawnTimer>
-	</spawn>
+	
 	<spawn> # Torfinn
 		<id>58131</id>
 		<x>2273</x>
@@ -27,7 +10,6 @@
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 	
-	-->
 	<!-- Christmas Event
 	<spawn> # Santa
 		<id>8540</id>
@@ -2182,10 +2164,10 @@
 	<spawn> # Diango
 		<id>970</id>
 		<x>3095</x>
-		<y>3498</y>
+		<y>3499</y>
 		<z>0</z>
-		<face>NORTH</face>
-		<walkDistance>1</walkDistance>
+		<face>SOUTH</face>
+		<walkDistance>0</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 

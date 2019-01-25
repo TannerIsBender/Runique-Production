@@ -2930,7 +2930,7 @@
       <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
    </mob>
    <mob mobId="1615"> # Abyssal Demon
-      <drop rolls="0" itemAmount="1" itemId="592" /> #Ashes
+      <drop rolls="0" itemAmount="1" itemId="22312" /> #Ashes
       <drop rolls="200" itemAmount="1" itemAmountAddition="3" itemId="8788" /> #magic stone
       <drop rolls="300" itemAmount="1" itemId="4151" /> # whip
       <drop rolls="180" itemAmount="1" itemId="1114" /> #Rune Chainbody
@@ -3649,7 +3649,7 @@
       <drop rolls="121" itemAmount="1" itemId="9431" /> #Runite limbs
    </mob>
    <mob mobId="84"> # Black Demon
-      <drop rolls="0" itemAmount="1" itemId="592" /> #Ashes
+      <drop rolls="0" itemAmount="1" itemId="22312" /> #Ashes
       <drop rolls="261" itemAmount="151450" itemId="995" itemAmountAddition="14500" /> #Coins
       <drop rolls="200" itemAmount="3" itemAmountAddition="2" itemId="568" /> # unpowered orb
       <drop rolls="200" itemAmount="1" itemAmountAddition="3" itemId="8788" /> #magic stone
@@ -3734,7 +3734,7 @@
       <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
    </mob>
    <mob mobId="677"> # Black Demon
-      <drop rolls="0" itemAmount="1" itemId="592" /> #Ashes
+      <drop rolls="0" itemAmount="1" itemId="22312" /> #Ashes
       <drop rolls="261" itemAmount="151450" itemId="995" itemAmountAddition="14500" /> #Coins
       <drop rolls="200" itemAmount="3" itemAmountAddition="2" itemId="568" /> # unpowered orb
       <drop rolls="200" itemAmount="1" itemAmountAddition="3" itemId="8788" /> #magic stone
@@ -9654,7 +9654,7 @@
 	<mob mobId="1195"> #Grizzly Bear
 		<drop rolls="1" itemAmount="1" itemId="526" /> #bones
 		<drop rolls="5" itemAmount="1" itemId="948" /> #Bear Fur
-		<drop rolls="5" itemAmount="1" itemId="2136" /> #Raw Bear Meat
+		<drop rolls="5" itemAmount="1" itemId="2132" /> #Raw Bear Meat
 		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
 		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
 		<drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
