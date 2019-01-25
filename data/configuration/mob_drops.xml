@@ -9654,7 +9654,7 @@
 	<mob mobId="1195"> #Grizzly Bear
 		<drop rolls="1" itemAmount="1" itemId="526" /> #bones
 		<drop rolls="5" itemAmount="1" itemId="948" /> #Bear Fur
-		<drop rolls="5" itemAmount="1" itemId="2136" /> #Raw Bear Meat
+		<drop rolls="5" itemAmount="1" itemId="2132" /> #Raw Bear Meat
 		<drop rolls="13" itemAmount="1" itemId="12158" /> #Gold Charm
 		<drop rolls="15" itemAmount="1" itemId="12159" /> #Green Charm
 		<drop rolls="17" itemAmount="1" itemId="12160" /> #Crimson Charm
