@@ -1,4 +1,27 @@
 <list>
+<<<<<<< HEAD
+=======
+
+	<spawn> # Loyalty shop edge
+		<id>56780</id>
+		<x>3090</x>
+		<y>3499</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	
+	<spawn> # Loyalty shop varrock
+		<id>56780</id>
+		<x>3195</x>
+		<y>3434</y>
+		<z>0</z>
+		<face>EAST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+>>>>>>> 28eeafa157ced31a4fcab4f441e48c93afc066f6
 	
 	<spawn> # Torfinn
 		<id>58131</id>

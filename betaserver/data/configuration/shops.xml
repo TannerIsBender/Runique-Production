@@ -1699,6 +1699,11 @@
             <id>1837</id>
 			<amount>2147483647</amount>
         </item>
+		
+		<item>
+            <id>12938</id>
+			<amount>2147483647</amount>
+        </item>
 	</shop>
 
 	<shop>
@@ -7927,6 +7932,16 @@
 		</item>
 		
 		<item>
+			<id>2570</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>11090</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
 			<id>952</id>
 			<amount>100</amount>
 		</item>
@@ -8027,11 +8042,6 @@
 
 		<item>
 			<id>1759</id>
-			<amount>1000</amount>
-		</item>
-
-		<item>
-			<id>15484</id>
 			<amount>1000</amount>
 		</item>
 	</shop>
@@ -8385,6 +8395,51 @@
 			<id>18337</id>
 			<amount>10</amount>
 		</item>
+		
+		<item>
+			<id>41735</id>
+			<amount>100</amount>
+		</item>	
+		
+		<item>
+			<id>41736</id>
+			<amount>100</amount>
+		</item>	
+		
+		<item>
+			<id>41737</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12158</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12159</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12160</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12163</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>12168</id>
+			<amount>100</amount>
+		</item>
+		
+		<item>
+			<id>11188</id>
+			<amount>100</amount>
+		</item>
 	</shop>
 	<shop>
         <id>1053</id>
@@ -8546,26 +8601,6 @@
             <amount>10</amount>
         </item>
         <item>
-            <id>43328</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43141</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43142</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43143</id>
-            <amount>10</amount>
-        </item>
-        <item>
-            <id>43144</id>
-            <amount>10</amount>
-        </item>`
-        <item>
             <id>775</id>
             <amount>100</amount>
         </item>
@@ -8579,14 +8614,6 @@
         </item>
         <item>
             <id>6500</id>
-            <amount>100</amount>
-        </item>
-        <item>
-            <id>41941</id>
-            <amount>100</amount>
-        </item>
-        <item>
-            <id>42791</id>
             <amount>100</amount>
         </item>
         <item>
@@ -8617,6 +8644,12 @@
             <id>22218</id>
             <amount>100</amount>
         </item>
+		
+		<item>
+			<id>2949</id>
+			<amount>100</amount>
+		</item>
+		
 		<item>
 			<id>21410</id>
 			<amount>100</amount>
@@ -8658,8 +8691,8 @@
 		</item>	
 		
 		<item>
-			<id>4447</id>
-			<amount>100</amount>
+			<id>51028</id>
+			<amount>10</amount>
 		</item>
 		
 		<item>
