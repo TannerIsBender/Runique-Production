@@ -3156,6 +3156,11 @@
 			<id>6500</id>
 			<amount>100000</amount>
 		</item>
+
+		<item>
+			<id>51208</id>
+			<amount>100000</amount>
+		</item>
 	</shop>
 
 	<shop>

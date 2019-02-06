@@ -1,4 +1,24 @@
 <list>
+
+	<spawn> # Loyalty shop edge
+		<id>56780</id>
+		<x>3090</x>
+		<y>3499</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	
+	<spawn> # Loyalty shop varrock
+		<id>56780</id>
+		<x>3195</x>
+		<y>3434</y>
+		<z>0</z>
+		<face>EAST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
 	
 	<spawn> # Torfinn
 		<id>58131</id>
@@ -10337,6 +10357,66 @@
 		<face>NORTH</face>
 		<walkDistance>3</walkDistance>
 		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> #Adamant dragon
+		<id>58030</id>
+		<x>1547</x>
+		<y>5081</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Adamant dragon
+		<id>58030</id>
+		<x>1545</x>
+		<y>5068</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Adamant dragon
+		<id>58030</id>
+		<x>1553</x>
+		<y>5073</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>3</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Rune dragon
+		<id>58031</id>
+		<x>1587</x>
+		<y>5070</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>4</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Rune dragon
+		<id>58031</id>
+		<x>1579</x>
+		<y>5073</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>4</walkDistance>
+		<respawnTimer>45</respawnTimer>
+	</spawn>
+
+	<spawn> #Rune dragon
+		<id>58031</id>
+		<x>1583</x>
+		<y>5080</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>4</walkDistance>
+		<respawnTimer>25</respawnTimer>
 	</spawn>
 
 	<spawn> #Rune dragon
