@@ -1,0 +1,221 @@
+magma blowpipe : 3500
+sara. abyssal whip : 3000
+necklace of anguish : 3000
+occult necklace : 3000
+torva platebody : 2500
+magma mutagen : 2500
+torva platelegs : 2000
+pernix body : 2000
+pernix chaps : 2000
+bloodbone spirit shield : 1800
+infernal cape : 1500
+eternal cape : 1500
+external cape : 1500
+malediction ward : 1250
+odium ward : 1200
+pernix cowl : 1000
+ancestral hat : 1000
+ancestral robe top : 1000
+Ancestral robe bottom : 1000
+toxic blowpipe : 1000
+dragon warhammer : 1000
+polypore Staff : 1000
+divine Spirit Shield : 1000
+red voting hat : 1000
+blue voting hat : 1000
+flaming skull (red) : 1000
+flaming skull (blue) : 1000
+flaming skull (green) : 1000
+flaming skull (purple) : 1000
+trident of the seas (full) : 1000
+torva full helm : 800
+divine sigil : 800
+trident of the seas : 800
+uncharged trident : 700
+ganodermic visor : 600
+ganodermic poncho : 600
+ganodermic leggings : 600
+dragon claws : 500
+primordial boots : 500
+pegasian boots : 500
+eternal boots : 500
+primordial crystal : 500
+pegasian crystal : 500
+eternal crystal : 500
+amulet of torture : 500
+infernal Pickaxe : 500
+elysian Spirit Shield : 500
+barrelchest anchor : 500
+bandos godsword : 500
+armadyl godsword : 500
+zaryte bow : 500
+chaotic rapier : 500
+chaotic crossbow : 500
+chaotic maul : 400
+odium shard 1 : 400
+odium shard 2 : 400
+odium shard 3 : 400
+malediction shard 1 : 400
+malediction shard 2 : 400
+malediction shard 3 : 400
+shadow sword : 350
+virtus mask : 300
+virtus robe top : 300
+virtus robe legs : 300
+elysian sigil : 300
+arcane Spirit Shield : 300
+korasi sword : 300
+eagle-eye kiteshield : 300
+berserker ring (i) : 300
+amulet of the damned (full) : 300
+amulet of the damned : 300
+ring of wealth (i) : 300
+shadow abyssal whip : 250
+bandos chestplate : 250
+bandos tassets : 250
+armadyl helmet : 250
+armadyl chestplate : 250
+armadyl chainskirt : 250
+chaotic longsword : 250
+chaotic staff : 250
+vecna skull : 250
+archers' ring (i) : 225
+arcane sigil : 200
+staff of armadyl : 200
+armadyl battlestaff : 200
+new crystal bow : 200
+seers' ring (i) : 200
+ancient ceremonial hood : 200
+ancient ceremonial top : 200
+ancient ceremonial legs : 200
+ancient ceremonial gloves : 200
+ancient ceremonial boots : 200
+ring of the gods : 200
+tyrannical ring : 200
+treasonous ring : 200
+warrior ring (i) : 175
+amulet of ranging : 150
+vesta's Platebody : 150
+vesta's Platelegs : 150
+tome of fire : 150
+tome of ice : 150
+blessed Spirit Shield : 150
+charming Imp : 150
+ranger boots : 150
+seercull : 150
+berserker ring : 150
+chaotic kiteshield : 150
+serpentine visage : 150
+serpentine helm : 150
+tanzanite helm : 150
+archers' ring : 125
+Amulet of fury (or) : 125
+full slayer helm : 100
+statius's Platebody : 100
+statius's Platelegs : 100
+blessed sigil : 100
+bandos boots : 100
+orb of armadyl : 100
+seers' ring : 100
+spined helm : 100
+spined body : 100
+spined chaps : 100
+berserker necklace : 100
+berserker necklace : 100
+novite gauntlets : 100
+novite boots : 100
+novite chainbody : 100
+novite platebody : 100
+novite plateskirt : 100
+novite platelegs : 100
+novite full helm : 100
+marmaros gauntlets : 100
+marmaros boots : 100
+marmaros chainbody : 100
+marmaros platebody : 100
+marmaros plateskirt : 100
+marmaros platelegs : 100
+marmaros full helm : 100
+bathus gauntlets : 100
+bathus boots : 100
+bathus chainbody : 100
+bathus platebody : 100
+bathus plateskirt : 100
+bathus platelegs : 100
+bathus full helm : 100
+dragon full helm : 75
+warrior ring : 75
+lime abyssal whip : 75
+Bonecrusher (i) : 75
+lime whip mix : 60
+frozen abyssal whip : 60
+volcanic abyssal whip : 60
+saradomin sword : 50
+statius's Full helm : 50
+dragonfire ward : 50
+ring of forging : 50
+spectral Spirit Shield : 50
+holy Elixir : 50
+fury ornament kit : 50
+dragon full helm ornament kit (or) : 50
+dragon platelegs/skirt ornament kit (or) : 50
+dragon platebody ornament kit (or) : 50
+dragon sq shield ornament kit (or) : 50
+dragon full helm ornament kit (sp) : 50
+dragon platelegs/skirt ornament kit (sp) : 50
+dragon platebody ornament kit (sp) : 50
+dragon sq shield ornament kit (sp) : 50
+frozen whip mix : 50
+volcanic whip mix : 50
+Bonecrusher scroll (i) : 50
+spectral sigil : 30
+dragon hatchet : 25
+dragon pickaxe : 25
+golden mining boots : 25
+golden mining helmet : 25
+golden mining trousers : 25
+golden mining top : 25
+golden mining helmet : 25
+gilded platebody : 25
+gilded platelegs : 25
+gilded plateskirt : 25
+gilded full helm : 25
+gilded kiteshield : 25
+gilded boots : 25
+dragonfire Shield : 20
+Bonecrusher : 20
+arcane Stream Necklace : 15
+abyssal whip : 10
+amulet of fury : 10
+dragon platelegs : 10
+draconic visage : 10
+crystal key : 10
+dragon key : 10
+vote box : 10
+dragon boots : 5
+ahrim's hood : 5
+ahrim's staff : 5
+ahrim's robe top : 5
+ahrim's robe skirt : 5
+dharok's helm : 5
+dharok's greataxe : 5
+dharok's platebody : 5
+dharok's platelegs : 5
+guthan's helm : 5
+guthan's warspear : 5
+guthan's platebody : 5
+guthan's chainskirt : 5
+karil's coif : 5
+karil's crossbow : 5
+karil's top : 5
+karil's skirt : 5
+torag's helm : 5
+torag's hammers : 5
+torag's platebody : 5
+torag's platelegs : 5
+verac's helm : 5
+verac's flail : 5
+verac's brassard : 5
+verac's plateskirt : 5
+tooth half of key : 4
+loop half of key : 1

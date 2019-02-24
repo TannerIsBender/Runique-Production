@@ -87,11 +87,26 @@
             <id>39921</id>
 			<amount>2147483647</amount>
         </item>
-		
-        <item>
-            <id>43288</id>
+
+		<item>
+			<id>8304</id>
 			<amount>2147483647</amount>
-        </item>
+		</item>
+
+		<item>
+			<id>8302</id>
+			<amount>2147483647</amount>
+		</item>
+
+		<item>
+			<id>8303</id>
+			<amount>2147483647</amount>
+		</item>
+
+		<item>
+			<id>43288</id>
+			<amount>2147483647</amount>
+		</item>
 		
         <item>
             <id>43283</id>
@@ -117,6 +132,32 @@
             <id>43287</id>
 			<amount>2147483647</amount>
         </item>
+
+        <item>
+            <id>12501</id>
+			<amount>2147483647</amount>
+        </item>
+
+        <item>
+            <id>8300</id>
+			<amount>2147483647</amount>
+        </item>
+
+        <item>
+            <id>8301</id>
+			<amount>2147483647</amount>
+        </item>
+
+        <item>
+            <id>12500</id>
+			<amount>2147483647</amount>
+        </item>
+
+        <item>
+            <id>12502</id>
+			<amount>2147483647</amount>
+        </item>
+
 		
 	</shop>
 	

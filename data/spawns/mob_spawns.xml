@@ -1,4 +1,14 @@
 <list>
+	
+	<spawn> # Torfinn
+		<id>58131</id>
+		<x>2273</x>
+		<y>4050</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
 
 	<spawn> # Loyalty shop edge
 		<id>56780</id>
@@ -9,7 +19,7 @@
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
-	
+
 	<spawn> # Loyalty shop varrock
 		<id>56780</id>
 		<x>3195</x>
@@ -20,10 +30,10 @@
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 	
-	<spawn> # Torfinn
-		<id>58131</id>
-		<x>2273</x>
-		<y>4050</y>
+	<spawn> # Galvek
+		<id>58095</id>
+		<x>3101</x>
+		<y>3931</y>
 		<z>0</z>
 		<face>WEST</face>
 		<walkDistance>0</walkDistance>
@@ -10188,67 +10198,6 @@
 		<respawnTimer>30</respawnTimer>
 	</spawn>
 
-	<spawn> # BattleMage1 Wildly
-		<id>912</id>
-		<x>3161</x>
-		<y>10118</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage1 Wildly
-		<id>912</id>
-		<x>3161</x>
-		<y>10110</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage2 Wildly
-		<id>913</id>
-		<x>3150</x>
-		<y>10109</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-
-	<spawn> # BattleMage2 Wildly
-		<id>913</id>
-		<x>3150</x>
-		<y>10120</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage3 Wildly
-		<id>914</id>
-		<x>3169</x>
-		<y>10110</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage3 Wildly
-		<id>914</id>
-		<x>3169</x>
-		<y>10119</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
 	<spawn> # Revenant Goblin
 		<id>13470</id>
 		<x>3223</x>
@@ -10834,12 +10783,12 @@
 		<respawnTimer>30</respawnTimer>
 	</spawn>
 
-	<spawn> # Kraken - Main
-		<id>50494</id>
-		<x>3694</x>
-		<y>5810</y>
+	<spawn> # Kraken - Main Whirlpool
+		<id>50496</id>
+		<x>2278</x>
+		<y>10034</y>
 		<z>0</z>
-		<face>NORTH</face>
+		<face>SOUTH</face>
 		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
@@ -13090,96 +13039,6 @@
 		<z>0</z>
 		<face>WEST</face>
 		<walkDistance>7</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage3 Wildly
-		<id>914</id>
-		<x>3112</x>
-		<y>3938</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage1 Wildly
-		<id>912</id>
-		<x>3114</x>
-		<y>3935</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage2 Wildly
-		<id>913</id>
-		<x>3113</x>
-		<y>3931</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage3 Wildly
-		<id>914</id>
-		<x>3112</x>
-		<y>3925</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage3 Wildly
-		<id>914</id>
-		<x>3098</x>
-		<y>3926</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage1 Wildly
-		<id>912</id>
-		<x>3099</x>
-		<y>3929</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage2 Wildly
-		<id>913</id>
-		<x>3103</x>
-		<y>3932</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage1 Wildly
-		<id>912</id>
-		<x>3108</x>
-		<y>3936</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
-		<respawnTimer>15</respawnTimer>
-	</spawn>
-
-	<spawn> # BattleMage2 Wildly
-		<id>913</id>
-		<x>3107</x>
-		<y>3933</y>
-		<z>0</z>
-		<face>WEST</face>
-		<walkDistance>30</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -20970,7 +20829,7 @@
 		<y>1251</y>
 		<z>0</z>
 		<face>SOUTH</face>
-		<walkDistance>1</walkDistance>
+		<walkDistance>0</walkDistance>
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 
@@ -22449,6 +22308,66 @@
 		<face>SOUTH</face>
 		<walkDistance>3</walkDistance>
 		<respawnTimer>1</respawnTimer>
+	</spawn>
+	
+	<spawn> # BattleMage1 Wildly
+		<id>912</id>
+		<x>3014</x>
+		<y>3608</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>30</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # BattleMage2 Wildly
+		<id>913</id>
+		<x>3011</x>
+		<y>3602</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>30</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # BattleMage3 Wildly
+		<id>914</id>
+		<x>3023</x>
+		<y>3600</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>30</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn> # BattleMage1 Wildly
+		<id>912</id>
+		<x>3030</x>
+		<y>3609</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>30</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # BattleMage2 Wildly
+		<id>913</id>
+		<x>3043</x>
+		<y>3602</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>30</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> # BattleMage3 Wildly
+		<id>914</id>
+		<x>3049</x>
+		<y>3609</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>30</walkDistance>
+		<respawnTimer>15</respawnTimer>
 	</spawn>
 
 </list>
