@@ -2719,7 +2719,7 @@
       <drop rolls="15" itemAmount="1" itemId="12160" /> #Crimson Charm
       <drop rolls="22" itemAmount="1" itemId="12163" /> #Blue Charm
    </mob>
-   <mob mobId="58098"> # Galvek
+   <mob mobId="58095"> # Galvek
       <drop rolls="4000" itemAmount="1" itemId="52000" /> # galvek pet
       <drop rolls="1300" itemAmount="1" itemId="49553" /> # amulet of torture
       <drop rolls="2200" itemAmount="1" itemId="21270" /> # wilderness cape
