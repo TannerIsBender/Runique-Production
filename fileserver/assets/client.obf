@@ -1,7 +1,7 @@
 -injars ../client.jar
 -outjars ../src/archives/code/code.jar
 
--libraryjars 'C:\Program Files\Java\jre1.8.0_91\lib\rt.jar'
+-libraryjars 'C:\Program Files\Java\jre1.8.0_201\lib\rt.jar'
 
 -printmapping clientmap.txt
 -obfuscationdictionary member_dictionary.txt
