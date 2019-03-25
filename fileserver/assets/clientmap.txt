@@ -1477,7 +1477,8 @@ org.client.Client$XPGain -> org.client.WX05vO6efM5i7zWlbQN8:
     void increaseAlpha() -> o8LpqlzVuH0BWnvl7Bwf
     void decreaseAlpha() -> j0lwcLi9yupMwSGMc6Yi
     boolean equals(java.lang.Object) -> equals
-    int access$012(org.client.Client$XPGain,int) -> zegfRrzyok7oOnZNa2bQ
+    int access$000(org.client.Client$XPGain) -> zegfRrzyok7oOnZNa2bQ
+    int access$002(org.client.Client$XPGain,int) -> zegfRrzyok7oOnZNa2bQ
 org.client.DrawingArea -> org.client.P7oNZFxxKHVZdvm9VMZx:
     float[] depthBuffer -> zegfRrzyok7oOnZNa2bQ
     int[] pixels -> j0lwcLi9yupMwSGMc6Yi
