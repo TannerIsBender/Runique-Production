@@ -6157,6 +6157,7 @@
 	  
       <drop rolls="9945" itemAmount="1" itemId="21104" /> #Bloodbone spirit shield
       <drop rolls="850" itemAmount="1" itemId="13734" /> #Spirit shield
+      <drop rolls="200" itemAmount="1" itemId="13734" /> #Spirit shield
      
       <drop rolls="400" itemAmount="1" itemId="18335" /> #arcane stream necklace
       

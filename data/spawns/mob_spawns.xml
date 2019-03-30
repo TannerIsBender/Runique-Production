@@ -10231,7 +10231,7 @@
 	<spawn> #Revenant imp
 		<id>13465</id>
 		<x>3207</x>
-		<y>10088</y>
+		<y>10089</y>
 		<z>0</z>
 		<face>WEST</face>
 		<walkDistance>3</walkDistance>
