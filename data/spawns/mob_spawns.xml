@@ -264,9 +264,56 @@
 		<respawnTimer>60</respawnTimer>
 	</spawn>
 
+	<spawn> # Angler fishing @ Piscarilius
+		<id>54714</id>
+		<x>1823</x>
+		<y>3768</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	<spawn> # Angler fishing @ Piscarilius
+		<id>54714</id>
+		<x>1826</x>
+		<y>3770</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	<spawn> # Angler fishing @ Piscarilius
+		<id>54714</id>
+		<x>1830</x>
+		<y>3767</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+	<spawn> # Angler fishing @ Piscarilius
+		<id>54714</id>
+		<x>1831</x>
+		<y>3767</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
+	<spawn> # Angler fishing @ Resource Area
+		<id>54714</id>
+		<x>3185</x>
+		<y>3926</y>
+		<z>0</z>
+		<face>WEST</face>
+		<walkDistance>0</walkDistance>
+		<respawnTimer>60</respawnTimer>
+	</spawn>
+
 	<spawn> # Karambwan fishing @ Resource Area
 		<id>54713</id>
-		<x>3183</x>
+		<x>3182</x>
 		<y>3926</y>
 		<z>0</z>
 		<face>WEST</face>
@@ -4527,6 +4574,16 @@
 		<z>4</z>
 		<face>NORTH</face>
 		<walkDistance>2</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+
+	<spawn> #Master fisher @ piscarilius
+		<id>308</id>
+		<x>1840</x>
+		<y>3786</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>5</walkDistance>
 		<respawnTimer>15</respawnTimer>
 	</spawn>
 
@@ -17680,6 +17737,15 @@
 
 	# Burthorpe's Thieving Place
 
+	<spawn> #Banker
+		<id>7605</id>
+		<x>1838</x>
+		<y>3784</y>
+		<z>1</z>
+		<face>EAST</face>
+		<walkDistance>4</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
 	<spawn> #Banker
 		<id>7605</id>
 		<x>3041</x>
