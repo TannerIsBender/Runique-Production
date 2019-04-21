@@ -5821,31 +5821,35 @@ org.client.items.impl.TokHaarKal -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TrustedToken -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.B9cY6bGs2Jkue1ddtc:
+org.client.items.impl.TravisPipe -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.B9cY6bGs2Jkue1ddtc:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.TylersClaws -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.kGWFreqkaZEjxWuP9Sz:
+org.client.items.impl.TrustedToken -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.kGWFreqkaZEjxWuP9Sz:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.UniqueBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.sagfUFo77oV85mzLZxnF:
+org.client.items.impl.TylersClaws -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.sagfUFo77oV85mzLZxnF:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.VoteBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.HUOekg8B5SQKDtBERm2g:
+org.client.items.impl.UniqueBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.HUOekg8B5SQKDtBERm2g:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.WhiteDye -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.tRF5CCqW8Jby7acaEGVx:
+org.client.items.impl.VoteBox -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.tRF5CCqW8Jby7acaEGVx:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.WildernessCape -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.WmfZJ8BFlBJGF9nSrpef:
+org.client.items.impl.WhiteDye -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.WmfZJ8BFlBJGF9nSrpef:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.items.impl.WrappedCandy -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Eail7fibONJfpY7oCdVa:
+org.client.items.impl.WildernessCape -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.Eail7fibONJfpY7oCdVa:
+    int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
+    void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
+    void <clinit>() -> <clinit>
+org.client.items.impl.WrappedCandy -> org.client.kkk8LpX7kQCcAAtAkeZn.BzQ40kAEwAt7WfH0gLjp.XH9XgXSdKyrOoYPQK84R:
     int[] ITEM_ID -> zegfRrzyok7oOnZNa2bQ
     void edit(org.client.items.Item) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6012,12 +6016,21 @@ org.client.login.LoginScreen -> org.client.LfsVQzUnZ31U7Wle33EZ.i280lUpkLge7fC1A
     boolean backButtonHover -> GL35SPonMOsEbgBVabqV
     boolean alreadyHaveAccountHover -> l85AzJRz6lyE4Vl88K5k
     boolean recoverAccount -> qxgenLXCcEdxF3gyMXs9
-    java.util.ArrayList topPlayers -> zegfRrzyok7oOnZNa2bQ
-    java.util.ArrayList topVoters -> o8LpqlzVuH0BWnvl7Bwf
-    java.util.ArrayList topDonators -> j0lwcLi9yupMwSGMc6Yi
-    java.util.ArrayList topPvpClans -> ah7AfEach1iGPyGBvMVe
-    java.util.ArrayList topPvmClans -> WmaQ5jstFwxwTqaXrTp
-    java.util.ArrayList topSkillingClans -> GNcrRWqAjsKahmOnium
+    boolean switchGameModeHover -> TbzjV2hStiawKSKsFlLA
+    java.util.ArrayList topDuke -> zegfRrzyok7oOnZNa2bQ
+    java.util.ArrayList topElite -> o8LpqlzVuH0BWnvl7Bwf
+    java.util.ArrayList topExtreme -> j0lwcLi9yupMwSGMc6Yi
+    java.util.ArrayList topLegend -> ah7AfEach1iGPyGBvMVe
+    java.util.ArrayList topPker -> WmaQ5jstFwxwTqaXrTp
+    java.util.ArrayList topIronman -> GNcrRWqAjsKahmOnium
+    java.util.ArrayList topHardcoreIronman -> sUQHpmCLI7NuMrWghLKa
+    java.util.ArrayList topImmortal -> GL35SPonMOsEbgBVabqV
+    java.util.ArrayList topGrandMaster -> l85AzJRz6lyE4Vl88K5k
+    java.util.ArrayList topVoters -> qxgenLXCcEdxF3gyMXs9
+    java.util.ArrayList topDonators -> TbzjV2hStiawKSKsFlLA
+    java.util.ArrayList topPvpClans -> bCOkWBx1VUBUB0RCww1d
+    java.util.ArrayList topPvmClans -> lVNAbAYpHAUBn4BGO2vD
+    java.util.ArrayList topSkillingClans -> atlY3JO2fO19pYIoHzm
     org.client.login.LoginStatistics$LoginStatisticType topPlayerStatisticType -> zegfRrzyok7oOnZNa2bQ
     org.client.login.LoginStatistics$LoginStatisticType topClanStatisticType -> o8LpqlzVuH0BWnvl7Bwf
     void <init>() -> <init>
@@ -6051,7 +6064,17 @@ org.client.login.LoginScreen -> org.client.LfsVQzUnZ31U7Wle33EZ.i280lUpkLge7fC1A
     void setTopPlayerStatisticType(org.client.login.LoginStatistics$LoginStatisticType) -> zegfRrzyok7oOnZNa2bQ
     org.client.login.LoginStatistics$LoginStatisticType getTopClanStatisticType() -> o8LpqlzVuH0BWnvl7Bwf
     void setTopClanStatisticType(org.client.login.LoginStatistics$LoginStatisticType) -> o8LpqlzVuH0BWnvl7Bwf
-    java.util.ArrayList getTopPlayers() -> GNcrRWqAjsKahmOnium
+    java.util.ArrayList getTopDuke() -> GNcrRWqAjsKahmOnium
+    java.util.ArrayList getTopElite() -> sUQHpmCLI7NuMrWghLKa
+    java.util.ArrayList getTopExtreme() -> GL35SPonMOsEbgBVabqV
+    java.util.ArrayList getTopLegend() -> l85AzJRz6lyE4Vl88K5k
+    java.util.ArrayList getTopPker() -> qxgenLXCcEdxF3gyMXs9
+    java.util.ArrayList getTopIronman() -> TbzjV2hStiawKSKsFlLA
+    java.util.ArrayList getTopImmortal() -> bCOkWBx1VUBUB0RCww1d
+    java.util.ArrayList getTopGrandMaster() -> lVNAbAYpHAUBn4BGO2vD
+    boolean isSwitchGameModeHover() -> TbzjV2hStiawKSKsFlLA
+    void setSwitchGameModeHover(boolean) -> TbzjV2hStiawKSKsFlLA
+    java.util.ArrayList getTopHardcoreIronman() -> atlY3JO2fO19pYIoHzm
 org.client.login.LoginScreenDisplay -> org.client.LfsVQzUnZ31U7Wle33EZ.jmy4oZkNdrwtsSWkr2Jf:
     org.client.Client client -> zegfRrzyok7oOnZNa2bQ
     int accountsDropDown -> zegfRrzyok7oOnZNa2bQ
@@ -6084,24 +6107,27 @@ org.client.login.LoginStatistics -> org.client.LfsVQzUnZ31U7Wle33EZ.KzcpEsyLU603
     java.lang.String name -> zegfRrzyok7oOnZNa2bQ
     java.lang.String rank -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String statistic -> j0lwcLi9yupMwSGMc6Yi
-    java.lang.String statistic2 -> ah7AfEach1iGPyGBvMVe
     void <init>() -> <init>
-    void <init>(java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> <init>
+    void <init>(java.lang.String,java.lang.String,java.lang.String) -> <init>
     java.lang.String getName() -> zegfRrzyok7oOnZNa2bQ
     java.lang.String getRank() -> o8LpqlzVuH0BWnvl7Bwf
     java.lang.String getStatistic() -> j0lwcLi9yupMwSGMc6Yi
     void load() -> zegfRrzyok7oOnZNa2bQ
-    java.lang.String getStatistic2() -> ah7AfEach1iGPyGBvMVe
 org.client.login.LoginStatistics$1 -> org.client.LfsVQzUnZ31U7Wle33EZ.FEgyRkin7ex8D9ommOC2:
     int[] $SwitchMap$org$client$login$LoginStatistics$LoginStatisticType -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
 org.client.login.LoginStatistics$LoginStatisticType -> org.client.LfsVQzUnZ31U7Wle33EZ.oooYZzg0g71HWfYdQ0Au:
-    org.client.login.LoginStatistics$LoginStatisticType TOP_PLAYERS -> zegfRrzyok7oOnZNa2bQ
-    org.client.login.LoginStatistics$LoginStatisticType TOP_VOTERS -> o8LpqlzVuH0BWnvl7Bwf
-    org.client.login.LoginStatistics$LoginStatisticType TOP_DONATORS -> j0lwcLi9yupMwSGMc6Yi
-    org.client.login.LoginStatistics$LoginStatisticType TOP_PVP_CLANS -> ah7AfEach1iGPyGBvMVe
-    org.client.login.LoginStatistics$LoginStatisticType TOP_PVM_CLANS -> WmaQ5jstFwxwTqaXrTp
-    org.client.login.LoginStatistics$LoginStatisticType TOP_SKILLING_CLANS -> GNcrRWqAjsKahmOnium
+    org.client.login.LoginStatistics$LoginStatisticType TOP_EXTREMES -> zegfRrzyok7oOnZNa2bQ
+    org.client.login.LoginStatistics$LoginStatisticType TOP_LEGENDS -> o8LpqlzVuH0BWnvl7Bwf
+    org.client.login.LoginStatistics$LoginStatisticType TOP_IRONMAN -> j0lwcLi9yupMwSGMc6Yi
+    org.client.login.LoginStatistics$LoginStatisticType TOP_HARDCORE_IRONMAN -> ah7AfEach1iGPyGBvMVe
+    org.client.login.LoginStatistics$LoginStatisticType TOP_IMMORTALS -> WmaQ5jstFwxwTqaXrTp
+    org.client.login.LoginStatistics$LoginStatisticType TOP_GRANDMASTERS -> GNcrRWqAjsKahmOnium
+    org.client.login.LoginStatistics$LoginStatisticType TOP_VOTERS -> sUQHpmCLI7NuMrWghLKa
+    org.client.login.LoginStatistics$LoginStatisticType TOP_DONATORS -> GL35SPonMOsEbgBVabqV
+    org.client.login.LoginStatistics$LoginStatisticType TOP_PVP_CLANS -> l85AzJRz6lyE4Vl88K5k
+    org.client.login.LoginStatistics$LoginStatisticType TOP_PVM_CLANS -> qxgenLXCcEdxF3gyMXs9
+    org.client.login.LoginStatistics$LoginStatisticType TOP_SKILLING_CLANS -> TbzjV2hStiawKSKsFlLA
     java.lang.String statisticName -> zegfRrzyok7oOnZNa2bQ
     org.client.login.LoginStatistics$LoginStatisticType[] $VALUES -> zegfRrzyok7oOnZNa2bQ
     org.client.login.LoginStatistics$LoginStatisticType[] values() -> values
@@ -6454,11 +6480,7 @@ org.client.npcs.impl.TutGuard -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.npcs.impl.WildernessBandit -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.U7dhzZr39pcNGNF4Sx8H:
-    int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
-    org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
-    void <clinit>() -> <clinit>
-org.client.npcs.impl.Zulrah -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.H3os2AP4pyCAXA4WeqGO:
+org.client.npcs.impl.Zulrah -> org.client.Fyf7IaOGL9LlDumuDIxg.BzQ40kAEwAt7WfH0gLjp.U7dhzZr39pcNGNF4Sx8H:
     int[] NPC_ID -> zegfRrzyok7oOnZNa2bQ
     org.client.npcs.Npc edit(org.client.npcs.Npc) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
@@ -6961,6 +6983,7 @@ org.client.settings.Config -> org.client.kw9P9Zcdd6kvIyl3TYw6.i280lUpkLge7fC1AJU
     void saveConfig() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
 org.client.settings.Configuration -> org.client.kw9P9Zcdd6kvIyl3TYw6.jmy4oZkNdrwtsSWkr2Jf:
+    org.client.settings.GameType GAME_TYPE -> zegfRrzyok7oOnZNa2bQ
     boolean JAGCACH_SPRITES -> zegfRrzyok7oOnZNa2bQ
     java.lang.String CLIENT_VERSION -> zegfRrzyok7oOnZNa2bQ
     boolean BETA_CLIENT -> o8LpqlzVuH0BWnvl7Bwf
@@ -7035,10 +7058,18 @@ org.client.settings.Configuration$StatusBarType -> org.client.kw9P9Zcdd6kvIyl3TY
     int[] values$248c07cd() -> zegfRrzyok7oOnZNa2bQ
     int forId$19b53e45(int) -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.settings.PacketSizes -> org.client.kw9P9Zcdd6kvIyl3TYw6.rCoR0eubkX2T0fevF3r3:
+org.client.settings.GameType -> org.client.kw9P9Zcdd6kvIyl3TYw6.rCoR0eubkX2T0fevF3r3:
+    org.client.settings.GameType RUNIQUE -> zegfRrzyok7oOnZNa2bQ
+    org.client.settings.GameType IMMORTAL -> o8LpqlzVuH0BWnvl7Bwf
+    org.client.settings.GameType[] $VALUES -> zegfRrzyok7oOnZNa2bQ
+    org.client.settings.GameType[] values() -> values
+    org.client.settings.GameType valueOf(java.lang.String) -> valueOf
+    void <init>(java.lang.String,int) -> <init>
+    void <clinit>() -> <clinit>
+org.client.settings.PacketSizes -> org.client.kw9P9Zcdd6kvIyl3TYw6.gkZ3vwOjtbv84uCmMQCu:
     int[] PACKET_SIZES -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.settings.SettingIdentifier -> org.client.kw9P9Zcdd6kvIyl3TYw6.gkZ3vwOjtbv84uCmMQCu:
+org.client.settings.SettingIdentifier -> org.client.kw9P9Zcdd6kvIyl3TYw6.BniOkbZ3rMyf6e0JYKTq:
     org.client.settings.SettingIdentifier ACCEPT_AID -> zegfRrzyok7oOnZNa2bQ
     org.client.settings.SettingIdentifier TOGGLE_RUN -> o8LpqlzVuH0BWnvl7Bwf
     org.client.settings.SettingIdentifier OSRS_CHARACTERS -> j0lwcLi9yupMwSGMc6Yi
@@ -7050,7 +7081,7 @@ org.client.settings.SettingIdentifier -> org.client.kw9P9Zcdd6kvIyl3TYw6.gkZ3vwO
     void update(boolean) -> zegfRrzyok7oOnZNa2bQ
     void onLogin() -> zegfRrzyok7oOnZNa2bQ
     void <clinit>() -> <clinit>
-org.client.settings.Settings -> org.client.kw9P9Zcdd6kvIyl3TYw6.BniOkbZ3rMyf6e0JYKTq:
+org.client.settings.Settings -> org.client.kw9P9Zcdd6kvIyl3TYw6.KzcpEsyLU6031QYHNdcx:
     org.client.util.Stopwatch2 saveTimer -> zegfRrzyok7oOnZNa2bQ
     void checkDirectory() -> j0lwcLi9yupMwSGMc6Yi
     void save() -> zegfRrzyok7oOnZNa2bQ
@@ -7211,7 +7242,6 @@ org.client.util.FileOperations -> org.client.YeKUsdboMz7uvvrflN2r.i280lUpkLge7fC
     void trimImage(java.lang.String) -> zegfRrzyok7oOnZNa2bQ
     void imageToFile(org.client.image.Sprite,int,java.io.File) -> zegfRrzyok7oOnZNa2bQ
     void writeFile(java.lang.String,byte[]) -> zegfRrzyok7oOnZNa2bQ
-    void writeSprite(java.lang.String,byte[]) -> o8LpqlzVuH0BWnvl7Bwf
     void <clinit>() -> <clinit>
 org.client.util.FileOperations$1 -> org.client.YeKUsdboMz7uvvrflN2r.jmy4oZkNdrwtsSWkr2Jf:
     int markerRGB -> zegfRrzyok7oOnZNa2bQ
